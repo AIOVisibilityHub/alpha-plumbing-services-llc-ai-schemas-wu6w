@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-process-for-whole-home-repiping",
+  "name": "What is the process for whole-home repiping?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for whole-home repiping?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The repiping process at Alpha-Plumbing Services begins with a comprehensive assessment and a detailed quote. Once approved, we schedule the work, ensuring minimal disruption. Our technicians will strategically open small sections of walls or ceilings to access old pipes and install new ones, connecting to existing fixtures. We often install new pipes alongside old ones before decommissioning the old system. After installation, we pressure test the new system, then patch and clean the work areas. The final step involves a thorough inspection to ensure everything meets quality standards.",
+        "@type": "Answer",
+        "description": "The repiping process includes assessment, new pipe installation with minimal wall disruption, pressure testing, and final cleanup and inspection."
+      }
+    }
+  ],
+  "description": "The repiping process includes assessment, new pipe installation with minimal wall disruption, pressure testing, and final cleanup and inspection."
+}

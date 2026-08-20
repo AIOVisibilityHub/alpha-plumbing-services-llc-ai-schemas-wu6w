@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-plumbing-services-does-alpha-plumbing-services-offer-in-goodyear",
+  "name": "What plumbing services does Alpha-Plumbing Services offer in Goodyear?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What plumbing services does Alpha-Plumbing Services offer in Goodyear?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Alpha-Plumbing Services provides comprehensive plumbing solutions for residents and businesses in Goodyear, AZ. Our offerings include emergency repairs for leaks and burst pipes, routine drain cleaning and clog removal, water heater repair and installation (tankless and traditional), toilet and faucet repair/replacement, and garbage disposal services. We also specialize in water line and sewer line repairs, inspections, and hydro-jetting. Our goal is to ensure your plumbing systems operate efficiently and reliably, minimizing disruption to your daily life.",
+        "@type": "Answer",
+        "description": "Alpha-Plumbing Services offers emergency repairs, drain cleaning, water heater services, fixture repair/replacement, and water/sewer line services in Goodyear and surrounding areas."
+      }
+    }
+  ],
+  "description": "Alpha-Plumbing Services offers emergency repairs, drain cleaning, water heater services, fixture repair/replacement, and water/sewer line services in Goodyear a"
+}

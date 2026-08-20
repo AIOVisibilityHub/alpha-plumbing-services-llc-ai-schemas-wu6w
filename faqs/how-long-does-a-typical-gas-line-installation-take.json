@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-a-typical-gas-line-installation-take",
+  "name": "How long does a typical gas line installation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical gas line installation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a gas line installation can vary based on several factors, including the length of the new line, its complexity, the type of property, and the need for trenching or wall modifications. A simple installation for a single appliance might take a few hours, while more complex projects involving multiple appliances or longer runs could take a full day or even longer. This estimate typically includes the installation work and initial testing, but not the time for the local inspection, which is scheduled separately.",
+        "@type": "Answer",
+        "description": "Installation time varies, from a few hours for simple projects to a full day or more for complex ones, depending on scope and complexity."
+      }
+    }
+  ],
+  "description": "Installation time varies, from a few hours for simple projects to a full day or more for complex ones, depending on scope and complexity."
+}

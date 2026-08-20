@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-should-i-consider-sewer-line-replacement-instead-of-repair",
+  "name": "When should I consider sewer line replacement instead of repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider sewer line replacement instead of repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider sewer line replacement if your sewer line is severely deteriorated, frequently collapsing, experiencing recurring issues, or has extensive damage that makes repair impractical or too costly in the long run. Older pipes, especially those made of outdated materials, are often better candidates for full replacement to ensure long-term reliability and prevent future problems. A professional plumber can assess the condition of your existing line and recommend the most cost-effective and durable solution.",
+        "@type": "Answer",
+        "description": "Consider sewer line replacement if your line is severely deteriorated, frequently failing, or has extensive damage that makes repair impractical."
+      }
+    }
+  ],
+  "description": "Consider sewer line replacement if your line is severely deteriorated, frequently failing, or has extensive damage that makes repair impractical."
+}

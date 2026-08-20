@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-quickly-can-i-get-a-free-plumbing-estimate-in-your-service-areas",
+  "name": "How quickly can I get a free plumbing estimate in your service areas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly can I get a free plumbing estimate in your service areas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Alpha-Plumbing Services aims to schedule free plumbing estimates as promptly as possible in Goodyear, Buckeye, Avondale, Surprise, and Waddell. The exact timing depends on our current schedule and the urgency of your request. We recommend contacting us directly to discuss your needs and arrange a convenient appointment. We prioritize urgent issues to ensure timely assistance.",
+        "@type": "Answer",
+        "description": "We aim to schedule free estimates quickly; contact us for availability in our service areas."
+      }
+    }
+  ],
+  "description": "We aim to schedule free estimates quickly; contact us for availability in our service areas."
+}

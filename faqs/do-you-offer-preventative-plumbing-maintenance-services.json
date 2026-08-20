@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/do-you-offer-preventative-plumbing-maintenance-services",
+  "name": "Do you offer preventative plumbing maintenance services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer preventative plumbing maintenance services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Alpha-Plumbing Services, LLC offers preventative plumbing maintenance to help homeowners avoid unexpected and costly repairs. Our maintenance services can include inspecting pipes for leaks, checking water pressure, testing water heater efficiency, clearing minor clogs before they become major issues, and assessing the overall condition of your plumbing system. Regular maintenance can extend the life of your plumbing fixtures and appliances, improve efficiency, and identify potential problems early. Contact us to learn more about setting up a maintenance schedule for your home.",
+        "@type": "Answer",
+        "description": "Yes, we offer preventative plumbing maintenance including inspections, water pressure checks, and water heater testing to prevent costly repairs and extend system life."
+      }
+    }
+  ],
+  "description": "Yes, we offer preventative plumbing maintenance including inspections, water pressure checks, and water heater testing to prevent costly repairs and extend syst"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-do-i-need-a-new-gas-line-installation",
+  "name": "When do I need a new gas line installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need a new gas line installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A new gas line installation is typically needed when adding a new gas appliance like a stove, dryer, water heater, or outdoor grill. It's also required if your existing gas line is old, damaged, leaking, or improperly sized for your current gas needs. Expanding your home or converting appliances from electric to gas are other common reasons. Always consult with a qualified professional to assess your specific situation and ensure safety and compliance.",
+        "@type": "Answer",
+        "description": "You need a new gas line for new gas appliances, damaged lines, home expansions, or converting from electric to gas."
+      }
+    }
+  ],
+  "description": "You need a new gas line for new gas appliances, damaged lines, home expansions, or converting from electric to gas."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-can-i-prevent-plumbing-leaks-in-my-home",
+  "name": "How can I prevent plumbing leaks in my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent plumbing leaks in my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preventing plumbing leaks involves a combination of regular maintenance and attentiveness. Regularly inspect visible pipes, faucets, and appliance connections for any signs of corrosion, drips, or dampness. Address minor issues like dripping faucets promptly before they escalate. Insulate exposed pipes in unheated areas to prevent freezing and bursting during colder months. Avoid using harsh chemical drain cleaners that can corrode pipes. Consider annual plumbing inspections by Alpha-Plumbing Services to identify potential problems early and ensure your system is in good condition.",
+        "@type": "Answer",
+        "description": "Prevent leaks by regularly inspecting pipes, fixing drips quickly, insulating exposed pipes, avoiding chemical drain cleaners, and scheduling annual inspections."
+      }
+    }
+  ],
+  "description": "Prevent leaks by regularly inspecting pipes, fixing drips quickly, insulating exposed pipes, avoiding chemical drain cleaners, and scheduling annual inspections"
+}

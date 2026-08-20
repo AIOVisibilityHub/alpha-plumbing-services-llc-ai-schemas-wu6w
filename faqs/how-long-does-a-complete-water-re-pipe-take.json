@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-a-complete-water-re-pipe-take",
+  "name": "How long does a complete water re-pipe take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a complete water re-pipe take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a complete water re-pipe can vary depending on the size and complexity of your home. Most residential re-pipes are completed within 3 to 5 days. Our team at Alpha-Plumbing Services works efficiently to minimize inconvenience, ensuring that water access is restored as quickly as possible. We provide a detailed timeline upfront after assessing your property, keeping you informed throughout the entire process from start to finish.",
+        "@type": "Answer",
+        "description": "A complete water re-pipe typically takes 3 to 5 days, depending on home size and complexity. Alpha-Plumbing Services provides an upfront timeline."
+      }
+    }
+  ],
+  "description": "A complete water re-pipe typically takes 3 to 5 days, depending on home size and complexity. Alpha-Plumbing Services provides an upfront timeline."
+}

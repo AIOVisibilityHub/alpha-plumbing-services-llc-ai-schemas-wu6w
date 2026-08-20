@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/do-i-have-to-pay-anything-for-a-plumber-to-come-to-my-home-for-an-estimate",
+  "name": "Do I have to pay anything for a plumber to come to my home for an estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I have to pay anything for a plumber to come to my home for an estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No, Alpha-Plumbing Services offers completely free estimates for plumbing issues within our service areas of Goodyear, Buckeye, Avondale, Surprise, and Waddell. You will not be charged for our technician to visit your home, diagnose the problem, and provide you with a written quote for the work needed. This no-obligation service allows you to understand the potential costs before any work begins, ensuring transparency and peace of mind.",
+        "@type": "Answer",
+        "description": "No, Alpha-Plumbing Services offers completely free, no-obligation estimates in our service areas."
+      }
+    }
+  ],
+  "description": "No, Alpha-Plumbing Services offers completely free, no-obligation estimates in our service areas."
+}

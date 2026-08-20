@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-kind-of-plumbing-leaks-do-you-repair",
+  "name": "What kind of plumbing leaks do you repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of plumbing leaks do you repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Alpha-Plumbing Services is equipped to handle a wide range of plumbing leaks, from common household issues to more complex problems. This includes leaky faucets, dripping showerheads, running toilets, and leaking water heaters. We also specialize in repairing leaks in supply lines, drain pipes, slab leaks (leaks under the concrete foundation), and leaks behind walls. Whether it's a visible drip or a hidden issue causing water damage, our experienced plumbers can diagnose and repair it effectively, ensuring your plumbing system is restored to optimal condition.",
+        "@type": "Answer",
+        "description": "We repair all types of leaks, including faucets, toilets, water heaters, supply lines, drain pipes, slab leaks, and hidden wall leaks."
+      }
+    }
+  ],
+  "description": "We repair all types of leaks, including faucets, toilets, water heaters, supply lines, drain pipes, slab leaks, and hidden wall leaks."
+}

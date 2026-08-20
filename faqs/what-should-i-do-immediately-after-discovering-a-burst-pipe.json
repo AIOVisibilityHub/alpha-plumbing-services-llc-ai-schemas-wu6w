@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-should-i-do-immediately-after-discovering-a-burst-pipe",
+  "name": "What should I do immediately after discovering a burst pipe?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately after discovering a burst pipe?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you discover a burst pipe, the first critical step is to shut off the main water supply to your property to minimize water damage. Locate your main water shut-off valve, usually found near your water meter or where the main line enters your home. Once the water is off, turn off your water heater to prevent it from overheating without water. Then, contact a professional plumbing service like Alpha-Plumbing Services immediately for emergency repair. While waiting for a plumber, you can try to contain the water with buckets or towels and document the damage with photos for insurance purposes.",
+        "@type": "Answer",
+        "description": "Immediately shut off your main water supply, turn off your water heater, and then contact Alpha-Plumbing Services for emergency repair to prevent further damage."
+      }
+    }
+  ],
+  "description": "Immediately shut off your main water supply, turn off your water heater, and then contact Alpha-Plumbing Services for emergency repair to prevent further damage"
+}

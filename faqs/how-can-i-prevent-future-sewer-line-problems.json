@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-can-i-prevent-future-sewer-line-problems",
+  "name": "How can I prevent future sewer line problems?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent future sewer line problems?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preventing future sewer line problems involves several practices. Avoid flushing anything other than toilet paper down the toilet. Be mindful of what goes down your drains in the kitchen, preventing grease, food scraps, and coffee grounds from entering the pipes. Consider having a plumber perform periodic sewer camera inspections, especially if you have older pipes or mature trees near your sewer line. Addressing tree roots proactively can also help prevent intrusions.",
+        "@type": "Answer",
+        "description": "Prevent sewer line issues by avoiding flushing inappropriate items, keeping grease and food out of drains, and considering periodic camera inspections."
+      }
+    }
+  ],
+  "description": "Prevent sewer line issues by avoiding flushing inappropriate items, keeping grease and food out of drains, and considering periodic camera inspections."
+}

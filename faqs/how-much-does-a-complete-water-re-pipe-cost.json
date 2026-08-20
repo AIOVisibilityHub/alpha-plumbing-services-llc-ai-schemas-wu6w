@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-much-does-a-complete-water-re-pipe-cost",
+  "name": "How much does a complete water re-pipe cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a complete water re-pipe cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a complete water re-pipe varies significantly based on factors such as the size of your home, the number of fixtures, the type of piping material chosen (PEX or copper), and the complexity of the installation. Alpha-Plumbing Services provides transparent, detailed estimates after an on-site evaluation, ensuring you understand all aspects of the investment. We aim to offer competitive pricing for high-quality, durable plumbing solutions in the Goodyear, Buckeye, Avondale, and Surprise areas.",
+        "@type": "Answer",
+        "description": "Cost varies by home size, fixtures, pipe material (PEX or copper), and installation complexity. We provide detailed estimates after an on-site evaluation."
+      }
+    }
+  ],
+  "description": "Cost varies by home size, fixtures, pipe material (PEX or copper), and installation complexity. We provide detailed estimates after an on-site evaluation."
+}

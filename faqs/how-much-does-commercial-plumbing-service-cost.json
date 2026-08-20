@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-much-does-commercial-plumbing-service-cost",
+  "name": "How much does commercial plumbing service cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does commercial plumbing service cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of commercial plumbing services varies widely depending on the type and complexity of the job. Factors influencing cost include the nature of the issue (e.g., minor repair vs. major installation), required parts, labor time, and whether emergency service is needed. For an accurate estimate, it's best to contact a plumbing company directly to discuss your specific needs. Alpha-Plumbing Services, LLC can provide a detailed quote after assessing the situation.",
+        "@type": "Answer",
+        "description": "Commercial plumbing costs depend on the job's complexity, parts, and labor. Contact us for a specific estimate."
+      }
+    }
+  ],
+  "description": "Commercial plumbing costs depend on the job's complexity, parts, and labor. Contact us for a specific estimate."
+}

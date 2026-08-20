@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/should-i-choose-pex-or-copper-for-my-re-pipe",
+  "name": "Should I choose PEX or copper for my re-pipe?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I choose PEX or copper for my re-pipe?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The choice between PEX and copper depends on your priorities and budget. Copper offers superior rigidity and has a proven long lifespan, often preferred for its traditional appeal and bacterial resistance. PEX is more flexible, easier to install, and generally less expensive, which can reduce labor costs. It's also less susceptible to freezing and bursting. Our technicians can provide a detailed comparison based on your home's layout, water conditions, and your budget to help you make an informed decision for your specific re-piping project.",
+        "@type": "Answer",
+        "description": "Choose PEX for flexibility, lower cost, and freeze resistance, or copper for rigid durability and bacterial resistance. We help you weigh options."
+      }
+    }
+  ],
+  "description": "Choose PEX for flexibility, lower cost, and freeze resistance, or copper for rigid durability and bacterial resistance. We help you weigh options."
+}

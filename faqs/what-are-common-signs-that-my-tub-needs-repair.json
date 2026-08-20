@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-common-signs-that-my-tub-needs-repair",
+  "name": "What are common signs that my tub needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my tub needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that your tub needs repair include visible cracks, chips, or surface damage in the enamel or fiberglass. Leaks around the faucet, drain, or base of the tub are also critical indicators. Additionally, if the tub's surface is dull, stained, or feels rough, it may benefit from refinishing or repair. Ignoring these issues can lead to further damage, water leaks, and potential structural problems in your bathroom.",
+        "@type": "Answer",
+        "description": "Visible cracks, chips, leaks, or a dull, stained surface are common signs your tub needs repair."
+      }
+    }
+  ],
+  "description": "Visible cracks, chips, leaks, or a dull, stained surface are common signs your tub needs repair."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-much-does-sewer-repair-typically-cost-in-goodyear-az",
+  "name": "How much does sewer repair typically cost in Goodyear, AZ?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does sewer repair typically cost in Goodyear, AZ?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of sewer repair varies significantly based on the issue's complexity, the type of repair needed (e.g., spot repair, trenchless, or traditional excavation), and the extent of the damage. Minor repairs might be less expensive, while full line replacements can be substantial. For an accurate estimate, Alpha-Plumbing Services offers on-site inspections in Goodyear to assess the problem and provide a detailed quote tailored to your specific situation.",
+        "@type": "Answer",
+        "description": "Sewer repair costs vary based on the issue and repair type. Alpha-Plumbing Services provides on-site inspections for accurate quotes."
+      }
+    }
+  ],
+  "description": "Sewer repair costs vary based on the issue and repair type. Alpha-Plumbing Services provides on-site inspections for accurate quotes."
+}

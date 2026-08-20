@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-difference-between-residential-and-light-commercial-plumbing-service",
+  "name": "What is the difference between residential and light-commercial plumbing services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between residential and light-commercial plumbing services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Residential plumbing typically involves systems designed for single-family homes, focusing on common fixtures like toilets, sinks, and water heaters. Light-commercial plumbing, while similar, deals with systems in smaller businesses, offices, or retail spaces. These often involve larger capacity water heaters, more extensive drainage systems, and compliance with different commercial codes. Alpha-Plumbing Services, LLC handles both categories.",
+        "@type": "Answer",
+        "description": "Residential plumbing serves homes; light-commercial plumbing serves smaller businesses with potentially larger systems and different codes. Alpha-Plumbing Services, LLC handles both."
+      }
+    }
+  ],
+  "description": "Residential plumbing serves homes; light-commercial plumbing serves smaller businesses with potentially larger systems and different codes. Alpha-Plumbing Servi"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-should-i-consider-replacing-my-shower",
+  "name": "When should I consider replacing my shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing your shower if it shows significant signs of wear and tear, such as persistent leaks, cracked tiles or grout, mold and mildew growth that's difficult to remove, or if the unit is outdated. A replacement can also be a good idea if you're experiencing low water pressure specifically at the shower head, or if you simply want to upgrade its aesthetics and functionality. For homes in Goodyear, Buckeye, or Avondale, addressing these issues promptly can prevent larger plumbing problems.",
+        "@type": "Answer",
+        "description": "Consider replacing your shower for leaks, cracks, mold, low water pressure, or if it's outdated. This can prevent larger issues."
+      }
+    }
+  ],
+  "description": "Consider replacing your shower for leaks, cracks, mold, low water pressure, or if it's outdated. This can prevent larger issues."
+}

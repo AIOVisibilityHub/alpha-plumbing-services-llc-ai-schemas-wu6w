@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-common-signs-that-i-need-sewer-repair",
+  "name": "What are common signs that I need sewer repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that I need sewer repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several signs indicate potential sewer line issues. These include persistent drain clogs, slow drains in multiple fixtures, foul odors coming from drains or your yard, lush green patches in your lawn (indicating a leak), or sewage backups. If you notice any of these, especially recurring problems, it's advisable to contact a professional for an inspection to prevent further damage.",
+        "@type": "Answer",
+        "description": "Common signs include recurring clogs, slow drains, foul odors, lush lawn patches, or sewage backups."
+      }
+    }
+  ],
+  "description": "Common signs include recurring clogs, slow drains, foul odors, lush lawn patches, or sewage backups."
+}

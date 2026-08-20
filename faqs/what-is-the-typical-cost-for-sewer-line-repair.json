@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-typical-cost-for-sewer-line-repair",
+  "name": "What is the typical cost for sewer line repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost for sewer line repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of sewer line repair varies significantly depending on the nature and extent of the damage, the repair method used (e.g., traditional excavation vs. trenchless repair), the depth of the line, and local labor rates. Minor repairs like unclogging a small blockage may be less expensive, while major issues like collapsed pipes or extensive root intrusion requiring excavation can be more costly. A professional inspection is necessary to provide an accurate estimate tailored to your specific situation.",
+        "@type": "Answer",
+        "description": "Sewer line repair costs vary based on damage, repair method, and depth. A professional inspection provides an accurate estimate."
+      }
+    }
+  ],
+  "description": "Sewer line repair costs vary based on damage, repair method, and depth. A professional inspection provides an accurate estimate."
+}

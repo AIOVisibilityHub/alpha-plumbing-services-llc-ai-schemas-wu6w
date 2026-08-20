@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/are-emergency-plumbing-estimates-also-free",
+  "name": "Are emergency plumbing estimates also free?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are emergency plumbing estimates also free?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Alpha-Plumbing Services extends our free estimate policy to emergency plumbing situations within our service areas. We understand that urgent plumbing issues can be stressful, and we want to provide immediate assistance without an upfront diagnostic fee. Our technicians will assess the emergency, explain the necessary repairs, and provide a clear estimate for the work required before proceeding.",
+        "@type": "Answer",
+        "description": "Yes, Alpha-Plumbing Services offers free estimates for emergency plumbing situations as well."
+      }
+    }
+  ],
+  "description": "Yes, Alpha-Plumbing Services offers free estimates for emergency plumbing situations as well."
+}

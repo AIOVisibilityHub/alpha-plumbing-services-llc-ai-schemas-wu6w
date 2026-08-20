@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-process-for-scheduling-a-plumbing-repair-service",
+  "name": "What is the process for scheduling a plumbing repair service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for scheduling a plumbing repair service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To schedule a plumbing repair, you can call Alpha-Plumbing Services directly or submit a service request through our website. We'll ask about the nature of your plumbing issue to help us understand your needs. Then, we'll arrange a convenient time for a licensed plumber to visit your property, diagnose the problem, and provide a detailed estimate for the necessary repairs.",
+        "@type": "Answer",
+        "description": "Schedule by calling or using our website. We'll gather details, then arrange for a plumber to visit, diagnose, and provide an estimate."
+      }
+    }
+  ],
+  "description": "Schedule by calling or using our website. We'll gather details, then arrange for a plumber to visit, diagnose, and provide an estimate."
+}

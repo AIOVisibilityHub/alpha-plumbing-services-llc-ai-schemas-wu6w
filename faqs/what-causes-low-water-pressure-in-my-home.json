@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-causes-low-water-pressure-in-my-home",
+  "name": "What causes low water pressure in my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes low water pressure in my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Low water pressure can stem from several issues, including mineral buildup in pipes or showerheads, a failing pressure regulator, leaks in your plumbing system, or even issues with the municipal water supply. Identifying the exact cause often requires professional assessment. Alpha-Plumbing Services, LLC can diagnose the problem and recommend appropriate solutions, such as pipe descaling or regulator replacement.",
+        "@type": "Answer",
+        "description": "Low water pressure can be caused by mineral buildup, a faulty pressure regulator, leaks, or municipal supply issues. A plumber can diagnose and fix it."
+      }
+    }
+  ],
+  "description": "Low water pressure can be caused by mineral buildup, a faulty pressure regulator, leaks, or municipal supply issues. A plumber can diagnose and fix it."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-is-a-free-plumbing-estimate-valid",
+  "name": "How long is a free plumbing estimate valid?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long is a free plumbing estimate valid?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Typically, a free plumbing estimate from Alpha-Plumbing Services is valid for 30 days from the date it's issued. This allows you ample time to review the proposed work and pricing without feeling rushed. However, material costs can fluctuate, so we recommend accepting the estimate within this period to guarantee the quoted price. If more time is needed, please discuss it with our team.",
+        "@type": "Answer",
+        "description": "A free plumbing estimate from Alpha-Plumbing Services is typically valid for 30 days."
+      }
+    }
+  ],
+  "description": "A free plumbing estimate from Alpha-Plumbing Services is typically valid for 30 days."
+}

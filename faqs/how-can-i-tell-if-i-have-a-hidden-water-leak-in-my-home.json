@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-can-i-tell-if-i-have-a-hidden-water-leak-in-my-home",
+  "name": "How can I tell if I have a hidden water leak in my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if I have a hidden water leak in my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs of a hidden water leak often include unexplained increases in your water bill, damp spots on walls or ceilings, musty odors, or the sound of running water when no fixtures are in use. You might also notice discolored or warped flooring. A simple test is to check your water meter before and after a period of no water use (e.g., overnight); if the meter reading changes, you likely have a leak. Alpha-Plumbing Services, LLC can perform a leak detection to accurately locate and repair hidden leaks in your home.",
+        "@type": "Answer",
+        "description": "Look for high water bills, damp spots, musty smells, or the sound of running water. A changing water meter reading when no water is used also indicates a leak. Alpha-Plumbing Services, LLC can detect and repair hidden leaks."
+      }
+    }
+  ],
+  "description": "Look for high water bills, damp spots, musty smells, or the sound of running water. A changing water meter reading when no water is used also indicates a leak."
+}

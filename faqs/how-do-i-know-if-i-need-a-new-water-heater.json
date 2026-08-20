@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-do-i-know-if-i-need-a-new-water-heater",
+  "name": "How do I know if I need a new water heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if I need a new water heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several signs indicate it might be time for a water heater replacement. These include a lack of hot water, rust-colored water, metallic smells, unusual noises like rumbling or popping from the tank, or visible leaks around the base. The age of your water heater is also a key factor; most traditional tank heaters last 8-12 years. If yours is older and showing any of these symptoms, a replacement is likely needed to avoid further issues and ensure reliable hot water supply.",
+        "@type": "Answer",
+        "description": "Signs include lack of hot water, rusty water, strange noises, leaks, or if your unit is over 10 years old. These indicate it's time for a replacement."
+      }
+    }
+  ],
+  "description": "Signs include lack of hot water, rusty water, strange noises, leaks, or if your unit is over 10 years old. These indicate it's time for a replacement."
+}

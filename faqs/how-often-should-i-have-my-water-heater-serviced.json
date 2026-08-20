@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-often-should-i-have-my-water-heater-serviced",
+  "name": "How often should I have my water heater serviced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should I have my water heater serviced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It's generally recommended to have your water heater professionally serviced at least once a year. Regular maintenance, such as flushing the tank to remove sediment and inspecting components, can extend its lifespan, improve efficiency, and prevent unexpected breakdowns. This proactive approach helps avoid costly repairs and ensures consistent hot water supply.",
+        "@type": "Answer",
+        "description": "Have your water heater serviced annually to extend its lifespan, improve efficiency, and prevent breakdowns by flushing sediment and inspecting components."
+      }
+    }
+  ],
+  "description": "Have your water heater serviced annually to extend its lifespan, improve efficiency, and prevent breakdowns by flushing sediment and inspecting components."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-size-water-heater-do-i-need-for-my-home",
+  "name": "What size water heater do I need for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What size water heater do I need for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the correct size water heater is crucial for ensuring you have enough hot water for your household. The appropriate size depends on factors like the number of residents, the number of bathrooms, and your peak hot water demand. For tank water heaters, capacity is measured in gallons. For tankless units, it's measured by flow rate (GPM) and temperature rise. Our expert technicians can help assess your specific needs and recommend the ideal size and type of water heater for your home in areas like Surprise or Waddell.",
+        "@type": "Answer",
+        "description": "The correct size depends on your household size, number of bathrooms, and hot water usage. Our technicians can help assess your needs and recommend the right unit."
+      }
+    }
+  ],
+  "description": "The correct size depends on your household size, number of bathrooms, and hot water usage. Our technicians can help assess your needs and recommend the right un"
+}

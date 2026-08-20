@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/why-is-my-water-heater-making-strange-noises",
+  "name": "Why is my water heater making strange noises?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is my water heater making strange noises?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Strange noises from your water heater, such as rumbling, popping, or banging, often indicate sediment buildup at the bottom of the tank. As the heating element attempts to warm the water, it also heats the sediment, causing these sounds. This buildup reduces efficiency and can shorten the lifespan of your unit. Other causes might include mineral deposits or issues with heating elements. Alpha-Plumbing Services, LLC can inspect your water heater to determine the exact cause and recommend appropriate maintenance or repair.",
+        "@type": "Answer",
+        "description": "Rumbling or popping from your water heater usually means sediment buildup. This affects efficiency and lifespan. Alpha-Plumbing Services, LLC can diagnose and recommend solutions."
+      }
+    }
+  ],
+  "description": "Rumbling or popping from your water heater usually means sediment buildup. This affects efficiency and lifespan. Alpha-Plumbing Services, LLC can diagnose and r"
+}

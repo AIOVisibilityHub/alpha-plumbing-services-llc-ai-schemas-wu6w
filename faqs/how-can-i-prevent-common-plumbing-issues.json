@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-can-i-prevent-common-plumbing-issues",
+  "name": "How can I prevent common plumbing issues?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent common plumbing issues?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preventing common plumbing issues involves several simple practices. Avoid pouring grease down drains, use drain screens to catch hair and debris, and be mindful of what you flush down toilets. Regularly inspect visible pipes for leaks or corrosion, and know where your main water shut-off valve is located. Periodically flush your water heater and address minor drips promptly to prevent them from escalating.",
+        "@type": "Answer",
+        "description": "Prevent issues by avoiding grease in drains, using drain screens, inspecting pipes, knowing your water shut-off, and addressing minor drips."
+      }
+    }
+  ],
+  "description": "Prevent issues by avoiding grease in drains, using drain screens, inspecting pipes, knowing your water shut-off, and addressing minor drips."
+}

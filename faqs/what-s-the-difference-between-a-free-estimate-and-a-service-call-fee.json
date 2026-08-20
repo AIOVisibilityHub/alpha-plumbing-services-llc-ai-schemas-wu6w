@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-s-the-difference-between-a-free-estimate-and-a-service-call-fee",
+  "name": "What's the difference between a free estimate and a service call fee?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a free estimate and a service call fee?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A free estimate, as offered by Alpha-Plumbing Services, involves a technician assessing your plumbing problem and providing a quote for repairs without charging for the visit itself. A service call fee, however, is a charge for the plumber's trip to your home and their time spent diagnosing the issue, even if you don't proceed with repairs. We ensure our estimates are genuinely free, providing clarity before any financial commitment.",
+        "@type": "Answer",
+        "description": "A free estimate is a no-cost quote, while a service call fee charges for the visit and diagnosis."
+      }
+    }
+  ],
+  "description": "A free estimate is a no-cost quote, while a service call fee charges for the visit and diagnosis."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/do-free-estimates-cover-all-types-of-plumbing-problems",
+  "name": "Do free estimates cover all types of plumbing problems?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do free estimates cover all types of plumbing problems?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Alpha-Plumbing Services provides free estimates for nearly all types of plumbing issues, from leaky faucets and clogged drains to water heater repairs and main line replacements, within our service areas of Goodyear, Buckeye, Avondale, Surprise, and Waddell. Our goal is to assess any plumbing concern you have and provide a clear, comprehensive quote for the necessary solutions, regardless of complexity.",
+        "@type": "Answer",
+        "description": "Yes, free estimates cover nearly all plumbing problems, from minor leaks to major replacements."
+      }
+    }
+  ],
+  "description": "Yes, free estimates cover nearly all plumbing problems, from minor leaks to major replacements."
+}

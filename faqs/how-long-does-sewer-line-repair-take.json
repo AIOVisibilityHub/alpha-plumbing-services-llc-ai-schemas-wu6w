@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-sewer-line-repair-take",
+  "name": "How long does sewer line repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does sewer line repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of sewer line repair depends on the complexity and scope of the work. Simple repairs, such as clearing a common clog, might take a few hours. More involved repairs, like trenchless pipe lining, can often be completed within a day or two. Traditional excavation and replacement of a significant section of pipe might take several days, especially if permits or extensive site work are required. Your plumbing professional can provide a more precise timeline after diagnosing the issue.",
+        "@type": "Answer",
+        "description": "Sewer line repair times vary from a few hours for simple clogs to several days for extensive replacements, depending on the complexity."
+      }
+    }
+  ],
+  "description": "Sewer line repair times vary from a few hours for simple clogs to several days for extensive replacements, depending on the complexity."
+}

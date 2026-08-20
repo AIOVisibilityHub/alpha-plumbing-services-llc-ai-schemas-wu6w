@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-can-i-tell-if-i-have-a-burst-pipe-in-my-wall-or-underground",
+  "name": "How can I tell if I have a burst pipe in my wall or underground?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if I have a burst pipe in my wall or underground?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs of a hidden burst pipe include a sudden, unexplained drop in water pressure, discolored water, the sound of running water when no faucets are on, or a significant increase in your water bill. For pipes inside walls, you might notice damp spots, water stains, bulging drywall, or a musty odor. For underground pipes, look for unusually wet spots in your yard, muddy areas, sinkholes, or reduced water flow to your home. If you suspect a hidden leak, Alpha-Plumbing Services uses specialized equipment to accurately detect the source without unnecessary damage.",
+        "@type": "Answer",
+        "description": "Look for unexplained water pressure drops, discolored water, sounds of running water, increased water bills, damp spots, or wet areas in your yard. Alpha-Plumbing Services can detect hidden leaks."
+      }
+    }
+  ],
+  "description": "Look for unexplained water pressure drops, discolored water, sounds of running water, increased water bills, damp spots, or wet areas in your yard. Alpha-Plumbi"
+}

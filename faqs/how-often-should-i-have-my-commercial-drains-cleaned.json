@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-often-should-i-have-my-commercial-drains-cleaned",
+  "name": "How often should I have my commercial drains cleaned?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should I have my commercial drains cleaned?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The frequency of commercial drain cleaning depends on the type of business and the volume of usage. For restaurants or businesses with high grease and food waste, monthly or quarterly cleaning might be necessary to prevent buildup and blockages. For offices or retail spaces, annual or semi-annual cleaning might suffice. Regular maintenance helps prevent costly backups, unpleasant odors, and disruptions to your business operations. A plumber can recommend a tailored schedule.",
+        "@type": "Answer",
+        "description": "Commercial drain cleaning frequency varies by business type and usage; restaurants often need monthly to quarterly cleaning, while offices might need it annually."
+      }
+    }
+  ],
+  "description": "Commercial drain cleaning frequency varies by business type and usage; restaurants often need monthly to quarterly cleaning, while offices might need it annuall"
+}

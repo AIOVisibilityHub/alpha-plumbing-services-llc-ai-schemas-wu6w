@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-a-single-line-water-re-pipe-take",
+  "name": "How long does a single line water re-pipe take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a single line water re-pipe take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a single line water re-pipe can vary depending on factors such as the length of the line, accessibility, and ground conditions. Most standard single line re-pipes can be completed within one to three days. Complex projects involving challenging terrain or extensive landscaping might require additional time. Our team will provide a more accurate time estimate after a thorough on-site evaluation of your specific property and project requirements.",
+        "@type": "Answer",
+        "description": "Most single line water re-pipes are completed within one to three days, depending on project complexity."
+      }
+    }
+  ],
+  "description": "Most single line water re-pipes are completed within one to three days, depending on project complexity."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-a-drain-camera-inspection-and-how-does-it-work",
+  "name": "What is a drain camera inspection and how does it work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a drain camera inspection and how does it work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A drain camera inspection involves inserting a high-resolution, waterproof camera attached to a flexible rod into your drainpipes. This allows technicians to visually assess the inside of your pipes in real-time on a monitor. The camera helps identify the exact location and cause of blockages, such as tree roots, cracks, corrosion, or misaligned pipes, without needing to excavate. It’s a non-invasive way to diagnose plumbing issues accurately.",
+        "@type": "Answer",
+        "description": "A drain camera inspection uses a waterproof camera to visually examine the inside of your pipes, identifying blockages or damage. It's a non-invasive way to diagnose plumbing problems."
+      }
+    }
+  ],
+  "description": "A drain camera inspection uses a waterproof camera to visually examine the inside of your pipes, identifying blockages or damage. It's a non-invasive way to dia"
+}

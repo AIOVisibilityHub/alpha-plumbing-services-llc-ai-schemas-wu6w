@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-do-plumbers-detect-a-slab-leak",
+  "name": "How do plumbers detect a slab leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do plumbers detect a slab leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional plumbers use specialized equipment to accurately detect slab leaks without destructive methods. This often includes acoustic listening devices to pinpoint the sound of the leak, thermal imaging cameras to identify temperature changes caused by leaking hot water, and electronic leak detection tools. Sometimes, a non-toxic tracer gas may be injected into the pipes to help locate the exact leak point. This allows for precise diagnosis and minimizes damage during repair.",
+        "@type": "Answer",
+        "description": "Plumbers detect slab leaks using acoustic listening devices, thermal imaging, and electronic leak detection tools."
+      }
+    }
+  ],
+  "description": "Plumbers detect slab leaks using acoustic listening devices, thermal imaging, and electronic leak detection tools."
+}

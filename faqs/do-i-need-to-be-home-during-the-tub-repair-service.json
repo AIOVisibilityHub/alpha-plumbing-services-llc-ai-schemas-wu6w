@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/do-i-need-to-be-home-during-the-tub-repair-service",
+  "name": "Do I need to be home during the tub repair service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to be home during the tub repair service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it's not always strictly required for you to be present for the entire duration of the tub repair, we typically recommend that someone aged 18 or older is available at the beginning of the service to grant access and discuss any specific concerns or details with our technician. This ensures clear communication and helps our team efficiently address your needs. You can leave once the technician has started and has all necessary information.",
+        "@type": "Answer",
+        "description": "Someone 18+ should be home at the start of the service to grant access and discuss details, but you may not need to be present for the entire repair."
+      }
+    }
+  ],
+  "description": "Someone 18+ should be home at the start of the service to grant access and discuss details, but you may not need to be present for the entire repair."
+}

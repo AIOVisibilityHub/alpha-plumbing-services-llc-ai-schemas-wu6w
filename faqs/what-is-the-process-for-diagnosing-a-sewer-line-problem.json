@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-process-for-diagnosing-a-sewer-line-problem",
+  "name": "What is the process for diagnosing a sewer line problem?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for diagnosing a sewer line problem?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Diagnosing a sewer line problem usually begins with a thorough visual inspection and discussion of symptoms. Our technicians often use a sewer camera inspection, which involves inserting a high-resolution camera into the pipe to identify blockages, cracks, root intrusion, or collapses. This method provides real-time video, allowing for precise pinpointing of the problem area without extensive digging, ensuring an accurate diagnosis and recommended repair plan.",
+        "@type": "Answer",
+        "description": "Diagnosis involves a visual inspection and often a sewer camera inspection to pinpoint the problem without extensive digging."
+      }
+    }
+  ],
+  "description": "Diagnosis involves a visual inspection and often a sewer camera inspection to pinpoint the problem without extensive digging."
+}

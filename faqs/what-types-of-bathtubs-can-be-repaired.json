@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-types-of-bathtubs-can-be-repaired",
+  "name": "What types of bathtubs can be repaired?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of bathtubs can be repaired?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most common types of bathtubs can be repaired. This includes acrylic, fiberglass, cast iron, and porcelain-enameled steel tubs. Repairs can address issues like chips, cracks, surface scratches, stains, and even minor structural damage. The repair method varies depending on the tub's material. Our technicians are experienced in working with a wide range of bathtub materials to restore their appearance and functionality.",
+        "@type": "Answer",
+        "description": "Most bathtubs, including acrylic, fiberglass, cast iron, and porcelain, can be repaired to fix chips, cracks, and surface damage."
+      }
+    }
+  ],
+  "description": "Most bathtubs, including acrylic, fiberglass, cast iron, and porcelain, can be repaired to fix chips, cracks, and surface damage."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-common-signs-of-a-sewer-line-problem",
+  "name": "What are common signs of a sewer line problem?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs of a sewer line problem?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of a sewer line problem include multiple clogged drains, sewage backups in sinks or toilets, unpleasant odors coming from drains, gurgling sounds from pipes, and lush, green patches in your yard (which can indicate a leak fertilizing the soil). If you notice these issues, it's important to contact a professional for a diagnosis to prevent further damage to your plumbing system and property. Early detection can help address issues before they become more extensive and costly.",
+        "@type": "Answer",
+        "description": "Multiple clogged drains, sewage backups, unpleasant odors, gurgling pipes, and lush spots in your yard are common signs of a sewer line problem."
+      }
+    }
+  ],
+  "description": "Multiple clogged drains, sewage backups, unpleasant odors, gurgling pipes, and lush spots in your yard are common signs of a sewer line problem."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-it-take-to-repair-a-burst-pipe",
+  "name": "How long does it take to repair a burst pipe?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to repair a burst pipe?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a burst pipe repair depends heavily on the complexity and location of the damage. A straightforward repair on an easily accessible pipe might take a few hours. However, if the pipe is located within a wall, under a floor, or requires extensive water extraction and drying, the process could extend over several days. The initial repair to stop the leak is usually done quickly, but restoration work like drywall or flooring replacement can take longer. Alpha-Plumbing Services aims to complete repairs efficiently while ensuring quality and lasting solutions.",
+        "@type": "Answer",
+        "description": "Repair time varies, from a few hours for simple, accessible leaks to several days for complex jobs involving hidden pipes or extensive water damage restoration."
+      }
+    }
+  ],
+  "description": "Repair time varies, from a few hours for simple, accessible leaks to several days for complex jobs involving hidden pipes or extensive water damage restoration."
+}

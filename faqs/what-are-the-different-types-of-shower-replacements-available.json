@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-the-different-types-of-shower-replacements-available",
+  "name": "What are the different types of shower replacements available?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the different types of shower replacements available?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Shower replacements typically fall into several categories: pre-fabricated shower units (one-piece or multi-piece inserts), custom tiled showers, or tub-to-shower conversions. Pre-fabricated units offer a quicker installation and are often more budget-friendly. Custom tiled showers provide more design flexibility and a higher-end finish. Tub-to-shower conversions remove an existing bathtub to create a larger, more accessible shower space. The best choice depends on your budget, design preferences, and bathroom layout.",
+        "@type": "Answer",
+        "description": "Available shower replacements include pre-fabricated units, custom tiled showers, and tub-to-shower conversions, varying in cost and design."
+      }
+    }
+  ],
+  "description": "Available shower replacements include pre-fabricated units, custom tiled showers, and tub-to-shower conversions, varying in cost and design."
+}

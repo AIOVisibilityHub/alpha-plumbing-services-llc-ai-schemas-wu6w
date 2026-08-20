@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-factors-should-i-consider-when-choosing-a-sewer-repair-company",
+  "name": "What factors should I consider when choosing a sewer repair company?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors should I consider when choosing a sewer repair company?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a sewer repair company, consider their experience, licensing, and insurance. Look for companies with positive local reviews and transparent pricing. Inquire about the diagnostic tools they use, such as sewer cameras, and the range of repair options they offer, including both traditional and trenchless methods. A reputable company should provide clear explanations of the problem, recommend appropriate solutions, and offer a written estimate for the work.",
+        "@type": "Answer",
+        "description": "Choose a company based on experience, licensing, insurance, local reviews, diagnostic tools, repair options, and transparent pricing."
+      }
+    }
+  ],
+  "description": "Choose a company based on experience, licensing, insurance, local reviews, diagnostic tools, repair options, and transparent pricing."
+}

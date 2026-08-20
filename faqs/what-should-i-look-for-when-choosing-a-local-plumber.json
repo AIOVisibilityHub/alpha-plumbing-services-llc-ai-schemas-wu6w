@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-should-i-look-for-when-choosing-a-local-plumber",
+  "name": "What should I look for when choosing a local plumber?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for when choosing a local plumber?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a local plumber, consider their experience, licensing, insurance, and reputation. Look for plumbers who are familiar with local building codes and common plumbing issues in your area. Alpha-Plumbing Services has experienced, licensed professionals dedicated to quality workmanship and customer satisfaction. Always check for transparent pricing and clear communication before any work begins.",
+        "@type": "Answer",
+        "description": "Look for licensed, insured, experienced plumbers with good reputations and transparent pricing, familiar with local codes."
+      }
+    }
+  ],
+  "description": "Look for licensed, insured, experienced plumbers with good reputations and transparent pricing, familiar with local codes."
+}

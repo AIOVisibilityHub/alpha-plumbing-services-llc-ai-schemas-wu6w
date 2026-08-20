@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-much-does-a-single-line-water-re-pipe-cost",
+  "name": "How much does a single line water re-pipe cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a single line water re-pipe cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a single line water re-pipe varies significantly based on factors such as the length of the pipe run, the chosen material (PEX or copper), the complexity of the excavation, and local labor rates. While we cannot provide an exact quote without an on-site assessment, a typical single line re-pipe for a residential property can range from several thousand dollars. We provide transparent, detailed estimates after a thorough inspection of your specific situation.",
+        "@type": "Answer",
+        "description": "Costs vary based on pipe length, material, excavation complexity, and labor. An on-site assessment is needed for an accurate estimate."
+      }
+    }
+  ],
+  "description": "Costs vary based on pipe length, material, excavation complexity, and labor. An on-site assessment is needed for an accurate estimate."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-materials-are-used-for-a-new-single-line-water-re-pipe",
+  "name": "What materials are used for a new single line water re-pipe?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are used for a new single line water re-pipe?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common materials used for a new single line water re-pipe include PEX (cross-linked polyethylene) and copper. PEX is a flexible, durable, and corrosion-resistant plastic tubing known for its ease of installation and ability to withstand freezing. Copper piping is a traditional choice, prized for its longevity, resistance to corrosion, and antibacterial properties. Both materials offer significant advantages over older piping types, improving water quality and system reliability.",
+        "@type": "Answer",
+        "description": "New single water lines typically use durable materials like PEX (cross-linked polyethylene) or copper piping."
+      }
+    }
+  ],
+  "description": "New single water lines typically use durable materials like PEX (cross-linked polyethylene) or copper piping."
+}

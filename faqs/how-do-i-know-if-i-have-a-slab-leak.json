@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-do-i-know-if-i-have-a-slab-leak",
+  "name": "How do I know if I have a slab leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if I have a slab leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common indicators of a slab leak include unusual warm spots on your floors, particularly if they are consistently wet or damp. You might also notice a sudden, unexplained spike in your water bill without a change in usage. The sound of running water when all taps are off, mildew or mold odors, or visible cracks in your foundation or walls can also point to a slab leak. A decrease in water pressure in certain areas of your home can also be a symptom.",
+        "@type": "Answer",
+        "description": "Signs of a slab leak include warm spots on floors, increased water bills, the sound of running water, or foundation cracks."
+      }
+    }
+  ],
+  "description": "Signs of a slab leak include warm spots on floors, increased water bills, the sound of running water, or foundation cracks."
+}

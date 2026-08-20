@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-s-the-difference-between-a-tank-and-tankless-water-heater-and-which-is-bett",
+  "name": "What's the difference between a tank and tankless water heater, and which is better for my Goodyear home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a tank and tankless water heater, and which is better for my Goodyear home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A traditional tank water heater stores and heats a large volume of water, providing a limited supply of hot water at once. A tankless water heater heats water on demand, offering an endless supply of hot water and greater energy efficiency by not continuously heating a tank. For your Goodyear home, the 'better' option depends on your needs. Tankless units save space and reduce energy costs over time but have higher upfront installation costs. Tank units are generally less expensive to install but can be less efficient. We can help assess your usage and budget to recommend the best fit.",
+        "@type": "Answer",
+        "description": "Tank heaters store and heat water, offering limited hot water. Tankless heaters heat on demand for an endless supply and are more energy-efficient, though costlier upfront."
+      }
+    }
+  ],
+  "description": "Tank heaters store and heat water, offering limited hot water. Tankless heaters heat on demand for an endless supply and are more energy-efficient, though costl"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-can-i-prevent-future-bathtub-damage-after-a-repair",
+  "name": "How can I prevent future bathtub damage after a repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent future bathtub damage after a repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prevent future bathtub damage after a repair, regular cleaning with non-abrasive cleaners is essential to avoid scratching the surface. Avoid using harsh chemicals, which can degrade finishes over time. Use a bath mat to prevent slips and also to protect the tub from impacts. Be mindful of dropping heavy objects into the tub. Promptly addressing any small chips or cracks that reappear can prevent them from worsening, extending the life of your repair and tub.",
+        "@type": "Answer",
+        "description": "Prevent future damage by using non-abrasive cleaners, avoiding harsh chemicals, using bath mats, and addressing new chips promptly."
+      }
+    }
+  ],
+  "description": "Prevent future damage by using non-abrasive cleaners, avoiding harsh chemicals, using bath mats, and addressing new chips promptly."
+}

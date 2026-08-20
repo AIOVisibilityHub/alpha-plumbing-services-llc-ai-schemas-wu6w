@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/can-i-convert-my-bathtub-into-a-shower",
+  "name": "Can I convert my bathtub into a shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I convert my bathtub into a shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, converting a bathtub into a shower is a common and popular renovation. This process involves removing the existing bathtub and replacing it with a new shower pan, wall surrounds, and fixtures. It's often done to create a more spacious or accessible shower area, especially for those who rarely use their tub. Tub-to-shower conversions can significantly update the look and functionality of a bathroom. We offer this service across Goodyear, Buckeye, Avondale, and Surprise.",
+        "@type": "Answer",
+        "description": "Yes, converting a bathtub to a shower is common. It involves replacing the tub with a shower pan and fixtures to create a larger or more accessible shower."
+      }
+    }
+  ],
+  "description": "Yes, converting a bathtub to a shower is common. It involves replacing the tub with a shower pan and fixtures to create a larger or more accessible shower."
+}

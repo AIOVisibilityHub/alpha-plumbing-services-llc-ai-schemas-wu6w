@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/is-there-a-minimum-service-charge-if-i-accept-the-estimate",
+  "name": "Is there a minimum service charge if I accept the estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is there a minimum service charge if I accept the estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our free estimate covers the diagnostic visit. If you accept the estimate and proceed with the plumbing repairs or installation, the total cost will reflect the agreed-upon price in your quote. There isn't a separate 'minimum service charge' tacked on if you move forward with the work after receiving our free estimate. The estimate itself outlines the full cost for the proposed services.",
+        "@type": "Answer",
+        "description": "If you accept the estimate, the cost will be the agreed-upon price, with no additional minimum service charge."
+      }
+    }
+  ],
+  "description": "If you accept the estimate, the cost will be the agreed-upon price, with no additional minimum service charge."
+}

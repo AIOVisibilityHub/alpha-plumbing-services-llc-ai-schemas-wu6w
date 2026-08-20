@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-a-single-line-water-re-pipe",
+  "name": "What is a single line water re-pipe?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a single line water re-pipe?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A single line water re-pipe involves replacing an existing, failing, or outdated main water supply line that runs from the water meter to your home's entry point. This upgrade addresses issues like frequent leaks, low water pressure, or discolored water by installing a new, durable pipe, often made of copper or PEX, directly into your property. It focuses specifically on this primary supply line, as opposed to replacing all the internal plumbing within the house.",
+        "@type": "Answer",
+        "description": "A single line water re-pipe replaces the main water supply line from the meter to your home's entry point."
+      }
+    }
+  ],
+  "description": "A single line water re-pipe replaces the main water supply line from the meter to your home's entry point."
+}

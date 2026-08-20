@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-do-i-choose-a-reliable-local-plumber-in-the-avondale-area",
+  "name": "How do I choose a reliable local plumber in the Avondale area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a reliable local plumber in the Avondale area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a local plumber in Avondale, look for licensed and insured professionals with positive customer reviews and a strong local reputation. Verify their experience, particularly with the type of plumbing issue you're facing. Ask for upfront pricing or detailed estimates before work begins. A reliable plumber will also offer guarantees on their work and be responsive to your needs. Alpha-Plumbing Services meets these criteria, ensuring quality service you can trust.",
+        "@type": "Answer",
+        "description": "Choose a licensed, insured plumber with good reviews and upfront pricing. Verify their experience and look for service guarantees. Alpha-Plumbing Services meets these standards."
+      }
+    }
+  ],
+  "description": "Choose a licensed, insured plumber with good reviews and upfront pricing. Verify their experience and look for service guarantees. Alpha-Plumbing Services meets"
+}

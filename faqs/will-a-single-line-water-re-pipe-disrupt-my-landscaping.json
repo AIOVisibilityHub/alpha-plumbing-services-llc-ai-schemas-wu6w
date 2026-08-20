@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/will-a-single-line-water-re-pipe-disrupt-my-landscaping",
+  "name": "Will a single line water re-pipe disrupt my landscaping?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will a single line water re-pipe disrupt my landscaping?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A single line water re-pipe may involve some disruption to landscaping, as excavation is necessary to access and replace the main water line from the meter to your home. Our technicians strive to minimize this impact by carefully planning the trench route and employing methods that reduce disturbance. We will discuss the proposed trench path with you beforehand and aim to restore the area as neatly as possible upon completion, though some minor restoration may be needed by the homeowner.",
+        "@type": "Answer",
+        "description": "Excavation for a single line re-pipe may disrupt landscaping; we work to minimize and restore the area as neatly as possible."
+      }
+    }
+  ],
+  "description": "Excavation for a single line re-pipe may disrupt landscaping; we work to minimize and restore the area as neatly as possible."
+}

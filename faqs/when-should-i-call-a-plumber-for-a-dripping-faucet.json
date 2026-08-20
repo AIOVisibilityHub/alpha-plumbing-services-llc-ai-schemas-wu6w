@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-should-i-call-a-plumber-for-a-dripping-faucet",
+  "name": "When should I call a plumber for a dripping faucet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a plumber for a dripping faucet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While a dripping faucet might seem minor, it can lead to significant water waste and increased utility bills over time. It can also be a symptom of a larger underlying issue with your plumbing system. It's advisable to call a plumber from Alpha-Plumbing Services if you can't stop the drip yourself, or if you notice changes in water pressure or other related issues, to prevent further problems.",
+        "@type": "Answer",
+        "description": "Call a plumber for a dripping faucet if you can't fix it yourself, to prevent water waste and identify potential larger issues."
+      }
+    }
+  ],
+  "description": "Call a plumber for a dripping faucet if you can't fix it yourself, to prevent water waste and identify potential larger issues."
+}

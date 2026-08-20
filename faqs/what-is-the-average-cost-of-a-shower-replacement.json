@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-average-cost-of-a-shower-replacement",
+  "name": "What is the average cost of a shower replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost of a shower replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a shower replacement can vary significantly based on factors like the type of shower unit, materials chosen, and labor involved. A basic pre-fabricated shower replacement can be less expensive, while a custom tiled shower with high-end fixtures will be more. Plumbing modifications, demolition, and potential water damage repairs can also impact the final price. We provide detailed estimates after assessing your specific needs and chosen materials. We serve Goodyear, Buckeye, Avondale, and Surprise.",
+        "@type": "Answer",
+        "description": "Shower replacement costs vary based on unit type, materials, and labor. Custom tiled showers with high-end fixtures are typically more expensive."
+      }
+    }
+  ],
+  "description": "Shower replacement costs vary based on unit type, materials, and labor. Custom tiled showers with high-end fixtures are typically more expensive."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-information-do-i-need-to-provide-for-a-free-plumbing-estimate",
+  "name": "What information do I need to provide for a free plumbing estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information do I need to provide for a free plumbing estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To help us provide the most accurate free plumbing estimate, please be ready to describe the plumbing issue in as much detail as possible. This includes when the problem started, any symptoms you've noticed, and where it's located. Providing access to the affected area during the technician's visit is also crucial for a thorough assessment. Any information you can share beforehand helps our team prepare for your service call.",
+        "@type": "Answer",
+        "description": "Provide details about the plumbing issue and allow access to the affected area for an accurate estimate."
+      }
+    }
+  ],
+  "description": "Provide details about the plumbing issue and allow access to the affected area for an accurate estimate."
+}

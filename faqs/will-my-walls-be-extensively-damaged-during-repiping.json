@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/will-my-walls-be-extensively-damaged-during-repiping",
+  "name": "Will my walls be extensively damaged during repiping?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my walls be extensively damaged during repiping?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our goal during whole-home repiping is to minimize damage to your walls and ceilings. While some access points are necessary to install new pipes, we use strategic methods to reduce the number and size of openings. Our skilled technicians carefully plan the pipe routing to go through existing wall cavities where possible. Any necessary openings are made as small as possible, and we provide information on patching and finishing options for drywall repairs.",
+        "@type": "Answer",
+        "description": "We minimize wall damage during repiping by using strategic access points and careful planning. Necessary openings are kept small for easier repair."
+      }
+    }
+  ],
+  "description": "We minimize wall damage during repiping by using strategic access points and careful planning. Necessary openings are kept small for easier repair."
+}

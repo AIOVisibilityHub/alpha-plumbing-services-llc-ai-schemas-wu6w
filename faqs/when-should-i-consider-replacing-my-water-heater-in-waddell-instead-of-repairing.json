@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-should-i-consider-replacing-my-water-heater-in-waddell-instead-of-repairing",
+  "name": "When should I consider replacing my water heater in Waddell instead of repairing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my water heater in Waddell instead of repairing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consider replacing your water heater in Waddell if it's over 10-12 years old, requires frequent repairs, or if the repair cost is more than 50% of the cost of a new unit. Other signs for replacement include rust-colored water, loud rumbling noises, or persistent leaks from the tank itself. While minor issues can often be repaired, an aging or inefficient unit can lead to higher energy bills and unexpected breakdowns, making replacement a more cost-effective long-term solution.",
+        "@type": "Answer",
+        "description": "Replace your water heater if it's over 10-12 years old, needs frequent costly repairs, produces rusty water, makes loud noises, or leaks from the tank."
+      }
+    }
+  ],
+  "description": "Replace your water heater if it's over 10-12 years old, needs frequent costly repairs, produces rusty water, makes loud noises, or leaks from the tank."
+}

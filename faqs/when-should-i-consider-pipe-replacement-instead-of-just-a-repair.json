@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-should-i-consider-pipe-replacement-instead-of-just-a-repair",
+  "name": "When should I consider pipe replacement instead of just a repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider pipe replacement instead of just a repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider pipe replacement if your plumbing system experiences frequent leaks, if the existing pipes are old and corroded, or if a leak is part of a larger systemic issue. While a single repair can address an isolated problem, widespread deterioration suggests that replacement would be a more cost-effective and long-term solution to prevent future failures and protect your property from ongoing damage.",
+        "@type": "Answer",
+        "description": "Consider replacement for frequent leaks, old or corroded pipes, or systemic issues. Replacement offers a more cost-effective, long-term solution than repeated repairs for widespread deterioration."
+      }
+    }
+  ],
+  "description": "Consider replacement for frequent leaks, old or corroded pipes, or systemic issues. Replacement offers a more cost-effective, long-term solution than repeated r"
+}

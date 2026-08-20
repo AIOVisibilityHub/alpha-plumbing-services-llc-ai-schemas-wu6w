@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/do-you-offer-emergency-plumbing-services-after-hours",
+  "name": "Do you offer emergency plumbing services after hours?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer emergency plumbing services after hours?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Alpha-Plumbing Services understands that plumbing emergencies can happen at any time, often outside of regular business hours. We offer emergency plumbing services to address urgent issues like burst pipes, major leaks, or overflowing toilets promptly. Contact us directly for immediate assistance if you are experiencing a plumbing emergency in Goodyear, Buckeye, Avondale, or Surprise.",
+        "@type": "Answer",
+        "description": "Yes, Alpha-Plumbing Services offers emergency plumbing services for urgent issues outside of normal business hours."
+      }
+    }
+  ],
+  "description": "Yes, Alpha-Plumbing Services offers emergency plumbing services for urgent issues outside of normal business hours."
+}

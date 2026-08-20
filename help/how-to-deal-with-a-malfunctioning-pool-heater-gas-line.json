@@ -1,0 +1,84 @@
+{
+  "name": "How to Deal with a Malfunctioning Pool Heater Gas Line",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "If your pool heater’s gas line seems to be acting up, it can definitely put a damper on your swimming plans. The first thing to do is prioritize safety. If you smell gas or hear a hissing sound, immediately turn off the gas supply to the heater if you know how to do so safely, then evacuate the area and call for professional help. Don't try to ignite the heater or use any electrical switches. If there’s no immediate danger like a strong gas smell but your heater just isn’t working, you can check a few simple things. Make sure the gas valve to the heater is fully open. Sometimes, it’s just a simple oversight. Also, check your thermostat settings to ensure it’s calling for heat. However, for anything related to the gas line itself, it's really best to call in experts. The team at Alpha-Plumbing Services, with over 25 years of experience, specializes in gas line installations and repairs. We can diagnose whether it’s a faulty line, a burner issue, or something else entirely. We serve Goodyear and the entire West Valley, offering honest communication and practical solutions. Don’t hesitate to contact us at 623-734-7465 for a safe and effective repair.",
+      "@type": "HowToStep",
+      "position": 1
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "description": "How to Deal with a Malfunctioning Pool Heater Gas Line"
+}

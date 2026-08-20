@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/will-re-piping-damage-my-walls-or-home",
+  "name": "Will re-piping damage my walls or home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will re-piping damage my walls or home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Alpha-Plumbing Services strives to minimize disruption and potential damage during a re-pipe. While some access points in walls or ceilings are typically required to remove old pipes and install new ones, our skilled technicians employ techniques to keep these openings as small and discreet as possible. We carefully plan routes to limit intrusion and ensure that all affected areas are properly repaired and cleaned up once the re-piping is complete, leaving your home in excellent condition. Any necessary repairs are part of the process.",
+        "@type": "Answer",
+        "description": "Some wall access is needed, but we minimize disruption and ensure all affected areas are properly repaired and cleaned after the re-pipe."
+      }
+    }
+  ],
+  "description": "Some wall access is needed, but we minimize disruption and ensure all affected areas are properly repaired and cleaned after the re-pipe."
+}

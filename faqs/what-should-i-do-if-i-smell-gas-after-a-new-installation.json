@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-should-i-do-if-i-smell-gas-after-a-new-installation",
+  "name": "What should I do if I smell gas after a new installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if I smell gas after a new installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you smell gas after a new installation or at any time, prioritize safety immediately. Evacuate everyone from the building, and do not use any electrical devices, light switches, or phones inside, as these can create a spark. Once safely outside, call your gas utility company's emergency line and then call Alpha-Plumbing Services, LLC. We will dispatch a technician to assess the situation. Your gas utility can shut off the main gas supply if necessary, and we can then identify and resolve the issue safely.",
+        "@type": "Answer",
+        "description": "If you smell gas, evacuate immediately, do not use electrical devices, and call your gas utility and Alpha-Plumbing Services, LLC from outside."
+      }
+    }
+  ],
+  "description": "If you smell gas, evacuate immediately, do not use electrical devices, and call your gas utility and Alpha-Plumbing Services, LLC from outside."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/do-i-need-a-permit-for-a-shower-replacement-in-my-area",
+  "name": "Do I need a permit for a shower replacement in my area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for a shower replacement in my area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether a permit is required for a shower replacement depends on the scope of work and local building codes. Minor replacements that don't involve significant structural changes or alterations to plumbing lines may not require a permit. However, projects involving re-routing plumbing, altering structural elements, or changing the bathroom's layout typically do require one. As part of our service in Goodyear, Buckeye, Avondale, and Surprise, we can help determine if a permit is necessary and guide you through the process.",
+        "@type": "Answer",
+        "description": "Permit requirements for shower replacement depend on the project's scope and local building codes. Significant plumbing or structural changes usually require one."
+      }
+    }
+  ],
+  "description": "Permit requirements for shower replacement depend on the project's scope and local building codes. Significant plumbing or structural changes usually require on"
+}

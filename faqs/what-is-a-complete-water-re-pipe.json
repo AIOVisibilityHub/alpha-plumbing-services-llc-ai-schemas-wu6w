@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-a-complete-water-re-pipe",
+  "name": "What is a complete water re-pipe?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a complete water re-pipe?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A complete water re-pipe involves replacing all the existing water supply lines in a home or building with new, durable piping. This process typically addresses issues like corroded pipes, low water pressure, discolored water, or frequent leaks caused by aging or faulty plumbing materials. The new pipes are usually made from PEX or copper, which are known for their longevity and performance. Alpha-Plumbing Services ensures minimal disruption during the re-pipe by planning carefully and working efficiently.",
+        "@type": "Answer",
+        "description": "A complete water re-pipe replaces all existing water supply lines in a home with new, more durable piping materials like PEX or copper."
+      }
+    }
+  ],
+  "description": "A complete water re-pipe replaces all existing water supply lines in a home with new, more durable piping materials like PEX or copper."
+}

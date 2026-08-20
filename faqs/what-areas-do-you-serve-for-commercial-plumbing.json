@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-areas-do-you-serve-for-commercial-plumbing",
+  "name": "What areas do you serve for commercial plumbing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas do you serve for commercial plumbing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Alpha-Plumbing Services, LLC provides commercial plumbing services to businesses located in Goodyear, Buckeye, Avondale, and Surprise. We focus our services within these specific communities to ensure prompt response times and localized expertise. If your business is located within these areas, we are equipped to handle your commercial plumbing needs efficiently and effectively, offering reliable solutions tailored to your local requirements.",
+        "@type": "Answer",
+        "description": "Alpha-Plumbing Services, LLC serves commercial clients in Goodyear, Buckeye, Avondale, and Surprise."
+      }
+    }
+  ],
+  "description": "Alpha-Plumbing Services, LLC serves commercial clients in Goodyear, Buckeye, Avondale, and Surprise."
+}

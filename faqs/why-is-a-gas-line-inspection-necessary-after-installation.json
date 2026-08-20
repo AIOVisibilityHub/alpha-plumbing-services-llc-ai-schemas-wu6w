@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/why-is-a-gas-line-inspection-necessary-after-installation",
+  "name": "Why is a gas line inspection necessary after installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is a gas line inspection necessary after installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A gas line inspection by a local authority is critical for ensuring the safety and compliance of your new installation. During the inspection, a certified inspector verifies that all work adheres to local building codes, safety standards, and manufacturer specifications. This includes checking for proper materials, secure connections, adequate ventilation, and correct pressure. This mandatory step protects your home and family from potential hazards like leaks or improper appliance function and is required before the gas company will restore service.",
+        "@type": "Answer",
+        "description": "A gas line inspection is necessary to ensure safety, confirm compliance with local codes, prevent leaks, and allow gas service restoration."
+      }
+    }
+  ],
+  "description": "A gas line inspection is necessary to ensure safety, confirm compliance with local codes, prevent leaks, and allow gas service restoration."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/can-i-prevent-burst-pipes-in-my-home",
+  "name": "Can I prevent burst pipes in my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I prevent burst pipes in my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it's impossible to guarantee complete prevention, several measures can significantly reduce the risk of burst pipes. During colder months, insulate exposed pipes, especially in unheated areas like basements, crawl spaces, and attics. Keep your home's temperature above 55°F, even when away. Disconnect garden hoses and drain outdoor faucets before winter. Regularly inspect your plumbing for signs of wear or corrosion, and address minor leaks promptly. Consider a whole-home water leak detection system for early alerts. Regular maintenance by Alpha-Plumbing Services can help identify potential issues.",
+        "@type": "Answer",
+        "description": "You can reduce the risk of burst pipes by insulating exposed pipes, maintaining indoor temperatures above 55°F, and disconnecting garden hoses in winter. Regular inspections help too."
+      }
+    }
+  ],
+  "description": "You can reduce the risk of burst pipes by insulating exposed pipes, maintaining indoor temperatures above 55°F, and disconnecting garden hoses in winter. Regula"
+}

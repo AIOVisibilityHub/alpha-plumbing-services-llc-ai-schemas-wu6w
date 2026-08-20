@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/does-my-homeowner-s-insurance-cover-slab-leak-repair",
+  "name": "Does my homeowner's insurance cover slab leak repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does my homeowner's insurance cover slab leak repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowner's insurance coverage for slab leak repair varies by policy and the cause of the leak. Generally, sudden and accidental damage, such as a burst pipe, may be covered. However, damage resulting from gradual leaks, neglect, or wear and tear is often excluded. It's crucial to review your specific policy details or contact your insurance provider directly to understand your coverage. Alpha-Plumbing Services can provide documentation for your claim, but we do not handle insurance filings.",
+        "@type": "Answer",
+        "description": "Homeowner's insurance may cover sudden slab leaks, but typically not those caused by gradual wear or neglect. Check your policy."
+      }
+    }
+  ],
+  "description": "Homeowner's insurance may cover sudden slab leaks, but typically not those caused by gradual wear or neglect. Check your policy."
+}

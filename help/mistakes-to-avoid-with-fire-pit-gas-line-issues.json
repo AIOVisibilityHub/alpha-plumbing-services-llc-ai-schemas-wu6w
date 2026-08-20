@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Mistakes to Avoid with Fire Pit Gas Line Issues",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When your outdoor fire pit isn't quite right, it's easy to get frustrated, but there are some critical mistakes to avoid, especially when gas lines are involved. First and foremost, never, ever try to repair a gas leak on your own. Gas is extremely dangerous, and these repairs require licensed professionals with specialized training and equipment. Second, don't ignore any persistent gas smells or unusual sounds like hissing; these are serious warning signs that should prompt immediate action. Another common mistake is attempting to use a fire pit if you suspect a gas line problem, even if it's just a small flame. This could be incredibly risky. Fourth, forgetting about regular maintenance or inspections can lead to bigger, more expensive problems down the line. Finally, don't just call any handyman. Ensure you're working with experienced plumbing professionals who understand gas line safety and regulations, like Alpha-Plumbing Services. With over 25 years of experience serving Goodyear and the West Valley, we bring a commitment to quality workmanship and honest communication. Trusting the experts ensures your fire pit remains a safe and enjoyable addition to your outdoor space.",
+  "datePublished": "2026-08-19"
+}

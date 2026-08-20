@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-should-i-look-for-when-choosing-a-residential-plumber",
+  "name": "What should I look for when choosing a residential plumber?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for when choosing a residential plumber?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a residential plumber, look for licensed and insured professionals with a positive reputation. Consider their experience with the specific type of plumbing issue you have and ensure they offer transparent pricing. Local availability and prompt response times, especially for emergencies, are also important. Alpha-Plumbing Services, LLC meets these criteria, serving Goodyear, Buckeye, Avondale, Surprise, and Waddel with experienced, licensed plumbers and clear communication.",
+        "@type": "Answer",
+        "description": "Look for licensed, insured, and experienced plumbers with transparent pricing and good local availability. Alpha-Plumbing Services, LLC meets these criteria in its service areas."
+      }
+    }
+  ],
+  "description": "Look for licensed, insured, and experienced plumbers with transparent pricing and good local availability. Alpha-Plumbing Services, LLC meets these criteria in"
+}

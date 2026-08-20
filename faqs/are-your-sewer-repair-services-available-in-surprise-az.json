@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/are-your-sewer-repair-services-available-in-surprise-az",
+  "name": "Are your sewer repair services available in Surprise, AZ?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are your sewer repair services available in Surprise, AZ?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Alpha-Plumbing Services, LLC proudly provides comprehensive sewer repair services to residents and businesses in Surprise, AZ. Our service area includes Surprise, along with Goodyear, Buckeye, Avondale, and Waddell. If you are experiencing sewer line issues in Surprise, please contact us to schedule an inspection or emergency service. We are equipped to handle a full range of sewer problems in your local area.",
+        "@type": "Answer",
+        "description": "Yes, Alpha-Plumbing Services provides sewer repair in Surprise, AZ, and surrounding areas including Goodyear, Buckeye, Avondale, and Waddell."
+      }
+    }
+  ],
+  "description": "Yes, Alpha-Plumbing Services provides sewer repair in Surprise, AZ, and surrounding areas including Goodyear, Buckeye, Avondale, and Waddell."
+}

@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Mistakes to Avoid with Pool Heater Gas Line Issues",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Dealing with a pool heater that isn't working right can be frustrating, especially if you suspect a gas line problem. But there are definitely some mistakes you want to steer clear of to keep everyone safe and avoid bigger headaches. First off, never try to fix a gas leak yourself. Gas is highly flammable and explosive, so leave it to the licensed experts. Secondly, ignoring strange odors or sounds from your heater is a big no-no; those are often warning signs of serious underlying issues. Don't assume a flickering or weak flame is just a minor adjustment needed – it could point to an inadequate gas supply or a leak. Also, putting off repairs can lead to more extensive damage or even dangerous situations down the road, so timely action is key. Lastly, avoid letting just anyone work on your gas lines. You want someone with proven experience, like the team at Alpha-Plumbing Services, who understands the specific safety protocols and has the right certifications. We’ve been serving Goodyear and the West Valley for over 25 years, providing quality workmanship. When in doubt, it’s always best to reach out to a professional you trust to ensure the job is done safely and correctly.",
+  "datePublished": "2026-08-19"
+}

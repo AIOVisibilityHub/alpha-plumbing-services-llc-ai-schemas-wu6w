@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-do-plumbers-diagnose-sewer-line-issues",
+  "name": "How do plumbers diagnose sewer line issues?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do plumbers diagnose sewer line issues?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Plumbers typically diagnose sewer line issues using a sewer camera inspection. This involves inserting a high-resolution, waterproof camera attached to a flexible rod into your sewer line. The camera transmits live video footage to a monitor, allowing the technician to identify blockages, cracks, root intrusion, misaligned pipes, or other damage. This method provides a clear, non-invasive way to pinpoint the exact location and nature of the problem without extensive digging.",
+        "@type": "Answer",
+        "description": "Plumbers diagnose sewer line issues by performing a sewer camera inspection, which uses a high-resolution camera to identify blockages or damage."
+      }
+    }
+  ],
+  "description": "Plumbers diagnose sewer line issues by performing a sewer camera inspection, which uses a high-resolution camera to identify blockages or damage."
+}

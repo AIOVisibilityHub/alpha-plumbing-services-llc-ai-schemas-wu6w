@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-typical-process-for-a-plumbing-service-call",
+  "name": "What is the typical process for a plumbing service call?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for a plumbing service call?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When you schedule a service call with Alpha-Plumbing Services, LLC, a licensed plumber will arrive at your home at the agreed-upon time. They will first assess the plumbing issue, which may involve diagnostic tools if necessary. After identifying the problem, the plumber will explain the findings, discuss the recommended solutions, and provide an upfront estimate for the repair. Once approved, the repair will be completed efficiently, and the area will be cleaned. We ensure you understand the work performed before our departure.",
+        "@type": "Answer",
+        "description": "A plumber assesses the issue, explains findings, provides an estimate, performs the repair, and cleans up. We ensure you understand the work completed."
+      }
+    }
+  ],
+  "description": "A plumber assesses the issue, explains findings, provides an estimate, performs the repair, and cleans up. We ensure you understand the work completed."
+}

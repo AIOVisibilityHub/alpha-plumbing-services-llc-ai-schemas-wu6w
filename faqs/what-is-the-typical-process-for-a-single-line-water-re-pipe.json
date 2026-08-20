@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-typical-process-for-a-single-line-water-re-pipe",
+  "name": "What is the typical process for a single line water re-pipe?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for a single line water re-pipe?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process begins with an inspection to assess your current line and identify the best replacement route. Once a plan is established, our technicians will carefully excavate the area around your existing main water line, typically from the meter to your home. The old pipe is then disconnected and removed, and the new, more durable pipe (often PEX or copper) is installed. After connecting the new line, pressure testing ensures there are no leaks, and the excavated area is carefully backfilled and restored. The entire process aims to minimize disruption to your property.",
+        "@type": "Answer",
+        "description": "The process involves inspection, excavation, removal of the old pipe, installation and connection of the new pipe, pressure testing, and backfilling."
+      }
+    }
+  ],
+  "description": "The process involves inspection, excavation, removal of the old pipe, installation and connection of the new pipe, pressure testing, and backfilling."
+}

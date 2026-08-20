@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-much-does-drain-cleaning-typically-cost",
+  "name": "How much does drain cleaning typically cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does drain cleaning typically cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of drain cleaning can vary based on the severity of the clog, the type of drain affected (sink, toilet, main sewer line), and the method required (snaking, hydro-jetting). Basic drain snaking for a minor clog might be less, while clearing a main sewer line blockage with hydro-jetting or requiring camera inspection to locate the issue will typically be more. It is best to get a specific quote after an assessment.",
+        "@type": "Answer",
+        "description": "Drain cleaning costs vary depending on the clog's severity, location, and the cleaning method needed. A specific quote is usually provided after an assessment."
+      }
+    }
+  ],
+  "description": "Drain cleaning costs vary depending on the clog's severity, location, and the cleaning method needed. A specific quote is usually provided after an assessment."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-should-i-do-immediately-if-i-discover-a-plumbing-leak",
+  "name": "What should I do immediately if I discover a plumbing leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately if I discover a plumbing leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you discover a plumbing leak, your first priority is to minimize water damage. Locate your home's main water shut-off valve and turn it off immediately. This will stop the flow of water and prevent further flooding. Next, try to contain the water with buckets or towels to protect your belongings. Once the water is off and contained, contact Alpha-Plumbing Services right away. Provide us with as much detail as possible about the leak's location and severity so we can dispatch the appropriate technician and tools for a swift repair.",
+        "@type": "Answer",
+        "description": "Immediately turn off your home's main water supply, contain the leak with towels or buckets, then contact Alpha-Plumbing Services for professional repair."
+      }
+    }
+  ],
+  "description": "Immediately turn off your home's main water supply, contain the leak with towels or buckets, then contact Alpha-Plumbing Services for professional repair."
+}

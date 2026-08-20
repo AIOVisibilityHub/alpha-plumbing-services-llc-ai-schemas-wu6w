@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-process-for-repairing-a-plumbing-leak",
+  "name": "What is the process for repairing a plumbing leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for repairing a plumbing leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When you contact Alpha-Plumbing Services, our first step is to accurately locate the leak using non-invasive methods when possible. Once identified, we assess the extent of the damage and explain the necessary repair options. Depending on the leak's nature, this could involve patching a pipe, replacing a section of piping, or repairing a fixture. We always aim for the most durable and cost-effective solution. After the repair, we conduct thorough testing to ensure the leak is completely resolved and the system is functioning correctly, minimizing future issues.",
+        "@type": "Answer",
+        "description": "The process involves leak detection, assessment, explaining repair options, performing the repair (patching or replacement), and post-repair testing."
+      }
+    }
+  ],
+  "description": "The process involves leak detection, assessment, explaining repair options, performing the repair (patching or replacement), and post-repair testing."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/do-i-need-a-permit-for-a-single-line-water-re-pipe-in-goodyear-or-buckeye",
+  "name": "Do I need a permit for a single line water re-pipe in Goodyear or Buckeye?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for a single line water re-pipe in Goodyear or Buckeye?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, plumbing work involving the replacement of a main water supply line typically requires a permit from the local municipality to ensure the work complies with local building codes and standards. Alpha-Plumbing Services will handle the necessary permit acquisition process for projects within Goodyear, Buckeye, Avondale, and other service areas. This ensures all work is completed legally and safely, protecting your property and investment.",
+        "@type": "Answer",
+        "description": "Yes, a permit is usually required from your local municipality like Goodyear or Buckeye for a single line water re-pipe. We handle the permitting process."
+      }
+    }
+  ],
+  "description": "Yes, a permit is usually required from your local municipality like Goodyear or Buckeye for a single line water re-pipe. We handle the permitting process."
+}
