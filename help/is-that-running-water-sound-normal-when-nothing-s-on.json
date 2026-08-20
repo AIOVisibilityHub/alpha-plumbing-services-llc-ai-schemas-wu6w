@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Is that running water sound normal when nothing's on?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Hearing the sound of running water when all your faucets are off and appliances are quiet is definitely not normal and usually points to a hidden plumbing problem. It’s an auditory alarm that something’s amiss within your plumbing system. Most commonly, this sound indicates a leak somewhere. It could be a toilet that’s constantly trying to refill due to a faulty flapper or fill valve, a dripping faucet that’s hard to hear initially, or even a more serious issue like a pipe leak behind a wall, under your floor, or in your slab. If you've checked obvious sources like toilets and faucets and the sound persists, you're likely dealing with a concealed leak. These types of leaks can cause significant damage if left unaddressed, leading to structural issues, mold growth, and, of course, that mysteriously high water bill. It's smart to have a professional investigate promptly. Alpha-Plumbing Services, LLC has over 25 years of experience in the West Valley, and we're experts at leak detection and repair. We can accurately locate the source of that phantom running water sound and provide a durable solution.",
+  "datePublished": "2026-08-19"
+}

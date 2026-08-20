@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Why Is Water Backing Up in My Shower?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Seeing water back up in your shower, or even worse, having your toilet overflow when you flush, can be alarming and is often a strong sign of a main sewer line clog. These aren't just isolated drain issues; they usually point to a blockage in the larger pipe that carries all the wastewater away from your home. When the main sewer line gets clogged, water has nowhere to go and starts seeking the path of least resistance, which is usually the lowest drains in your house – think showers, bathtubs, and sometimes even toilets. Ignoring these symptoms is a big mistake because a partial clog can quickly become a full blockage, leading to raw sewage backing up into your home, which is a health hazard and a very messy cleanup. Common culprits for these clogs include tree roots growing into the pipes, grease buildup, or non-flushable items. Professional assessment is key here because we use specialized cameras to pinpoint the exact location and nature of the clog without digging up your yard unnecessarily. If you're experiencing these kinds of backups in areas like Sun City or Tolleson, don't hesitate to contact Alpha-Plumbing Services, LLC. We have the experience and equipment to diagnose and clear main sewer line clogs efficiently and effectively.",
+  "datePublished": "2026-08-19"
+}

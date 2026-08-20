@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "How to Know if Your Water Heater Leak is Serious",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's tough when your water heater starts acting up, and a leak can range from a minor annoyance to a serious problem. The main thing to look for is the source and severity of the leak. If you see water pooling around the base of the tank, and it looks like it's coming from the tank's body itself, especially if it’s rusted, that's usually a red flag indicating internal corrosion and tank failure. That type of leak often means it's time for a replacement. Another serious sign is a leak from the top of the heater, particularly if it's near the hot or cold water lines, as this could indicate issues with connections that might lead to larger bursts. If the leak is constant or getting worse quickly, don't ignore it. However, if it's just a tiny drip from the T&P valve or a loose drain valve, it might be a simpler fix. But even those small drips can become bigger problems if left unchecked, potentially causing water damage. Pay attention to how quickly the water accumulates; a slow seep is different from a steady stream. If you're seeing any substantial leakage or can't pinpoint the source, it's really important to get a professional opinion. Our team at Alpha-Plumbing Services, LLC has over 25 years of experience with these kinds of issues across Goodyear, Buckeye, and surrounding areas, so give us a call at 623-734-7465 if you're concerned.",
+  "datePublished": "2026-08-19"
+}

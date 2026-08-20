@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Why Is My Water Pressure So Low All of a Sudden?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Experiencing a sudden drop in water pressure can be incredibly frustrating, turning a simple shower into a trickle or making everyday tasks a chore. It's a common plumbing issue that can stem from several different causes, some minor and some requiring more serious attention. You definitely don't want to ignore it, as consistently low pressure can signal underlying problems that could worsen over time if not addressed. We understand how disruptive this can be to your daily routine!\n\nOne of the first things to check is if the low pressure is isolated to just one faucet or fixture, or if it's affecting your entire home. If it’s just one, the problem is likely with that specific fixture, like a clogged aerator. You can usually unscrew the aerator and clean out any mineral deposits. However, if the low pressure is widespread, affecting multiple faucets or even your whole house, the issue is probably more significant. Common culprits include a partially closed main shut-off valve (easy fix!), a failing pressure regulator, or sediment buildup in your pipes. Another, more serious cause could be a hidden leak somewhere in your main water line or inside your walls, which could lead to significant water damage if left unchecked. Sometimes, an issue with your water heater can also affect hot water pressure. If you've checked the basics and the problem persists, especially across your home, it's time to call in a professional. Alpha-Plumbing Services has the expertise to diagnose these issues accurately and provide lasting solutions. Give us a call, and we'll restore your home's water pressure.",
+  "datePublished": "2026-08-19"
+}

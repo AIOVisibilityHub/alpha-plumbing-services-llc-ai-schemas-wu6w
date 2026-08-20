@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When to Call: Persistent Bad Smells from Your Faucets",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "If you're noticing an unpleasant smell coming from your water, especially a rotten-egg odor, it's definitely something that needs attention. This distinctive smell is usually caused by hydrogen sulfide gas, which can be naturally occurring in groundwater, or it might be a sign of certain bacteria in your water heater or well system. While a temporary sulfur smell might be harmless, a persistent, strong odor isn't normal and can indicate a problem that affects your water quality and potentially your plumbing system. You might notice the smell more acutely from hot water, suggesting an issue within your water heater tank where bacteria can thrive. Sometimes, it's also linked to anode rods in water heaters interacting with naturally occurring sulfates. If flushing your lines doesn't clear the smell, or if it's coupled with any discoloration, you should definitely consider calling a professional. A plumber can help pinpoint the exact source of the odor, whether it's your water heater, pipes, or even an external water source issue. Alpha-Plumbing Services is experienced in diagnosing and resolving all sorts of water quality issues, including water heater problems and drain cleaning, ensuring your water is fresh and odor-free.",
+  "datePublished": "2026-08-19"
+}

@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Common Mistakes to Avoid When Dealing with a Water Leak Under Your House",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Finding a water leak under your house is alarming, and it's easy to make a few common blunders that can actually worsen the situation or cost you more in the long run. Knowing what not to do is just as important as knowing what to do. You want to protect your home and your wallet, so let's chat about how to avoid those pitfalls.\n\nFirst, don't ignore it, even if it seems small. A tiny drip can quickly become a huge problem, leading to foundation damage, mold, or an astronomical water bill. The longer you wait, the more extensive and expensive the repairs typically become. Second, avoid trying a DIY fix without proper knowledge. These aren't your average leaky faucet repairs; detecting and fixing slab leaks requires specialized equipment and expertise to avoid further damage to your plumbing system or the slab itself. Third, don't turn off your water and then forget about the problem. While shutting off the main can temporarily stop the leak, it doesn't solve the underlying issue and leaves you without water. Fourth, don't hesitate to get multiple opinions if you're unsure, but be wary of quick, cheap fixes that don't address the root cause. Finally, don't forget to check for other related issues once the primary leak is fixed, like mold remediation or structural repairs, if the leak was significant. Alpha-Plumbing Services, LLC has been tackling tough leaks for over 25 years. We're committed to honest communication and practical solutions for folks in Goodyear and the surrounding West Valley communities.\n\nIf you're facing a potential leak, your best bet is to call in experienced professionals. We'll ensure the problem is properly diagnosed and fixed, giving you peace of mind.",
+  "datePublished": "2026-08-19"
+}

@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When to Call for Suspected Slab Leaks",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Slab leaks are sneaky, often hiding their presence until they've caused significant damage, but there are definite signs to watch out for that signal it's time to call in a professional. One of the most common clues is an unexplained spike in your water bill. If your usage habits haven't changed but your bill keeps climbing, there's a good chance water is escaping somewhere it shouldn't. Another key indicator is the sound of running water when no faucets or appliances are in use; that constant drip or trickle could be coming from under your foundation. You might also notice warm spots on your floor, particularly if it's a hot water line that's leaking, or even damp spots or cracks in your foundation or walls. If you spot any of these signals, or if you're finding unexpected puddles near your home’s perimeter, don't hesitate. These leaks can undermine your foundation and lead to costly structural damage if left unaddressed. Professionals have specialized equipment to locate these hidden leaks precisely without tearing up your entire floor. If you're in Goodyear or the surrounding West Valley areas and suspect a slab leak, getting an expert like us out there quickly can save you a lot of headache and expense down the road.",
+  "datePublished": "2026-08-19"
+}

@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Why is my carpet wet without a clear source?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Woke up to a wet carpet with no obvious spill? This can be really puzzling and honestly, a bit alarming. It usually points to a hidden water source, and trust me, it’s not something you want to ignore. The most common culprit in situations like this is a plumbing leak that’s gone unnoticed until the water starts to pool on your floor. This could be anything from a pinhole leak in a pipe behind a wall, a leaky drain line, or even an issue with an appliance connection, like a dishwasher or washing machine. Sometimes, it can even be water seeping in from outside your home, though if it's consistently in the same spot, plumbing is a strong suspect. It's crucial to identify the source quickly because prolonged dampness can lead to mold growth, damage to your subfloor, and even structural issues over time. While it might seem like a small spot, the water could be traveling quite a distance from the actual leak. Keep an eye out for any musty smells or changes in your water bill, as these can be additional clues. Our team has tackled countless mysterious wet spots in Goodyear and the surrounding West Valley, and we’re experts at diagnosing and fixing these tricky leaks. Don't let it sit; get it checked out!",
+  "datePublished": "2026-08-19"
+}

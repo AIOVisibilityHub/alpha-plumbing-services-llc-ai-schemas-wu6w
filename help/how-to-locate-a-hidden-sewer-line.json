@@ -1,0 +1,84 @@
+{
+  "name": "How to Locate a Hidden Sewer Line",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "Finding a hidden sewer line isn't exactly a DIY project, and honestly, trying to guess can lead to a lot of unnecessary digging and potential damage. This is definitely one of those times when calling in the pros is the smartest move. When a sewer line needs to be located, whether for a repair, a new construction project, or just to know where it is before you start landscaping, we've got specialized tools that make it simple and non-invasive. We use advanced techniques like sewer camera inspections, which involve sending a high-resolution camera into your pipes. This camera can travel through the line, giving us a live video feed of its exact path and depth. It also helps us spot any existing problems like cracks, blockages, or root intrusions. Another method we use is electronic pipe locating. This involves sending a signal through the pipe, which we can then trace above ground with a receiver, pinpointing the line's precise location and depth. This means no guesswork and no unnecessary excavation. Knowing the exact location of your sewer line is crucial for preventing future damage and ensuring any repairs are done efficiently. So, if you're in Goodyear, Surprise, or El Mirage and need to find out exactly where your sewer line runs, don't grab a shovel just yet! Get in touch with Alpha-Plumbing Services, LLC. We're experts in accurate sewer line locating, saving you time, money, and hassle.",
+      "@type": "HowToStep",
+      "position": 1
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "description": "How to Locate a Hidden Sewer Line"
+}

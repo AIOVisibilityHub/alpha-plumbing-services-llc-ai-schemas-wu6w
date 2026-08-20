@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When Should You Replace Your Water Heater Instead of Repairing It?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's a common dilemma: your water heater is acting up, and you're wondering if a repair will cut it or if it's time for a full replacement. We get it, nobody wants to drop a big chunk of change if they don't have to! But sometimes, replacing your water heater is actually the more economical and practical choice in the long run. If your water heater is over 10-12 years old, especially if it's showing rust or significant leaks, you're likely looking at more frequent and costly repairs down the line. Continuous breakdowns, an inability to provide enough hot water, or a complete system failure are strong indicators that its time is up. Consider the efficiency, too; older units are less energy-efficient, meaning higher utility bills. Factor in the cost of repeated repairs versus the one-time investment in a new, efficient unit. Sometimes, throwing good money after bad just doesn't make sense. If you're consistently running out of hot water or noticing strange noises that indicate serious internal issues, those are usually cries for a new system. It's about weighing the repair costs against the benefits of a modern, reliable, and energy-efficient water heater. If you’re unsure, getting a professional assessment can really clarify your best path forward.",
+  "datePublished": "2026-08-19"
+}

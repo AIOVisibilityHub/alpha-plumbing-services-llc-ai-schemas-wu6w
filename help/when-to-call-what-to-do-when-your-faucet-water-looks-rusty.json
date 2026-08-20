@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When to Call: What to Do When Your Faucet Water Looks Rusty",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Seeing rusty water come out of your faucet can definitely be startling, and it's something you shouldn't ignore. Usually, this reddish-brown tint points to corrosion somewhere in your plumbing system. It could be your water heater, or perhaps even the pipes in your home, especially if they're older galvanized steel ones. While a temporary flush might clear it up if it's coming from the municipal supply after maintenance, persistent rusty water is a pretty clear sign something's amiss in your own home's system. You might also notice it after being away for a while, as stagnant water can react with aging pipes. If the problem doesn't resolve quickly, it's really best to have a professional plumber take a look. They can accurately diagnose the source, whether it's a deteriorating water heater tank, corroded pipes needing replacement, or an issue with your main water line. Catching these problems early can save you a lot of headaches and more extensive repairs down the line. Alpha-Plumbing Services has over 25 years of experience handling these kinds of issues, from water heater replacements to full water re-pipes, so we know exactly what to look for. Don't hesitate to give us a call if you're consistently seeing rusty water; we're here to help protect your home's plumbing.",
+  "datePublished": "2026-08-19"
+}

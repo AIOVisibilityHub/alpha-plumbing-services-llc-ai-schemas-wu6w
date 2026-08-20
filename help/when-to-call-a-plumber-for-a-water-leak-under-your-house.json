@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When to Call a Plumber for a Water Leak Under Your House",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Discovering a water leak under your house can be super stressful, but knowing when it’s time to call in the pros can save you a lot of headache and expense down the line. Sometimes, it's just a small drip, but other times, it's a sign of something much bigger that needs immediate attention. You don't want to ignore these kinds of issues because they can quickly lead to significant structural damage, mold growth, or a crazy high water bill.\n\nFirst off, if you notice your water bill has unexpectedly spiked, that's a huge red flag. It means water is going somewhere it shouldn't be, and often that's underground. Another common sign is hearing running water when no faucets are on, or seeing unexplained wet spots on your floors or foundation, especially near walls. You might also spot lush, green patches in your yard that don't match the surrounding landscaping – a tell-tale sign of a hidden underground leak feeding the grass. Don't forget about sudden drops in water pressure, either. If your shower is suddenly just a trickle, a leak could be the culprit. These aren't just minor annoyances; they're indicators that a professional needs to step in. Alpha-Plumbing Services, LLC has over 25 years of experience handling these exact situations across Goodyear and the West Valley. We're equipped to detect and repair those sneaky slab leaks and underground issues quickly and efficiently. Giving us a call means getting a practical solution from a team committed to quality workmanship.\n\nIf you're experiencing any of these issues, it's definitely time to reach out. We can diagnose the problem and get things sorted before it turns into a much larger, more costly repair. Let us help you protect your home.",
+  "datePublished": "2026-08-19"
+}

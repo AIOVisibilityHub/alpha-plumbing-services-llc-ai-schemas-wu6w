@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Why is My Water Bill So High Suddenly?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "A sudden jump in your water bill without any change in your usage habits is a classic sign of a hidden water leak. It's frustrating to pay for water you're not even using, and often, that extra cost is going straight into damaging your home's structure. Besides the bill, there are other clues to look for. Keep an eye out for damp spots on your carpets or flooring, discolored patches on walls or ceilings, or a persistent musty smell. You might also notice the sound of running water even when all fixtures are off. Sometimes, a silent leak can be brewing for a while, slowly increasing your usage. If you have an outdoor meter, you can do a simple check: turn off all water in your house and then go look at your meter. If the dial is still spinning, you likely have a leak somewhere. These hidden leaks can be anywhere from behind a wall to under your foundation, and they require a bit of detective work to find and fix. Don't let a high water bill become a recurring nightmare. Our team at Alpha-Plumbing Services has over 25 years of experience tracking down and repairing all sorts of leaks, helping homeowners in Goodyear and the West Valley save money and protect their properties. We’re committed to giving you practical solutions.",
+  "datePublished": "2026-08-19"
+}

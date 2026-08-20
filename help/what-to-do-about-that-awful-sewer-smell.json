@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What to Do About That Awful Sewer Smell?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Dealing with a sewer gas smell in your home can be really frustrating, but there are a few common mistakes people make that can actually make things worse or delay the real fix. First off, don't just ignore it and hope it goes away. Sewer gas isn't just unpleasant; it can sometimes indicate bigger plumbing problems that could lead to costly repairs down the line if left unaddressed. Also, resist the urge to just mask the smell with air fresheners. While they might help temporarily, they don't solve the root cause, and you could be breathing in unhealthy gases without even realizing it. Another common mistake is trying complex DIY repairs without proper knowledge. For instance, if you suspect a vent pipe issue or a broken sewer line, trying to tackle it yourself can lead to further damage or even unsafe conditions. It's best to leave those intricate plumbing diagnostics to the pros. Finally, don't assume every plumbing issue is a simple fix. Sometimes, that sewer smell points to something more significant like a major clog or even a compromised sewer line, which requires specialized tools and expertise to properly identify and repair. When in doubt, especially if the smell is strong or persistent, it's always smart to call a professional team like Alpha-Plumbing Services. We've got over 25 years of experience in the Goodyear area and can quickly pinpoint the problem and offer practical solutions.",
+  "datePublished": "2026-08-19"
+}

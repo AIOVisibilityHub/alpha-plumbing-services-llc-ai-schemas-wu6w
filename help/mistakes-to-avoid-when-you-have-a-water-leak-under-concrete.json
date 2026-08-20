@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Mistakes to Avoid When You Have a Water Leak Under Concrete",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Discovering a water leak under your concrete can be daunting, but making smart decisions early on can prevent bigger problems. One of the biggest mistakes is assuming the leak will fix itself or isn't a big deal. Even small leaks can lead to significant structural damage, mold growth, and increased utility bills over time. Another common error is attempting to locate or repair the leak yourself. These leaks are tricky because they're hidden, and without specialized equipment and expertise, you could end up damaging other pipes or your foundation, making the repair much more expensive. Don't rely on temporary patches or sealants; these rarely work for leaks under pressure and concrete, and they often just delay the inevitable while damage continues. Also, don't neglect to turn off your main water supply if you suspect a major leak, as this can mitigate ongoing water damage until a professional arrives. Finally, don't just call any plumber; ensure they have specific experience with water leaks under concrete. Alpha-Plumbing Services, LLC has over 25 years of experience in these specialized repairs across Goodyear and the West Valley, offering dependable residential and light-commercial services.",
+  "datePublished": "2026-08-19"
+}

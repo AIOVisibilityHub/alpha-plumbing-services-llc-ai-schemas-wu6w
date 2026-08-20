@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Avoiding Common Water Heater Installation Mistakes",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Installing a new water heater isn't just about hooking up a few pipes; there are several critical steps that, if missed or done incorrectly, can lead to big headaches and even safety risks down the road. One of the biggest mistakes is failing to properly size the new unit for your home's needs. If it's too small, you'll constantly run out of hot water; too large, and you're wasting energy. Another common misstep is neglecting local plumbing codes, especially for venting, pressure relief, and seismic strapping in earthquake-prone areas. These aren't just suggestions, they're essential for safety and compliance. Incorrectly connecting gas or electrical lines is incredibly dangerous and can lead to leaks or electrical hazards. People also often forget to install an expansion tank, which is crucial for accommodating water expansion and preventing pressure buildup. Skipping proper drainage for the temperature and pressure relief (T&P) valve is another no-no, as it can cause water damage if the valve ever discharges. Don't overlook insulation for pipes, either; it helps maintain water temperature and improves efficiency. Finally, ensure the unit is installed on a level surface with adequate clearance for maintenance. These details are super important for a safe, efficient, and long-lasting installation. If you're not confident about handling these specifics, it's always best to bring in experienced professionals.",
+  "datePublished": "2026-08-19"
+}

@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Mistakes to Avoid When Your Toilet Keeps Running",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "A running toilet isn't just wasteful; it can be a sign of internal issues that need attention. One big mistake is simply ignoring it, thinking it'll eventually stop. This can lead to hundreds of gallons of water wasted monthly and a shockingly high water bill. Another common error is repeatedly jiggling the handle – while it might work temporarily, it doesn't solve the underlying problem, which could be a worn flapper, a faulty fill valve, or an improperly set float. Don't try to force parts that don't seem to fit or use harsh chemicals to clean components, as this can cause more damage than good. And please, avoid buying generic replacement parts that aren't specific to your toilet's make and model; they often lead to ill-fitting repairs and continued leaks. If you're unsure, or if your DIY attempts aren't getting results, it’s best to call in a professional. We're here to offer honest communication and quality workmanship for all your plumbing repair needs in the Goodyear and West Valley area, ensuring your toilet runs smoothly and efficiently.",
+  "datePublished": "2026-08-19"
+}

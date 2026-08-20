@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What Are the Signs My Water Heater Needs Repair?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's never fun when your hot water isn't quite right, and knowing the early signs that your water heater needs attention can save you from bigger, more costly problems down the road. One of the most obvious clues is a lack of hot water, or not enough hot water lasting as long as it used to. If your showers are getting unexpectedly chilly, your water heater is probably struggling. Another big indicator is strange noises coming from the unit, like rumbling, popping, or banging sounds. These often mean there's sediment buildup inside, which can damage the tank over time. Discolored or rusty water coming from your hot water tap is a definite red flag, as it can signal corrosion within the tank itself. You should also keep an eye out for any leaks around the base of the water heater; even small puddles can quickly turn into major issues. Lastly, if you notice a funky smell, like rotten eggs, coming from your hot water, it could indicate a bacterial issue within the tank. Catching these signals early and calling in a professional like Alpha-Plumbing Services, LLC can often mean the difference between a simple repair and needing a whole new unit. Don't ignore these warnings; your hot water supply depends on it!",
+  "datePublished": "2026-08-19"
+}

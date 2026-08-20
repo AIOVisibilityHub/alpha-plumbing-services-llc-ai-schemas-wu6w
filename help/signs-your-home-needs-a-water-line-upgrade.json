@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Signs Your Home Needs a Water Line Upgrade",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's easy to overlook your home's water lines until something goes wrong, but sometimes your plumbing system gives you subtle hints that it's ready for an upgrade, not just a patch. Recognizing these signs early can save you from a major plumbing catastrophe down the road. Think of it as preventative care for your home's most essential system – its water supply.\n\nOne of the clearest signs is the age of your home and its original plumbing. If your house was built with outdated materials like galvanized steel pipes, you're likely to experience issues like corrosion, reduced water flow, and potential leaks as they age. Another big indicator is recurring plumbing problems; if you're constantly calling a plumber for leaks, bursts, or low water pressure in various parts of your home, it’s a sign that the entire system might be failing. Discolored water or water that tastes metallic can also point to internal corrosion in your pipes, suggesting it’s time for a full replacement. Lastly, if you’re planning a major renovation or adding new fixtures that demand more water, your current water line might not be able to handle the increased load, making an upgrade a smart move.\n\nDon’t wait for a complete system failure to act. Addressing these signs early can prevent more significant damage and inconvenience. If you're seeing any of these red flags, it’s a good idea to consult with a professional. Our team at Alpha-Plumbing Services, LLC has over 25 years of experience in single-line or complete water repipes across Goodyear and the West Valley, and we're ready to help you ensure your home has reliable water service.",
+  "datePublished": "2026-08-19"
+}

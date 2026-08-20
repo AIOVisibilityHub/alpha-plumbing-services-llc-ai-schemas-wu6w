@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "My drain is always clogged, what gives?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It’s super frustrating when your drain just won’t behave, right? Constant clogs are a pain, and they often point to more than just a simple blockage. If you're frequently battling slow-draining sinks, tubs, or toilets, it's usually a sign of a deeper issue that needs attention. Often, it's a buildup of common culprits like hair, grease, soap scum, and food particles that accumulate over time, narrowing your pipes until water can barely get through. This is particularly common in kitchen and bathroom drains.\n\nSometimes, though, the problem isn’t just surface-level. Tree roots can infiltrate sewer lines, causing significant blockages. Older pipes might also be corroding or breaking down internally, creating rough surfaces where debris easily snags. Or, you might even have a belly in your sewer line – a dip where water and waste sit, eventually causing a backup. DIY solutions like chemical drain cleaners often just offer a temporary fix and can even damage your pipes over time, making things worse.\n\nIgnoring persistent clogs can lead to bigger problems, like burst pipes or sewer backups, which are messy and expensive to fix. If you're tired of constantly dealing with backed-up drains, it's time to get a professional evaluation. We have the right tools and expertise to identify the exact cause of your persistent clogs and clear them effectively. Don't let your drains dictate your day; contact Alpha-Plumbing Services, LLC for dependable drain cleaning services!",
+  "datePublished": "2026-08-19"
+}

@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Mistakes to Avoid When Dealing with a Broken Sewer Line",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When you suspect a broken sewer line, it's easy to panic or try to handle things yourself, but some common mistakes can actually make the situation worse. First off, don't ignore the problem hoping it'll just go away. A broken sewer line won't fix itself, and ignoring it only leads to more significant damage, higher repair costs, and potential health hazards. Secondly, avoid using harsh chemical drain cleaners repeatedly. While they might offer a temporary fix for minor clogs, they can corrode pipes, especially older ones, and exacerbate existing damage in a broken sewer line. Another big no-no is attempting a DIY repair without proper knowledge or tools. Sewer line repair is complex and requires specialized equipment and expertise to ensure it's done safely and effectively. You could easily cause more damage or even injure yourself. Also, don't forget to protect yourself and your family from potential contamination. Wastewater carries bacteria and pathogens, so it's crucial to avoid direct contact and ensure the area is properly cleaned and sanitized. Lastly, don't call just any handyman. Make sure you're contacting a plumbing professional with specific experience in sewer line repairs. Our team at Alpha-Plumbing Services has more than 25 years of experience tackling these tough jobs throughout Goodyear and the West Valley, so we know exactly what it takes to provide dependable and practical solutions.",
+  "datePublished": "2026-08-19"
+}

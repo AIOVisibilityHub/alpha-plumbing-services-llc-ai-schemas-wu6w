@@ -1,0 +1,84 @@
+{
+  "name": "What to Do When You Suspect a Water Leak",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "Discovering a potential water leak can feel pretty daunting, but taking the right steps quickly can make a big difference. It's easy to feel overwhelmed, but with a little know-how, you can mitigate damage and get things sorted. The first thing you should do is try to identify the source if it's obvious, like a leaky faucet or a running toilet. If it’s not visible, check your water meter – if it's running when no water is being used, you definitely have a hidden leak. Turn off the main water supply to your home if the leak is significant or unidentifiable, especially if it’s causing rapid damage; this can prevent further flooding. Do your best to clean up any standing water to prevent secondary issues like mold growth and damage to flooring or cabinetry. Document the damage with photos or videos; this can be helpful for insurance purposes later on. But remember, for hidden or complex leaks, DIY solutions rarely cut it. That's where we come in! Our team has the specialized equipment and expertise to accurately detect and repair leaks, even those behind walls or under slabs. We've been helping homeowners and businesses throughout Goodyear, Buckeye, and Glendale with these tough issues for over 25 years. Don't let a small leak turn into a major headache. If you're dealing with a suspected leak, reach out to Alpha-Plumbing Services at 623-734-7465, and we'll help you get things back to normal.",
+      "@type": "HowToStep",
+      "position": 1
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "description": "What to Do When You Suspect a Water Leak"
+}

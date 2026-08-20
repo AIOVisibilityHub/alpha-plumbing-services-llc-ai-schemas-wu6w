@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When to call for a hot spot on your floor",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Noticing an unexpected warm area on your floor is a clear signal that something isn't right underneath. Here's when you should definitely pick up the phone and call a plumbing expert. First, if you feel a consistent hot spot that isn't near a heat vent or any other obvious heat source, it's highly likely you have a slab leak, usually from a hot water pipe. Second, if this warmth is accompanied by other signs like a sudden spike in your water bill, lower hot water pressure, or the sound of running water within your walls or under your floor when no taps are on, these are further confirmations. Third, if you see any cracks appearing in your foundation or flooring, or notice dampness around the warm spot, this indicates the leak is already causing damage. Don't try to self-diagnose or ignore these symptoms; slab leaks can cause extensive structural damage and mold if left unaddressed. It's crucial to get a professional evaluation quickly. Alpha-Plumbing Services, LLC specializes in slab leak detection and repair throughout Goodyear and the West Valley, offering dependable solutions with over 25 years of experience.",
+  "datePublished": "2026-08-19"
+}

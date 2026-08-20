@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Why Is My Hot Water Not Hot Enough?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "There’s nothing quite as frustrating as stepping into a shower expecting warmth and getting hit with a cold blast. If your hot water isn't quite reaching the temperature you desire, or worse, if you're running out of hot water too quickly, there could be a few culprits at play. One common reason is a faulty heating element in your tank. Over time, these elements can burn out or become less efficient, meaning your water isn't getting heated properly. Sediment buildup at the bottom of your water heater tank can also be a major contributor. This sediment acts as an insulator, preventing heat from transferring effectively to the water. Another possibility is an incorrectly set thermostat – sometimes it's as simple as adjusting the temperature setting to a higher degree. However, if your water heater is old, say beyond 10-12 years, its declining efficiency might just be due to age and wear. This means it might struggle to keep up with your household's demand for hot water. Lastly, if your tank is too small for your household's needs, you'll constantly run out of hot water. While some of these issues, like adjusting a thermostat, are simple fixes, others, like replacing heating elements or dealing with significant sediment, usually require professional attention. Don't hesitate to reach out to experienced plumbers, like us at Alpha-Plumbing Services, if you’re consistently dealing with lukewarm water in your home across Goodyear or the surrounding West Valley.",
+  "datePublished": "2026-08-19"
+}

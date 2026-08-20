@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "My Water Meter Won't Stop Moving: What Now?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Finding your water meter consistently moving when all water fixtures in your home are turned off can be a pretty stressful situation. It’s a clear red flag that something isn’t right, and often indicates a hidden leak. This isn't a problem that will fix itself, and addressing it quickly can save you from higher water bills, potential property damage, and the headache of a larger repair down the line. We see this all the time, and it's definitely something you want to tackle head-on.\n\nFirst, do a thorough check yourself. Make sure absolutely everything that uses water is off. This includes toilets (listen for running, or do the food coloring test), outdoor spigots, irrigation systems, water heaters, and all appliances. Second, if you have a water softener, check to see if it’s regenerating or if there are any visible leaks around it. Sometimes the regeneration cycle can mimic a continuous flow. Third, if you have a pool, check for any drops in water level or visible leaks around the equipment. Finally, if after all these checks the meter is still moving, it's highly probable you have a leak in your main line, slab, or behind a wall. This is a complex issue that really calls for expert help. Alpha-Plumbing Services has more than 25 years of experience dealing with all kinds of leaks, big and small, throughout Goodyear and the West Valley. We're committed to finding practical solutions. Don't hesitate to reach out to us at 623-734-7465 for dependable service.",
+  "datePublished": "2026-08-19"
+}

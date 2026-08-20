@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Think You Can DIY a Sewer Backup? Why That's a Bad Idea",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When you’re facing a sewer backup, the natural instinct might be to jump in and fix it yourself, especially if you’re a handy person. However, trying to tackle a sewer backup without the right tools, knowledge, and safety precautions can lead to a whole host of problems that make the situation even worse. One of the biggest dangers is exposure to harmful bacteria and viruses present in raw sewage, which can cause serious health issues. You're also likely to lack the specialized equipment needed to properly diagnose the root cause of the backup, whether it's tree roots, a collapsed pipe, or a major blockage, meaning any DIY fix is probably just a temporary band-aid. Without professional-grade cleaning and sanitization, you risk leaving behind contaminants and odors that can linger and cause ongoing health or property damage. Plus, you could inadvertently damage your plumbing system further, leading to more extensive and costly repairs down the line. It really pays to call in experts who have the proper safety gear, diagnostic tools like sewer cameras, and the experience to handle sewer backups safely and effectively. Let Alpha-Plumbing Services, LLC manage this unpleasant task for you.",
+  "datePublished": "2026-08-19"
+}

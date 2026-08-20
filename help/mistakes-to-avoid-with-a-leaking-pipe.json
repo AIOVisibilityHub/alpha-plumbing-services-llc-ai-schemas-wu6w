@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Mistakes to Avoid with a Leaking Pipe",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When you discover a leaking pipe, it’s natural to want to fix it fast, but making the wrong moves can actually make things worse. One big mistake is simply ignoring it, hoping it will just stop on its own. Small leaks often become big, costly problems like water damage or mold, so tackle them quickly! Another common misstep is trying a quick DIY patch with tape or putty without understanding the underlying cause. While it might slow the leak temporarily, it's rarely a permanent fix and can fail at the worst possible moment. You also want to avoid using harsh chemicals in your drains in an attempt to clear what you think might be a clog causing pressure issues; this can sometimes corrode pipes further. Don't forget to turn off your main water supply if the leak is significant or if you're not sure how to assess the situation – many people forget this crucial first step, leading to more water damage. Lastly, always be wary of calling just anyone. Make sure you're getting help from experienced, licensed pros. For dependable service and lasting solutions in Goodyear and the surrounding West Valley communities, reaching out to Alpha-Plumbing Services is always a smart move.",
+  "datePublished": "2026-08-19"
+}

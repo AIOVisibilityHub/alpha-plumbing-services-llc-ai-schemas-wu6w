@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What to Avoid When Sewage Backs Up into Your Bathtub",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When you discover sewage overflowing into your bathtub, it’s a pretty startling and unpleasant experience, and your first reaction might be to try and fix it yourself. However, there are some critical mistakes to avoid that can make the situation worse or even put your health at risk. First, don't keep flushing toilets or running water in your home; this will only add more liquid to the backup. Secondly, resist the urge to use chemical drain cleaners. They’re rarely effective for main sewer line clogs and can be corrosive to your pipes and dangerous if someone needs to work on the line. Also, don't attempt to snake the main line yourself unless you really know what you're doing; you could push the blockage further or damage the pipe. Never try to clean up raw sewage without proper protective gear like gloves and masks, as it's full of harmful bacteria. And finally, don’t delay calling for help. The longer you wait, the greater the potential for extensive damage and health hazards. A main line sewage backup is a job for experienced plumbers who have the right tools and expertise to handle it safely and efficiently. For dependable residential plumbing services in the West Valley, Alpha-Plumbing Services, LLC is here to help.",
+  "datePublished": "2026-08-19"
+}

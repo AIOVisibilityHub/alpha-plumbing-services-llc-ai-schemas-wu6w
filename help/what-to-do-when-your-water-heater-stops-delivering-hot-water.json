@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What to Do When Your Water Heater Stops Delivering Hot Water",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Waking up to a cold shower is never fun, and a lack of hot water usually signals a problem with your water heater. Before you panic, check a few things. First, make sure the pilot light (for gas heaters) or circuit breaker (for electric) hasn't tripped or gone out – sometimes it's an easy fix. Another mistake people make is trying to adjust the thermostat without understanding the proper settings, which can lead to scalding water or still no hot water. Don't ignore strange noises like rumbling or popping, or any signs of leaks around the unit; these are indicators of sediment buildup or tank corrosion that need immediate attention. Attempting complex repairs on your own, especially involving gas lines or electrical components, can be dangerous and should be left to trained professionals. If basic checks don't solve the issue, or if you suspect a more serious problem, it's smart to reach out. Alpha-Plumbing Services has decades of experience with water heater replacement and repairs, serving Goodyear and the surrounding West Valley communities with practical, safe solutions.",
+  "datePublished": "2026-08-19"
+}

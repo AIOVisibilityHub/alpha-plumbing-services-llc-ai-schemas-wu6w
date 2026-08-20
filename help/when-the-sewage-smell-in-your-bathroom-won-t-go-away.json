@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When the Sewage Smell in Your Bathroom Won't Go Away",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "There's nothing quite as off-putting as walking into your bathroom and being hit with a strong, unmistakable sewage smell. It's more than just an unpleasant odor; it's a sign that something is definitely wrong with your plumbing system. Don't ignore it, as it could indicate potential health hazards or significant plumbing issues. A common culprit is a dry P-trap in one of your drains (sink, shower, or even the floor drain). The P-trap is designed to hold water, creating a seal against sewer gases. If a fixture isn't used often, this water can evaporate, allowing foul smells to escape. Another possibility could be a cracked toilet wax ring, which seals the toilet to the floor and the drainpipe. If this seal is broken, sewer gas can leak out. Venting issues are also frequent offenders; your plumbing system has vents that release sewer gases through the roof. If a vent pipe is clogged or damaged, gases can get trapped and find their way into your home. These kinds of problems are usually beyond simple DIY fixes and can often escalate if not addressed promptly. When you're dealing with a persistent sewage smell, it's time to call in the pros. Alpha-Plumbing Services, LLC has over 25 years of experience tackling these exact kinds of issues. We can quickly diagnose the cause of the odor and provide a reliable, lasting solution. Don't let your bathroom smell like the sewer any longer; call us at 623-734-7465 to schedule an appointment in Goodyear or the surrounding West Valley areas.",
+  "datePublished": "2026-08-19"
+}

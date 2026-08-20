@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Common Mistakes in Water Heater Installation",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When it comes to installing a new water heater, it's really important to get it right the first time. There are a few common missteps that can lead to big problems down the road, and you definitely want to steer clear of them. One major mistake is choosing the wrong size water heater for your home. Too small, and you'll constantly run out of hot water; too large, and you're wasting energy and money. It's all about matching the unit's capacity to your family's hot water demands. Another big no-no is ignoring local building codes and permits. Water heater installation often involves electrical, gas, and plumbing connections that need to meet specific safety standards. Skipping these steps can be dangerous and might even cause issues with your home insurance or during resale. Many people also overlook proper venting for gas water heaters, which can lead to hazardous carbon monoxide buildup. And let's not forget about inadequate drainage – if your pressure relief valve can't properly discharge water, you're setting yourself up for potential flooding. Trying to tackle a DIY installation without the right tools, knowledge, and safety precautions is also a huge risk. This isn't a project for the inexperienced! Instead of risking these costly errors, it's always best to rely on a professional. Alpha-Plumbing Services has been expertly handling water heater installations for over 25 years for homes and businesses throughout Goodyear and the entire West Valley, ensuring everything is done safely and correctly.",
+  "datePublished": "2026-08-19"
+}

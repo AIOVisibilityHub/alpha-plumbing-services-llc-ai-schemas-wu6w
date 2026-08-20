@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Why is my shower barely dripping?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's super frustrating when you hop in the shower expecting a refreshing spray, only to get a trickle. Low water pressure can be a real headache, and it's something we see often in Goodyear and throughout the West Valley. The good news is, it’s usually fixable! Often, the culprit is something simple, like a clogged aerator in your faucet or a showerhead full of mineral deposits. You might even have a partially closed shut-off valve somewhere in your plumbing system. But sometimes, it points to a bigger issue like a failing pressure regulator, a hidden leak, or even sediment buildup in your water heater, especially if it's an older unit.\n\nFirst, check if the low pressure is isolated to just one faucet or if it's a whole-house problem. If it's just one spot, cleaning or replacing that specific fixture's aerator or showerhead can often do the trick. If it's affecting your entire home, start by looking at your main water shut-off valve to ensure it's fully open – sometimes it gets bumped. For issues affecting your hot water, check your water heater's shut-off valve. If these simple steps don't resolve it, don't just ignore it. Low pressure could be a sign of a more serious, underlying plumbing problem that could lead to bigger, more expensive repairs down the line. We’ve got over 25 years of experience handling these kinds of issues for homes and businesses. It’s always best to get a professional to diagnose the root cause.\n\nDon't let low water pressure disrupt your daily routine or signal a hidden problem. Give Alpha-Plumbing Services a call at 623-734-7465, and we’ll figure out what’s going on and get your water flowing right again. We offer free estimates!",
+  "datePublished": "2026-08-19"
+}

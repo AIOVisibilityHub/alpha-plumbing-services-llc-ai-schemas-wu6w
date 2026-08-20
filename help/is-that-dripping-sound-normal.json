@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Is That Dripping Sound Normal?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Hearing a constant dripping sound, especially when no faucets are running, is usually a red flag for a pipe leak. It might seem like a minor annoyance, but that steady drip is essentially money going down the drain and potential damage brewing behind your walls or under your floors. The first sign, obviously, is the sound itself. But also keep an eye out for visible water spots on ceilings, walls, or floors, or even a sudden, unexplained spike in your water bill. If you're noticing musty smells, that could indicate hidden mold growth from a long-standing leak. Another subtle clue could be an unexpected drop in water pressure, especially if it's localized. Sometimes, leaks are really tricky to find because they're behind drywall or under slab foundations. While you can look for obvious puddles or wet spots, tracking down a hidden leak often requires specialized tools and a lot of experience. That’s where a professional plumbing service, like us, really comes in handy. We're well-versed in identifying and fixing all types of leaks in Goodyear, Peoria, and throughout the West Valley. Don't let a drip turn into a disaster; getting it checked out quickly can save you a lot of hassle and expense down the road.",
+  "datePublished": "2026-08-19"
+}

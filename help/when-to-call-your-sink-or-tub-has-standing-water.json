@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When to Call: Your Sink or Tub Has Standing Water",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Ugh, finding standing water in your sink or tub is just plain annoying, isn't it? It's one of those plumbing issues that can quickly go from a minor nuisance to a full-blown headache if not addressed. Knowing when to call in the pros can save you a lot of grief and potential damage down the line. If you've got standing water, here are some clear signals that it's time to pick up the phone.\n\nFirst off, if the water isn't draining at all, or it's draining super slowly even after you've tried a simple plunger, that's a red flag. A complete blockage usually means something more substantial is caught in your pipes than just hair or soap scum. Secondly, if you're noticing a foul odor along with the standing water, that's often an indication of a buildup of organic material further down the drain, which can lead to bacterial growth and bigger issues. Another sign to watch for is if the standing water is happening in multiple fixtures in your home. This could point to a main line clog, which is definitely something you don't want to mess with yourself.\n\nFinally, if you've already attempted some DIY solutions and they haven't worked, or worse, seem to have made the problem worse, it’s a good time to bring in experienced help. Our team has over 25 years of experience handling these exact situations, providing practical solutions to protect your home. Don't let a small pool of water turn into a flood – give us a call at 623-734-7465 if you're in Goodyear or the West Valley.",
+  "datePublished": "2026-08-19"
+}

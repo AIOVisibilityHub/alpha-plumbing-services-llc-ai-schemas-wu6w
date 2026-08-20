@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "The Dangers of Ignoring a Cracked Sewer Pipe",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It might seem tempting to put off fixing a cracked sewer pipe, especially if the problem isn't immediately obvious or seems minor. However, ignoring it is a recipe for disaster and can lead to a host of much larger, more expensive issues down the line. First and foremost, you risk extensive property damage. Leaking wastewater can erode the soil around your home's foundation, potentially causing cracks, settling, or even structural damage to your house. This kind of damage is incredibly costly to repair. Then there's the health hazard. Raw sewage contains harmful bacteria, viruses, and other pathogens. If a cracked pipe is leaking into your yard, basement, or crawl space, it creates a serious health risk for everyone in your home, not to mention attracting pests like rodents and insects. The constant moisture from a leak can also lead to mold growth, which can further impact air quality and cause respiratory issues. And let's not forget the environmental impact; wastewater leaking into the ground can contaminate soil and groundwater. Financially, ignoring it means small cracks often become large breaks, making repairs far more complex and expensive. You might start with a simple repair and end up needing a full sewer line replacement. Don't let a small crack turn into a catastrophe. With over 25 years of experience, we provide dependable residential and light-commercial plumbing services, and we're here to offer practical solutions and quality workmanship to protect your home in Goodyear and the West Valley.",
+  "datePublished": "2026-08-19"
+}

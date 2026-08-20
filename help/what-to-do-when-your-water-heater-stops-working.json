@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What to Do When Your Water Heater Stops Working",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Waking up to no hot water is never a good sign, especially here in the West Valley. It's a common plumbing emergency that can disrupt your entire day. But before you panic, there are a few things you can quickly check to help pinpoint the issue or at least prepare for a professional visit.\n\nFirst, confirm it’s not just a localized problem by checking other hot water faucets in your home. If only one faucet is affected, it might be an issue with that specific fixture. Next, for electric water heaters, check your circuit breaker; a tripped breaker is a super common fix. For gas water heaters, make sure the pilot light is lit. Sometimes it just blows out and can be relit easily following the instructions on the unit. Also, consider if there's been any recent work or changes to your home's water supply; sometimes, a simple valve might be accidentally turned off. If you’ve got a newer unit, sometimes there’s an error code displayed that can give you a clue. However, beyond these basic checks, messing with the internals of a water heater without expertise can be dangerous.\n\nIf these initial checks don't solve the mystery, it’s definitely time to call in the pros. Alpha-Plumbing Services, LLC specializes in water heater repairs and replacements throughout Goodyear and the surrounding areas. With our 25 years of experience, we can quickly diagnose whether it's a simple fix or if you need a new unit. Don't hesitate to call us at 623-734-7465 for reliable, quality service.",
+  "datePublished": "2026-08-19"
+}

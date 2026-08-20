@@ -1,0 +1,96 @@
+{
+  "name": "How Can I Stop My Drains from Clogging So Often?",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "Recurring drain clogs are super annoying, and they're often a sign that something needs to change in your home maintenance routine. The good news is, a lot of common clogs can be prevented with a few simple habits and a little awareness. Let’s talk about how to keep those drains flowing freely.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2",
+      "text": "First and foremost, be mindful of what goes down your drains. Kitchen sinks are notorious for grease and food particles. Instead of pouring cooking oils or fats down the drain, let them cool and solidify, then scrape them into the trash. Use a drain strainer to catch food scraps before they can cause problems. For bathroom drains, hair is the number one culprit. Install a hair catcher in your shower or tub drain to prevent those tangled messes from building up. You'll be amazed at how much gunk those catch!",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3",
+      "text": "Another great tip is to flush your drains regularly with hot water. After doing dishes or showering, let hot water run for a minute or two. This can help melt and flush away minor grease or soap scum buildup before it hardens into a stubborn clog. While chemical drain cleaners aren’t recommended for regular use, a mix of baking soda and vinegar can be a gentler, more natural way to keep drains fresh and help break down minor gunk. Pour half a cup of baking soda down the drain, followed by half a cup of white vinegar, let it sit for 30 minutes, then flush with hot water. If you're still battling frequent clogs despite these efforts, or if you have a serious blockage, it might be time for a professional drain cleaning. Our team at Alpha-Plumbing Services has the right tools, like drain cameras and hydro-jetting, to get your pipes truly clear and help prevent future issues for homes and businesses across Goodyear and the West Valley.",
+      "@type": "HowToStep",
+      "position": 3
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "description": "How Can I Stop My Drains from Clogging So Often?"
+}

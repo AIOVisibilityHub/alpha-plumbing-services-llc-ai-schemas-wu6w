@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Mistakes to Avoid When You Find an Unexplained Wet Carpet",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Finding a wet carpet with no clear source can be stressful, but making the wrong moves can turn it into a much bigger problem. Here are some common mistakes homeowners make and how to avoid them. First, don't ignore it or assume it's just condensation. Unexplained dampness almost always indicates a leak that needs immediate attention. Second, don't just put a fan on it and hope for the best. While drying the surface is good, it won't fix the underlying leak, and the problem will likely return, bringing mold along for the ride. Third, avoid attempting to tear up your flooring yourself unless you know exactly what you're doing. You could accidentally damage pipes, electrical lines, or other parts of your home's structure. Fourth, don't wait for mold to appear or for your water bill to spike. The sooner you identify and address the source, the less damage and expense you'll incur. Fifth, don't assume every plumber can handle complex leak detection. It requires specialized tools and experience to accurately pinpoint hidden leaks without unnecessary demolition. At Alpha-Plumbing Services, LLC, we have over 25 years of experience in leak detection and repair throughout the West Valley. We provide practical solutions to protect your home from these hidden water issues.",
+  "datePublished": "2026-08-19"
+}

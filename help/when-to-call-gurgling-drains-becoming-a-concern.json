@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When to Call: Gurgling Drains Becoming a Concern",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's no fun hearing those strange gurgling sounds coming from your sinks, tubs, or toilets. Often, it's an early warning sign that something's not quite right with your home's plumbing system. While it might seem minor at first, persistent gurgling can point to a variety of issues, some of which require professional attention to prevent bigger problems. Knowing when to reach out to the experts can save you from potential water damage and expensive repairs down the line.\n\nIf the gurgling noises happen every time you use a specific fixture, or even when you use a different fixture nearby, that's a key indicator. For instance, if flushing a toilet causes your shower drain to gurgle, you likely have a shared drain line that's partially obstructed. Another clear signal to call in a professional is if the gurgling is accompanied by very slow draining, or if you start seeing standing water in your sinks or tubs. These combined symptoms almost always mean there's a significant clog building up somewhere in your plumbing system. If you've tried simple fixes like plungers and the gurgling continues, or if it seems to be getting worse, it's definitely time to bring in the pros. Also, any unpleasant odors emanating from the drains along with the gurgling point to a buildup of waste that needs to be addressed promptly.\n\nOur team has been providing dependable residential plumbing services for over 25 years across Goodyear and the entire West Valley. We handle everything from everyday drain cleaning to more complex sewer issues. If you're experiencing these kinds of persistent gurgles, don't hesitate to contact us. We offer practical solutions and quality workmanship to protect your home. You can reach us at 623-734-7465 for service in areas like Phoenix, Young Town, and El Mirage.",
+  "datePublished": "2026-08-19"
+}

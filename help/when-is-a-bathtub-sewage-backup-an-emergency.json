@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When is a Bathtub Sewage Backup an Emergency?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Discovering sewage in your bathtub is almost always an emergency, requiring immediate attention to protect your home and health. This isn't just a minor inconvenience; it signals a significant issue within your main sewer line that needs to be addressed quickly. Here are some key indicators that it's definitely time to call in the professionals: \n* **Actual raw sewage is visible:** If you see any fecal matter or foul-smelling, dark water, it’s an urgent situation. \n* **Multiple drains are affected:** If your toilet, shower, and sinks are all backing up or draining slowly, it points to a blockage in the main line, which is an emergency. \n* **Strong, persistent sewer gas odors:** These smells can indicate a serious break or clog that needs immediate repair. \n* **Water won't drain at all:** If water simply sits and won't go down, the blockage is severe. \nTrying to handle a main sewer line blockage yourself can be risky, ineffective, and lead to even greater damage. For over 25 years, Alpha-Plumbing Services, LLC has provided practical solutions for plumbing emergencies like these throughout Goodyear and the West Valley. Don’t hesitate to contact us for swift, reliable service.",
+  "datePublished": "2026-08-19"
+}

@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Why Are Tree Roots Getting Into My Sewer Line?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Tree roots are incredibly persistent, and they're naturally drawn to sources of water and nutrients, which makes your sewer lines a prime target, especially here in Arizona where moisture is at a premium. Even the tiniest crack, loose joint, or compromised seal in your pipes can release a small amount of water vapor. To a tree root, that vapor is like a beacon, signaling a water source. Once a root finds its way into a small opening, it starts to grow, expanding within the pipe. As it grows, it acts like a sponge, absorbing water and nutrients, which causes it to thicken and spread. This expansion can quickly turn a minor intrusion into a major blockage, trapping debris, toilet paper, and waste, eventually leading to serious backups and even pipe damage. Often, older pipes made of clay tile or cast iron are more susceptible due to their materials and how they were joined, but even modern PVC pipes can be vulnerable if there’s a weak point. Regular maintenance, especially if you have mature trees near your sewer lines in places like Goodyear, Avondale, or Surprise, is key to preventing this issue from escalating into a plumbing nightmare. Our team at Alpha-Plumbing Services has seen it all when it comes to tree root intrusions, and we're here to help diagnose and resolve these stubborn problems.",
+  "datePublished": "2026-08-19"
+}

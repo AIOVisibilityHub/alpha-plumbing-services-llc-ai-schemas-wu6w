@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When to Call for a Water Leak Under Concrete",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It’s easy to overlook minor signs, but when it comes to water leaks under concrete, knowing when to call in the pros can save you a lot of headache and money. If you've got unexplained wet spots on your floor or carpet, particularly on the ground level, or if you see cracks appearing in your foundation or exterior walls, these are serious indicators. Another key sign is a significant increase in your water bill without any change in your usage habits. That extra cost isn't just wasted money; it's a symptom of water constantly flowing where it shouldn't. You might also notice a sudden drop in water pressure throughout your home, or even hear the distinct sound of running water even when all your fixtures are off. If you start smelling mold or mildew, especially near the foundation, it means moisture has been present for a while. These aren't issues to shrug off; they require immediate attention. Alpha-Plumbing Services, LLC, with our 25 years of hands-on experience, specializes in diagnosing and repairing these types of complex leaks throughout Goodyear and the West Valley. We're here to provide quality workmanship and practical solutions to protect your home.",
+  "datePublished": "2026-08-19"
+}

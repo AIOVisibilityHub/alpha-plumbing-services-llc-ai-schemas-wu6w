@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Is Brown Water from Your Tap Really a Big Deal?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's natural to be concerned when you see brown water pouring from your faucet. While it's certainly unpleasant, the good news is it's often a temporary nuisance, but it’s crucial to understand what’s causing it. Most of the time, that brownish tint is due to rust or sediment that has been stirred up. Think about things like water main breaks, nearby construction that vibrates underground pipes, or even routine maintenance like fire hydrant flushing in your area. Older homes with galvanized pipes are also more prone to rust issues over time. While a quick, temporary discoloration might not be a health hazard for washing, it’s always best to avoid consuming it until it runs clear. If the brown water sticks around for more than an hour or two after running cold water, or if it's a recurring problem, then it’s definitely a sign that something more significant is going on within your plumbing system. Persistent brown water could indicate serious pipe corrosion, which can lead to leaks, reduced water pressure, and even costly damage. Don't just cross your fingers and hope it goes away; a plumbing inspection can pinpoint the exact cause. If you're consistently seeing brown water, or if it's accompanied by other issues like low pressure or strange smells, it's time to call the pros at Alpha-Plumbing Services, LLC. We’re here to ensure your water is clean and clear for homes and businesses in Goodyear and across the West Valley.",
+  "datePublished": "2026-08-19"
+}

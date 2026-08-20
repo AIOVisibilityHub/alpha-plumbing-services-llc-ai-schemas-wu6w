@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Why is my concrete floor warm in one spot?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Noticed a warm spot on your concrete floor? It's a common homeowner headache and usually points to one main culprit: a slab leak. This isn't just a minor annoyance; it often means there's a hot water pipe running beneath your foundation that's sprung a leak. The escaping hot water heats the surrounding concrete, making that one area feel noticeably warmer to the touch than the rest of the floor. It can be sneaky because sometimes the only sign is that warm patch, or maybe a surprisingly high water bill. Ignoring it isn't an option, though, because a persistent leak under your slab can lead to significant structural damage over time, not to mention creating an ideal environment for mold and mildew. Keep an eye out for any other signs, like changes in your water meter readings when no water is being used or sounds of running water when all faucets are off. Catching it early can really save you a lot of trouble down the line. If you're sensing that warmth, it's wise to get it checked out. We've got over 25 years of experience in the West Valley handling these kinds of issues, and our team is ready to help.",
+  "datePublished": "2026-08-19"
+}

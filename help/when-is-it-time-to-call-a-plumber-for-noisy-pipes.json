@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When is it Time to Call a Plumber for Noisy Pipes?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Noisy pipes can be a real nuisance, and sometimes they're just a sign of normal system operation, like when your water heater is kicking on. But how do you know when that 'normal' sound crosses the line into 'problem' territory? It's a great question, and knowing when to call a pro can save you a lot of grief. Here are some key signals that it's time to pick up the phone: you hear a banging sound (water hammer) that won't quit, as this can lead to pipe damage; whistling or screeching sounds that suggest a constricted pipe or failing valve; gurgling noises from drains that might indicate a blockage or venting issue; a sudden increase in pipe noise where there wasn't much before; or if the noise is accompanied by other problems, like low water pressure or discolored water. Don't ignore these signs! While some minor issues might be DIY-fixable, anything persistent, escalating, or paired with other plumbing woes really warrants a professional look. A licensed plumber can accurately diagnose the root cause, whether it's high water pressure, loose pipes, or a faulty component, and provide a reliable solution. If your pipes are talking to you a little too loudly, it’s best to call Alpha-Plumbing Services, LLC. We’re ready to quiet those pipes down for you in Goodyear and throughout the West Valley.",
+  "datePublished": "2026-08-19"
+}

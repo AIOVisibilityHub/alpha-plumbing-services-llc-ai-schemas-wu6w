@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When Does a Noisy Water Heater Need Professional Help?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It’s normal for your water heater to make some sounds, especially as it heats water, but certain noises are definite indicators that it’s time to call in a professional. If you're hearing loud banging, popping, or rumbling that's significantly louder than usual, it often signals a heavy buildup of sediment in the tank. While a little sediment is common, too much can impede heating efficiency and even damage the tank lining over time, potentially leading to leaks down the road. Another sign to watch for is a persistent high-pitched whine or whistling sound, which could point to a faulty heating element or a problem with water pressure or flow within the unit. If you're experiencing a combination of noise with other issues, like a decrease in hot water supply, discolored hot water, or any signs of leaking, that's a clear signal to get an expert involved. Trying to diagnose or fix complex internal water heater issues yourself without proper experience can be risky and might cause further damage. Alpha-Plumbing Services, LLC has over 25 years of hands-on experience, providing dependable residential and light-commercial plumbing services across Goodyear, Avondale, Surprise, and the entire West Valley. If your noisy water heater has you worried, don't hesitate to give us a call at 623-734-7465.",
+  "datePublished": "2026-08-19"
+}

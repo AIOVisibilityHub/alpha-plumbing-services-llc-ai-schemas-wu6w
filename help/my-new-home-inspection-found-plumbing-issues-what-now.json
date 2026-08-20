@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "My new home inspection found plumbing issues, what now?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Buying a new home is exciting, but finding plumbing problems during the inspection can be stressful. Don't panic! It's actually a great opportunity to get a clear picture of what you're dealing with before you close. The first thing you'll want to do is carefully review the home inspector's report. Look for specific details about the plumbing issues, like their location, severity, and any photos provided. This gives us a solid starting point.\n\nNext, it’s a smart move to get a second opinion from a licensed plumber who specializes in home inspection follow-ups. A general home inspector can spot visible issues, but a plumbing expert can dive deeper, diagnose the root cause, and give you an accurate estimate for repairs. We've got over 25 years of experience in diagnosing and repairing all sorts of residential plumbing problems, so we know what to look for. They can confirm whether the issues are minor fixes or indicate more significant, costly repairs.\n\nOnce you have a plumbing professional's assessment, you're in a much stronger position to negotiate with the seller. You can ask for repairs to be made, a credit towards closing costs, or a reduced purchase price. Having detailed information from a reputable plumber like Alpha-Plumbing Services, LLC gives you leverage. Don't hesitate to use it to protect your investment. Ready for a professional plumbing assessment? Give us a call!",
+  "datePublished": "2026-08-19"
+}

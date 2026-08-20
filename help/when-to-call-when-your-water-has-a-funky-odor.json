@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When to Call: When Your Water Has a Funky Odor",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Having water that smells off can be really unpleasant and might signal a deeper issue than you think. If you're noticing a distinct odor – maybe it's like rotten eggs, sulfur, or even a moldy, earthy smell – it's definitely a cue to pay attention. This isn't just about unpleasantness; it's about understanding what's going on with your home's water system. A strong sulfur smell often points to hydrogen sulfide gas, which can be present in groundwater or produced by bacteria, especially in your water heater or well system. If the smell is more earthy or musty, it could be from organic matter, perhaps in a less-used drain or an issue with your water supply. You should consider calling a professional plumber if the odor is consistent, doesn't disappear after flushing the lines for a few minutes, or if it's accompanied by any changes in water color or taste. These are all signs that a more thorough investigation is needed. A licensed plumber can accurately identify the source, whether it's a bacterial issue in your hot water tank, a problem with your well, or something else entirely. Alpha-Plumbing Services offers expertise in diagnosing and resolving various water quality issues to ensure your household water is safe and pleasant.",
+  "datePublished": "2026-08-19"
+}

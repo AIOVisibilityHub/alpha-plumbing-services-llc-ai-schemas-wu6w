@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Why Am I Running Out of Hot Water So Quickly?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's super frustrating when you jump in for a nice, hot shower and it turns icy cold way too fast, right? This common issue can really throw off your morning, and there are a few usual suspects behind it. Understanding what might be happening can save you a headache and help you decide the next steps.\n\nFirst off, check your water heater's size. If your family has grown or your hot water demands have increased, your current tank might simply be too small to keep up. An undersized unit will always struggle. Another big culprit could be a failing heating element, especially in electric water heaters. If one or both elements aren't working properly, your water won't heat efficiently or quickly. Sediment buildup at the bottom of your tank is also a huge problem; it reduces the tank's capacity and makes it work harder, meaning less hot water for you. Sometimes, a faulty thermostat is to blame, incorrectly signaling that the water is hot enough when it's not. Lastly, a slow leak in your hot water lines, even a small one you don't immediately see, can constantly drain away your hot water supply. These issues can often be identified by a professional.\n\nIf you're constantly finding yourself without enough hot water, don't let it become your new normal. Our team at Alpha-Plumbing Services has over 25 years of experience diagnosing and fixing these kinds of problems, from repairs to water heater replacements. Give us a call at 623-734-7465, and we'll help get your hot water flowing consistently again.",
+  "datePublished": "2026-08-19"
+}

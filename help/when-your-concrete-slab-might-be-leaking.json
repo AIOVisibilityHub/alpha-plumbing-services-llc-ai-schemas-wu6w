@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When Your Concrete Slab Might Be Leaking",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It’s tough when water issues aren't obvious, and slab leaks are masters of disguise, silently causing damage beneath your home’s foundation. But there are some key indicators that shout for attention if you know what to look for. One big sign is a mysterious, unexplained increase in your water bill. If you haven't been watering the lawn more or taking longer showers, and that bill is skyrocketing, a hidden leak under your slab is a prime suspect. Another clear signal is hearing the sound of running water, even when all your faucets are off and appliances aren't in use. That constant trickling sound could be water escaping from a damaged pipe below. Be on the lookout for visible signs too: damp spots or mold on your carpets or flooring, particularly in areas near walls, or even cracks appearing in your foundation or interior walls. If it's a hot water line leaking, you might even notice unusually warm spots on your floor. Any of these symptoms, especially if they persist, are strong reasons to get a professional evaluation. These aren't issues to take lightly; addressing them quickly can prevent extensive and costly structural damage to your property. Don't wait until the problem becomes a flood; reach out to a professional in Goodyear or the West Valley area for expert detection and repair.",
+  "datePublished": "2026-08-19"
+}

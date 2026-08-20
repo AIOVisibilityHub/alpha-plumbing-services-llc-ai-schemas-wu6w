@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When to Call for a Suspected Slab Leak",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Suspecting a slab leak can be pretty stressful, but knowing the signs can help you act quickly. If you're noticing unexplainable damp spots on your floors or walls, especially in areas where plumbing runs, that's a big red flag. Another common sign is a sudden, mysterious spike in your water bill – if your usage hasn't changed but the bill has, a hidden leak might be the culprit. You might also hear the constant sound of running water even when all faucets are off; it's a sound that can drive you a bit crazy! Sometimes, you'll even feel unusually warm spots on your floor, indicating a hot water line leak beneath the concrete. Don't ignore these signals; they're your home's way of telling you there's a problem brewing. Catching these issues early is key to preventing further damage. If you're seeing any of these signs, it's definitely time to get a professional plumber like Alpha-Plumbing Services, LLC to come take a look. We've got over 25 years of experience locating and repairing these tricky leaks in Goodyear and the West Valley, and we're committed to practical solutions.",
+  "datePublished": "2026-08-19"
+}

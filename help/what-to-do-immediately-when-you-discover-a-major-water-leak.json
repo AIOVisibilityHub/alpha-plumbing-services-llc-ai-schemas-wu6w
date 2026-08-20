@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What to Do Immediately When You Discover a Major Water Leak",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Finding a significant water leak in your home can be startling, but acting quickly and correctly can minimize damage. Your very first step should always be to shut off your main water supply immediately. Knowing where your main shut-off valve is located is crucial for any homeowner. Next, if safe to do so, try to contain the water with buckets or towels to prevent it from spreading. Don't try to assess the full extent of the damage or attempt a major repair yourself while water is still gushing; your priority is stopping the flow. Avoid touching any electrical outlets or appliances if water is nearby to prevent electrocution hazards. Once the water is off, document the damage with photos or videos for insurance purposes. Then, and only then, should you reach out to a trusted plumbing professional. We have over 25 years of hands-on experience dealing with all types of plumbing emergencies, including major leaks and water-line issues, for homes and businesses across Goodyear and the West Valley. We're here to provide immediate, effective solutions.",
+  "datePublished": "2026-08-19"
+}

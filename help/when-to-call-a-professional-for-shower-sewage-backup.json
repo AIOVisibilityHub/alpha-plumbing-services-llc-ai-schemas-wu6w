@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When to Call a Professional for Shower Sewage Backup",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It’s a truly unpleasant experience when you find sewage backing up into your shower, and it’s usually a clear sign that you need professional help, fast. This isn't just a simple clogged drain; it indicates a more serious issue with your main sewer line. Here are some definite signs it’s time to pick up the phone: \n* **Multiple fixtures are backing up:** If your toilets, sinks, and showers are all struggling, it's almost certainly a main line problem. \n* **Sewage coming up:** Any appearance of raw sewage, whether in your shower, tub, or toilet, signals an urgent and unsanitary situation. \n* **Unpleasant odors persist:** A lingering, foul, sewer-like smell that won't go away often points to a break or blockage in your sewer system. \n* **Slow drainage across your home:** If all your drains are suddenly sluggish, it’s a system-wide issue, not just a local clog. \n* **Gurgling sounds from drains:** These noises often indicate air being trapped by a blockage. \nAttempting a DIY fix for a main sewer line issue can be dangerous and usually ineffective. For dependable residential service in Goodyear and the West Valley, contact Alpha-Plumbing Services, LLC. We’ve got over 25 years of experience handling these exact problems.",
+  "datePublished": "2026-08-19"
+}

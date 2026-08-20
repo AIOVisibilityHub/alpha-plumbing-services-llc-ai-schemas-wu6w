@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Why is my water bill suddenly so high?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's a frustrating surprise to open your water bill and find it's skyrocketed for no obvious reason. Often, this is a tell-tale sign of an underground water leak. These leaks can be tricky because they're hidden, slowly seeping water into the ground without you even noticing puddles on the surface. You might just see an unusually green or lush patch of grass, or feel a squishy spot in your yard. Don't ignore these clues, as even a small leak can waste thousands of gallons of water and lead to higher utility costs and potential damage to your property's foundation over time. If you've ruled out all other possibilities like running toilets or dripping faucets, and your water meter is still spinning when no water is in use, it's a strong indicator. It's smart to call a professional who has the right tools, like ground-penetrating radar or acoustic leak detection, to pinpoint the source. Catching it early can save you a lot of hassle and expense. Alpha-Plumbing Services, LLC can help homeowners in Goodyear and the West Valley detect and repair these elusive leaks before they become a major headache.",
+  "datePublished": "2026-08-19"
+}

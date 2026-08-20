@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Why is my water meter constantly running?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's definitely unsettling to see your water meter spinning when you know all the taps are off. Many folks jump straight to thinking it's a huge leak, and while that's certainly possible, it's not the only culprit. Sometimes, it could be a smaller, less obvious issue like a running toilet, a leaky irrigation system, or even a hidden pinhole leak in a pipe behind a wall. These persistent drips, though seemingly minor, can really add up on your water bill and cause damage over time. One common mistake people make is ignoring it, hoping it'll just go away. Trust us, it won't. Another oversight is failing to check all possible sources – don't just look at visible fixtures. Check your irrigation timer, the fill valve in your toilet tank, or even a seldom-used outdoor faucet. Trying to tackle a complex leak without the right tools can also be a time-waster; you might overtighten something or miss the real source. If you've done the basic checks and the meter is still running, or you're unsure how to proceed, it's definitely time to call in the pros. We've got the specialized equipment and the know-how to pinpoint exactly where that water is going, saving you from headaches and unnecessary costs down the line.",
+  "datePublished": "2026-08-19"
+}

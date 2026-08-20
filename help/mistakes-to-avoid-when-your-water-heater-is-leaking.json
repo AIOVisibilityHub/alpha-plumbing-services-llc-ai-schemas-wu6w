@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Mistakes to Avoid When Your Water Heater is Leaking",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When you discover a water heater leak, it's easy to make a few common mistakes that can actually worsen the problem or even create new ones. First, don't ignore it! Even a small leak can lead to significant water damage or mold growth if not addressed promptly. It might seem minor, but it could be a symptom of a larger issue. Another mistake is trying to DIY a major repair beyond tightening a simple loose fitting. Unless you're a seasoned plumber, tackling a tank leak or complex valve issue can be dangerous and ineffective, potentially voiding warranties or causing more extensive damage. Many folks also forget to turn off the water supply and power (gas or electric) to the unit immediately. This is crucial for safety and to prevent further leakage. Failing to assess the extent of the damage is another pitfall; assuming it's just a little water can lead to overlooking hidden issues like compromised flooring or drywall. Finally, delaying professional help is a big one. While you might want to wait and see, water heater issues often escalate quickly. For anything more than a straightforward drip, or if you're unsure, it’s best to contact an experienced professional. Alpha-Plumbing Services, LLC serves Goodyear, Peoria, Glendale, and the entire West Valley, and we’re ready to provide practical solutions. Give us a ring at 623-734-7465 – we're happy to help!",
+  "datePublished": "2026-08-19"
+}

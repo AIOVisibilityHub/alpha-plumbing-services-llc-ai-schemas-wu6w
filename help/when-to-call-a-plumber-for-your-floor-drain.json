@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When to Call a Plumber for Your Floor Drain",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It can be unsettling to see water standing around your floor drain, or worse, backing up into your home. While a small amount of debris can sometimes be cleared with a bit of effort, there are definite signals that it's time to pick up the phone and get a professional plumber involved. Knowing these signs can save you a lot of stress and potential damage. First, if you notice sewage or foul-smelling water backing up from your floor drain, this is a critical emergency. This indicates a significant blockage in your main sewer line and requires immediate professional intervention to prevent health risks and extensive property damage. Second, if you've tried plunging or using a drain snake and the drain remains clogged, or if the problem keeps coming back, the blockage is likely beyond a simple DIY fix. Third, persistent gurgling sounds from your floor drain, especially when other plumbing fixtures are in use, can indicate a larger blockage in your plumbing system. Fourth, if you have multiple drains in your home (like sinks or toilets) that are also draining slowly or backing up, this often points to a main line issue affecting your floor drain as well. For our customers in Litchfield, Young Town, or Tolleson, Alpha-Plumbing Services has the expertise to diagnose and resolve even complex floor drain issues, ensuring your home's plumbing is functioning correctly. Don't hesitate to reach out for help; we're happy to provide dependable service.",
+  "datePublished": "2026-08-19"
+}

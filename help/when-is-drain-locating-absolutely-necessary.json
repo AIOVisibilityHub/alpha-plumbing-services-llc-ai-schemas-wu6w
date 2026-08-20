@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When is Drain Locating Absolutely Necessary?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "You might not think about where your drain lines run until you need to. But sometimes, knowing the exact path of your underground plumbing is crucial for all sorts of projects around your home or business. Drain locating becomes absolutely necessary before any kind of excavation, whether you're planning a new landscaping project, installing a pool, or even just planting a new tree. Accidentally hitting a sewer line during digging can lead to a huge, expensive mess and a major headache, not to mention potential safety hazards. It's also incredibly important if you're dealing with a persistent drain problem that requires repair. If you have a broken or collapsed pipe, we need to know precisely where it is to avoid unnecessary digging and minimize disruption to your property. For commercial properties, accurate drain locating can prevent costly delays and damage during construction or renovation. Essentially, anytime you're going to break ground or need to access a specific point in your drain system, getting those lines located beforehand is a smart, preventive step. If you're in Goodyear or the West Valley and have a project coming up that requires knowing your drain line's exact location, Alpha-Plumbing Services can help.",
+  "datePublished": "2026-08-19"
+}

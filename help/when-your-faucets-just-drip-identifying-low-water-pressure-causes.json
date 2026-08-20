@@ -1,0 +1,84 @@
+{
+  "name": "When Your Faucets Just Drip: Identifying Low Water Pressure Causes",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "Dealing with constantly dripping faucets or a weak shower stream can be incredibly frustrating and leave you wondering what's going on with your home's water supply. Low water pressure isn't just an inconvenience; it can be a symptom of various underlying plumbing issues that need to be addressed. It's super helpful to understand some of the common culprits behind this problem so you know when to call for help. First off, a partially closed main shut-off valve is often an overlooked reason; sometimes it just gets bumped. Secondly, mineral deposits and sediment build-up inside pipes, especially in older homes, can significantly reduce the internal diameter of your plumbing, restricting water flow. This is a common issue in our West Valley communities like Avondale and El Mirage. Thirdly, a malfunctioning pressure regulator, which is designed to keep your home’s water pressure at a safe and consistent level, could be the problem; if it fails, pressure can plummet. Fourth, a major water leak, perhaps in your main line or even a slab leak, can divert water and reduce the pressure reaching your fixtures. Finally, issues with your water heater or even municipal water supply problems could be contributing factors. While you can check obvious things like fully opening shut-off valves or cleaning aerators, complex issues like pipe corrosion or a failing pressure regulator definitely require professional intervention. Our team at Alpha-Plumbing Services has been resolving low water pressure challenges for over 25 years. If you're tired of those weak trickles, contact us at 623-734-7465 for reliable low water pressure repair.",
+      "@type": "HowToStep",
+      "position": 1
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "description": "When Your Faucets Just Drip: Identifying Low Water Pressure Causes"
+}

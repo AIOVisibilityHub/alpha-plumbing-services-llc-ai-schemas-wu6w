@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "I Smell Sewer Gas in My House – Is It Serious?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Catching a whiff of sewer gas in your home is definitely more than just an unpleasant odor; it’s a signal that something isn't quite right with your plumbing system, and it could be serious. That rotten egg smell you're noticing is usually hydrogen sulfide, a component of sewer gas. While small amounts might not be immediately dangerous, prolonged exposure or higher concentrations can cause health issues, including headaches, nausea, and in rare cases, more severe respiratory problems. More importantly, sewer gas can contain methane, which is flammable, so there's a potential fire hazard. The odor itself indicates that the protective barrier (the water in your P-traps) that prevents sewer gases from entering your home might be compromised, or there could be a crack in a drain pipe or vent stack. It's not something to ignore or try to mask with air fresheners. Addressing the source quickly is crucial for both your health and the safety of your home. Alpha-Plumbing Services is experienced in diagnosing and resolving sewer issues, and we use specialized equipment like drain cameras to find exactly where the problem lies. With over 25 years of experience serving Goodyear and the West Valley, we're committed to providing practical solutions to protect your home. Don't hesitate to call us if you're smelling sewer gas; it’s a job best left to the professionals.",
+  "datePublished": "2026-08-19"
+}

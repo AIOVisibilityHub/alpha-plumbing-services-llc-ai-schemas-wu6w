@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What Happens If You Ignore a Slab Leak?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Ignoring a slab leak might seem like a way to avoid a problem, but in reality, it just lets a small issue spiral into a much larger, more expensive one. First, that constant water flow beneath your home can lead to significant foundation damage. The soil supporting your concrete slab can erode, causing shifts, cracks, and even sinkholes, which are serious structural concerns. Second, you’ll likely see a massive increase in your water bills; all that wasted water isn't free! Third, the prolonged moisture can create a perfect breeding ground for mold and mildew, not only damaging your floors and walls but also potentially impacting your indoor air quality and health. Fourth, if it's a hot water line, the continuous heat can cause further damage to the concrete itself. Over time, neglecting these leaks can even lead to damage to your home’s flooring, cabinetry, and other finishes, requiring extensive and costly renovations beyond just the pipe repair. It's truly not worth the risk. If you suspect a slab leak, getting it checked out quickly by a professional like Alpha-Plumbing Services, LLC, is the best course of action. We’re in Goodyear and have the expertise to provide practical, lasting solutions.",
+  "datePublished": "2026-08-19"
+}

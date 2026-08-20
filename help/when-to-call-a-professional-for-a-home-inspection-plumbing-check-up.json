@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When to Call a Professional for a Home Inspection Plumbing Check-up",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "So you're buying a home, and you're wondering if you really need a separate plumbing professional to look things over during the inspection phase. The short answer is yes, absolutely! There are some clear signs it’s time to bring in the pros from Alpha-Plumbing Services, LLC to ensure you're making a sound investment. First off, if the home is older, say built before the 1970s or 80s, you’ll definitely want an expert to check for outdated piping materials like galvanized steel or polybutylene, which are notorious for issues. These older systems are often nearing the end of their lifespan and can be costly to replace.\n\nAnother key signal is if the general home inspection report flags *any* plumbing concerns, no matter how minor they seem. Things like low water pressure, visible leaks, signs of water damage, or even unusual odors could point to bigger, hidden problems like slab leaks or sewer line issues. A dedicated plumbing inspection can pinpoint the exact cause and potential repair costs. Also, if you're looking at a home that has had previous renovation work, especially DIY plumbing, it's wise to have it professionally evaluated. Improper installations can lead to significant problems down the road.\n\nUltimately, any time you're unsure about the plumbing system's integrity in a potential new home, that's your cue to call. A specialized plumbing inspection protects you from unexpected expenses and gives you peace of mind. For a thorough and reliable plumbing assessment for your home inspection in Goodyear and the West Valley, reach out to us today!",
+  "datePublished": "2026-08-19"
+}

@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When to Call a Pro for Your Laundry Drain",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's never fun dealing with a clogged laundry drain. While some minor issues can be a DIY fix, there are definitely times when picking up the phone and calling a professional plumber is the smartest move. You might wonder, 'When is it really necessary?' Here are a few key signs it's time to bring in the experts: First, if your washing machine drain is constantly overflowing, even with small loads, that's a serious problem indicating a significant blockage. Second, if you've tried plunging or basic remedies and the water is still draining sluggishly or not at all, the clog is likely too deep or stubborn for a homeowner to clear safely. Third, persistent foul odors coming from the drain could point to trapped organic matter or even sewer gas issues, which definitely require professional inspection. Fourth, hearing gurgling sounds from other drains in your home when the washing machine is running suggests a larger blockage affecting multiple lines. Lastly, if you notice water stains or actual leaks around your laundry area or basement floor near the drain, it's critical to get a plumber out quickly to prevent costly water damage. For our neighbors in Phoenix, Glendale, or Tolleson, Alpha-Plumbing Services has the experience and tools to diagnose and fix these problems correctly. We focus on practical, lasting solutions.",
+  "datePublished": "2026-08-19"
+}

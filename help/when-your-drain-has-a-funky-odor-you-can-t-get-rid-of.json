@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When Your Drain Has a Funky Odor You Can't Get Rid Of",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Ever notice a weird, funky smell wafting up from your kitchen or bathroom drain? It's not just unpleasant; it could be a sign of something more serious brewing down there. Most of us try a quick fix first, like pouring some hot water or a little baking soda down, but sometimes that just isn't enough. If that smell keeps coming back or gets worse, it’s probably time to dig a little deeper. Often, these odors are caused by a build-up of grease, food particles, hair, or even soap scum that creates a hospitable environment for bacteria. Eventually, this gunk can restrict water flow and create a really persistent stench. Don't let it fester! Ignoring it often means the problem gets tougher to clean later. Sometimes, the issue isn't even in the visible part of the drain but much further down in your pipes. When household remedies aren't cutting it, or you're starting to notice slower drainage along with the smell, it's a good idea to bring in someone with the right tools and expertise. Alpha-Plumbing Services, LLC has over 25 years of experience in the Goodyear area and we've seen it all. We can properly diagnose where the odor is coming from and clear out whatever's causing the stink, whether it's a simple clog or something a bit more complex. Give us a call at 623-734-7465 to schedule an appointment and get your drains smelling fresh again!",
+  "datePublished": "2026-08-19"
+}

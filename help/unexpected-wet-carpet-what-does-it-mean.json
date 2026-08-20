@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Unexpected wet carpet: What does it mean?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Stumbling upon a mysteriously wet carpet can be really unnerving, right? When there's no obvious spill or open window, it almost certainly means you've got a hidden water issue, and that's something you definitely need to address promptly. Usually, this points to some form of plumbing leak. It could be a supply line that's slowly dripping inside a wall, a compromised drain pipe, or even an issue with an appliance nearby, like your water heater or refrigerator's ice maker line. Sometimes, it might even be a slab leak under your foundation, especially if the wetness is consistent and located in a specific area on the ground floor. The water travels along the path of least resistance, so the wet spot you see might be a fair distance from the actual leak. It's super important not to just let it dry out and forget about it. Continuous moisture can lead to serious problems like mold growth, wood rot in your subfloor, and even damage to your home’s structural integrity over time. Keep an eye out for any lingering musty odors or an unexplained increase in your water bill—those are often additional clues. If you're in Goodyear or the West Valley, our team at Alpha-Plumbing Services, LLC has over 25 years of hands-on experience dealing with these sneaky leaks, and we're here to help you find the source and fix it right.",
+  "datePublished": "2026-08-19"
+}

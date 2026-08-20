@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When Is Professional Help Needed for Tree Roots in Pipes?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It can be tough to know if those slow drains are just a normal clog or something more serious like tree roots, but there are some clear signals that it's time to call in the professionals. If you're experiencing recurring clogs in the same drain, especially in lower-level fixtures or main lines, that's a big red flag. Tree roots tend to cause blockages that clear temporarily but keep coming back because the roots are still there. Another key indicator is hearing gurgling noises from your toilets or drains, or if water is draining very slowly from multiple fixtures around your home. If your lawn has unusually lush or wet spots, or if you notice sinkholes developing, these could be signs of a damaged sewer line leaking water and nutrients, attracting roots. A strong sewage odor outside your home, especially near sewer cleanouts, also suggests a problem. Finally, if you've already tried snaking the drain yourself and it hasn't solved the problem, or if you pulled back root fragments on the snake, then it's definitely time to bring in Alpha-Plumbing Services. We have specialized camera inspection equipment that can go right into your sewer lines to accurately locate and assess root intrusion, allowing us to provide the right solution. Don't let those roots wreak havoc on your plumbing; give us a call from anywhere in the West Valley for expert help.",
+  "datePublished": "2026-08-19"
+}

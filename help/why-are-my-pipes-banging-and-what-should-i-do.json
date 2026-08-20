@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Why Are My Pipes Banging and What Should I Do?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "That banging sound from your pipes, often called 'water hammer,' can be really startling! It typically happens when water flow is suddenly stopped or changed, creating a shockwave through the pipes. It’s not just annoying; left unchecked, water hammer can actually damage your plumbing system over time by loosening pipes, wearing down valves, and even leading to leaks. Common culprits include loose pipes within walls or ceilings, high water pressure, or even faulty components in appliances like washing machines or dishwashers. The good news is, sometimes it's an easy fix, like securing loose pipes or installing a water hammer arrestor. However, diagnosing the exact cause can be tricky, especially if the pipes are hidden. Ignoring persistent banging could lead to bigger problems, so it’s always best to get it checked out. If you've got persistent banging pipes and can't pinpoint the cause, or if the noise is getting worse, don't hesitate to reach out. Alpha-Plumbing Services, LLC has over 25 years of experience handling all sorts of plumbing mysteries, including those noisy pipes in your home or business across Goodyear and the West Valley.",
+  "datePublished": "2026-08-19"
+}

@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Can I Detect a Slab Leak Myself? What to Know",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It’s natural to want to figure out what’s going on when you suspect a plumbing problem, and with slab leaks, early detection is key. While you can certainly look for the classic signs, fully detecting and confirming a slab leak yourself is pretty tough. You can definitely keep an eye out for those initial indicators: a sudden spike in your water bill, the sound of running water when nothing's turned on, mysterious wet spots on your floor, or even warm areas on your concrete slab. You can also try a simple meter test: turn off all water-using appliances, make sure no one’s showering or flushing, then check your water meter. If the dial is still spinning, you likely have a leak somewhere. However, pinpointing the exact location of a leak under your foundation requires specialized tools like acoustic listening devices and thermal imaging cameras. Without this equipment, you're essentially guessing, which can lead to unnecessary and costly demolition. Plus, fixing a slab leak correctly often involves rerouting pipes or precise repairs that should only be handled by experienced plumbers. If you’re seeing any of these warning signs, especially if you’re in Sun City West, Tonopah, or anywhere in the West Valley, don’t gamble with your home’s foundation. It's best to call a professional for accurate detection and a long-lasting solution.",
+  "datePublished": "2026-08-19"
+}

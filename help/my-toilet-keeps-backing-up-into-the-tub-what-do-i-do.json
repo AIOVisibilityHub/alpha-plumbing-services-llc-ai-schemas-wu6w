@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "My Toilet Keeps Backing Up into the Tub – What Do I Do?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's super frustrating when your toilet decides to back up, especially when that wastewater starts making its way into your tub. This usually points to a significant clog in your main sewer line, which is the big pipe that carries all the waste from your home out to the municipal sewer system. When this line gets blocked, the water has nowhere to go but back up through the lowest drains in your house, and often, that's your tub or shower. Don't just ignore it, thinking it'll clear itself up, because it rarely does. In fact, a persistent blockage can lead to more serious issues like sewer line damage or even sewage overflowing into your home, which is a major health hazard and a huge mess to clean up. If you're seeing this happen, it means the problem has gone beyond a simple toilet clog, and it’s time to call in the professionals. Alpha-Plumbing Services has more than 25 years of experience dealing with drain cleaning and sewer issues in Goodyear and the West Valley. We use drain cameras and locating equipment to pinpoint the exact problem and get it fixed properly. Trying to clear a main line clog yourself with chemical drain cleaners can actually make things worse, potentially damaging your pipes or not fully addressing the blockage. You'll want an expert to assess the situation and implement a lasting solution to protect your home from future backups. Give us a call, and we’ll figure out what’s going on and how to get your drains flowing freely again.",
+  "datePublished": "2026-08-19"
+}

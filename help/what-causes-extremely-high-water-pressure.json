@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What causes extremely high water pressure?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "If you're noticing unusually strong water flow from your faucets, or hearing banging pipes, you might be dealing with extremely high water pressure in your home. While a strong shower feels great, excessive pressure can actually be quite detrimental to your entire plumbing system and appliances over time. We've been helping residents and businesses in Goodyear, Buckeye, Avondale, and surrounding areas manage their water pressure for over two decades, so we know a thing or two about what causes it.\n\nThe most common culprit for high water pressure is a malfunctioning or absent pressure-reducing valve (PRV). Many homes, especially in areas with high municipal water supply pressure, rely on a PRV to bring the incoming pressure down to a safe and manageable level (typically between 40-80 PSI). If this valve fails, or if your home was built without one, your internal plumbing will experience the full force of the city's water supply. Thermal expansion can also contribute to high pressure if you have a closed-loop plumbing system and no expansion tank with your water heater. As water heats up, it expands, and without anywhere to go, this expansion can significantly increase pressure within your system.\n\nAnother less common cause could be an issue with the main water supply coming into your neighborhood. Regardless of the cause, it's crucial to address high water pressure promptly. It can lead to premature wear and tear on fixtures, appliance breakdowns, and even burst pipes, leading to expensive water damage. Don't risk your home's plumbing health. Alpha-Plumbing Services can accurately diagnose the source of your high water pressure and provide effective, lasting solutions, from PRV installation to expansion tank services. We're committed to quality workmanship and protecting your home. Schedule an appointment today!",
+  "datePublished": "2026-08-19"
+}

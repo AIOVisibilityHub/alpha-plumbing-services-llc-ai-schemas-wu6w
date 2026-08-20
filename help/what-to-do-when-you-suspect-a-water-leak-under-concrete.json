@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What to Do When You Suspect a Water Leak Under Concrete",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Finding out you might have a water leak under your concrete foundation can be alarming, but taking the right steps can help protect your home. First off, keep an eye out for any unusual dampness or pooling water around your foundation or inside your home, especially on the ground floor. A major clue is if your water meter keeps spinning even when no water is actively being used inside or outside your house – that's a strong indicator of a hidden leak. Also, listen for persistent dripping or running water sounds when everything is supposed to be quiet. If you notice any of these signs, your immediate next step should be to reduce water usage as much as possible to minimize potential damage until a professional can assess it. While it might seem tempting to investigate yourself, attempting to dig or break through concrete without knowing exactly where the leak is can cause more harm than good. Instead, document what you're observing with photos or notes. The most critical step is to contact a plumbing professional who has experience with water leaks under concrete, like Alpha-Plumbing Services, LLC. We're based in Goodyear, Arizona, and we've got the expertise to pinpoint these issues accurately and offer practical solutions.",
+  "datePublished": "2026-08-19"
+}

@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "My Yard is Soggy – Is it a Sewer Problem?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Finding unexpected soggy spots in your yard, especially when it hasn't rained, is a pretty clear signal that something's not right underground. While it could be a leaking sprinkler system, it's often a tell-tale sign of a compromised sewer line. A damaged sewer pipe can leak wastewater into the surrounding soil, causing those damp areas and sometimes even an unpleasant odor. You might also notice unusually lush patches of grass, as the wastewater can act as a fertilizer. Another sign to look out for is indentations or sinkholes in your lawn, which can form if the soil around a broken pipe washes away. These issues aren't just an eyesore; they can lead to structural damage to your home's foundation or create unsanitary conditions. Trying to dig around blindly to find the source yourself can be dangerous and ineffective. This is where professional sewer line locating really comes in handy. We use specialized techniques to accurately find the exact spot of the leak without tearing up your entire yard. If you're experiencing mysterious wet spots or depressions in your yard in areas like Buckeye, Avondale, or Litchfield, it’s definitely time to get an expert opinion. Don't wait for the problem to escalate; reach out to Alpha-Plumbing Services, LLC for dependable solutions.",
+  "datePublished": "2026-08-19"
+}

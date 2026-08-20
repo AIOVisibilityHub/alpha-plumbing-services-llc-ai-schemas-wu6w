@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Mistakes to Avoid When You Hear Phantom Running Water",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Hearing the sound of running water when everything's supposed to be off can be perplexing, and it's easy to make a few common mistakes that can worsen the situation. First, don't just ignore it. That sound is a clear indicator of water moving where it shouldn't be, and ignoring it can lead to bigger problems like structural damage, mold, and inflated water bills. Second, avoid extensive DIY demolition to find the source. You might damage other pipes or components in the process, making the repair more complex and costly. Instead, start with simple checks like looking for visible drips and testing your toilets. Third, don't assume it's just your imagination or a neighbor's plumbing; trust your ears! Fourth, avoid delaying professional help if your basic checks don't pinpoint the problem. Hidden leaks can be tricky to locate without specialized equipment. Finally, don't forget to check outdoor spigots, irrigation systems, or even pool equipment if you have them, as these can also contribute to the sounds. If you're in Goodyear, Buckeye, or anywhere in the West Valley, Alpha-Plumbing Services, LLC has the expertise to accurately locate and repair the source of that phantom running water, ensuring your home is safe and dry.",
+  "datePublished": "2026-08-19"
+}

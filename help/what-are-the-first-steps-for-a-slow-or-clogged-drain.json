@@ -1,0 +1,96 @@
+{
+  "name": "What Are the First Steps for a Slow or Clogged Drain?",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "When you notice your sink or shower draining slowly, or worse, not at all, it can be pretty disruptive. Before you panic, there are a few initial steps you can take to try and clear the blockage. It’s all about starting with the simplest solutions and working your way up.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2",
+      "text": "First, grab a plunger. Make sure you have a good seal around the drain opening, then give it several vigorous plunges. Sometimes, simple suction and pressure are all it takes to dislodge a minor clog. For sinks, if there's a stopper, remove it and check for any hair or debris that might be caught there—you'd be surprised what you find! If the plunger doesn't work, or if it's a bathroom sink, you might try manually removing hair or gunk. A pair of pliers can help pull out anything visible near the drain opening. For tougher, but still minor clogs, a natural solution of baking soda and vinegar can sometimes help break things down. Pour about half a cup of baking soda down the drain, followed by an equal amount of white vinegar. Let it fizz for 20-30 minutes, then flush with hot water.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3",
+      "text": "It’s important to avoid pouring harsh chemical drain cleaners down your pipes, as they can cause damage over time. If these initial steps don't clear the clog, or if you're dealing with multiple slow drains, gurgling noises, or water backing up, that's your cue to call in the professionals. Our experienced plumbers at Alpha-Plumbing Services are well-versed in diagnosing and safely clearing all types of drain issues for residents and businesses in Goodyear and the surrounding West Valley, and we’re here to help when the DIY methods aren’t cutting it.",
+      "@type": "HowToStep",
+      "position": 3
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "description": "What Are the First Steps for a Slow or Clogged Drain?"
+}

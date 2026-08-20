@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Mistakes to Avoid When Your Toilet Backs Up into the Tub",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When your toilet backs up and water starts appearing in your tub, it’s a clear sign of a significant plumbing problem, likely a main sewer line blockage. Here are some common mistakes folks make and how to avoid them:\n\n1.  **Ignoring the Problem:** Thinking it’s just a one-time thing or hoping it will go away on its own is a big mistake. A main line clog will only get worse, leading to potential sewage backups and costly repairs. Address it promptly.\n\n2.  **Using Chemical Drain Cleaners:** These can be harsh on your pipes and often don't solve main line clogs effectively. They might even cause further damage or create dangerous fumes. It's better to leave the heavy lifting to the pros.\n\n3.  **Flushing Again and Again:** Each flush adds more water to an already overloaded system, increasing the risk of a sewage overflow in your home. Stop flushing as soon as you notice a backup.\n\n4.  **DIY Main Line Snaking:** While small clogs can sometimes be handled with a plunger, main line blockages require professional-grade equipment and expertise. Without the right tools, you could push the clog further or damage your sewer line. Alpha-Plumbing Services offers drain cleaning, camera, and locating services to accurately diagnose and resolve sewer issues safely. With over 25 years of experience, we're equipped to handle these bigger problems correctly, protecting your home from further damage.",
+  "datePublished": "2026-08-19"
+}

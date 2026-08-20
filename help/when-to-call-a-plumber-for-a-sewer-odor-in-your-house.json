@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When to Call a Plumber for a Sewer Odor in Your House",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "A persistent sewer odor in your house is more than just an annoyance; it’s a clear signal that something in your plumbing system needs attention. While sometimes it's just a dry drain trap, other times it points to more serious issues. Here are the signs that it's definitely time to get a professional plumber involved:\n\n*   **Constant Odor:** If the smell of sewer gas (often described as rotten eggs) is consistently present, even after running water in unused drains, it’s a red flag. This indicates a potential ongoing issue, not just a temporary one.\n*   **Multiple Locations:** If you’re smelling the odor in more than one area of your home, especially near different drains or fixtures, it could suggest a problem with your main drain line or vent system, which is a job for experts.\n*   **Accompanying Drain Issues:** If the sewer smell comes with slow drains, gurgling sounds, or backups in sinks or toilets, it’s highly probable you have a blockage that’s preventing proper ventilation and water flow.\n*   **Recent Plumbing Work:** If the smell appeared after a recent repair or installation, there might be an issue with how the new component was installed, leading to a leak or improper sealing.\n\nAlpha-Plumbing Services has over 25 years of hands-on experience in diagnosing and resolving all sorts of sewer issues, from drain cleaning to camera inspections. We serve Goodyear and the entire West Valley, and we’re equipped to find the source of those nasty odors and fix them right the first time. Don't risk your home’s air quality or your health; give us a call.",
+  "datePublished": "2026-08-19"
+}

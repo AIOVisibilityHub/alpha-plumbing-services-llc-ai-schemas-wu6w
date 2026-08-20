@@ -1,0 +1,90 @@
+{
+  "name": "What to Do When Your Sewer Line Collapses Unexpectedly",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "Discovering your sewer line has collapsed is definitely not how anyone wants to start their day. It’s a serious plumbing emergency that can cause major disruptions and potential damage to your home if not addressed quickly. The good news is, knowing what steps to take right away can minimize the chaos and get you on the path to a solution.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2",
+      "text": "First and foremost, try to limit water usage in your home as much as possible. Every flush, shower, or load of laundry sends more wastewater into a compromised system, which could lead to backups into your property. Next, it’s a good idea to locate and shut off your main water supply if you suspect a significant leak or backup that could cause further damage. This isn't always necessary for just a collapse, but it's a good precautionary measure if things are actively backing up. Once you’ve taken these immediate steps, your next move should be to call a professional plumbing service. A collapsed sewer line requires specialized knowledge and equipment for proper diagnosis and repair. You’ll want an experienced team that can quickly assess the damage, identify the cause, and recommend the most effective repair strategy, whether that's a targeted repair or a full replacement. We’ve been helping homeowners in Goodyear and the surrounding West Valley areas for over 25 years with these exact kinds of emergencies. Don't hesitate to reach out to Alpha-Plumbing Services, LLC, so we can help you navigate this stressful situation and restore your plumbing.",
+      "@type": "HowToStep",
+      "position": 2
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "description": "What to Do When Your Sewer Line Collapses Unexpectedly"
+}

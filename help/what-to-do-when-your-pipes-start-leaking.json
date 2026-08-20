@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What to Do When Your Pipes Start Leaking",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Noticing a persistent drip or a damp spot where it shouldn't be? It’s super easy to brush off a small leak as just a minor annoyance, but even the tiniest drip can lead to significant headaches down the line if you ignore it. Think about potential water damage to your floors, walls, and belongings, not to mention the possibility of mold growth, which is a whole other can of worms. Plus, those little drips can seriously increase your water bill over time without you even realizing it. You might think about trying to patch it up yourself with some DIY sealant, but often, the leak is just a symptom of a larger issue. Sometimes it's corrosion, high water pressure, or even a damaged pipe section. Trust me, a quick fix might hold for a bit, but it usually doesn't address the root cause. If you're seeing any signs of a leak – whether it's water stains, a musty smell, or just that nagging drip – it’s really best to have a professional take a look. We've got the tools and experience to pinpoint exactly what's going on and fix it right the first time, helping you avoid bigger, more expensive problems down the road. If you're in Goodyear, Buckeye, or anywhere in the West Valley, just give us a call at Alpha-Plumbing Services. We're here to help!",
+  "datePublished": "2026-08-19"
+}

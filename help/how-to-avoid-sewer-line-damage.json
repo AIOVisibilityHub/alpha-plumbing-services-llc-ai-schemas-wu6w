@@ -1,0 +1,84 @@
+{
+  "name": "How to Avoid Sewer Line Damage",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "Sewer line damage can be a huge headache and costly to fix, but a lot of it is actually preventable with a few smart habits. Avoiding these common mistakes can save you a lot of grief in the long run. First, resist the urge to flush anything other than toilet paper and human waste. Wipes, feminine hygiene products, paper towels, and even 'flushable' cat litter can easily cause blockages that lead to major sewer problems. Second, be careful about what goes down your kitchen sink. Grease, cooking oils, and food scraps can solidify in your pipes, creating stubborn clogs over time. It's much better to dispose of these in the trash. Third, avoid planting trees or large shrubs directly over your sewer lines. Their roots are notorious for seeking out moisture and can infiltrate and crush pipes, leading to significant damage. Fourth, don't ignore slow drains or minor clogs. These can be early warnings of bigger issues developing in your sewer line. Addressing them promptly can prevent a full-blown backup or break. Fifth, try to avoid using harsh chemical drain cleaners too often. While they might clear a small clog temporarily, they can corrode your pipes over time, weakening them and making them more prone to damage. Finally, consider regular professional inspections, especially if you have an older home or have experienced issues before. A camera inspection can spot potential problems before they become emergencies. For reliable sewer line services and advice in Goodyear, Waddell, or Sun City, Alpha-Plumbing Services, LLC is here to help you protect your home.",
+      "@type": "HowToStep",
+      "position": 1
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "description": "How to Avoid Sewer Line Damage"
+}

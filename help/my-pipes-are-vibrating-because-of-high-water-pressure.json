@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "My pipes are vibrating because of high water pressure",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Hearing your pipes hum, bang, or even vibrate when you turn on a faucet is definitely not a good sign. Often, this noise is a clear indicator that your home's water pressure is running too high, which can lead to a whole host of problems if left unaddressed. It’s a common issue we deal with for residential and light-commercial clients throughout Goodyear and the West Valley. High water pressure might seem like a good thing – powerful showers, right? But it can actually be quite damaging to your plumbing system and appliances.\n\nExcessive water pressure puts a lot of stress on your pipes, fixtures, and appliances like dishwashers, washing machines, and water heaters. This increased stress can lead to premature wear and tear, leaks, and even burst pipes. That vibrating sound you hear? It’s often the pipes struggling to contain the high pressure, or water hammer, where the water flow is suddenly stopped or changed, sending a shockwave through the system. Usually, the issue stems from a faulty or non-existent pressure-reducing valve (PRV) or a problem with the municipal water supply.\n\nIgnoring these warning signs can be an expensive mistake. You could be facing costly repairs to damaged appliances or extensive water damage from a burst pipe. While a simple gauge can tell you your pressure, correctly diagnosing and adjusting or replacing a PRV requires professional knowledge. At Alpha-Plumbing Services, we’ve got over 25 years of experience in diagnosing and fixing these kinds of issues. We can quickly assess your water pressure, install or repair a PRV, and ensure your plumbing system is protected. Give us a call at 623-734-7465 for a free estimate!",
+  "datePublished": "2026-08-19"
+}

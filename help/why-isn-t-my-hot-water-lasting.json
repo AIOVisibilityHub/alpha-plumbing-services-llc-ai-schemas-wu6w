@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Why Isn't My Hot Water Lasting?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "There's nothing quite as jarring as stepping into a nice hot shower, only for it to turn icy cold just a few minutes in. If you're noticing your hot water supply isn't lasting as long as it used to, or if you're constantly running out, it's a frustrating problem that often points to an issue with your water heater. Let's dig into some common reasons this happens and what you can do about it.\n\nFirst, consider the age of your water heater. Most traditional tank water heaters have a lifespan of about 8-12 years. If yours is getting up there in age, its efficiency naturally declines. Sediment buildup inside the tank can also reduce its capacity and heating efficiency over time, making it seem like you have less hot water than before. Alpha-Plumbing Services has over 25 years of experience, so we're well-versed in diagnosing and solving these issues.\n\nAnother big culprit could be an improperly sized unit. If your household's hot water demands have increased – maybe you've added a new family member or a larger washing machine – your current water heater might simply not be big enough to keep up. It's not necessarily broken, just overwhelmed. We offer water heater replacement and upgrades, and can help you determine the right size for your home.\n\nTemperature settings can also play a role. Sometimes, the thermostat on your water heater gets accidentally adjusted too low. While it's always good to be mindful of scalding risks, a setting that's too low means the water isn't getting hot enough to meet your needs, leading to it running out faster. Always check this simple fix first, but be careful not to set it too high.\n\nLastly, a failing heating element (for electric heaters) or a pilot light issue/burner problem (for gas heaters) could be causing inefficient heating. The unit might be running, but it's not actually generating hot water effectively or quickly enough. This is where professional help becomes important; troubleshooting these components safely requires expertise. Alpha-Plumbing Services, LLC is committed to quality work at an excellent price and a guarantee of proper installation.\n\nDon't resign yourself to cold showers. If your hot water supply is consistently letting you down, it’s time to investigate. Give Alpha-Plumbing Services, LLC a call at 623-734-7465 for an expert assessment or water heater replacement services.",
+  "datePublished": "2026-08-19"
+}

@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Troubleshooting Common Water Heater Problems",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When your water heater acts up, it can feel like a major crisis, especially if you're not sure what's going on. Before calling in the cavalry, there are a few common issues you can quickly check yourself. Knowing these basic troubleshooting steps might save you a service call or at least give you a clearer picture of the problem when you do call a pro.\n\nFirst, if you have an electric water heater and no hot water, head to your electrical panel and check for a tripped breaker. Resetting it might be all you need. For gas water heaters, the pilot light is your first check; if it's out, try carefully relighting it according to the instructions on your unit. If the water isn't hot enough, but there is some hot water, the thermostat might need adjusting. Be cautious, as too high a setting can be dangerous. Another common problem is a lack of hot water due to sediment buildup in the tank, which reduces its efficiency and capacity. You won't be able to fix this yourself, but recognizing the symptom, like rumbling noises, is helpful. Lastly, if you see any water around the base, that's a leak, and it's a sign that you definitely need expert help right away.\n\nWhile some checks are simple, always remember that water heaters deal with electricity, gas, and high temperatures, so safety is key. If you're unsure or uncomfortable, it's always best to call a professional. Alpha-Plumbing Services has over 25 years of experience dealing with all kinds of water heater woes in the Goodyear area. Give us a ring at 623-734-7465, and we'll help get your system back on track.",
+  "datePublished": "2026-08-19"
+}

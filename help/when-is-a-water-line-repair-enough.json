@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When Is a Water Line Repair Enough?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's a common dilemma: when do you just patch up a water line, and when do you need a full replacement? Knowing the difference can save you money and headaches. Sometimes, a simple repair is absolutely the right call, especially if the problem is isolated and relatively minor. You don't want to overspend if it's not necessary, but you also want to make sure you're getting a lasting solution for your home or business.\n\nGenerally, a repair is a good option for a single, small leak caused by something like a loose connection or a minor crack in an otherwise sound pipe. If the pipe itself is still in good condition, without widespread corrosion or damage, a targeted repair can effectively seal the issue. This is also often the case for damage from an accidental puncture, like hitting a line while digging. If your pipes are relatively new and just had some unfortunate isolated damage, repairing them makes a lot of sense. We often see situations where a small section needs attention, and the rest of the system is robust.\n\nHowever, it's crucial to have a professional assess the situation. What looks like a small problem on the surface could be indicative of deeper issues. Our team at Alpha-Plumbing Services, LLC can properly evaluate your specific situation to determine if a repair is truly the best long-term solution. We'll give you an honest assessment, leveraging our 25+ years of experience to ensure you're making the right choice for your home in Goodyear or the surrounding areas.",
+  "datePublished": "2026-08-19"
+}

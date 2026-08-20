@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When to Call a Pro for Your Leaking Pipes",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It can be tough to know when a little drip crosses the line into 'call a professional' territory, right? Here are some key signs that it's definitely time to get an expert from Alpha-Plumbing Services involved: \n*   **You're seeing visible water damage:** Stains on walls or ceilings, warped flooring, or peeling paint are clear indicators that water is escaping where it shouldn't be. This suggests the leak has been going on for a while and might be substantial.\n*   **Your water bill is unexpectedly high:** If your usage habits haven't changed but your bill keeps climbing, a hidden leak somewhere in your plumbing system could be the culprit, even if you don't see direct evidence.\n*   **There's a persistent musty odor:** That distinctive smell often points to mold or mildew growth, which thrives in damp conditions created by leaks, especially in concealed areas.\n*   **You hear dripping or running water when no fixtures are in use:** This could be a sign of a slab leak or a leak within your walls, which requires specialized detection and repair.\n*   **Your DIY attempts aren't holding:** If you've tried patching a leak yourself and it keeps returning, it's a strong signal that the issue is more complex and needs a professional diagnosis. Don't let a small leak turn into a costly catastrophe. If you're experiencing any of these issues in the West Valley, our team is ready to provide practical, lasting solutions.",
+  "datePublished": "2026-08-19"
+}

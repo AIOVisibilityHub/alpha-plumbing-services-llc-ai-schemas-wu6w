@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Spotting the Signs of a Clogged Sewer Line",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It’s easy to overlook plumbing issues until they become big, smelly, and inconvenient problems. A clogged sewer line is one of those things that can start subtly but quickly escalate if ignored. Knowing the warning signs can save you a lot of headache and expense down the road. We’re talking about more than just a slow drain here; these are signals that your home’s main artery is in trouble.\n\nFirst up, watch out for multiple clogged drains or fixtures acting up simultaneously. If your toilet is gurgling when you run the shower, or your washing machine drain causes the kitchen sink to back up, that’s a clear indication that the problem isn't isolated to one drain but is likely in your main sewer line. It's like a traffic jam in your plumbing system, and the backup is happening at a central point.\n\nNext, pay attention to any strange odors, especially sewer smells, wafting up from your drains. This is often caused by waste material trapped in your pipes, releasing gases that can’t escape properly. It’s not just unpleasant; it’s a strong signal that there’s a blockage preventing proper ventilation and flow. Our noncommission-based team is committed to honest communication and quality workmanship.\n\nAnother common sign is water backing up into unexpected places. For example, if flushing the toilet causes water to rise in your shower or bathtub, or if running the dishwasher leads to water appearing in the laundry room floor drain, your main sewer line is definitely struggling to carry waste away from your home. This is often when folks realize they need drain cleaning, camera, and locating services.\n\nLastly, if you notice standing water or exceptionally green, lush spots in your yard, particularly near where your sewer line runs, this could point to a crack or leak in the pipe. While not always a clog, it’s definitely a sewer issue that needs immediate attention. We specialize in everything from drain cleaning to sewer repair, with over 25 years of hands-on experience in residential and light-commercial plumbing services. We want to be your forever plumber.\n\nDon’t let these warning signs turn into a disaster. If you're seeing any of these issues, it’s time for a professional assessment. Reach out to Alpha-Plumbing Services, LLC at 623-734-7465 for an expert sewer camera inspection.",
+  "datePublished": "2026-08-19"
+}

@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Brown Water from Your Faucet? Here's What to Do.",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Waking up to brown water coming out of your faucet can be pretty alarming, right? It’s a common issue, and while it doesn't always mean a catastrophe, it definitely warrants your attention. Often, it's due to rust or sediment being disturbed in the water mains or your home's pipes. This can happen after a fire hydrant flush, nearby construction, or even just old pipes in your system. While usually not immediately harmful for bathing, it's best to avoid drinking or cooking with discolored water until it clears up. The first step is often to run your cold water tap at the lowest point in your house, like a utility sink or bathtub, for about 15-20 minutes to see if it clears. If it doesn't, or if the problem persists across all your faucets, it’s a good indicator that the issue might be more localized to your home's plumbing. Ignoring it isn't a good idea, as persistent brown water could signal corroding pipes, which can lead to leaks and other costly repairs down the road. If flushing doesn’t work, or if you frequently see brown water, that’s when it’s time to call in a pro. Alpha-Plumbing Services, LLC can help identify the source of the discoloration and recommend the best course of action to get your water crystal clear again for homes and businesses in Goodyear and the surrounding West Valley.",
+  "datePublished": "2026-08-19"
+}

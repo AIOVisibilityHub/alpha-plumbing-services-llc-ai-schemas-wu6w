@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When Should I Replace My Water Heater?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It’s a question many homeowners face: how do you know when it’s time to say goodbye to your old water heater and welcome a new one? Keeping an eye out for a few key signs can save you a lot of hassle and cold showers down the line. First off, age is a big factor; most traditional tank water heaters last about 8-12 years. If yours is creeping up on that age, it's wise to start thinking about replacement, even if it seems to be working fine. Another common red flag is a lack of hot water, or water that just isn't getting as hot as it used to. This could signal a failing heating element or an accumulation of sediment that's reducing its efficiency. Then there's the tell-tale sign of rust-colored water coming from your hot water tap – that usually means the inside of your tank is corroding, which is definitely not good. And of course, visible leaks around the base of the water heater are a clear indication that its structural integrity is compromised and it's likely time for a new installation. Ignoring these signs can lead to a sudden breakdown, water damage, and a scramble to find a solution. If you're seeing any of these issues, it's really best to have a professional plumber, like our team at Alpha-Plumbing Services, take a look. We can assess the situation and help you understand your best options for a reliable hot water supply in your Goodyear home or anywhere in the West Valley.",
+  "datePublished": "2026-08-19"
+}

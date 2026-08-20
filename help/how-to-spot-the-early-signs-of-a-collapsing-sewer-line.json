@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "How to Spot the Early Signs of a Collapsing Sewer Line",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's never fun to think about your sewer line, but catching issues early can save you a huge headache down the road. Collapsed sewer lines don't just happen overnight; they usually give off some warning signs. Keeping an eye out for these can help you act quickly and prevent bigger, costlier problems.\n\nFirst, pay attention to your drains. Are multiple drains in your home slow or frequently backing up? This isn't just a simple clog if it's happening throughout the house. Foul odors coming from drains or your yard are another big red flag. That sewage smell means something's definitely not right. You might also notice unusually lush, green patches in your lawn, or even depressions and sinkholes. This could indicate a leak from your sewer line providing extra nutrients (or washing away soil).\n\nIf your water bill suddenly spikes without any change in usage, it's worth investigating. Even though sewer lines carry wastewater *out*, a collapse can impact the integrity of surrounding pipes, leading to water loss elsewhere. Finally, listen for gurgling sounds from your toilets or drains, especially after flushing or using water. These noises often mean there's air trapped in your plumbing system due to a blockage or damage. If you're seeing any of these signs, don't wait. Early detection can often mean the difference between a minor repair and a major overhaul. Our team has over 25 years of experience identifying these problems. When you notice something off, give Alpha-Plumbing Services, LLC a call in Goodyear and the West Valley. We're here to help you get things sorted out before they get worse.",
+  "datePublished": "2026-08-19"
+}

@@ -1,0 +1,84 @@
+{
+  "name": "Caught in a Foul Mess? What to Do About a Sewer Backup",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "Discovering a sewer backup in your home is truly one of the worst plumbing nightmares, and it’s totally understandable to feel overwhelmed. But staying calm and knowing the right steps to take can really minimize damage and help you get back on track quicker. First, avoid using any water in your home – that means no flushing toilets, running faucets, or using dishwashers or washing machines. Any water you use will only add to the backup! Next, try to identify the source if it's safe to do so. Is it just one drain, or multiple? This helps pinpoint whether it's a localized issue or a main line problem. You'll want to keep kids and pets away from the affected area to prevent contamination. If you have essential items or valuables in the backup zone, move them to a dry, safe place if you can do so without coming into direct contact with the sewage. Most importantly, don't try to clean it up yourself without proper protective gear; raw sewage carries serious health risks. The best course of action is to call a professional plumbing service experienced in sewer issues, like Alpha-Plumbing Services, LLC, right away. We can safely assess the situation and coordinate the necessary cleanup.",
+      "@type": "HowToStep",
+      "position": 1
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "description": "Caught in a Foul Mess? What to Do About a Sewer Backup"
+}

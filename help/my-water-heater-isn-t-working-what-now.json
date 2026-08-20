@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "My Water Heater Isn't Working — What Now?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Waking up to a cold shower is never a good way to start the day, and a malfunctioning water heater can throw your whole routine off. When your water heater isn't producing hot water, or the hot water runs out too quickly, there are a few common culprits. It could be an issue with the heating element, a faulty thermostat, or even sediment buildup inside the tank. For gas heaters, a pilot light that’s out is a frequent cause. While you might be tempted to troubleshoot it yourself, messing with electrical components or gas lines can be dangerous if you don't know what you're doing. It’s always safer and more effective to call a professional. They can quickly diagnose the problem and recommend whether it’s a repair, like replacing a part, or if it's time for a water-heater replacement altogether, especially if your unit is older. Serving Goodyear and the West Valley, Alpha-Plumbing Services, LLC has over 25 years of experience handling these types of issues, ensuring you get your hot water back safely.",
+  "datePublished": "2026-08-19"
+}

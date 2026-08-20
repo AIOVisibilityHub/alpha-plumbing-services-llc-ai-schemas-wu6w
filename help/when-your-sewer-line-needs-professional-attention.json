@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When Your Sewer Line Needs Professional Attention",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It’s not always obvious when your sewer line is begging for professional help, but there are some clear signals you shouldn't ignore. If you're smelling foul odors coming from your drains or yard, that's a big red flag – it could mean a break or blockage allowing sewage to escape. Another key indicator is consistently backed-up toilets or drains throughout your home; if plunging one doesn't solve it, and multiple fixtures are struggling, the problem is likely in the main sewer line. Patches of unusually lush, green grass in your yard, or even indentations in the lawn, can also point to a leaking sewer pipe enriching the soil or causing sinkholes. And, of course, if you actually see sewage backing up into your tub, shower, or sinks, that's an immediate emergency needing professional intervention. These aren't issues you can just patch up yourself; they require specialized tools like drain cameras for accurate diagnosis and expert repair techniques. Ignoring these signs can lead to significant damage to your home, not to mention health risks. For any of these serious symptoms in Goodyear, Buckeye, or anywhere in the West Valley, it’s definitely time to call in the pros to ensure a proper and lasting repair.",
+  "datePublished": "2026-08-19"
+}

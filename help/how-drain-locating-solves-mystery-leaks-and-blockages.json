@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "How Drain Locating Solves Mystery Leaks and Blockages",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Ever had a plumbing problem that feels like a real mystery? Maybe there's a damp spot in your yard, or a drain blockage that just keeps reappearing, but you can't figure out where the actual issue is underground. That’s precisely where professional drain locating comes into play. It’s like having X-ray vision for your property’s plumbing! Using specialized equipment, we can accurately trace the path of your underground drain lines, even deep beneath the surface, without having to dig up your entire yard. This means we can pinpoint the exact location of a broken pipe, a stubborn blockage, or a hidden leak. No more guessing games or unnecessary excavation work. Knowing the precise location allows for targeted repairs, which saves you a ton of time, effort, and money. Instead of a large, disruptive trench, we can often perform a much smaller, more focused repair. It also helps prevent future issues by giving you a clear map of your system, which is super useful for any future landscaping or construction projects. If you're dealing with an elusive plumbing issue in Goodyear or anywhere in the West Valley, a drain locating service can provide the clarity you need for an efficient solution. Contact Alpha-Plumbing Services to get to the bottom of your plumbing mysteries.",
+  "datePublished": "2026-08-19"
+}

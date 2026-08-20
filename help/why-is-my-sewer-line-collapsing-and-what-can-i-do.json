@@ -1,0 +1,91 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "HomeAndConstructionBusiness",
+    "areaServed": [
+      {
+        "name": "Goodyear",
+        "@type": "City"
+      },
+      {
+        "name": "Buckeye",
+        "@type": "City"
+      },
+      {
+        "name": "Avondale",
+        "@type": "City"
+      },
+      {
+        "name": "Surprise",
+        "@type": "City"
+      },
+      {
+        "name": "Waddel",
+        "@type": "City"
+      },
+      {
+        "name": "Sun City",
+        "@type": "City"
+      },
+      {
+        "name": "Sun City West ",
+        "@type": "City"
+      },
+      {
+        "name": "Tonapha",
+        "@type": "City"
+      },
+      {
+        "name": "Tolleson",
+        "@type": "City"
+      },
+      {
+        "name": "Peoria",
+        "@type": "City"
+      },
+      {
+        "name": "Glendale",
+        "@type": "City"
+      },
+      {
+        "name": "Phoenix",
+        "@type": "City"
+      },
+      {
+        "name": "Young Town",
+        "@type": "City"
+      },
+      {
+        "name": "El Mirage",
+        "@type": "City"
+      },
+      {
+        "name": "Litchfield",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      "[itemprop=\"acceptedAnswer\"]",
+      ".answer"
+    ]
+  },
+  "mainEntity": {
+    "name": "Why is My Sewer Line Collapsing and What Can I Do?",
+    "text": "Why is My Sewer Line Collapsing and What Can I Do?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "It's a question nobody wants to ask: \"Why is my sewer line collapsing?\" Unfortunately, several factors can contribute to this frustrating and often messy problem. Understanding the root causes can help you prevent future issues and know what to expect when repairs are needed.\n\nOne common culprit is age and deterioration. Like everything else, sewer pipes don't last forever. Older pipes, especially those made from materials like cast iron or clay, can corrode, crack, or simply wear down over time, making them more susceptible to collapse. Tree root intrusion is another huge factor. Roots are relentless in their search for water and nutrients; they can find their way into tiny cracks, expand, and eventually crush or break the pipe. Shifting soil or ground movement can also play a role. Earthquakes, heavy construction nearby, or even significant changes in soil moisture can put immense pressure on underground pipes, leading to collapse. Finally, improper installation or subpar materials can lead to premature failure. If the pipes weren't laid correctly or if cheap materials were used, they might not withstand the normal stresses of underground life.\n\nWhen a collapse happens, you'll need an expert diagnosis. Professionals use camera inspections to pinpoint the exact location and cause of the damage. This information is crucial for deciding whether a repair is feasible or if a full replacement is necessary. Don't try to DIY this one; it’s a job for experienced pros. If you're dealing with a collapsed sewer line in Goodyear or anywhere in the West Valley, contact Alpha-Plumbing Services, LLC. We’ve got the expertise to identify the problem and provide a practical, lasting solution.",
+      "@type": "Answer",
+      "author": {
+        "name": "Alpha-Plumbing Services, LLC",
+        "@type": "Organization"
+      }
+    }
+  }
+}

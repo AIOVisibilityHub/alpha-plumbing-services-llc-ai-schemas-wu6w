@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Why Is My Tankless Water Heater Not Working Like It Should?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When your tankless water heater starts acting finicky, it can really throw a wrench in your day. There are a few common reasons these units might not be performing at their best. One frequent culprit is mineral buildup, especially here in Arizona where hard water is common. Over time, calcium and magnesium deposits can restrict water flow and reduce heating efficiency, leading to lukewarm water or frequent error codes. Regular flushing helps prevent this. Another issue could be a faulty flow sensor, which tells the unit when water is moving and needs heating. If it's not working right, your unit might not kick on, or it might cycle improperly. Gas supply or ignition problems are also possibilities if you're experiencing cold water or inconsistent heating; these require a qualified professional to diagnose safely. Venting issues, if your unit isn't properly exhausting combustion gases, can also cause safety shutdowns. Lastly, electrical problems can prevent the unit from firing up at all. Don't try to troubleshoot gas lines or electrical components yourself – it's just not safe. For any complex issues, especially if you're in Youngtown, El Mirage, or Litchfield Park, it's always best to call a plumbing expert who can accurately diagnose and safely repair your system. We’re here to help get your endless hot water back on track.",
+  "datePublished": "2026-08-19"
+}

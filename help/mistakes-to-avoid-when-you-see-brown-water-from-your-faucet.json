@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Mistakes to Avoid When You See Brown Water from Your Faucet",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Finding brown water coming from your faucet can be pretty unsettling, but your immediate reaction can make a difference in how quickly it gets resolved and if you avoid bigger problems. A few common mistakes can actually prolong the issue or even cause more trouble. First, don't ignore it, thinking it will just go away. Persistent discoloration often points to an underlying plumbing issue. Second, avoid running your hot water if the cold water is still brown; you don't want to fill your water heater with sediment. Third, don't use harsh chemical drain cleaners in an attempt to 'clean' your pipes, as these can actually damage your plumbing and won't fix rust or sediment issues. Fourth, if you're experiencing discolored water in just one faucet, don't immediately assume it's a whole-house problem; check other faucets to narrow down the source. Lastly, don't try to tackle major pipe repairs yourself if the issue isn't resolving, especially if it’s an older home. While a simple flush can often clear things up, if the brown water persists after running cold water for a good 20 minutes from the lowest tap, or if it happens frequently, it’s wise to get professional help. This could indicate corroding pipes or a problem with your water main that requires expert diagnosis. Alpha-Plumbing Services, LLC has the experience to get to the bottom of your brown water issues and provide lasting solutions for residents and businesses in Goodyear and throughout the West Valley.",
+  "datePublished": "2026-08-19"
+}

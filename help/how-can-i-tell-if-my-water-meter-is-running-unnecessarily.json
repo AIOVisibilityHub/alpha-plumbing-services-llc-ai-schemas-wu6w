@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "How can I tell if my water meter is running unnecessarily?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Finding out your water meter is running when it shouldn't be can be a bit of a surprise, and definitely a worry! It points to water escaping somewhere it shouldn't, which means wasted water and potentially property damage. Here's how to figure it out. First off, make sure every single water-using appliance and fixture in your home is completely off. We're talking faucets, showers, washing machines, dishwashers, and even outdoor hose bibs. Once everything is confirmed off, head out to your water meter. Most meters have a small triangular dial or a red sweep hand that indicates even the smallest flow of water. If that dial is spinning, or the hand is moving, you've got a leak. A common mistake folks make is only checking visible leaks; often, the leak is hidden in a wall, under a slab, or underground in your irrigation system. Another error is putting off investigating it, thinking it's not a big deal. Small leaks can become big problems quickly. And please, don't try to use untested DIY methods to find or fix the leak if you're not experienced; you could easily make things worse. If you've done your due diligence and can't locate the source, or if you suspect a more serious issue, it's a good idea to bring in a professional. Our team has the experience and tools to quickly identify the source of the leak and provide a practical solution.",
+  "datePublished": "2026-08-19"
+}

@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Is Your Water Line Leaking? Here's How to Tell",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Suspecting a water line leak can be really stressful, and sometimes it's tough to pinpoint what's going on. Don't worry, there are usually some pretty clear signs that your main water line might be compromised. Catching these early can save you a lot of hassle and potential damage down the road. You definitely want to address these issues sooner rather than later to protect your property.\n\nFirst up, keep an eye on your water bill. If it suddenly spikes without any change in your usage habits, that's a big red flag for a hidden leak. Another common indicator is unexplained wet spots or pooling water in your yard, especially if it's not raining. Inside your home, pay attention to damp or discolored spots on walls, ceilings, or floors, or a persistent musty odor. You might also notice a sudden drop in water pressure throughout your house, which can signal a break in the line. Finally, listen for the subtle sound of running water when all your fixtures are turned off – that's often a telltale sign of a leak somewhere in your plumbing system. These can all point to a problem with your water line, whether it's a minor crack or something more significant.\n\nIgnoring these signs can lead to much bigger problems like structural damage or mold growth, so it’s always best to get it checked out. If you're noticing any of these issues, reach out to Alpha-Plumbing Services, LLC. We've got over 25 years of experience handling these exact situations in Goodyear and the West Valley, and we can help diagnose and fix the problem quickly and efficiently.",
+  "datePublished": "2026-08-19"
+}
