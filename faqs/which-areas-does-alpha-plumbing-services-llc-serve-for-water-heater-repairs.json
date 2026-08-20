@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/which-areas-does-alpha-plumbing-services-llc-serve-for-water-heater-repairs",
+  "name": "Which areas does Alpha-Plumbing Services, LLC serve for water heater repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Which areas does Alpha-Plumbing Services, LLC serve for water heater repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Alpha-Plumbing Services, LLC provides expert water heater repair and maintenance services across several communities. Our service areas include Goodyear, Buckeye, Avondale, Surprise, and Waddel. If you are experiencing issues with your water heater, including unusual noises, and reside in one of these locations, our certified technicians are available to assist you. We pride ourselves on prompt, reliable service to ensure your home has consistent access to hot water.",
+        "@type": "Answer",
+        "description": "Alpha-Plumbing Services, LLC serves Goodyear, Buckeye, Avondale, Surprise, and Waddel for all water heater repair and maintenance needs."
+      }
+    }
+  ],
+  "description": "Alpha-Plumbing Services, LLC serves Goodyear, Buckeye, Avondale, Surprise, and Waddel for all water heater repair and maintenance needs."
+}

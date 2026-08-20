@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-does-a-rumbling-sound-from-my-water-heater-mean",
+  "name": "What does a rumbling sound from my water heater mean?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does a rumbling sound from my water heater mean?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A rumbling sound typically points to significant sediment accumulation inside your water heater's tank. When enough sediment collects, it insulates the water from the heating element, causing the element to overheat and boil the water trapped beneath the sediment. This turbulent boiling creates the rumbling noise. Addressing this issue promptly through professional flushing can prevent damage to the tank and maintain the unit's heating efficiency.",
+        "@type": "Answer",
+        "description": "A rumbling sound from your water heater often indicates substantial sediment buildup inside the tank. This can lead to inefficient heating and potential damage."
+      }
+    }
+  ],
+  "description": "A rumbling sound from your water heater often indicates substantial sediment buildup inside the tank. This can lead to inefficient heating and potential damage."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-the-safety-risks-of-a-water-heater-pilot-light-going-out",
+  "name": "What are the safety risks of a water heater pilot light going out?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the safety risks of a water heater pilot light going out?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The primary safety mechanism associated with a pilot light going out is the thermocouple, which is designed to shut off the gas supply if the pilot flame extinguishes. This prevents uncombusted gas from accumulating, which would pose a significant fire or explosion hazard. However, if the thermocouple itself is faulty and fails to shut off the gas, or if there's a slow leak elsewhere in the system, it could still be dangerous. Always ensure adequate ventilation and contact a professional if you suspect a gas leak.",
+        "@type": "Answer",
+        "description": "The main risk is gas accumulation if the safety mechanism fails to shut off gas after the pilot light goes out. Always prioritize safety."
+      }
+    }
+  ],
+  "description": "The main risk is gas accumulation if the safety mechanism fails to shut off gas after the pilot light goes out. Always prioritize safety."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-permits-are-required-for-water-heater-installation-in-goodyear-or-buckeye",
+  "name": "What permits are required for water heater installation in Goodyear or Buckeye?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for water heater installation in Goodyear or Buckeye?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water heater installations in areas like Goodyear or Buckeye typically require permits to ensure the work complies with local building and plumbing codes. These permits ensure that the installation is performed safely and correctly, adhering to all applicable regulations for gas lines, electrical connections, venting, and seismic strapping. Alpha-Plumbing Services will handle the necessary permitting process for your new water heater installation, ensuring all work meets local requirements.",
+        "@type": "Answer",
+        "description": "Permits are usually required in Goodyear or Buckeye to ensure water heater installations comply with local building and plumbing codes for safety and correctness. Alpha-Plumbing Services handles this for you."
+      }
+    }
+  ],
+  "description": "Permits are usually required in Goodyear or Buckeye to ensure water heater installations comply with local building and plumbing codes for safety and correctnes"
+}

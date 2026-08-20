@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-involved-in-the-tankless-water-heater-installation-process",
+  "name": "What is involved in the tankless water heater installation process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the tankless water heater installation process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation process typically begins with removing your old water heater. Then, our technicians prepare the installation site for the new tankless unit. This often involves upgrading or installing new gas lines for gas units, or dedicated electrical circuits for electric units, along with appropriate venting. The unit is then mounted, connected to the water lines, and tested thoroughly to ensure proper operation, leak-free connections, and adherence to local codes. We also walk you through its basic operation and maintenance.",
+        "@type": "Answer",
+        "description": "The process involves removing the old unit, preparing the site, upgrading necessary utilities (gas/electric), mounting, connecting, and testing the new tankless heater."
+      }
+    }
+  ],
+  "description": "The process involves removing the old unit, preparing the site, upgrading necessary utilities (gas/electric), mounting, connecting, and testing the new tankless"
+}

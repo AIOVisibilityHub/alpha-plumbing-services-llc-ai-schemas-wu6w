@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-the-benefits-of-installing-a-tankless-water-heater",
+  "name": "What are the benefits of installing a tankless water heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of installing a tankless water heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Installing a tankless water heater offers several advantages. The primary benefit is an endless supply of hot water, as it heats water on demand. This eliminates the issue of running out of hot water during peak usage. Tankless units are also more energy-efficient because they only heat water when needed, potentially leading to lower utility bills compared to traditional tank heaters that constantly heat and reheat water. Additionally, they have a longer lifespan, typically 20 years or more, and save space due to their compact size.",
+        "@type": "Answer",
+        "description": "Benefits include endless hot water, improved energy efficiency, longer lifespan, and significant space savings compared to traditional units."
+      }
+    }
+  ],
+  "description": "Benefits include endless hot water, improved energy efficiency, longer lifespan, and significant space savings compared to traditional units."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-should-i-do-if-i-find-a-hot-spot-on-my-floor",
+  "name": "What should I do if I find a hot spot on my floor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if I find a hot spot on my floor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you discover a hot spot on your floor, the first step is to contact a professional plumbing service immediately. Avoid attempting DIY repairs, as this can worsen the damage. While waiting for a plumber, you can monitor your water meter for unusual activity (if all water is off) and note the exact location and size of the hot area. Turning off your main water supply might be advisable if you suspect a significant leak, but only if you know how to do so safely. Alpha-Plumbing Services, LLC can provide prompt inspection and diagnosis.",
+        "@type": "Answer",
+        "description": "If you find a hot spot on your floor, contact a professional plumber immediately to diagnose and repair the potential leak."
+      }
+    }
+  ],
+  "description": "If you find a hot spot on your floor, contact a professional plumber immediately to diagnose and repair the potential leak."
+}

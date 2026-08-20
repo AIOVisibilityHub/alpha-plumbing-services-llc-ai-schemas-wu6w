@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/why-should-i-choose-alpha-plumbing-services-for-my-tankless-water-heater-install",
+  "name": "Why should I choose Alpha-Plumbing Services for my tankless water heater installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why should I choose Alpha-Plumbing Services for my tankless water heater installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Alpha-Plumbing Services is a local business serving Goodyear, Buckeye, Avondale, and Surprise with experienced and certified plumbers. We specialize in tankless water heater installations, ensuring your new unit is installed correctly and efficiently according to manufacturer specifications and local codes. We provide transparent pricing, detailed estimates, and exceptional customer service. Our team is knowledgeable about the specific plumbing needs and water conditions in our service areas, guaranteeing a reliable and long-lasting installation tailored to your home.",
+        "@type": "Answer",
+        "description": "Choose Alpha-Plumbing Services for experienced, local, and certified plumbers specializing in tankless installations in Goodyear, Buckeye, Avondale, and Surprise."
+      }
+    }
+  ],
+  "description": "Choose Alpha-Plumbing Services for experienced, local, and certified plumbers specializing in tankless installations in Goodyear, Buckeye, Avondale, and Surpris"
+}

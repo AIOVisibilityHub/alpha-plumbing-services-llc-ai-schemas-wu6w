@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-water-hammer-and-how-does-it-affect-my-water-heater",
+  "name": "What is water hammer and how does it affect my water heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is water hammer and how does it affect my water heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water hammer is a phenomenon where water flowing through pipes suddenly stops or changes direction, causing a pressure surge that creates a loud banging or knocking sound. While it technically originates in your plumbing, the noise can often sound like it's coming from your water heater or nearby pipes. Over time, consistent water hammer can stress plumbing joints, valves, and even the water heater connections, potentially leading to leaks or component failure. Air chambers or water hammer arrestors can be installed to mitigate this issue.",
+        "@type": "Answer",
+        "description": "Water hammer is a banging noise caused by sudden pressure changes in pipes, often sounding like it's from the water heater. It can stress plumbing and lead to leaks."
+      }
+    }
+  ],
+  "description": "Water hammer is a banging noise caused by sudden pressure changes in pipes, often sounding like it's from the water heater. It can stress plumbing and lead to l"
+}

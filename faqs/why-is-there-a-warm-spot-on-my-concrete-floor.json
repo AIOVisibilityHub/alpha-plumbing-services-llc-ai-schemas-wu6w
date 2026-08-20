@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/why-is-there-a-warm-spot-on-my-concrete-floor",
+  "name": "Why is there a warm spot on my concrete floor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is there a warm spot on my concrete floor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A warm spot on your concrete floor often indicates a leaking hot water pipe underneath. This is common in homes with slab foundations where plumbing lines are embedded in the concrete. The hot water from the leak transfers heat through the concrete, making that area noticeably warmer. Other less common causes could include electrical issues or heating system malfunctions, but plumbing leaks are the most frequent culprit.",
+        "@type": "Answer",
+        "description": "A warm spot on your concrete floor typically signals a leaking hot water pipe embedded in the slab foundation."
+      }
+    }
+  ],
+  "description": "A warm spot on your concrete floor typically signals a leaking hot water pipe embedded in the slab foundation."
+}

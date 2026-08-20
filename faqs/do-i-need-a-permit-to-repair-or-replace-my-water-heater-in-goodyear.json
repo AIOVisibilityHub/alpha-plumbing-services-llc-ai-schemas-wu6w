@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/do-i-need-a-permit-to-repair-or-replace-my-water-heater-in-goodyear",
+  "name": "Do I need a permit to repair or replace my water heater in Goodyear?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit to repair or replace my water heater in Goodyear?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permit requirements for water heater repair or replacement can vary by municipality. In areas like Goodyear, Avondale, and Buckeye, permits are typically required for water heater replacement to ensure the installation meets local safety and plumbing codes. Minor repairs, such as replacing a heating element or thermostat, usually do not require a permit. Alpha-Plumbing Services, LLC stays informed about local regulations and can advise you on specific permit needs for your service in Goodyear, Buckeye, Avondale, and Surprise.",
+        "@type": "Answer",
+        "description": "Permits are usually required for water heater replacement, but often not for minor repairs, in areas like Goodyear. We can advise on local requirements."
+      }
+    }
+  ],
+  "description": "Permits are usually required for water heater replacement, but often not for minor repairs, in areas like Goodyear. We can advise on local requirements."
+}

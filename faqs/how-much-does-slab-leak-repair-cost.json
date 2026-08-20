@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-much-does-slab-leak-repair-cost",
+  "name": "How much does slab leak repair cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does slab leak repair cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of slab leak repair varies significantly depending on the leak's location, severity, and the chosen repair method. Minor leaks accessible through minimal demolition typically cost less than those requiring extensive foundation work or re-piping. Factors such as the type of piping, ease of access, and restoration needs also influence the final price. A professional assessment is needed for an accurate estimate.",
+        "@type": "Answer",
+        "description": "Slab leak repair costs depend on the leak's location, severity, and repair method, requiring a professional estimate."
+      }
+    }
+  ],
+  "description": "Slab leak repair costs depend on the leak's location, severity, and repair method, requiring a professional estimate."
+}

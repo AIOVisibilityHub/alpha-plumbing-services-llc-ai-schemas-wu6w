@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/why-is-my-water-heater-not-producing-hot-water",
+  "name": "Why is my water heater not producing hot water?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is my water heater not producing hot water?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your water heater isn't producing hot water, several issues could be at fault. For electric water heaters, a tripped breaker, faulty heating elements, or a malfunctioning thermostat are common culprits. Gas water heaters might have a pilot light that has gone out, a problem with the thermocouple, or a faulty gas control valve. Sediment buildup can also reduce efficiency. It's best to have a qualified technician diagnose the exact cause.",
+        "@type": "Answer",
+        "description": "Common issues include tripped breakers, faulty heating elements or thermostats for electric heaters, or a pilot light/thermocouple problem for gas heaters."
+      }
+    }
+  ],
+  "description": "Common issues include tripped breakers, faulty heating elements or thermostats for electric heaters, or a pilot light/thermocouple problem for gas heaters."
+}

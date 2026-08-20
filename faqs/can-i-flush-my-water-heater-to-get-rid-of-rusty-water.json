@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/can-i-flush-my-water-heater-to-get-rid-of-rusty-water",
+  "name": "Can I flush my water heater to get rid of rusty water?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I flush my water heater to get rid of rusty water?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Flushing your water heater can sometimes temporarily alleviate rusty water if the cause is sediment buildup inside the tank. Sediment can mix with water and create a reddish-brown appearance. However, if the rust is due to significant internal corrosion of the tank itself, flushing will not solve the problem and the rust will quickly return. Regularly flushing your water heater (annually) is good maintenance, but it won't fix a tank that has rusted through. A plumber can advise if flushing is appropriate or if a more extensive repair is needed.",
+        "@type": "Answer",
+        "description": "Flushing can help if rust is due to sediment, but it won't fix a corroded tank. If rust persists, a professional inspection is needed."
+      }
+    }
+  ],
+  "description": "Flushing can help if rust is due to sediment, but it won't fix a corroded tank. If rust persists, a professional inspection is needed."
+}

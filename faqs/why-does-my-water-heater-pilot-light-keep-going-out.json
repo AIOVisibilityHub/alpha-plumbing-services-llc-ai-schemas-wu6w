@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/why-does-my-water-heater-pilot-light-keep-going-out",
+  "name": "Why does my water heater pilot light keep going out?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why does my water heater pilot light keep going out?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A pilot light that repeatedly goes out can be caused by several issues. A common culprit is a faulty thermocouple, which is a safety device that senses the pilot flame and allows gas to flow. If it's dirty or malfunctioning, it may incorrectly register no flame and shut off the gas supply. Other reasons include a weak pilot flame due to a clogged pilot tube, a draft affecting the flame, or a faulty gas control valve. It's often best to have a qualified technician diagnose the exact problem.",
+        "@type": "Answer",
+        "description": "Common causes for a pilot light repeatedly going out include a faulty thermocouple, a weak flame, or a draft. A professional diagnosis is recommended."
+      }
+    }
+  ],
+  "description": "Common causes for a pilot light repeatedly going out include a faulty thermocouple, a weak flame, or a draft. A professional diagnosis is recommended."
+}

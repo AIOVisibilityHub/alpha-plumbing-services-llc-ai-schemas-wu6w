@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-much-does-it-cost-to-fix-a-hot-spot-on-the-floor-due-to-a-leak",
+  "name": "How much does it cost to fix a hot spot on the floor due to a leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to fix a hot spot on the floor due to a leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to fix a hot spot on the floor caused by a leak varies significantly depending on the leak's location, severity, and the type of repair needed. Factors include the extent of excavation required, whether the repair involves re-piping a section or a full re-route, and any necessary flooring restoration. A professional plumber will need to perform leak detection to accurately assess the damage and provide an estimate. Minor repairs can range from a few hundred dollars, while complex slab leaks can be more substantial.",
+        "@type": "Answer",
+        "description": "Costs to fix a hot spot from a leak vary based on leak location, severity, and repair type; a plumber needs to assess for an accurate estimate."
+      }
+    }
+  ],
+  "description": "Costs to fix a hot spot from a leak vary based on leak location, severity, and repair type; a plumber needs to assess for an accurate estimate."
+}

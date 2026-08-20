@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-it-take-to-fix-a-hot-water-leak-under-the-floor",
+  "name": "How long does it take to fix a hot water leak under the floor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to fix a hot water leak under the floor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required to fix a hot water leak under the floor varies depending on the complexity of the leak and the chosen repair method. Leak detection itself can take a few hours. If direct access to the pipe is needed through a concrete slab, the repair might involve several hours to a full day for excavation, pipe repair, and patching. Re-routing a pipe can sometimes take longer, spanning one to two days. Factors like flooring type and accessibility also influence the overall timeline.",
+        "@type": "Answer",
+        "description": "Fixing a hot water leak under the floor can take from a few hours to one or two days, depending on leak complexity and repair method."
+      }
+    }
+  ],
+  "description": "Fixing a hot water leak under the floor can take from a few hours to one or two days, depending on leak complexity and repair method."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-a-water-pressure-regulator-and-why-is-it-important",
+  "name": "What is a water pressure regulator and why is it important?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a water pressure regulator and why is it important?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A water pressure regulator is a device installed on your main water line that reduces and stabilizes the incoming water pressure from the municipal supply to a safe level for your home's plumbing system. It protects your pipes, fixtures, and appliances from damage due to excessively high water pressure, which can lead to leaks, premature wear, and costly repairs. When a regulator fails, it can cause either extremely high or low water pressure throughout the house.",
+        "@type": "Answer",
+        "description": "A water pressure regulator reduces and stabilizes incoming water pressure to protect your home's plumbing. A faulty regulator can cause low or high pressure."
+      }
+    }
+  ],
+  "description": "A water pressure regulator reduces and stabilizes incoming water pressure to protect your home's plumbing. A faulty regulator can cause low or high pressure."
+}

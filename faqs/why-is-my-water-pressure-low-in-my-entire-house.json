@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/why-is-my-water-pressure-low-in-my-entire-house",
+  "name": "Why is my water pressure low in my entire house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is my water pressure low in my entire house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Low water pressure throughout your home often indicates a main water supply issue or a problem with your home's plumbing system. Common causes include partially closed main water shut-off valves, issues with the municipal water supply, or a failing pressure regulator. Older homes might experience low pressure due to galvanized pipes corroding and narrowing over time, restricting water flow. A professional plumber can diagnose the exact cause by checking the main valve, pressure regulator, and inspecting your pipes.",
+        "@type": "Answer",
+        "description": "Low water pressure throughout your house can be caused by a main water supply issue, a failing pressure regulator, or corroded pipes. A plumber can diagnose the problem."
+      }
+    }
+  ],
+  "description": "Low water pressure throughout your house can be caused by a main water supply issue, a failing pressure regulator, or corroded pipes. A plumber can diagnose the"
+}

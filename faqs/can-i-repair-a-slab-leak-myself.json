@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/can-i-repair-a-slab-leak-myself",
+  "name": "Can I repair a slab leak myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair a slab leak myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Attempting to repair a slab leak yourself is generally not recommended. Slab leaks are complex and require specialized equipment for accurate detection and precise repair techniques. Incorrect repair methods can lead to further damage to your plumbing system, foundation, or even create new leaks. Professional plumbers have the expertise and tools to diagnose and fix slab leaks safely and effectively, ensuring a lasting solution and minimizing risks.",
+        "@type": "Answer",
+        "description": "Slab leak repair is complex and requires professional tools and expertise; DIY attempts are not recommended."
+      }
+    }
+  ],
+  "description": "Slab leak repair is complex and requires professional tools and expertise; DIY attempts are not recommended."
+}

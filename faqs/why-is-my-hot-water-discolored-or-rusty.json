@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/why-is-my-hot-water-discolored-or-rusty",
+  "name": "Why is my hot water discolored or rusty?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is my hot water discolored or rusty?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Discolored or rusty hot water often indicates corrosion inside your water heater tank or within the pipes. If the rust is only present in hot water, it's likely originating from the water heater itself, especially if the anode rod has deteriorated. A failing anode rod, which protects the tank lining, can lead to rust. If both hot and cold water are discolored, the issue might be with the main water supply or plumbing in your home. This problem typically requires professional inspection to determine the exact cause and recommended solution.",
+        "@type": "Answer",
+        "description": "Rusty hot water usually indicates corrosion within the water heater tank or a failing anode rod. A professional can diagnose the exact cause."
+      }
+    }
+  ],
+  "description": "Rusty hot water usually indicates corrosion within the water heater tank or a failing anode rod. A professional can diagnose the exact cause."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/why-choose-alpha-plumbing-services-for-a-warm-spot-on-my-concrete-floor-in-goody",
+  "name": "Why choose Alpha-Plumbing Services for a warm spot on my concrete floor in Goodyear?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why choose Alpha-Plumbing Services for a warm spot on my concrete floor in Goodyear?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Alpha-Plumbing Services specializes in slab leak detection and repair in the Goodyear, Buckeye, Avondale, Surprise, and Waddel areas. We have extensive experience with the unique challenges of plumbing systems in slab foundations common to our region. Our skilled technicians use advanced diagnostic tools to accurately locate and efficiently repair leaks, minimizing disruption and ensuring a lasting solution for your home.",
+        "@type": "Answer",
+        "description": "Alpha-Plumbing Services specializes in slab leak detection and repair in Goodyear and surrounding areas, using advanced tools for efficient solutions."
+      }
+    }
+  ],
+  "description": "Alpha-Plumbing Services specializes in slab leak detection and repair in Goodyear and surrounding areas, using advanced tools for efficient solutions."
+}

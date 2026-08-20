@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-factors-should-i-consider-when-choosing-a-new-tankless-water-heater",
+  "name": "What factors should I consider when choosing a new tankless water heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors should I consider when choosing a new tankless water heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a new tankless water heater, consider your household's hot water demand, the unit's flow rate (gallons per minute), and its energy efficiency rating. Also, think about the fuel type (natural gas, propane, or electric) that best suits your home and budget. Consulting with a professional can help match the right unit size and features to your specific needs and local climate.",
+        "@type": "Answer",
+        "description": "Consider hot water demand, flow rate, energy efficiency, and fuel type. A professional can help match the unit to your home's needs."
+      }
+    }
+  ],
+  "description": "Consider hot water demand, flow rate, energy efficiency, and fuel type. A professional can help match the unit to your home's needs."
+}

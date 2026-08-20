@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/why-is-my-water-heater-leaking",
+  "name": "Why is my water heater leaking?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is my water heater leaking?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water heaters can leak for several reasons, including a loose drain valve, a corroded tank, a faulty temperature and pressure (T&P) relief valve, or a leak in the plumbing connections. Minor issues like a loose valve can often be tightened, while a corroded tank typically requires replacement. Identifying the source of the leak is crucial to determine the correct repair or replacement action.",
+        "@type": "Answer",
+        "description": "Common causes of water heater leaks include a loose drain valve, corroded tank, faulty T&P valve, or plumbing connection issues. The source determines if repair or replacement is needed."
+      }
+    }
+  ],
+  "description": "Common causes of water heater leaks include a loose drain valve, corroded tank, faulty T&P valve, or plumbing connection issues. The source determines if repair"
+}

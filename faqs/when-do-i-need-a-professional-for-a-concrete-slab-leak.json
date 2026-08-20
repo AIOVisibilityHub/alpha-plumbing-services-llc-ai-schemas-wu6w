@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-do-i-need-a-professional-for-a-concrete-slab-leak",
+  "name": "When do I need a professional for a concrete slab leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need a professional for a concrete slab leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You need a professional for a concrete slab leak as soon as you suspect one. DIY attempts at slab leak detection or repair can lead to further damage, increased costs, and safety risks. Professionals have the specialized equipment and expertise to accurately locate the leak without extensive property damage and to perform repairs effectively. Early intervention by experts minimizes structural damage, mold growth, and water waste, protecting your home and wallet.",
+        "@type": "Answer",
+        "description": "Call a professional immediately if you suspect a slab leak; DIY attempts can cause more damage. Experts have the right tools and knowledge."
+      }
+    }
+  ],
+  "description": "Call a professional immediately if you suspect a slab leak; DIY attempts can cause more damage. Experts have the right tools and knowledge."
+}

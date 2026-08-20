@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/can-a-hot-water-heater-cause-low-water-pressure",
+  "name": "Can a hot water heater cause low water pressure?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a hot water heater cause low water pressure?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a hot water heater can cause low water pressure, but typically only for the hot water supply. Sediment buildup inside the water heater tank can restrict water flow, leading to reduced pressure at hot water faucets. A faulty shut-off valve or a failing dip tube within the water heater can also contribute to the problem. If you notice significantly lower pressure only when using hot water, the water heater is a likely culprit. Flushing the tank or professional inspection may be needed.",
+        "@type": "Answer",
+        "description": "A water heater can cause low hot water pressure due to sediment buildup in the tank or a faulty valve/dip tube. If only hot water has low pressure, it's a likely cause."
+      }
+    }
+  ],
+  "description": "A water heater can cause low hot water pressure due to sediment buildup in the tank or a faulty valve/dip tube. If only hot water has low pressure, it's a likel"
+}

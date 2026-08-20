@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-much-does-it-cost-to-fix-a-rumbling-water-heater-in-goodyear",
+  "name": "How much does it cost to fix a rumbling water heater in Goodyear?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to fix a rumbling water heater in Goodyear?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to address a rumbling water heater varies depending on the underlying cause and the extent of the sediment buildup. A professional flush and maintenance service from Alpha-Plumbing Services, LLC in Goodyear typically costs between $150 and $300. If the rumbling has led to significant damage, such as a compromised heating element or a leaking tank, a repair or replacement might be necessary, which would incur higher costs. We provide transparent estimates after an inspection.",
+        "@type": "Answer",
+        "description": "The cost to fix a rumbling water heater in Goodyear ranges from $150 to $300 for a professional flush. Major damage or replacement would cost more."
+      }
+    }
+  ],
+  "description": "The cost to fix a rumbling water heater in Goodyear ranges from $150 to $300 for a professional flush. Major damage or replacement would cost more."
+}

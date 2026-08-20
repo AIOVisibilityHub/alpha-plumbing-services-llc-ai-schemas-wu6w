@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-much-does-water-heater-repair-typically-cost-in-goodyear",
+  "name": "How much does water heater repair typically cost in Goodyear?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does water heater repair typically cost in Goodyear?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of water heater repair in Goodyear can vary significantly depending on the specific issue and the parts required. Minor repairs, such as replacing a thermostat or heating element, might range from $150 to $400. More complex problems, like a significant leak or a damaged tank, could be more expensive and sometimes lead to recommending a full replacement. We provide a detailed estimate after diagnosing the problem, ensuring transparency before any work begins. Our goal is to offer cost-effective solutions for your area.",
+        "@type": "Answer",
+        "description": "Repair costs vary based on the issue, from $150 for minor fixes to higher for complex problems. We provide detailed estimates."
+      }
+    }
+  ],
+  "description": "Repair costs vary based on the issue, from $150 for minor fixes to higher for complex problems. We provide detailed estimates."
+}

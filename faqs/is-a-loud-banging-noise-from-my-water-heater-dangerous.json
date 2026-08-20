@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/is-a-loud-banging-noise-from-my-water-heater-dangerous",
+  "name": "Is a loud banging noise from my water heater dangerous?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is a loud banging noise from my water heater dangerous?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A loud banging noise from your water heater is a concerning symptom and should be addressed promptly. While not always immediately dangerous, it could signal several issues, including severe sediment buildup causing steam pockets, or pressure fluctuations within the pipes (water hammer). In some cases, it might indicate a failing heating element or internal component. It's best to have a qualified technician inspect the unit to diagnose the exact cause and ensure there's no risk of tank damage or operational failure.",
+        "@type": "Answer",
+        "description": "A loud banging noise from your water heater can indicate serious issues like severe sediment buildup or water hammer. It's best to have a professional diagnose the cause to ensure safety."
+      }
+    }
+  ],
+  "description": "A loud banging noise from your water heater can indicate serious issues like severe sediment buildup or water hammer. It's best to have a professional diagnose"
+}

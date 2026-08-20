@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-s-the-difference-between-low-water-pressure-from-a-city-supply-vs-my-home-s",
+  "name": "What's the difference between low water pressure from a city supply vs. my home's plumbing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between low water pressure from a city supply vs. my home's plumbing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Low water pressure from a city supply affects all homes connected to that specific main line or block, and it's typically a widespread issue reported by neighbors. You would experience low pressure equally from all fixtures. If the problem is within your home's plumbing, it might be isolated to certain fixtures, specific times, or only when using hot water. Issues like a failing pressure regulator, corroded internal pipes, or a partially closed main shut-off valve are internal plumbing problems that city services wouldn't address.",
+        "@type": "Answer",
+        "description": "City supply low pressure is widespread and affects neighbors. Home plumbing low pressure is localized to specific fixtures or within your property and not a city-wide issue."
+      }
+    }
+  ],
+  "description": "City supply low pressure is widespread and affects neighbors. Home plumbing low pressure is localized to specific fixtures or within your property and not a cit"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-do-you-detect-a-slab-leak",
+  "name": "How do you detect a slab leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you detect a slab leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional plumbers use specialized equipment to detect slab leaks without unnecessary demolition. This often includes electronic leak detection devices that pinpoint the sound of the leak, thermal imaging cameras to identify temperature changes caused by escaping water, and sometimes pressure tests on the plumbing system. Once the precise location is identified, a repair plan can be developed. This advanced technology helps minimize damage during the detection process.",
+        "@type": "Answer",
+        "description": "Slab leaks are detected using specialized equipment like electronic leak detectors and thermal cameras to pinpoint the leak."
+      }
+    }
+  ],
+  "description": "Slab leaks are detected using specialized equipment like electronic leak detectors and thermal cameras to pinpoint the leak."
+}

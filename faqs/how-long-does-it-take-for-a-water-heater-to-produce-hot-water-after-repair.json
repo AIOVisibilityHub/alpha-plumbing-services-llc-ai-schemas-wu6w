@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-it-take-for-a-water-heater-to-produce-hot-water-after-repair",
+  "name": "How long does it take for a water heater to produce hot water after repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take for a water heater to produce hot water after repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time it takes for your water heater to produce hot water after a repair depends on the type of repair and the size of your tank. After a simple reset or relight, a standard 40-gallon tank can take 30-60 minutes to fully heat. Larger tanks or those that were completely drained might take longer, potentially 1-2 hours. If a major component like a heating element was replaced, it will still follow these general heating times once fully operational. Your technician can provide a more precise estimate.",
+        "@type": "Answer",
+        "description": "After repair, a standard 40-gallon tank usually takes 30-60 minutes to heat fully. Larger tanks may take 1-2 hours."
+      }
+    }
+  ],
+  "description": "After repair, a standard 40-gallon tank usually takes 30-60 minutes to heat fully. Larger tanks may take 1-2 hours."
+}

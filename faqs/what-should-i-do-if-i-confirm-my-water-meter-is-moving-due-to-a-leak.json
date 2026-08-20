@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-should-i-do-if-i-confirm-my-water-meter-is-moving-due-to-a-leak",
+  "name": "What should I do if I confirm my water meter is moving due to a leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if I confirm my water meter is moving due to a leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you confirm your water meter is moving when all water is off, indicating a leak, the next step is to contact a professional plumbing service. A qualified plumber can use specialized tools to detect and locate hidden leaks, whether they are in walls, under foundations, or in irrigation systems. Prompt repair is essential to prevent further water damage to your property, conserve water, and avoid higher water bills. Do not attempt to fix complex leaks yourself without proper expertise.",
+        "@type": "Answer",
+        "description": "If you confirm a leak, contact a professional plumbing service immediately. They can locate and repair the leak to prevent further damage and waste."
+      }
+    }
+  ],
+  "description": "If you confirm a leak, contact a professional plumbing service immediately. They can locate and repair the leak to prevent further damage and waste."
+}

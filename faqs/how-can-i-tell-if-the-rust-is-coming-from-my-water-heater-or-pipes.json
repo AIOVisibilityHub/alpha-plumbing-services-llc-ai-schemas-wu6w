@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-can-i-tell-if-the-rust-is-coming-from-my-water-heater-or-pipes",
+  "name": "How can I tell if the rust is coming from my water heater or pipes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if the rust is coming from my water heater or pipes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To determine the source, first check if both hot and cold water are rusty. If only the hot water is discolored, the problem likely originates from your water heater. If both hot and cold water are rusty, the issue could be with your main water supply line or older galvanized pipes throughout your home. Another test is to drain a few buckets of hot water; if it clears up, it might be sediment. If it remains rusty, it points more strongly to tank corrosion. A professional inspection from Alpha-Plumbing Services can accurately diagnose the problem.",
+        "@type": "Answer",
+        "description": "If only hot water is rusty, it's likely the water heater. If both hot and cold are rusty, it could be your main supply or pipes. A plumber can diagnose the source."
+      }
+    }
+  ],
+  "description": "If only hot water is rusty, it's likely the water heater. If both hot and cold are rusty, it could be your main supply or pipes. A plumber can diagnose the sour"
+}

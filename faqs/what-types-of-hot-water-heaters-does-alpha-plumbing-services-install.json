@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-types-of-hot-water-heaters-does-alpha-plumbing-services-install",
+  "name": "What types of hot water heaters does Alpha-Plumbing Services install?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of hot water heaters does Alpha-Plumbing Services install?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Alpha-Plumbing Services installs a variety of hot water heater types to meet diverse needs. We primarily work with conventional tank-style water heaters, including both gas and electric models, which are a common and reliable choice. Additionally, we specialize in the installation of energy-efficient tankless water heaters, which provide on-demand hot water. We can help you determine the best option for your home's requirements and budget.",
+        "@type": "Answer",
+        "description": "We install conventional tank-style (gas and electric) and energy-efficient tankless hot water heaters, helping you choose the best fit for your home."
+      }
+    }
+  ],
+  "description": "We install conventional tank-style (gas and electric) and energy-efficient tankless hot water heaters, helping you choose the best fit for your home."
+}

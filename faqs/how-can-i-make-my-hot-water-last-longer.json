@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-can-i-make-my-hot-water-last-longer",
+  "name": "How can I make my hot water last longer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I make my hot water last longer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To extend your hot water supply, you can adjust your habits, such as staggering hot water use and taking shorter showers. For a more lasting solution, consider upgrading to a larger capacity water heater if yours is undersized. Insulating your existing water heater tank and hot water pipes can reduce heat loss, keeping water hotter for longer. Regular maintenance, like flushing the tank to remove sediment, also improves efficiency. A tankless water heater, which heats water on demand, offers a continuous supply.",
+        "@type": "Answer",
+        "description": "You can make hot water last longer by upgrading your water heater, insulating the tank and pipes, or reducing simultaneous hot water usage."
+      }
+    }
+  ],
+  "description": "You can make hot water last longer by upgrading your water heater, insulating the tank and pipes, or reducing simultaneous hot water usage."
+}

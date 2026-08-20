@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-common-signs-that-my-water-heater-needs-repair",
+  "name": "What are common signs that my water heater needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my water heater needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs indicating your water heater may need repair include a lack of hot water, inconsistent water temperatures, strange noises coming from the unit like rumbling or popping, rusty or discolored hot water, or a metallic odor. Leaks around the base of the water heater are also a clear indication of a problem. Addressing these issues promptly can prevent further damage and more costly repairs down the line. If you notice any of these symptoms, it's best to have a professional inspect your unit.",
+        "@type": "Answer",
+        "description": "Lack of hot water, strange noises, leaks, or discolored water are common signs. Early detection can prevent more significant issues."
+      }
+    }
+  ],
+  "description": "Lack of hot water, strange noises, leaks, or discolored water are common signs. Early detection can prevent more significant issues."
+}

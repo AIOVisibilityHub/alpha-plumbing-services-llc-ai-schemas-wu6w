@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-should-i-consider-replacing-my-tank-water-heater",
+  "name": "When should I consider replacing my tank water heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my tank water heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing your tank water heater if it is over 10-12 years old, shows signs of rusting or leaking, or is no longer heating water efficiently. Older units can become less reliable and more costly to operate over time, leading to unexpected breakdowns. Regular maintenance can extend its life, but age and performance issues are strong indicators that a replacement might be more cost-effective than continuous repairs. An assessment by a qualified technician can help determine if a replacement is necessary.",
+        "@type": "Answer",
+        "description": "Consider replacing your tank water heater if it's over 10-12 years old, shows rust or leaks, or is inefficient. Age and frequent issues indicate it may be time for a new unit."
+      }
+    }
+  ],
+  "description": "Consider replacing your tank water heater if it's over 10-12 years old, shows rust or leaks, or is inefficient. Age and frequent issues indicate it may be time"
+}

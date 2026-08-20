@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-much-does-it-cost-to-fix-a-water-leak-under-the-house",
+  "name": "How much does it cost to fix a water leak under the house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to fix a water leak under the house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to fix a water leak under your house varies widely depending on the leak's location, severity, and the repair method required. Minor, easily accessible leaks might be less expensive, while complex slab leaks requiring jackhammering or rerouting pipes can cost more. Factors like the type of piping, extent of damage, and specific labor rates in Goodyear or surrounding areas also influence the final price. A professional assessment is necessary to provide an accurate estimate after diagnosing the specific issue.",
+        "@type": "Answer",
+        "description": "The cost varies greatly based on leak location, severity, and repair method. A professional assessment is needed for an accurate estimate."
+      }
+    }
+  ],
+  "description": "The cost varies greatly based on leak location, severity, and repair method. A professional assessment is needed for an accurate estimate."
+}

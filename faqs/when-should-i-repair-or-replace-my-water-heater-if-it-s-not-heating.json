@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-should-i-repair-or-replace-my-water-heater-if-it-s-not-heating",
+  "name": "When should I repair or replace my water heater if it's not heating?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I repair or replace my water heater if it's not heating?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding whether to repair or replace depends on several factors. Consider the age of your unit; water heaters typically last 8-12 years. If yours is older and repairs are costly, replacement might be more economical in the long run. Frequent repairs, signs of leakage, or insufficient hot water after a fix also point towards replacement. If the issue is minor and the unit is relatively new, a repair is usually the better option. A professional plumber can help you weigh the options.",
+        "@type": "Answer",
+        "description": "If your water heater is old (8-12 years), has frequent issues, or leaks, replacement might be better. For newer units with minor problems, repair is often sufficient."
+      }
+    }
+  ],
+  "description": "If your water heater is old (8-12 years), has frequent issues, or leaks, replacement might be better. For newer units with minor problems, repair is often suffi"
+}

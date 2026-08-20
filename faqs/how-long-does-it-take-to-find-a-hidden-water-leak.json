@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-it-take-to-find-a-hidden-water-leak",
+  "name": "How long does it take to find a hidden water leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to find a hidden water leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time it takes to find a hidden water leak can vary significantly based on its location and severity. Simple leaks, such as those behind an easily accessible wall, might be located within an hour or two. More complex issues, like slab leaks or leaks in extensive underground piping systems, could take several hours, or even require multiple visits, especially if specialized equipment is needed. Our goal is to locate the leak efficiently with minimal disruption to your property.",
+        "@type": "Answer",
+        "description": "Simple leaks may be found in an hour or two. Complex leaks, like slab or underground issues, could take several hours or multiple visits."
+      }
+    }
+  ],
+  "description": "Simple leaks may be found in an hour or two. Complex leaks, like slab or underground issues, could take several hours or multiple visits."
+}

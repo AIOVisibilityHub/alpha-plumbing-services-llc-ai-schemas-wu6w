@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-much-does-it-cost-to-fix-rusty-hot-water",
+  "name": "How much does it cost to fix rusty hot water?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to fix rusty hot water?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to fix rusty hot water varies significantly depending on the underlying cause. If it's a minor issue like a failing anode rod, the repair might be relatively inexpensive. However, if the water heater tank is corroded and needs replacement, costs will be higher, encompassing the new unit and installation. If the problem stems from extensive pipe corrosion, repiping could be a significant investment. Alpha-Plumbing Services provides transparent estimates after diagnosing the specific issue in your Goodyear home.",
+        "@type": "Answer",
+        "description": "Costs vary based on the cause. A failing anode rod is less expensive, while a corroded water heater replacement or pipe repair will cost more."
+      }
+    }
+  ],
+  "description": "Costs vary based on the cause. A failing anode rod is less expensive, while a corroded water heater replacement or pipe repair will cost more."
+}

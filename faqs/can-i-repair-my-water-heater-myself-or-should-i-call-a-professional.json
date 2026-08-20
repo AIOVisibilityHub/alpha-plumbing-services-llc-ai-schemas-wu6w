@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/can-i-repair-my-water-heater-myself-or-should-i-call-a-professional",
+  "name": "Can I repair my water heater myself, or should I call a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair my water heater myself, or should I call a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While some minor maintenance tasks, like draining the tank, can be performed by homeowners, most water heater repairs require professional expertise. Working with electricity, gas lines, and pressurized water systems can be hazardous if not handled correctly. Incorrect repairs can lead to further damage, safety risks, or void your warranty. Alpha-Plumbing Services, LLC recommends calling a professional for diagnostics and repairs to ensure safety and proper function, especially in areas like Buckeye and Avondale.",
+        "@type": "Answer",
+        "description": "Most water heater repairs involve electrical, gas, or plumbing systems that require professional expertise for safety and proper function."
+      }
+    }
+  ],
+  "description": "Most water heater repairs involve electrical, gas, or plumbing systems that require professional expertise for safety and proper function."
+}

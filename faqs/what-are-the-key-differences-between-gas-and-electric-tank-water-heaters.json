@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-the-key-differences-between-gas-and-electric-tank-water-heaters",
+  "name": "What are the key differences between gas and electric tank water heaters?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the key differences between gas and electric tank water heaters?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Gas tank water heaters typically heat water faster and may have lower operating costs in areas where natural gas is cheaper than electricity. However, they require a gas line and proper ventilation. Electric tank water heaters are generally less expensive to purchase and install, don't require venting, and are simpler in design. Their operating costs depend on electricity rates. Your choice often comes down to available utility connections, energy costs in your area, and recovery rate preferences.",
+        "@type": "Answer",
+        "description": "Gas heaters heat faster with potentially lower operating costs but need ventilation. Electric heaters are cheaper to install, don't need venting, but operating costs depend on electricity rates."
+      }
+    }
+  ],
+  "description": "Gas heaters heat faster with potentially lower operating costs but need ventilation. Electric heaters are cheaper to install, don't need venting, but operating"
+}

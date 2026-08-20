@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/why-does-my-water-heater-only-produce-lukewarm-water",
+  "name": "Why does my water heater only produce lukewarm water?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why does my water heater only produce lukewarm water?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Lukewarm water instead of hot water can indicate several problems. The thermostat setting might be too low, or one of the heating elements (in electric units) could be faulty. For gas heaters, a partially obstructed flue or a weakened pilot flame might not be heating the water sufficiently. Sediment buildup at the bottom of the tank can also reduce heating efficiency, leaving you with less hot water than desired. A professional can diagnose if it's a thermostat, element, or another underlying issue.",
+        "@type": "Answer",
+        "description": "Lukewarm water often points to a low thermostat setting, a faulty heating element (electric), or issues with the pilot flame/flue (gas)."
+      }
+    }
+  ],
+  "description": "Lukewarm water often points to a low thermostat setting, a faulty heating element (electric), or issues with the pilot flame/flue (gas)."
+}

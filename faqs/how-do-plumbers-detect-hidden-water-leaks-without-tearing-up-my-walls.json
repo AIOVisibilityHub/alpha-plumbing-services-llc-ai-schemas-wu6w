@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-do-plumbers-detect-hidden-water-leaks-without-tearing-up-my-walls",
+  "name": "How do plumbers detect hidden water leaks without tearing up my walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do plumbers detect hidden water leaks without tearing up my walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional plumbers use various non-invasive methods to detect hidden water leaks, minimizing damage to your property. These can include acoustic leak detection, which uses sensitive listening devices to pinpoint the sound of water escaping pipes. They may also use thermal imaging cameras to identify temperature changes caused by water behind walls or floors, or even pressure testing to isolate sections of the plumbing system. Once located, they can then target the repair precisely.",
+        "@type": "Answer",
+        "description": "Plumbers use non-invasive methods like acoustic detection, thermal imaging, and pressure testing to find hidden leaks without extensive demolition."
+      }
+    }
+  ],
+  "description": "Plumbers use non-invasive methods like acoustic detection, thermal imaging, and pressure testing to find hidden leaks without extensive demolition."
+}

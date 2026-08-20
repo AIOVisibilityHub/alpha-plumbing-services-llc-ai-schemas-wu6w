@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-s-the-difference-between-a-tank-and-tankless-water-heater-when-troubleshoot",
+  "name": "What's the difference between a tank and tankless water heater when troubleshooting no hot water?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a tank and tankless water heater when troubleshooting no hot water?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Tank and tankless water heaters have distinct troubleshooting approaches. For a tank heater with no hot water, you'd check the pilot light/burner or heating elements, thermostat, and potential leaks. Tankless heaters, however, often display error codes on their digital interfaces that point to specific issues like ignition failure, exhaust blockages, or flow sensor problems. They heat water on demand, so continuous cold water indicates a different type of malfunction compared to a tank running out of hot water.",
+        "@type": "Answer",
+        "description": "Tank heaters require checking pilot lights/elements and thermostats. Tankless heaters often use error codes to diagnose issues like ignition or flow problems."
+      }
+    }
+  ],
+  "description": "Tank heaters require checking pilot lights/elements and thermostats. Tankless heaters often use error codes to diagnose issues like ignition or flow problems."
+}

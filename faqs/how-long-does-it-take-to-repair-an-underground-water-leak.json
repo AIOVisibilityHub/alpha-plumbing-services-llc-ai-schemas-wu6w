@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-it-take-to-repair-an-underground-water-leak",
+  "name": "How long does it take to repair an underground water leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to repair an underground water leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of an underground water leak repair depends on the complexity of the leak and the repair method chosen. Minor leaks that are easily accessible might be resolved within a few hours. More involved repairs, especially those requiring extensive excavation or pipe replacement, could take one to two days. Alpha-Plumbing Services aims to work efficiently to minimize disruption while ensuring a lasting repair. We will provide an estimated timeline once the leak is assessed.",
+        "@type": "Answer",
+        "description": "Repair time varies from a few hours for minor leaks to one to two days for complex cases, depending on accessibility and repair method."
+      }
+    }
+  ],
+  "description": "Repair time varies from a few hours for minor leaks to one to two days for complex cases, depending on accessibility and repair method."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/do-i-need-to-replace-my-carpet-if-it-s-been-wet-from-a-hidden-leak",
+  "name": "Do I need to replace my carpet if it's been wet from a hidden leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to replace my carpet if it's been wet from a hidden leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you need to replace your carpet depends on factors like the type of water (clean, gray, or black), how long it's been wet, and the extent of contamination or damage. If the water was clean and dried quickly, cleaning might be sufficient. However, if the carpet was wet for an extended period, shows signs of mold, or was exposed to unsanitary water, replacement is usually recommended to ensure health and safety.",
+        "@type": "Answer",
+        "description": "Replacement depends on water type, duration of wetness, and extent of contamination or mold. Sometimes cleaning is sufficient."
+      }
+    }
+  ],
+  "description": "Replacement depends on water type, duration of wetness, and extent of contamination or mold. Sometimes cleaning is sufficient."
+}

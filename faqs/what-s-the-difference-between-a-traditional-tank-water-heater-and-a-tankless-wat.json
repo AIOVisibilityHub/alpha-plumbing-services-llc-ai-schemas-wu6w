@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-s-the-difference-between-a-traditional-tank-water-heater-and-a-tankless-wat",
+  "name": "What's the difference between a traditional tank water heater and a tankless water heater when hot water runs out fast?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a traditional tank water heater and a tankless water heater when hot water runs out fast?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A traditional tank water heater stores a finite amount of hot water, which, once depleted, requires time to reheat. If your hot water runs out fast, it means you've used up the stored supply. A tankless water heater, however, heats water on demand as it flows through the unit, providing a continuous supply of hot water. This means a tankless system generally won't 'run out' of hot water in the same way a tank system does, making it an excellent option for homes with high hot water demand.",
+        "@type": "Answer",
+        "description": "Traditional tanks store limited hot water, which can run out, while tankless heaters provide a continuous, on-demand supply."
+      }
+    }
+  ],
+  "description": "Traditional tanks store limited hot water, which can run out, while tankless heaters provide a continuous, on-demand supply."
+}

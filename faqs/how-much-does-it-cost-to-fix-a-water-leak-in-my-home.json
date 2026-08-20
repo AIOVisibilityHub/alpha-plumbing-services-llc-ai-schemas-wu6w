@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-much-does-it-cost-to-fix-a-water-leak-in-my-home",
+  "name": "How much does it cost to fix a water leak in my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to fix a water leak in my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to fix a water leak varies significantly depending on the leak's location, severity, and accessibility. A simple faucet or toilet repair might be relatively inexpensive, while a hidden slab leak or an underground pipe repair could involve more extensive work, including demolition and restoration. Alpha-Plumbing Services offers diagnostic services to accurately locate the leak and provide a detailed estimate before any work begins. It's always advisable to get a professional assessment.",
+        "@type": "Answer",
+        "description": "Leak repair costs vary based on the leak's location and severity. Simple fixes are cheaper, while hidden or complex leaks cost more due to extensive work."
+      }
+    }
+  ],
+  "description": "Leak repair costs vary based on the leak's location and severity. Simple fixes are cheaper, while hidden or complex leaks cost more due to extensive work."
+}

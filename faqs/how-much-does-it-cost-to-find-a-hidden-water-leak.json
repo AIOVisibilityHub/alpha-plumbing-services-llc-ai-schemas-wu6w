@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-much-does-it-cost-to-find-a-hidden-water-leak",
+  "name": "How much does it cost to find a hidden water leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to find a hidden water leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to find a hidden water leak varies depending on the complexity of the leak, the equipment required, and the time it takes to pinpoint the source. Some services may offer a flat rate for leak detection, while others charge hourly. Factors like the type of pipe, accessibility of the suspected area, and the need for specialized tools can influence the overall cost. It's best to get a detailed estimate after an initial assessment.",
+        "@type": "Answer",
+        "description": "Costs vary based on leak complexity, equipment needed, and time. Obtain an estimate after an initial assessment."
+      }
+    }
+  ],
+  "description": "Costs vary based on leak complexity, equipment needed, and time. Obtain an estimate after an initial assessment."
+}

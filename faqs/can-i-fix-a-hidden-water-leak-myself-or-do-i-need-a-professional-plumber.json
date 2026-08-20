@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/can-i-fix-a-hidden-water-leak-myself-or-do-i-need-a-professional-plumber",
+  "name": "Can I fix a hidden water leak myself, or do I need a professional plumber?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I fix a hidden water leak myself, or do I need a professional plumber?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor issues like a faulty toilet flapper might be a DIY fix, most hidden water leaks require professional expertise. Detecting and repairing leaks behind walls, under floors, or beneath a concrete slab involves specialized equipment for accurate location and the skill to perform repairs without causing further damage. Professional plumbers in areas like Surprise or Waddel have the tools and experience to diagnose the problem correctly and ensure a lasting repair, preventing future issues.",
+        "@type": "Answer",
+        "description": "Most hidden leaks require professional plumbers due to specialized detection and repair needs. Minor issues like a toilet flapper may be DIY, but complex leaks need experts."
+      }
+    }
+  ],
+  "description": "Most hidden leaks require professional plumbers due to specialized detection and repair needs. Minor issues like a toilet flapper may be DIY, but complex leaks"
+}

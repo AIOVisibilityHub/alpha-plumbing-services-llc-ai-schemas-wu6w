@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/why-is-my-water-heater-making-a-popping-or-cracking-noise",
+  "name": "Why is my water heater making a popping or cracking noise?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is my water heater making a popping or cracking noise?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Popping or cracking sounds from your water heater often indicate sediment buildup at the bottom of the tank. As the heating element warms this sediment, trapped water boils and causes small explosions, resulting in these noises. Over time, sediment can reduce your water heater's efficiency and lifespan. Regular flushing and maintenance can help prevent this issue and ensure your unit operates quietly and effectively. If the noise persists after flushing, it's advisable to have a professional inspection.",
+        "@type": "Answer",
+        "description": "Popping noises in your water heater usually mean there's sediment buildup in the tank. This sediment traps water, causing it to boil and create popping sounds as it heats."
+      }
+    }
+  ],
+  "description": "Popping noises in your water heater usually mean there's sediment buildup in the tank. This sediment traps water, causing it to boil and create popping sounds a"
+}

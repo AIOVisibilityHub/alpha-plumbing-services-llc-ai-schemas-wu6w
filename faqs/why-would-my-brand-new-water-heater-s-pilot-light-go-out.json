@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/why-would-my-brand-new-water-heater-s-pilot-light-go-out",
+  "name": "Why would my brand-new water heater's pilot light go out?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why would my brand-new water heater's pilot light go out?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Even new water heaters can experience pilot light issues, though it's less common. This could be due to a manufacturing defect in the thermocouple or gas control valve, or perhaps an issue during installation, such as a kinked pilot tube or improper gas pressure settings. Sometimes, drafts in the utility area can also affect new installations. If your brand-new water heater's pilot light repeatedly goes out, it's important to contact the installer or manufacturer promptly, as it's likely covered under warranty.",
+        "@type": "Answer",
+        "description": "A new water heater's pilot light might go out due to a manufacturing defect, installation issues, or drafts. Contact the installer or manufacturer."
+      }
+    }
+  ],
+  "description": "A new water heater's pilot light might go out due to a manufacturing defect, installation issues, or drafts. Contact the installer or manufacturer."
+}

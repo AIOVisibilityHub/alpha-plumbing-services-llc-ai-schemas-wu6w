@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/will-my-insurance-cover-water-leak-repairs",
+  "name": "Will my insurance cover water leak repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my insurance cover water leak repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowner's insurance coverage for water leak repairs varies greatly depending on your specific policy and the cause of the leak. Generally, sudden and accidental water damage (like a burst pipe) might be covered, while damage from gradual leaks or lack of maintenance is often excluded. It's crucial to review your insurance policy documents or contact your insurance provider directly to understand your coverage limitations before initiating repairs. While Alpha-Plumbing Services focuses on expert repair, we recommend understanding your policy to manage potential costs.",
+        "@type": "Answer",
+        "description": "Insurance coverage for water leaks depends on your policy and the cause. Sudden damage might be covered, but gradual leaks usually are not. Check your policy or contact your insurer."
+      }
+    }
+  ],
+  "description": "Insurance coverage for water leaks depends on your policy and the cause. Sudden damage might be covered, but gradual leaks usually are not. Check your policy or"
+}

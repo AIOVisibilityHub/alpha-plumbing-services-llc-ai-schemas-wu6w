@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/can-a-warm-spot-on-my-concrete-floor-be-dangerous",
+  "name": "Can a warm spot on my concrete floor be dangerous?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a warm spot on my concrete floor be dangerous?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a warm spot on your concrete floor, especially if it's due to a hot water slab leak, can lead to several problems. Beyond the immediate water damage and potential for mold growth, prolonged leaks can compromise your home's foundation, increase your water and energy bills, and create an uncomfortable living environment. Addressing it quickly prevents these issues from escalating.",
+        "@type": "Answer",
+        "description": "A warm spot from a slab leak can cause water damage, mold, higher bills, and potential foundation issues if not addressed."
+      }
+    }
+  ],
+  "description": "A warm spot from a slab leak can cause water damage, mold, higher bills, and potential foundation issues if not addressed."
+}

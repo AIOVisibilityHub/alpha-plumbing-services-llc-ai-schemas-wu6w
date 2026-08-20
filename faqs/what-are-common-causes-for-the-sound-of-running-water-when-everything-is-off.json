@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-common-causes-for-the-sound-of-running-water-when-everything-is-off",
+  "name": "What are common causes for the sound of running water when everything is off?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common causes for the sound of running water when everything is off?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several issues can cause the sound of running water when all taps are off. A continuously running or intermittently filling toilet is a frequent cause. Other possibilities include a leak in an irrigation system, a hot water heater continuously refilling due to a pressure relief valve issue, or a more serious hidden pipe leak within walls, floors, or under the slab. Even a small drip can produce a noticeable sound over time, indicating a larger problem.",
+        "@type": "Answer",
+        "description": "Common causes include running toilets, irrigation leaks, hot water heater issues, or hidden pipe leaks within walls or under the slab."
+      }
+    }
+  ],
+  "description": "Common causes include running toilets, irrigation leaks, hot water heater issues, or hidden pipe leaks within walls or under the slab."
+}

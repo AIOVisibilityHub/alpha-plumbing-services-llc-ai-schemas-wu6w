@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-it-take-for-a-plumber-to-fix-a-water-heater-pilot-light-issue",
+  "name": "How long does it take for a plumber to fix a water heater pilot light issue?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take for a plumber to fix a water heater pilot light issue?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time it takes to fix a water heater pilot light issue depends on the specific problem. If it's a simple relight, the process can take just a few minutes. Diagnosing and replacing a faulty thermocouple typically takes about 30 minutes to an hour. More complex issues, such as replacing a gas control valve or addressing a clogged pilot tube, could take 1-2 hours or longer, especially if parts need to be sourced. Your plumber can provide a time estimate after assessing the situation.",
+        "@type": "Answer",
+        "description": "Simple relighting takes minutes. Repairing a faulty thermocouple can take 30-60 minutes, while complex issues may take 1-2 hours or more."
+      }
+    }
+  ],
+  "description": "Simple relighting takes minutes. Repairing a faulty thermocouple can take 30-60 minutes, while complex issues may take 1-2 hours or more."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/why-is-my-water-bill-suddenly-so-high",
+  "name": "Why is my water bill suddenly so high?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is my water bill suddenly so high?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A sudden increase in your water bill often indicates a hidden water leak. Common culprits include running toilets, leaky faucets, or underground pipe leaks. Other factors can include a malfunctioning irrigation system, a water softener continuously regenerating, or even a neighbor using your outdoor spigot. It's important to investigate promptly, as unattended leaks can waste thousands of gallons of water and cause significant property damage over time. Contacting a professional plumber can help identify the exact cause.",
+        "@type": "Answer",
+        "description": "A sudden high water bill usually points to a hidden leak or a malfunctioning water-consuming appliance. Prompt investigation is crucial to prevent further waste and damage."
+      }
+    }
+  ],
+  "description": "A sudden high water bill usually points to a hidden leak or a malfunctioning water-consuming appliance. Prompt investigation is crucial to prevent further waste"
+}

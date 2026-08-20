@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-the-signs-of-a-slab-leak-besides-a-warm-spot-on-the-floor",
+  "name": "What are the signs of a slab leak besides a warm spot on the floor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs of a slab leak besides a warm spot on the floor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While a warm spot is a key indicator, other signs of a slab leak include unexplained increases in your water bill, the sound of running water when no fixtures are in use, visible cracks in the foundation or walls, discolored or damp spots on flooring, and reduced water pressure. Any combination of these symptoms, especially with a warm spot, suggests a probable slab leak.",
+        "@type": "Answer",
+        "description": "Other slab leak signs include high water bills, sounds of running water, foundation cracks, and damp flooring."
+      }
+    }
+  ],
+  "description": "Other slab leak signs include high water bills, sounds of running water, foundation cracks, and damp flooring."
+}

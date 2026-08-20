@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-much-does-it-cost-to-fix-a-hidden-water-leak",
+  "name": "How much does it cost to fix a hidden water leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to fix a hidden water leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to fix a hidden water leak varies widely depending on the leak's location, severity, and the type of repair required. Minor issues like a running toilet flapper are inexpensive, while complex problems such as slab leaks or pipe bursts within walls can be significantly more costly, involving detection, demolition, and extensive pipe replacement. Most plumbers offer an inspection or diagnostic fee to pinpoint the source and provide an accurate estimate. Early detection can help minimize repair expenses.",
+        "@type": "Answer",
+        "description": "Leak repair costs vary based on location and severity. Simple fixes are cheap, but complex issues like slab leaks are more expensive. Early detection can reduce costs."
+      }
+    }
+  ],
+  "description": "Leak repair costs vary based on location and severity. Simple fixes are cheap, but complex issues like slab leaks are more expensive. Early detection can reduce"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-the-signs-that-i-need-a-new-hot-water-heater",
+  "name": "What are the signs that I need a new hot water heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs that I need a new hot water heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common indicators that your hot water heater may need replacement include a lack of hot water, rust-colored water, metallic odors, strange noises like rumbling or popping from the tank, and visible leaks around the unit. An increase in your energy bills without a change in usage can also suggest your water heater is becoming inefficient. If your unit is over 10-12 years old, it's generally a good idea to consider replacement even without immediate issues, as older heaters are prone to failure and less energy-efficient.",
+        "@type": "Answer",
+        "description": "Signs include lack of hot water, rusty water, noises, leaks, increased energy bills, or if your unit is over 10-12 years old."
+      }
+    }
+  ],
+  "description": "Signs include lack of hot water, rusty water, noises, leaks, increased energy bills, or if your unit is over 10-12 years old."
+}

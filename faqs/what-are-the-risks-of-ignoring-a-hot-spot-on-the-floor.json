@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-the-risks-of-ignoring-a-hot-spot-on-the-floor",
+  "name": "What are the risks of ignoring a hot spot on the floor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the risks of ignoring a hot spot on the floor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ignoring a hot spot on your floor can lead to significant and costly problems. The constant water exposure from a leak can cause extensive structural damage to your home's foundation, subflooring, and walls. It also creates an ideal environment for mold and mildew growth, which can pose health risks. Furthermore, a leaking hot water line will result in a substantial increase in your water bill and could compromise your home's structural integrity over time. Early detection and repair are crucial to mitigate these risks.",
+        "@type": "Answer",
+        "description": "Ignoring a hot spot on the floor risks structural damage, mold growth, increased water bills, and compromised home integrity."
+      }
+    }
+  ],
+  "description": "Ignoring a hot spot on the floor risks structural damage, mold growth, increased water bills, and compromised home integrity."
+}

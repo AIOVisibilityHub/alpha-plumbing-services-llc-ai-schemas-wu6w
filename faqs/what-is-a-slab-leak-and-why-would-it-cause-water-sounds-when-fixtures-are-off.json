@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-a-slab-leak-and-why-would-it-cause-water-sounds-when-fixtures-are-off",
+  "name": "What is a slab leak and why would it cause water sounds when fixtures are off?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a slab leak and why would it cause water sounds when fixtures are off?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A slab leak refers to a leak in the water pipes located under the concrete foundation (slab) of your home. When these pipes leak, the water can create sounds as it escapes into the ground or seeps up through the slab. Because these pipes are continuously pressurized, a leak will cause a constant flow of water, leading to the persistent sound even when no fixtures are in use. Slab leaks are particularly concerning due to the potential for significant structural damage.",
+        "@type": "Answer",
+        "description": "A slab leak is a leak in pipes under your home's foundation. It causes constant water sounds because pressurized water is continuously escaping, potentially damaging the structure."
+      }
+    }
+  ],
+  "description": "A slab leak is a leak in pipes under your home's foundation. It causes constant water sounds because pressurized water is continuously escaping, potentially dam"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-should-i-call-a-plumber-for-a-rumbling-water-heater",
+  "name": "When should I call a plumber for a rumbling water heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a plumber for a rumbling water heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a plumber from Alpha-Plumbing Services, LLC if your water heater is rumbling persistently, especially if you haven't flushed it recently. It's also critical to call if the rumbling is accompanied by other issues like discolored water, reduced hot water supply, leaks around the base of the tank, or if you hear popping or banging noises. These symptoms suggest potential internal damage or a significant sediment problem that requires professional assessment and service.",
+        "@type": "Answer",
+        "description": "Call a plumber if your water heater rumbles persistently, if you see discolored water, experience reduced hot water, or notice leaks, as these indicate a professional is needed."
+      }
+    }
+  ],
+  "description": "Call a plumber if your water heater rumbles persistently, if you see discolored water, experience reduced hot water, or notice leaks, as these indicate a profes"
+}

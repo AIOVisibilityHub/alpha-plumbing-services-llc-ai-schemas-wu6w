@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/do-tankless-water-heaters-require-special-maintenance",
+  "name": "Do tankless water heaters require special maintenance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do tankless water heaters require special maintenance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, tankless water heaters do require annual maintenance, primarily flushing the unit to prevent mineral buildup. Over time, hard water deposits can accumulate in the heat exchanger, reducing efficiency and potentially shortening the unit's lifespan. This flushing process involves circulating a vinegar or descaling solution through the unit to dissolve these minerals. Regular professional maintenance ensures optimal performance, extends the life of the unit, and helps maintain energy efficiency.",
+        "@type": "Answer",
+        "description": "Tankless water heaters require annual flushing to prevent mineral buildup and ensure optimal efficiency and longevity."
+      }
+    }
+  ],
+  "description": "Tankless water heaters require annual flushing to prevent mineral buildup and ensure optimal efficiency and longevity."
+}

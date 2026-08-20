@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-kind-of-leaks-can-cause-a-water-meter-to-move",
+  "name": "What kind of leaks can cause a water meter to move?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of leaks can cause a water meter to move?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Various types of leaks can cause a water meter to move when no water is being used. Common culprits include silent toilet leaks where water seeps from the tank into the bowl, unseen slab leaks under your home's foundation, or pinhole leaks in pipes within walls or ceilings. Outdoor irrigation system leaks, faulty water heater relief valves, or even dripping outdoor faucets can also contribute. Some leaks are slow and steady, while others can be significant, leading to noticeable meter movement.",
+        "@type": "Answer",
+        "description": "Common leaks that cause meter movement include toilet leaks, slab leaks, pipe leaks in walls, and irrigation system leaks."
+      }
+    }
+  ],
+  "description": "Common leaks that cause meter movement include toilet leaks, slab leaks, pipe leaks in walls, and irrigation system leaks."
+}

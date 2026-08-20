@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/is-a-rumbling-water-heater-dangerous",
+  "name": "Is a rumbling water heater dangerous?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is a rumbling water heater dangerous?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While a rumbling water heater isn't immediately dangerous, it's a sign of a problem that shouldn't be ignored. The primary issue is sediment buildup, which makes the unit less efficient and can lead to premature failure or tank damage. Increased stress on the tank from overheating due to sediment can, in rare cases, lead to leaks. It's advisable to address the rumbling to prevent more significant issues down the line and ensure your water heater operates safely and effectively.",
+        "@type": "Answer",
+        "description": "A rumbling water heater is not usually dangerous but indicates a problem like sediment buildup that can lead to inefficiency, leaks, or premature failure if not addressed."
+      }
+    }
+  ],
+  "description": "A rumbling water heater is not usually dangerous but indicates a problem like sediment buildup that can lead to inefficiency, leaks, or premature failure if not"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-kind-of-damage-can-a-slab-leak-cause-if-left-unrepaired",
+  "name": "What kind of damage can a slab leak cause if left unrepaired?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of damage can a slab leak cause if left unrepaired?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If left unrepaired, a slab leak can cause significant and costly damage to your home. This includes structural issues to your foundation, which can lead to cracks in walls and uneven floors. Water damage can ruin flooring materials like wood, tile, or carpet, and promote the growth of mold and mildew, posing health risks. It can also compromise landscaping and erode soil around your home, weakening its support. Addressing a slab leak promptly prevents these serious consequences.",
+        "@type": "Answer",
+        "description": "Unrepaired slab leaks can cause foundation damage, ruined flooring, mold growth, and landscaping erosion."
+      }
+    }
+  ],
+  "description": "Unrepaired slab leaks can cause foundation damage, ruined flooring, mold growth, and landscaping erosion."
+}

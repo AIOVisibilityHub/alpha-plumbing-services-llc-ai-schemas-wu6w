@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-much-does-it-cost-to-fix-a-water-heater-pilot-light",
+  "name": "How much does it cost to fix a water heater pilot light?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to fix a water heater pilot light?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to fix a water heater pilot light can vary depending on the underlying issue and required parts. If it's a simple relight, there might be no charge or a minimal service fee if a technician is called. Replacing a faulty thermocouple, a common cause, typically costs less than replacing an entire gas control valve. Labor costs for diagnosis and repair also factor in. It's best to get a specific quote after a professional inspection, as prices can vary by location and the complexity of the repair.",
+        "@type": "Answer",
+        "description": "Cost varies by issue; a simple relight is inexpensive, but parts like a thermocouple or gas control valve will increase the price."
+      }
+    }
+  ],
+  "description": "Cost varies by issue; a simple relight is inexpensive, but parts like a thermocouple or gas control valve will increase the price."
+}

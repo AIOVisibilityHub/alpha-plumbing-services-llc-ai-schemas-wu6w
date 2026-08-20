@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-size-tank-water-heater-do-i-need-for-my-home",
+  "name": "What size tank water heater do I need for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What size tank water heater do I need for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The ideal size for your tank water heater depends on the number of people in your household and your peak hot water demand. A 40-gallon tank is often suitable for 1-2 people, a 50-gallon for 2-4 people, and a 60-80 gallon tank for 5 or more. Factors like the number of bathrooms and hot water appliances also play a role. An undersized heater may run out of hot water quickly, while an oversized one can be less energy-efficient. Our technicians can help assess your needs.",
+        "@type": "Answer",
+        "description": "The right size depends on household size and peak hot water demand; e.g., 40-gallon for 1-2 people, 50-gallon for 2-4. An undersized or oversized unit can be inefficient."
+      }
+    }
+  ],
+  "description": "The right size depends on household size and peak hot water demand; e.g., 40-gallon for 1-2 people, 50-gallon for 2-4. An undersized or oversized unit can be in"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/why-is-my-carpet-wet-but-i-can-t-find-a-leak",
+  "name": "Why is my carpet wet but I can't find a leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is my carpet wet but I can't find a leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Wet carpet with no visible leak can be caused by various issues, including hidden pipe leaks behind walls or under floors, slab leaks, appliance malfunctions (like water heaters or dishwashers), condensation from HVAC systems, or even issues with your home's exterior drainage allowing water to seep into the foundation. It's crucial to identify the source quickly to prevent further damage and mold growth. Professional leak detection can pinpoint the exact cause without extensive demolition.",
+        "@type": "Answer",
+        "description": "Hidden pipe leaks, slab leaks, appliance malfunctions, HVAC condensation, or exterior drainage issues can cause wet carpet without a visible source."
+      }
+    }
+  ],
+  "description": "Hidden pipe leaks, slab leaks, appliance malfunctions, HVAC condensation, or exterior drainage issues can cause wet carpet without a visible source."
+}

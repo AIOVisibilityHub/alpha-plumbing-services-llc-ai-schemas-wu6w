@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-warranty-typically-offered-on-new-tankless-water-heaters",
+  "name": "What is the warranty typically offered on new tankless water heaters?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the warranty typically offered on new tankless water heaters?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Warranties for new tankless water heaters vary by manufacturer and model. Typically, you can expect a heat exchanger warranty of 10-15 years, and a parts warranty of 3-5 years. Labor warranties for installation are usually provided by the plumbing company and can range from 1-2 years. Always review the specific warranty details before making a purchase.",
+        "@type": "Answer",
+        "description": "Warranties vary, but typically include 10-15 years for the heat exchanger and 3-5 years for parts. Installation labor warranties are separate."
+      }
+    }
+  ],
+  "description": "Warranties vary, but typically include 10-15 years for the heat exchanger and 3-5 years for parts. Installation labor warranties are separate."
+}

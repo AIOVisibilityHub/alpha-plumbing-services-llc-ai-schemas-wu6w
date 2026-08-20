@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-average-cost-to-repair-a-water-heater-that-s-not-heating",
+  "name": "What is the average cost to repair a water heater that's not heating?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost to repair a water heater that's not heating?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to repair a water heater that isn't heating varies significantly based on the specific problem and the type of water heater. Minor issues like relighting a pilot light or resetting a breaker may cost nothing if you do it yourself, or a service call fee for a technician. Replacing a heating element or thermocouple typically ranges from $150-$400. More complex problems, such as a faulty gas control valve, could cost $300-$600 or more. A technician can provide a precise quote after diagnosis.",
+        "@type": "Answer",
+        "description": "Repair costs vary depending on the issue, from a basic service call for simple fixes to $150-$600+ for parts like heating elements or gas control valves."
+      }
+    }
+  ],
+  "description": "Repair costs vary depending on the issue, from a basic service call for simple fixes to $150-$600+ for parts like heating elements or gas control valves."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-it-take-to-repair-a-water-leak-under-concrete",
+  "name": "How long does it take to repair a water leak under concrete?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to repair a water leak under concrete?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a water leak repair under concrete depends on the specific repair method chosen and the complexity of accessing the leak. Simple spot repairs might be completed within a day or two once the leak is located. More extensive work, such as rerouting pipes or significant concrete removal and replacement, could take several days. Leak detection itself can take a few hours. We prioritize efficient and thorough service to minimize disruption.",
+        "@type": "Answer",
+        "description": "Repair time varies from a day for simple spot fixes to several days for complex rerouting, depending on the leak's accessibility and repair method."
+      }
+    }
+  ],
+  "description": "Repair time varies from a day for simple spot fixes to several days for complex rerouting, depending on the leak's accessibility and repair method."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-typical-cost-for-underground-water-leak-repair-in-goodyear",
+  "name": "What is the typical cost for underground water leak repair in Goodyear?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost for underground water leak repair in Goodyear?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost for underground water leak repair can vary significantly depending on several factors, including the leak's location, its severity, the type of piping material, and the extent of excavation required. Simple repairs might involve minimal digging, while complex situations could necessitate replacing a longer section of pipe. Alpha-Plumbing Services provides upfront, transparent estimates after a thorough inspection of your specific situation to determine the most effective and efficient repair method.",
+        "@type": "Answer",
+        "description": "Repair costs vary based on leak location, severity, pipe material, and excavation needed. We provide transparent estimates after inspection."
+      }
+    }
+  ],
+  "description": "Repair costs vary based on leak location, severity, pipe material, and excavation needed. We provide transparent estimates after inspection."
+}

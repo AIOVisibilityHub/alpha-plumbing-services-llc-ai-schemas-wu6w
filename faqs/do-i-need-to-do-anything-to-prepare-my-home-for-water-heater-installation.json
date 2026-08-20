@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/do-i-need-to-do-anything-to-prepare-my-home-for-water-heater-installation",
+  "name": "Do I need to do anything to prepare my home for water heater installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to do anything to prepare my home for water heater installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare for water heater installation, ensure the area around the existing unit is clear and accessible for our technicians. Remove any personal belongings or obstacles from the pathway leading to the installation site. If the water heater is in a closet or utility space, make sure there's enough room to work safely. Clearing the space helps streamline the removal of your old unit and the placement of the new one, ensuring an efficient and quick installation process.",
+        "@type": "Answer",
+        "description": "Clear the area around the existing water heater and the pathway to it. Ensure the space is accessible for technicians to work safely and efficiently."
+      }
+    }
+  ],
+  "description": "Clear the area around the existing water heater and the pathway to it. Ensure the space is accessible for technicians to work safely and efficiently."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-the-long-term-effects-of-ignoring-a-rumbling-water-heater",
+  "name": "What are the long-term effects of ignoring a rumbling water heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the long-term effects of ignoring a rumbling water heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ignoring a rumbling water heater can lead to several long-term issues. Sediment buildup increases the energy required to heat water, leading to higher utility bills. It also causes the heating element to work harder and overheat, shortening its lifespan and potentially leading to premature failure of the unit. The continuous stress on the tank from overheating can weaken the metal, eventually causing leaks and requiring an expensive full replacement. Regular maintenance helps avoid these problems.",
+        "@type": "Answer",
+        "description": "Ignoring a rumbling water heater can lead to higher energy bills, premature unit failure, and eventual tank leaks, necessitating costly replacement."
+      }
+    }
+  ],
+  "description": "Ignoring a rumbling water heater can lead to higher energy bills, premature unit failure, and eventual tank leaks, necessitating costly replacement."
+}

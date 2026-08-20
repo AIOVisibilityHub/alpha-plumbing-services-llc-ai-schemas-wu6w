@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-quickly-should-i-address-a-moving-water-meter-due-to-a-leak",
+  "name": "How quickly should I address a moving water meter due to a leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly should I address a moving water meter due to a leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should address a moving water meter due to a leak as quickly as possible. Even small leaks can waste hundreds to thousands of gallons of water per month, leading to surprisingly high utility bills. More importantly, unchecked leaks can cause significant property damage over time, including mold growth, structural damage to foundations or walls, and damage to flooring or landscaping. Early detection and repair can save you from costly repairs and headaches in the future.",
+        "@type": "Answer",
+        "description": "Address a water leak quickly to prevent high utility bills and significant property damage from mold, structural issues, or water damage."
+      }
+    }
+  ],
+  "description": "Address a water leak quickly to prevent high utility bills and significant property damage from mold, structural issues, or water damage."
+}

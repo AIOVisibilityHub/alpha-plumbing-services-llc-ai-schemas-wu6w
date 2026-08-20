@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-the-common-signs-of-a-water-leak-under-concrete",
+  "name": "What are the common signs of a water leak under concrete?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs of a water leak under concrete?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs of a water leak under concrete can include unexplained increases in your water bill, warm spots on the floor, visible cracks in the concrete slab, or constant running sounds from water pipes. You might also notice a damp smell, mildew growth, or water pooling in unexpected areas around your property's foundation. Puddles near the foundation, especially after no rain, can also indicate a hidden leak. Addressing these signs promptly can prevent further damage to your home's structure and landscaping.",
+        "@type": "Answer",
+        "description": "Look for high water bills, warm spots on floors, cracks in concrete, damp smells, or pooling water around the foundation."
+      }
+    }
+  ],
+  "description": "Look for high water bills, warm spots on floors, cracks in concrete, damp smells, or pooling water around the foundation."
+}

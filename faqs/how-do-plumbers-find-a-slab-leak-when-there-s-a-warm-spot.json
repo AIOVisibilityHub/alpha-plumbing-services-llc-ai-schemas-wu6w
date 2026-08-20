@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-do-plumbers-find-a-slab-leak-when-there-s-a-warm-spot",
+  "name": "How do plumbers find a slab leak when there's a warm spot?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do plumbers find a slab leak when there's a warm spot?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Plumbers use specialized leak detection equipment to pinpoint the exact location of a slab leak, even if there's only a warm spot visible. This often includes acoustic listening devices that detect the sound of pressurized water escaping, thermal imaging cameras to identify temperature differences, and sometimes even tracer gas. These methods help avoid unnecessary demolition to access the pipe.",
+        "@type": "Answer",
+        "description": "Plumbers use acoustic listening devices and thermal imaging to precisely locate slab leaks without extensive demolition."
+      }
+    }
+  ],
+  "description": "Plumbers use acoustic listening devices and thermal imaging to precisely locate slab leaks without extensive demolition."
+}

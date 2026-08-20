@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-do-i-check-my-home-s-water-pressure",
+  "name": "How do I check my home's water pressure?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I check my home's water pressure?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can check your home's water pressure using a water pressure gauge, which can be purchased at most hardware stores. To use it, simply screw the gauge onto an outdoor spigot, typically one located near the main water shut-off valve. Ensure no other water is running in the house. The gauge will display your home's static water pressure in pounds per square inch (psi). Normal residential water pressure usually falls between 40-80 psi. Readings outside this range may indicate a problem.",
+        "@type": "Answer",
+        "description": "Check your home's water pressure by attaching a pressure gauge to an outdoor spigot. Normal pressure is typically between 40-80 psi."
+      }
+    }
+  ],
+  "description": "Check your home's water pressure by attaching a pressure gauge to an outdoor spigot. Normal pressure is typically between 40-80 psi."
+}

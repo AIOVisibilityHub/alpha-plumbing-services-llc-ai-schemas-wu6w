@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/do-you-offer-hidden-water-leak-detection-services-in-surprise-az",
+  "name": "Do you offer hidden water leak detection services in Surprise, AZ?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer hidden water leak detection services in Surprise, AZ?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Alpha-Plumbing Services, LLC proudly offers comprehensive hidden water leak detection services in Surprise, AZ, and surrounding areas. Our skilled technicians are equipped with advanced tools and technology to accurately locate leaks within your home or business, whether they are behind walls, under floors, or underground. We serve residents and businesses throughout Surprise, ensuring efficient and effective solutions for all your plumbing needs.",
+        "@type": "Answer",
+        "description": "Yes, Alpha-Plumbing Services, LLC provides hidden water leak detection in Surprise, AZ. Our technicians use advanced tools to locate leaks in homes and businesses."
+      }
+    }
+  ],
+  "description": "Yes, Alpha-Plumbing Services, LLC provides hidden water leak detection in Surprise, AZ. Our technicians use advanced tools to locate leaks in homes and business"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/can-i-replace-my-traditional-water-heater-with-a-tankless-unit",
+  "name": "Can I replace my traditional water heater with a tankless unit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace my traditional water heater with a tankless unit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, it is generally possible to replace a traditional tank-style water heater with a tankless unit. However, this often involves more than just a direct swap. Tankless water heaters have different requirements for gas lines, electrical power, and venting than traditional units. Our technicians will assess your current setup to determine if upgrades are needed for gas line sizing, electrical circuits, or installing new ventilation systems. This conversion typically results in a more efficient and space-saving hot water solution.",
+        "@type": "Answer",
+        "description": "Yes, you can replace a traditional water heater with a tankless unit, but it often requires upgrades to gas lines, electrical, or venting systems."
+      }
+    }
+  ],
+  "description": "Yes, you can replace a traditional water heater with a tankless unit, but it often requires upgrades to gas lines, electrical, or venting systems."
+}

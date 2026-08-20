@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-maintenance-can-prevent-my-water-heater-from-not-heating-in-the-future",
+  "name": "What maintenance can prevent my water heater from not heating in the future?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance can prevent my water heater from not heating in the future?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Regular maintenance can significantly extend your water heater's life and prevent heating issues. For both electric and gas units, draining and flushing the tank annually helps remove sediment buildup that reduces efficiency. For gas heaters, regularly checking the pilot light and ensuring the area around the unit is clear of obstructions is beneficial. For electric heaters, inspecting heating elements periodically can catch problems early. Consider professional annual maintenance to keep your unit running efficiently and reliably.",
+        "@type": "Answer",
+        "description": "Regular maintenance like annual flushing, checking pilot lights (gas), and inspecting heating elements (electric) can prevent future heating problems."
+      }
+    }
+  ],
+  "description": "Regular maintenance like annual flushing, checking pilot lights (gas), and inspecting heating elements (electric) can prevent future heating problems."
+}

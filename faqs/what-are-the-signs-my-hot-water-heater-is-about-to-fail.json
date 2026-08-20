@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-the-signs-my-hot-water-heater-is-about-to-fail",
+  "name": "What are the signs my hot water heater is about to fail?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs my hot water heater is about to fail?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Watch for several warning signs that indicate your hot water heater may be failing. These include strange noises like rumbling or popping sounds coming from the tank, which often signal sediment buildup. Leaks around the base of the tank are a critical indicator. You might also notice rusty water coming from your hot water tap or a sudden decrease in hot water availability or temperature fluctuations. Any of these symptoms warrant a professional inspection.",
+        "@type": "Answer",
+        "description": "Signs of impending failure include strange noises, leaks around the tank, rusty water, or a decrease in hot water availability."
+      }
+    }
+  ],
+  "description": "Signs of impending failure include strange noises, leaks around the tank, rusty water, or a decrease in hot water availability."
+}

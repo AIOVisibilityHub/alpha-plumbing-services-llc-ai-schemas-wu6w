@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-a-typical-water-heater-repair-take",
+  "name": "How long does a typical water heater repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical water heater repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a water heater repair depends on the complexity of the problem. Simple repairs, such as replacing a faulty thermostat or a pressure relief valve, often take 1 to 2 hours. More involved issues, like flushing the tank to remove sediment or replacing a heating element, might take 2 to 4 hours. If a specialized part needs to be ordered, the repair time could be extended. Our technicians aim to complete repairs efficiently while ensuring quality workmanship.",
+        "@type": "Answer",
+        "description": "Most water heater repairs take 1-4 hours, depending on the issue's complexity. Ordering special parts can extend the timeline."
+      }
+    }
+  ],
+  "description": "Most water heater repairs take 1-4 hours, depending on the issue's complexity. Ordering special parts can extend the timeline."
+}

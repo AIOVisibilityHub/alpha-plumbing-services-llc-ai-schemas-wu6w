@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/can-i-fix-a-water-leak-myself",
+  "name": "Can I fix a water leak myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I fix a water leak myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minor leaks, such as a dripping faucet or a running toilet due to a worn flapper, can often be fixed by a homeowner with some basic plumbing knowledge and tools. However, for hidden leaks, slab leaks, or any leak that is difficult to locate or requires opening walls or digging, it is strongly recommended to hire a professional plumber. Professionals have specialized equipment for leak detection and the expertise to repair complex issues correctly and safely, preventing further damage.",
+        "@type": "Answer",
+        "description": "You can fix minor leaks like a dripping faucet. For hidden or complex leaks, it's best to hire a professional plumber with specialized tools."
+      }
+    }
+  ],
+  "description": "You can fix minor leaks like a dripping faucet. For hidden or complex leaks, it's best to hire a professional plumber with specialized tools."
+}

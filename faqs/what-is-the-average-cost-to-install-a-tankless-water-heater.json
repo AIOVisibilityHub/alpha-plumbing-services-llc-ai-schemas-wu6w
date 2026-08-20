@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-average-cost-to-install-a-tankless-water-heater",
+  "name": "What is the average cost to install a tankless water heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost to install a tankless water heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of installing a tankless water heater can vary significantly based on the model chosen (gas or electric, size), labor rates, and any necessary plumbing or electrical modifications. Generally, installation costs can range from $2,500 to $6,000. This price often includes the unit itself and the labor for installation. Factors like upgrading gas lines, installing new venting, or enhancing electrical service to meet the unit's requirements will influence the final cost. We provide detailed estimates after an on-site assessment.",
+        "@type": "Answer",
+        "description": "Average installation costs for a tankless water heater range from $2,500 to $6,000, depending on the unit, labor, and necessary system upgrades."
+      }
+    }
+  ],
+  "description": "Average installation costs for a tankless water heater range from $2,500 to $6,000, depending on the unit, labor, and necessary system upgrades."
+}

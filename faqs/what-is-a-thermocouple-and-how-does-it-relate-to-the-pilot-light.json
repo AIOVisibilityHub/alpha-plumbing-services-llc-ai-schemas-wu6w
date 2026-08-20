@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-a-thermocouple-and-how-does-it-relate-to-the-pilot-light",
+  "name": "What is a thermocouple, and how does it relate to the pilot light?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a thermocouple, and how does it relate to the pilot light?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A thermocouple is a small safety device crucial to the operation of gas water heaters. It's essentially a sensor that produces a small electrical current when heated by the pilot flame. This current signals the gas control valve to remain open, allowing gas to flow to both the pilot and the main burner. If the pilot light goes out, the thermocouple cools down, the current stops, and the gas control valve automatically closes, shutting off the gas supply. This prevents dangerous gas leaks.",
+        "@type": "Answer",
+        "description": "A thermocouple is a safety sensor that detects the pilot flame; if the flame goes out, it shuts off the gas supply."
+      }
+    }
+  ],
+  "description": "A thermocouple is a safety sensor that detects the pilot flame; if the flame goes out, it shuts off the gas supply."
+}

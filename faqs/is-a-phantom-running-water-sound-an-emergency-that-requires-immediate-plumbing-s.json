@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/is-a-phantom-running-water-sound-an-emergency-that-requires-immediate-plumbing-s",
+  "name": "Is a phantom running water sound an emergency that requires immediate plumbing service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is a phantom running water sound an emergency that requires immediate plumbing service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While not always an immediate emergency, a continuous sound of running water when everything is off should be addressed promptly. It often signals a leak, which can lead to significant water loss, high utility bills, and potentially severe property damage if left unaddressed. A slow leak can erode foundations, encourage mold growth, and compromise structural integrity over time. It is best to contact a plumber in areas like Goodyear, Buckeye, or Avondale as soon as possible to assess the situation.",
+        "@type": "Answer",
+        "description": "A continuous phantom running water sound suggests a leak and should be addressed promptly to prevent water waste and potential property damage. Contact a plumber soon."
+      }
+    }
+  ],
+  "description": "A continuous phantom running water sound suggests a leak and should be addressed promptly to prevent water waste and potential property damage. Contact a plumbe"
+}

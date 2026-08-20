@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-should-i-repair-my-water-heater-versus-replacing-it",
+  "name": "When should I repair my water heater versus replacing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I repair my water heater versus replacing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding between repair and replacement often depends on the age of your water heater, the severity of the problem, and the cost of the repair. If your water heater is nearing the end of its typical lifespan (8-12 years) or requires frequent, expensive repairs, replacement might be more cost-effective in the long run. A new, more efficient model could also save on energy costs. For major issues like a leaking tank, replacement is usually the recommended option.",
+        "@type": "Answer",
+        "description": "Consider replacement if your water heater is old (8-12 years), requires frequent repairs, or has major issues like a leaking tank."
+      }
+    }
+  ],
+  "description": "Consider replacement if your water heater is old (8-12 years), requires frequent repairs, or has major issues like a leaking tank."
+}

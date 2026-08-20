@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-do-i-choose-a-plumber-for-leak-detection",
+  "name": "How do I choose a plumber for leak detection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a plumber for leak detection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a plumber for leak detection, look for experience, specialized equipment, and clear communication. A reputable plumber should have positive reviews, be licensed and insured, and offer transparent pricing. Inquire if they use advanced leak detection tools like acoustic sensors or thermal imaging, which can locate hidden leaks non-invasively. Choose a company, like Alpha-Plumbing Services, that provides detailed explanations of the issue, outlines repair options, and offers guarantees on their work. Local knowledge of the area's plumbing can also be a benefit.",
+        "@type": "Answer",
+        "description": "Choose a plumber with experience, specialized leak detection equipment, clear communication, transparent pricing, and local knowledge. Ensure they are licensed and insured."
+      }
+    }
+  ],
+  "description": "Choose a plumber with experience, specialized leak detection equipment, clear communication, transparent pricing, and local knowledge. Ensure they are licensed"
+}

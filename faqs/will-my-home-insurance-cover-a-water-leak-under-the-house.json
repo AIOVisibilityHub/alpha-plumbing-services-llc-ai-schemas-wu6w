@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/will-my-home-insurance-cover-a-water-leak-under-the-house",
+  "name": "Will my home insurance cover a water leak under the house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my home insurance cover a water leak under the house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Home insurance coverage for a water leak under the house depends heavily on your specific policy and the cause of the leak. Generally, sudden and accidental leaks are more likely to be covered than those resulting from long-term neglect or maintenance issues. Policies often distinguish between water damage and the cost of repairing the source of the leak itself. It's crucial to review your policy documents or contact your insurance provider immediately after discovering a leak to understand your coverage and file a claim.",
+        "@type": "Answer",
+        "description": "Coverage depends on your policy and the leak's cause; sudden leaks are often covered, but damage from neglect usually is not. Check your policy."
+      }
+    }
+  ],
+  "description": "Coverage depends on your policy and the leak's cause; sudden leaks are often covered, but damage from neglect usually is not. Check your policy."
+}

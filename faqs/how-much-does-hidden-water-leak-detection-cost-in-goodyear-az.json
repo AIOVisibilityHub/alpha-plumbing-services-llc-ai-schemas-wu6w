@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-much-does-hidden-water-leak-detection-cost-in-goodyear-az",
+  "name": "How much does hidden water leak detection cost in Goodyear, AZ?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does hidden water leak detection cost in Goodyear, AZ?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of hidden water leak detection in Goodyear, AZ, can vary depending on the complexity of the leak and the methods required. Factors influencing the price include the type of property, the location of the suspected leak (e.g., behind a wall, under a slab, or underground), and the technology used. Most plumbing companies offer an initial inspection and diagnostic service, after which they can provide a more accurate estimate for the detection and subsequent repair. It's best to contact us directly for specific pricing.",
+        "@type": "Answer",
+        "description": "Costs vary based on leak complexity, location, and detection methods. An initial inspection helps determine the final price. Contact us for an estimate."
+      }
+    }
+  ],
+  "description": "Costs vary based on leak complexity, location, and detection methods. An initial inspection helps determine the final price. Contact us for an estimate."
+}

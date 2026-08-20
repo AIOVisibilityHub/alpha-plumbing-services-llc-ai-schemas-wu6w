@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-the-different-methods-for-slab-leak-repair",
+  "name": "What are the different methods for slab leak repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the different methods for slab leak repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common slab leak repair methods include spot repair, where only the leaking section of pipe is accessed and fixed; re-routing, which involves abandoning the leaking pipe and installing a new line through the attic or walls; and epoxy pipe lining, where an internal coating seals the leak without excavation. The best method depends on the leak's nature, pipe material, and the overall condition of your plumbing system. Each option has unique advantages in terms of cost and disruption.",
+        "@type": "Answer",
+        "description": "Slab leak repair methods include spot repair, re-routing pipes, or epoxy pipe lining, chosen based on the leak."
+      }
+    }
+  ],
+  "description": "Slab leak repair methods include spot repair, re-routing pipes, or epoxy pipe lining, chosen based on the leak."
+}

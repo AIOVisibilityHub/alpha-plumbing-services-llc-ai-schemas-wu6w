@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-can-i-prevent-my-water-heater-from-leaking",
+  "name": "How can I prevent my water heater from leaking?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent my water heater from leaking?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Regular maintenance is key to preventing water heater leaks. This includes annual flushing of the tank to remove sediment buildup, which can cause corrosion and reduce efficiency. Periodically check the T&P relief valve and inspect connections for any signs of wear or corrosion. Ensuring proper water pressure in your home can also help prevent stress on the tank and components.",
+        "@type": "Answer",
+        "description": "Prevent leaks with regular maintenance like annual tank flushing to remove sediment. Also, check the T&P valve and plumbing connections, and ensure proper water pressure."
+      }
+    }
+  ],
+  "description": "Prevent leaks with regular maintenance like annual tank flushing to remove sediment. Also, check the T&P valve and plumbing connections, and ensure proper water"
+}

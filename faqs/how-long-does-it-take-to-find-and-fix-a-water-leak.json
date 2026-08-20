@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-it-take-to-find-and-fix-a-water-leak",
+  "name": "How long does it take to find and fix a water leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to find and fix a water leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required to find and fix a water leak depends heavily on its complexity and location. A visible, accessible leak like a dripping faucet or a running toilet can often be identified and repaired within an hour or two. However, hidden leaks, especially those behind walls, under floors, or underground, may require specialized equipment for detection, which adds time to the process. Once located, the repair time depends on the extent of the damage. Alpha-Plumbing Services works efficiently to minimize disruption and restore your plumbing quickly.",
+        "@type": "Answer",
+        "description": "Repair time varies; visible leaks are quick fixes, but hidden or underground leaks can take longer to find and repair due to complex detection and repair work."
+      }
+    }
+  ],
+  "description": "Repair time varies; visible leaks are quick fixes, but hidden or underground leaks can take longer to find and repair due to complex detection and repair work."
+}

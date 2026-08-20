@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-often-should-i-flush-my-water-heater-to-prevent-rumbling",
+  "name": "How often should I flush my water heater to prevent rumbling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should I flush my water heater to prevent rumbling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To effectively prevent sediment buildup and the associated rumbling, it's recommended to flush your water heater annually. In areas like Goodyear, Buckeye, Avondale, Surprise, and Waddel, which may have hard water, more frequent flushing every six months might be beneficial. Regular maintenance helps remove mineral deposits before they harden and accumulate, improving efficiency and extending the lifespan of your unit. Alpha-Plumbing Services, LLC offers routine maintenance services.",
+        "@type": "Answer",
+        "description": "Flush your water heater annually to prevent rumbling. In hard water areas, consider flushing every six months to manage sediment buildup."
+      }
+    }
+  ],
+  "description": "Flush your water heater annually to prevent rumbling. In hard water areas, consider flushing every six months to manage sediment buildup."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/why-is-my-floor-hot-in-one-spot",
+  "name": "Why is my floor hot in one spot?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is my floor hot in one spot?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A localized hot area on your floor is a strong indicator of a plumbing leak in a hot water line beneath the surface. This is common in homes with slab foundations where plumbing runs through or under the concrete. The escaping hot water warms the concrete, making the floor above feel hot. Other less common causes could include electrical issues, but plumbing leaks are the most frequent culprit. Professional inspection is recommended to accurately diagnose the source.",
+        "@type": "Answer",
+        "description": "Your floor might be hot due to a hot water line leak underneath, especially common with slab foundations."
+      }
+    }
+  ],
+  "description": "Your floor might be hot due to a hot water line leak underneath, especially common with slab foundations."
+}
