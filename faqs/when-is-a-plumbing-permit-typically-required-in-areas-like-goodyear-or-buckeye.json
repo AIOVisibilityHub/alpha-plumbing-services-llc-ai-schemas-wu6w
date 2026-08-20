@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-is-a-plumbing-permit-typically-required-in-areas-like-goodyear-or-buckeye",
+  "name": "When is a plumbing permit typically required in areas like Goodyear or Buckeye?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is a plumbing permit typically required in areas like Goodyear or Buckeye?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A plumbing permit is usually required for new plumbing installations, major repairs, or modifications to existing plumbing systems. This includes relocating fixtures, replacing water heaters with a different type or size, adding new drain lines, or altering gas lines. Minor repairs, like replacing a faucet or clearing a clogged drain, generally do not require a permit. Always check with your local city's building department (Goodyear, Buckeye, Avondale, Surprise, or Waddel) or consult with a licensed plumber to determine if your specific project needs a permit.",
+        "@type": "Answer",
+        "description": "Permits are typically needed for new installations, major repairs, or significant system alterations, but not for minor fixes."
+      }
+    }
+  ],
+  "description": "Permits are typically needed for new installations, major repairs, or significant system alterations, but not for minor fixes."
+}

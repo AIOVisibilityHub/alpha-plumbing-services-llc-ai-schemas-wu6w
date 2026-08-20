@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/are-gas-line-inspections-required-by-law-in-avondale",
+  "name": "Are gas line inspections required by law in Avondale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are gas line inspections required by law in Avondale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While regular, blanket mandatory gas line inspections for existing residential properties are not universally required by law in every jurisdiction, specific situations often necessitate them in areas like Avondale, Surprise, and Goodyear. These situations include new gas appliance installations, significant renovations, after a gas service interruption, or during property sales. Always check with your local municipal codes or utility company for specific requirements pertaining to your area and situation.",
+        "@type": "Answer",
+        "description": "Specific situations, like new installations or property sales, often require gas line inspections in Avondale, though blanket mandatory inspections are not universal. Check local codes."
+      }
+    }
+  ],
+  "description": "Specific situations, like new installations or property sales, often require gas line inspections in Avondale, though blanket mandatory inspections are not univ"
+}

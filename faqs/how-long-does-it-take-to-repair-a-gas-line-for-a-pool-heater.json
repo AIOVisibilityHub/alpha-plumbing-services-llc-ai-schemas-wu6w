@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-it-take-to-repair-a-gas-line-for-a-pool-heater",
+  "name": "How long does it take to repair a gas line for a pool heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to repair a gas line for a pool heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a gas line repair for a pool heater depends on the specific issue. Minor leaks or simple repairs to accessible above-ground lines might be completed within a few hours. More complex situations, such as leaks in underground lines requiring excavation or extensive pipe replacement, could take a full day or even longer. Your technician can provide a more precise timeline after assessing the problem. Access to the gas line and the availability of parts can also affect the repair duration.",
+        "@type": "Answer",
+        "description": "Repair time varies from a few hours for minor leaks to a full day or more for complex issues like underground line repairs."
+      }
+    }
+  ],
+  "description": "Repair time varies from a few hours for minor leaks to a full day or more for complex issues like underground line repairs."
+}

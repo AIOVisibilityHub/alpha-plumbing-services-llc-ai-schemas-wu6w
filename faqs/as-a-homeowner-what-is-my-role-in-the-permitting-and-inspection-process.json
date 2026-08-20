@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/as-a-homeowner-what-is-my-role-in-the-permitting-and-inspection-process",
+  "name": "As a homeowner, what is my role in the permitting and inspection process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "As a homeowner, what is my role in the permitting and inspection process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "As a homeowner, your primary role is to select a licensed and reputable plumbing contractor like Alpha-Plumbing Services who will manage the permit and inspection process on your behalf. You should ensure the contractor obtains the necessary permits before work begins. During inspections, you might need to provide access to your property. While your contractor handles the technical aspects, understanding the process ensures your project is compliant and protects your home.",
+        "@type": "Answer",
+        "description": "Your role is to choose a licensed plumber to manage permitting and inspections, and provide property access as needed."
+      }
+    }
+  ],
+  "description": "Your role is to choose a licensed plumber to manage permitting and inspections, and provide property access as needed."
+}

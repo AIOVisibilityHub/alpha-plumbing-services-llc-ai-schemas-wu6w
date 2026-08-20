@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-often-should-i-have-my-gas-lines-inspected",
+  "name": "How often should I have my gas lines inspected?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should I have my gas lines inspected?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Regular gas line inspections are important for ensuring the safety and efficiency of your home's gas system. While there isn't a universal mandatory frequency, it is generally recommended to have your gas lines professionally inspected every 3-5 years, especially if your home is older or if you've recently had appliance work done. Additionally, always schedule an inspection if you suspect a leak or notice any issues with gas appliances. Proactive inspections can help prevent dangerous situations.",
+        "@type": "Answer",
+        "description": "It's recommended to have gas lines inspected every 3-5 years, or immediately if a leak is suspected."
+      }
+    }
+  ],
+  "description": "It's recommended to have gas lines inspected every 3-5 years, or immediately if a leak is suspected."
+}

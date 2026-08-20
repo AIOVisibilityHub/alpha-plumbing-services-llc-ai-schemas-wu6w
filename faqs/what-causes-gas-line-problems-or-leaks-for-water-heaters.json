@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-causes-gas-line-problems-or-leaks-for-water-heaters",
+  "name": "What causes gas line problems or leaks for water heaters?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes gas line problems or leaks for water heaters?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Gas line problems and leaks for water heaters can stem from several causes. Common culprits include aging infrastructure, where pipes corrode or degrade over time. Improper installation or poorly fitted connections can also lead to leaks. Physical damage from external factors, such as shifting foundations, impacts, or rodents chewing on flexible lines, can compromise integrity. Additionally, extreme temperature fluctuations can cause materials to expand and contract, potentially weakening seals or joints. Manufacturing defects in the gas line or fittings are also rare but possible causes.",
+        "@type": "Answer",
+        "description": "Gas line problems typically result from aging pipes, improper installation, physical damage, extreme temperature changes, or manufacturing defects."
+      }
+    }
+  ],
+  "description": "Gas line problems typically result from aging pipes, improper installation, physical damage, extreme temperature changes, or manufacturing defects."
+}

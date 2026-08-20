@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-the-risks-of-diy-gas-line-rerouting",
+  "name": "What are the risks of DIY gas line rerouting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the risks of DIY gas line rerouting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Attempting to reroute a gas line without professional expertise carries significant risks, including gas leaks, explosions, carbon monoxide poisoning, and severe property damage. Improper installation can lead to long-term safety hazards and potential fines for non-compliance with local building codes. Always rely on licensed and insured plumbing professionals like Alpha-Plumbing Services to ensure the safety and integrity of your gas system.",
+        "@type": "Answer",
+        "description": "DIY gas line rerouting poses serious risks like leaks, explosions, and carbon monoxide poisoning; always use licensed professionals."
+      }
+    }
+  ],
+  "description": "DIY gas line rerouting poses serious risks like leaks, explosions, and carbon monoxide poisoning; always use licensed professionals."
+}

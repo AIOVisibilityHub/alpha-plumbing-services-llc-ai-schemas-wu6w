@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/do-i-need-to-turn-off-my-gas-before-a-repair",
+  "name": "Do I need to turn off my gas before a repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to turn off my gas before a repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, for safety purposes, the gas supply to your property or to the specific appliance connected to the leaking line must be turned off before any repair work begins. Our certified technicians will safely shut off the main gas supply to your home, or isolate the affected line, before commencing work. This critical step prevents further gas leakage and ensures a safe environment for the repair. We will restore gas service and relight pilot lights once the repair is completed and thoroughly tested.",
+        "@type": "Answer",
+        "description": "Yes, the gas supply must be safely turned off before any repair to prevent further leaks and ensure safety during the process."
+      }
+    }
+  ],
+  "description": "Yes, the gas supply must be safely turned off before any repair to prevent further leaks and ensure safety during the process."
+}

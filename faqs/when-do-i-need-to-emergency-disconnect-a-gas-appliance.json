@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-do-i-need-to-emergency-disconnect-a-gas-appliance",
+  "name": "When do I need to emergency disconnect a gas appliance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need to emergency disconnect a gas appliance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An emergency disconnection is necessary if you suspect a gas leak, smell gas, or if a gas appliance is damaged and poses an immediate risk. Other urgent situations include an appliance fire or severe damage to a gas line. In these cases, it's crucial to act quickly: evacuate the premises, call your gas utility company to shut off the main supply, and then contact a licensed plumber for professional disconnection and capping. Prompt action can prevent serious accidents and ensure the safety of your home and family.",
+        "@type": "Answer",
+        "description": "You need an emergency disconnection if you smell gas, suspect a leak, or if an appliance is damaged and poses an immediate risk. Always prioritize safety and call professionals."
+      }
+    }
+  ],
+  "description": "You need an emergency disconnection if you smell gas, suspect a leak, or if an appliance is damaged and poses an immediate risk. Always prioritize safety and ca"
+}

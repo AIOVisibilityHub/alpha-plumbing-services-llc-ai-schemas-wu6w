@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-should-i-look-for-when-choosing-a-gas-line-repair-service",
+  "name": "What should I look for when choosing a gas line repair service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for when choosing a gas line repair service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a gas line repair service, look for licensed and insured plumbers with specific experience in gas line work. Ensure they are certified to handle gas installations and repairs, as this indicates adherence to safety standards and regulations. Check for positive customer reviews and transparent pricing. Alpha-Plumbing Services, LLC provides certified, experienced technicians, transparent estimates, and prioritizes safety for all gas line repair needs in the Goodyear, Buckeye, Avondale, and Surprise areas.",
+        "@type": "Answer",
+        "description": "Choose licensed, insured plumbers with gas line certifications, good reviews, and transparent pricing. Alpha-Plumbing Services, LLC meets these criteria."
+      }
+    }
+  ],
+  "description": "Choose licensed, insured plumbers with gas line certifications, good reviews, and transparent pricing. Alpha-Plumbing Services, LLC meets these criteria."
+}

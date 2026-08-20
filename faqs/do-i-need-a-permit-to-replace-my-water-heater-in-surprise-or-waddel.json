@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/do-i-need-a-permit-to-replace-my-water-heater-in-surprise-or-waddel",
+  "name": "Do I need a permit to replace my water heater in Surprise or Waddel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit to replace my water heater in Surprise or Waddel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, in most cases, replacing a water heater requires a plumbing permit in Surprise, Waddel, and other surrounding cities. This is because a water heater replacement involves connections to water, gas (if applicable), and venting systems, which must comply with current safety and building codes. The permit ensures the new installation is safe and correctly performed. Alpha-Plumbing Services will handle the permit process for your water heater replacement.",
+        "@type": "Answer",
+        "description": "Yes, replacing a water heater typically requires a plumbing permit to ensure compliance with safety and building codes."
+      }
+    }
+  ],
+  "description": "Yes, replacing a water heater typically requires a plumbing permit to ensure compliance with safety and building codes."
+}

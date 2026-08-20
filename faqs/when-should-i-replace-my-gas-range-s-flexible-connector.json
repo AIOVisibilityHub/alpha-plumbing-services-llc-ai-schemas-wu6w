@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-should-i-replace-my-gas-range-s-flexible-connector",
+  "name": "When should I replace my gas range's flexible connector?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I replace my gas range's flexible connector?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing your gas range's flexible connector if it shows any signs of wear, such as cracks, kinks, corrosion, or damage. These connectors are not designed to last indefinitely and should be inspected regularly. Many manufacturers and safety guidelines recommend replacing flexible connectors every 10-15 years, or immediately if the range is moved. Using an old or damaged connector can lead to dangerous gas leaks, so proactive replacement is a key safety measure.",
+        "@type": "Answer",
+        "description": "Replace your flexible gas connector if it shows wear, damage, or is 10-15 years old, especially if the range has been moved, to prevent leaks."
+      }
+    }
+  ],
+  "description": "Replace your flexible gas connector if it shows wear, damage, or is 10-15 years old, especially if the range has been moved, to prevent leaks."
+}

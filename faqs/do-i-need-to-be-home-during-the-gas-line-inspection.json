@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/do-i-need-to-be-home-during-the-gas-line-inspection",
+  "name": "Do I need to be home during the gas line inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to be home during the gas line inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it is not always mandatory for you to be present for the entire inspection, it is highly recommended. Being home allows you to ask questions directly to the inspector, understand the findings firsthand, and discuss any recommendations. If you cannot be present, our coordination service ensures a clear communication channel, and we can provide you with a comprehensive summary of the inspection report for your property in Avondale, Surprise, or other service areas.",
+        "@type": "Answer",
+        "description": "It's highly recommended to be present to ask questions and understand findings, though not always mandatory for the entire duration."
+      }
+    }
+  ],
+  "description": "It's highly recommended to be present to ask questions and understand findings, though not always mandatory for the entire duration."
+}

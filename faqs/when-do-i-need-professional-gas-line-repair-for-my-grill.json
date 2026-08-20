@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-do-i-need-professional-gas-line-repair-for-my-grill",
+  "name": "When do I need professional gas line repair for my grill?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need professional gas line repair for my grill?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional for gas line repair if you detect a gas leak, smell gas, hear a hissing sound near the line, or notice any visible damage or corrosion on the gas line connected to your grill. Even small leaks can be dangerous. Other signs include a grill that won't light or doesn't maintain heat properly, which could indicate an issue with gas flow. Always prioritize safety by contacting a qualified technician to inspect and repair the line. Attempting DIY repairs on gas lines can be extremely hazardous and is not recommended.",
+        "@type": "Answer",
+        "description": "Call a professional for gas line repair if you smell gas, hear a hiss, see damage, or if your grill isn't functioning correctly. Gas leaks are dangerous and require expert attention."
+      }
+    }
+  ],
+  "description": "Call a professional for gas line repair if you smell gas, hear a hiss, see damage, or if your grill isn't functioning correctly. Gas leaks are dangerous and req"
+}

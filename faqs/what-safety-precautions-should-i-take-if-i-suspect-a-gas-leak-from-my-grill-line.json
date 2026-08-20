@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-safety-precautions-should-i-take-if-i-suspect-a-gas-leak-from-my-grill-line",
+  "name": "What safety precautions should I take if I suspect a gas leak from my grill line?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What safety precautions should I take if I suspect a gas leak from my grill line?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you suspect a gas leak from your grill line, immediately turn off the gas supply to the grill and if possible, from the main gas shut-off valve. Extinguish any open flames, including cigarettes. Do not use electrical devices, turn on lights, or operate appliances, as a spark could ignite the gas. Open windows and doors to ventilate the area. If the smell is strong or you feel unwell, evacuate the area and call your gas utility company or a professional plumber from a safe distance. Do not re-enter until it's declared safe.",
+        "@type": "Answer",
+        "description": "If you suspect a gas leak, immediately turn off gas, extinguish flames, avoid electrical devices, ventilate the area, evacuate if necessary, and call a professional from a safe distance."
+      }
+    }
+  ],
+  "description": "If you suspect a gas leak, immediately turn off gas, extinguish flames, avoid electrical devices, ventilate the area, evacuate if necessary, and call a professi"
+}

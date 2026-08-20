@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/are-gas-leak-inspections-required-when-buying-or-selling-a-home",
+  "name": "Are gas leak inspections required when buying or selling a home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are gas leak inspections required when buying or selling a home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While a gas leak inspection isn't always a mandatory legal requirement for real estate transactions, it is highly recommended, especially for older homes or properties where gas lines haven't been recently serviced. Many homebuyers and real estate agents include gas line inspections as part of a comprehensive home inspection to ensure safety and avoid potential issues post-purchase. This proactive step can provide peace of mind for both buyers and sellers, identifying and addressing any hazards before closing.",
+        "@type": "Answer",
+        "description": "Gas leak inspections are not always legally required when buying or selling a home, but they are highly recommended for safety and peace of mind."
+      }
+    }
+  ],
+  "description": "Gas leak inspections are not always legally required when buying or selling a home, but they are highly recommended for safety and peace of mind."
+}

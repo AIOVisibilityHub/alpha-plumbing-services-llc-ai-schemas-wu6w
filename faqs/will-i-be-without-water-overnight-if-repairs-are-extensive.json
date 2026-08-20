@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/will-i-be-without-water-overnight-if-repairs-are-extensive",
+  "name": "Will I be without water overnight if repairs are extensive?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will I be without water overnight if repairs are extensive?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our goal is always to restore water service the same day as repairs. However, for extremely complex or unforeseen issues that require extensive work or parts procurement, it is possible, though rare, that water restoration could extend into the next day. We will communicate clearly and promptly if such a situation arises, discussing all available options and our plan to minimize inconvenience.",
+        "@type": "Answer",
+        "description": "We aim to restore water service the same day. In rare, complex cases, it might extend overnight, and we will communicate options immediately."
+      }
+    }
+  ],
+  "description": "We aim to restore water service the same day. In rare, complex cases, it might extend overnight, and we will communicate options immediately."
+}

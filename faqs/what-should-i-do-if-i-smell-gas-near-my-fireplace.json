@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-should-i-do-if-i-smell-gas-near-my-fireplace",
+  "name": "What should I do if I smell gas near my fireplace?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if I smell gas near my fireplace?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you smell gas near your fireplace, immediately take the following steps: first, evacuate everyone from the building and move to a safe distance. Do not use light switches, phones, or any electrical devices, as this could ignite the gas. Once outside, call 911 or your gas utility company from a safe location. Then, contact Alpha-Plumbing Services. We will dispatch a qualified technician to assess and repair the leak safely. Do not re-enter your home until authorities confirm it is safe.",
+        "@type": "Answer",
+        "description": "Evacuate immediately, do not use electronics, and call 911 or your gas company. Then contact Alpha-Plumbing Services from a safe location."
+      }
+    }
+  ],
+  "description": "Evacuate immediately, do not use electronics, and call 911 or your gas company. Then contact Alpha-Plumbing Services from a safe location."
+}

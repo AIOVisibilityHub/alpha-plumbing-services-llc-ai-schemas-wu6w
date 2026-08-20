@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-much-does-it-typically-cost-to-repair-a-gas-line-for-a-pool-heater-in-goodye",
+  "name": "How much does it typically cost to repair a gas line for a pool heater in Goodyear, AZ?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it typically cost to repair a gas line for a pool heater in Goodyear, AZ?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to repair a gas line for a pool heater in the Goodyear area can vary widely depending on the complexity of the repair. Factors like the location of the leak, whether the line is above or underground, the type of pipe material, and the extent of the damage all influence the final price. Minor repairs might involve sealing a small leak, while more extensive issues could require replacing sections of the line. It's best to get an on-site assessment from a qualified professional for an accurate estimate.",
+        "@type": "Answer",
+        "description": "Costs vary based on the leak's location, type of pipe, and damage extent. An on-site assessment provides an accurate estimate."
+      }
+    }
+  ],
+  "description": "Costs vary based on the leak's location, type of pipe, and damage extent. An on-site assessment provides an accurate estimate."
+}

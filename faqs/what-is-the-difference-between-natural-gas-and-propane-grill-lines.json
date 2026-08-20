@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-difference-between-natural-gas-and-propane-grill-lines",
+  "name": "What is the difference between natural gas and propane grill lines?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between natural gas and propane grill lines?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Natural gas grill lines typically connect to your home's main gas supply, providing a continuous, lower-pressure fuel source. These lines are generally permanent installations. Propane grill lines, on the other hand, connect to portable propane tanks, which store liquefied petroleum gas under higher pressure. While both are used for grilling, the connections, regulators, and sometimes the grill components themselves are specific to each fuel type. Never attempt to connect a propane grill to a natural gas line or vice-versa without proper conversion kits and professional installation.",
+        "@type": "Answer",
+        "description": "Natural gas lines connect to your home's main supply and are permanent, while propane lines use portable tanks. Connections and pressures differ significantly."
+      }
+    }
+  ],
+  "description": "Natural gas lines connect to your home's main supply and are permanent, while propane lines use portable tanks. Connections and pressures differ significantly."
+}

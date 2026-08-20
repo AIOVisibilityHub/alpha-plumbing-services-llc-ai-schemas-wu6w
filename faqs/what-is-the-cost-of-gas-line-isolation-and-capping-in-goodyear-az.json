@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-cost-of-gas-line-isolation-and-capping-in-goodyear-az",
+  "name": "What is the cost of gas line isolation and capping in Goodyear, AZ?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the cost of gas line isolation and capping in Goodyear, AZ?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost for gas line isolation and capping services in Goodyear, AZ, depends on several factors, including the extent of the damage, the accessibility of the gas line, and whether any permits are required. It typically includes the technician's labor, materials, and a safety check. For an accurate estimate, it's best to contact Alpha-Plumbing Services, LLC directly for an on-site assessment. We can provide a detailed quote after evaluating your specific situation.",
+        "@type": "Answer",
+        "description": "Costs vary based on damage, accessibility, and permits. Contact Alpha-Plumbing Services, LLC for a specific quote in Goodyear, AZ."
+      }
+    }
+  ],
+  "description": "Costs vary based on damage, accessibility, and permits. Contact Alpha-Plumbing Services, LLC for a specific quote in Goodyear, AZ."
+}

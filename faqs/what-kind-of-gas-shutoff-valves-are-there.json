@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-kind-of-gas-shutoff-valves-are-there",
+  "name": "What kind of gas shutoff valves are there?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of gas shutoff valves are there?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "There are primarily two common types of gas shutoff valves used in residential settings: ball valves and stopcock valves. Ball valves use a rotating ball with a hole through it to control gas flow, known for their quick quarter-turn operation and durability. Stopcock valves, often older, use a tapered plug. Both serve the same purpose, but modern installations typically favor ball valves due to their reliability and ease of use. A professional can help determine the best type for your specific needs.",
+        "@type": "Answer",
+        "description": "Common gas shutoff valve types are ball valves, known for quick operation, and older stopcock valves. Ball valves are generally favored for modern installations."
+      }
+    }
+  ],
+  "description": "Common gas shutoff valve types are ball valves, known for quick operation, and older stopcock valves. Ball valves are generally favored for modern installations"
+}

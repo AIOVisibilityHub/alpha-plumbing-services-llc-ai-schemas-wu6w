@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/can-i-convert-my-wood-burning-fire-pit-to-a-gas-fire-pit-and-do-you-handle-the-g",
+  "name": "Can I convert my wood-burning fire pit to a gas fire pit, and do you handle the gas line installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I convert my wood-burning fire pit to a gas fire pit, and do you handle the gas line installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Converting a wood-burning fire pit to a gas fire pit involves installing a gas burner assembly and running a dedicated gas line to the unit. Yes, we provide complete gas line installation services for new gas fire pits or conversions. This includes safely connecting to your existing gas supply, ensuring proper sizing, and installing all necessary components to meet safety standards. It's a significant project that requires professional expertise for safe and reliable operation.",
+        "@type": "Answer",
+        "description": "Yes, we install gas lines for new gas fire pits or conversions from wood-burning. This involves connecting to your gas supply and ensuring proper installation."
+      }
+    }
+  ],
+  "description": "Yes, we install gas lines for new gas fire pits or conversions from wood-burning. This involves connecting to your gas supply and ensuring proper installation."
+}

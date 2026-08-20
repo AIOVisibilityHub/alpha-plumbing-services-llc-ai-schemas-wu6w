@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-much-does-it-cost-to-install-or-replace-a-gas-shutoff-valve-in-goodyear",
+  "name": "How much does it cost to install or replace a gas shutoff valve in Goodyear?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to install or replace a gas shutoff valve in Goodyear?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to install or replace a gas shutoff valve in areas like Goodyear, Buckeye, or Avondale can vary depending on several factors. These include the type of valve needed, its location, the complexity of the installation, and whether any additional gas line work is required. We recommend scheduling a professional assessment to get an accurate quote tailored to your specific situation, ensuring all local codes are met for safety and compliance.",
+        "@type": "Answer",
+        "description": "Costs for gas shutoff valve installation or replacement in Goodyear vary by valve type, location, and complexity. A professional assessment provides an accurate quote."
+      }
+    }
+  ],
+  "description": "Costs for gas shutoff valve installation or replacement in Goodyear vary by valve type, location, and complexity. A professional assessment provides an accurate"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-often-should-appliance-gas-lines-be-inspected-or-replaced",
+  "name": "How often should appliance gas lines be inspected or replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should appliance gas lines be inspected or replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Gas lines generally do not have a fixed replacement schedule as their lifespan depends on material, installation, and environmental factors. However, regular inspections by a qualified plumber are recommended, especially if you live in an older home, notice any potential issues, or are installing a new gas appliance. An inspection can identify wear, corrosion, or minor leaks before they become serious problems. Replacement is typically necessary only when significant damage, leaks, or safety concerns are identified during an inspection or service call.",
+        "@type": "Answer",
+        "description": "There's no fixed schedule; lifespan varies. Regular inspections by a qualified plumber are recommended, especially in older homes or with new appliance installations."
+      }
+    }
+  ],
+  "description": "There's no fixed schedule; lifespan varies. Regular inspections by a qualified plumber are recommended, especially in older homes or with new appliance installa"
+}

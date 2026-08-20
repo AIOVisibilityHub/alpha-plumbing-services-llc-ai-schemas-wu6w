@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-the-common-signs-of-a-gas-line-leak",
+  "name": "What are the common signs of a gas line leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs of a gas line leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of a gas line leak include a distinct sulfur-like or rotten egg smell, often due to an additive called mercaptan. You might also hear a hissing or whistling sound near a gas line, see dying vegetation over an underground line, or observe bubbles in a puddle near the line. Physical symptoms like dizziness, nausea, or fatigue when near a gas source can also indicate a leak. If you notice any of these signs, evacuate the area immediately and contact Alpha-Plumbing Services, LLC for emergency repair.",
+        "@type": "Answer",
+        "description": "Signs of a gas leak include a rotten egg smell, hissing sounds, dying plants, or bubbles near gas lines. If you notice these, evacuate and call a professional."
+      }
+    }
+  ],
+  "description": "Signs of a gas leak include a rotten egg smell, hissing sounds, dying plants, or bubbles near gas lines. If you notice these, evacuate and call a professional."
+}

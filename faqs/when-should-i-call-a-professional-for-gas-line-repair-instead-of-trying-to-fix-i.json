@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-should-i-call-a-professional-for-gas-line-repair-instead-of-trying-to-fix-i",
+  "name": "When should I call a professional for gas line repair instead of trying to fix it myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for gas line repair instead of trying to fix it myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should always call a professional for gas line repair. Attempting to fix a gas line yourself is extremely dangerous due to the risks of gas leaks, explosions, and carbon monoxide poisoning. Gas lines require specialized knowledge, tools, and adherence to strict safety protocols and local codes. Plumbers like Alpha-Plumbing Services are trained and certified to handle gas lines safely and effectively, ensuring your fireplace operates correctly and without hazard.",
+        "@type": "Answer",
+        "description": "Always call a professional for gas line repair due to safety risks. Gas line work requires specialized training and tools."
+      }
+    }
+  ],
+  "description": "Always call a professional for gas line repair due to safety risks. Gas line work requires specialized training and tools."
+}

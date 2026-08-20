@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-it-take-to-replace-a-gas-shutoff-valve",
+  "name": "How long does it take to replace a gas shutoff valve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to replace a gas shutoff valve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacing a standard gas shutoff valve typically takes a professional plumber about one to two hours to complete. This timeframe includes turning off and restoring the gas supply, removing the old valve, installing the new one, and conducting thorough leak tests to ensure safety. More complex installations, such as those requiring modifications to the gas line or dealing with corroded pipes, may extend the service duration.",
+        "@type": "Answer",
+        "description": "Replacing a gas shutoff valve usually takes a professional 1-2 hours, including installation and leak testing; complex jobs may take longer."
+      }
+    }
+  ],
+  "description": "Replacing a gas shutoff valve usually takes a professional 1-2 hours, including installation and leak testing; complex jobs may take longer."
+}

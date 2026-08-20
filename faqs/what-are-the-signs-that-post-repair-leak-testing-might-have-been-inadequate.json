@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-the-signs-that-post-repair-leak-testing-might-have-been-inadequate",
+  "name": "What are the signs that post-repair leak testing might have been inadequate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs that post-repair leak testing might have been inadequate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If post-repair leak testing was inadequate, you might notice recurring signs of a leak shortly after the repair. These could include unexpected increases in your water bill, new damp spots or water stains on walls, ceilings, or floors, the sound of dripping water, or a musty odor indicating mold growth. For slab leaks, you might observe warm spots on the floor or cracks in the foundation. If any of these issues appear, contact your plumbing service immediately for a re-inspection and further testing. Early detection can prevent extensive damage.",
+        "@type": "Answer",
+        "description": "Signs of inadequate testing include increased water bills, new damp spots, dripping sounds, or musty odors after a repair. Contact your plumber if these occur."
+      }
+    }
+  ],
+  "description": "Signs of inadequate testing include increased water bills, new damp spots, dripping sounds, or musty odors after a repair. Contact your plumber if these occur."
+}

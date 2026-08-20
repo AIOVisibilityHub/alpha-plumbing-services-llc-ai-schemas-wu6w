@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-the-signs-of-a-gas-leak-near-a-shutoff-valve",
+  "name": "What are the signs of a gas leak near a shutoff valve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs of a gas leak near a shutoff valve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Recognizing the signs of a gas leak is critical for safety. The most common indicator is the distinct smell of rotten eggs, which is an odorant added to natural gas for detection. Other signs include a hissing or whistling sound near the gas line or appliance, a visible cloud of dust or a white cloud near the line, or bubbles in standing water. If you suspect a gas leak, immediately evacuate the area, do not operate electrical switches, and call your gas utility company and a professional plumber from a safe location.",
+        "@type": "Answer",
+        "description": "Signs of a gas leak near a shutoff valve include the smell of rotten eggs, a hissing sound, or bubbles in water. Evacuate immediately and call professionals if detected."
+      }
+    }
+  ],
+  "description": "Signs of a gas leak near a shutoff valve include the smell of rotten eggs, a hissing sound, or bubbles in water. Evacuate immediately and call professionals if"
+}

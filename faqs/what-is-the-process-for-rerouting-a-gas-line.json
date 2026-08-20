@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-process-for-rerouting-a-gas-line",
+  "name": "What is the process for rerouting a gas line?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for rerouting a gas line?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process begins with a professional assessment to determine the best new path for the gas line. Next, permits are secured. Our technicians then safely shut off the gas supply, disconnect the old line, install the new piping according to code, and connect it to your appliances. After installation, the new line is thoroughly tested for leaks and integrity before the gas supply is restored. Finally, a city inspection confirms compliance.",
+        "@type": "Answer",
+        "description": "The process involves assessment, permitting, gas shut-off, new pipe installation, leak testing, gas restoration, and final inspection."
+      }
+    }
+  ],
+  "description": "The process involves assessment, permitting, gas shut-off, new pipe installation, leak testing, gas restoration, and final inspection."
+}

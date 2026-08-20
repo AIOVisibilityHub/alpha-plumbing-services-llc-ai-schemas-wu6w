@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-much-does-gas-line-pressure-testing-cost",
+  "name": "How much does gas line pressure testing cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does gas line pressure testing cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of gas line pressure testing can vary based on factors such as the complexity and length of your gas piping system, the accessibility of the lines, and if any repairs are needed after the test. A basic pressure test typically involves a service fee for the inspection. If a leak is detected, additional costs will apply for leak location and repair. It's best to get a specific quote for your property.",
+        "@type": "Answer",
+        "description": "Cost varies by system complexity and if repairs are needed. A basic test has a service fee, with additional costs for leak detection and repair."
+      }
+    }
+  ],
+  "description": "Cost varies by system complexity and if repairs are needed. A basic test has a service fee, with additional costs for leak detection and repair."
+}

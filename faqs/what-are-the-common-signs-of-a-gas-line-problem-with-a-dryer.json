@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-the-common-signs-of-a-gas-line-problem-with-a-dryer",
+  "name": "What are the common signs of a gas line problem with a dryer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs of a gas line problem with a dryer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You might notice a distinct sulfur or rotten egg smell near your dryer, which is a strong indicator of a gas leak. Other signs include the dryer not heating properly or taking an unusually long time to dry clothes. You may also hear a hissing sound near the gas line. If you observe any of these symptoms, it's crucial to turn off the gas supply to your dryer and contact a professional immediately to prevent potential hazards. Do not attempt to locate the leak yourself using an open flame.",
+        "@type": "Answer",
+        "description": "Common signs include a rotten egg smell, the dryer not heating, or a hissing sound near the gas line. Turn off the gas and call a professional if you notice these."
+      }
+    }
+  ],
+  "description": "Common signs include a rotten egg smell, the dryer not heating, or a hissing sound near the gas line. Turn off the gas and call a professional if you notice the"
+}

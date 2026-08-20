@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-process-for-safely-capping-an-old-gas-line",
+  "name": "What is the process for safely capping an old gas line?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for safely capping an old gas line?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for safely capping an old gas line begins with a licensed plumber turning off the gas supply to the specific appliance or, if necessary, to the entire property. The plumber then carefully disconnects the appliance from the gas line. After disconnection, a specialized cap fitting is securely installed onto the open gas pipe to permanently seal it, preventing any gas from escaping. Finally, the plumber will perform a leak test to ensure the cap is perfectly sealed and there are no gas leaks, restoring safety to your home.",
+        "@type": "Answer",
+        "description": "A plumber first turns off the gas, disconnects the appliance, then installs a specialized cap fitting onto the open gas pipe. A leak test confirms safety."
+      }
+    }
+  ],
+  "description": "A plumber first turns off the gas, disconnects the appliance, then installs a specialized cap fitting onto the open gas pipe. A leak test confirms safety."
+}

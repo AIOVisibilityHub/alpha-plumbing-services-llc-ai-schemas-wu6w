@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-areas-does-alpha-plumbing-services-cover-for-gas-line-repairs",
+  "name": "What areas does Alpha-Plumbing Services cover for gas line repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas does Alpha-Plumbing Services cover for gas line repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Alpha-Plumbing Services, LLC proudly provides gas line repair services for ranges and other appliances in various communities. Our primary service areas include Goodyear, Buckeye, Avondale, and Surprise. We focus on these local communities to ensure prompt and efficient service delivery to our customers. If you are located in one of these areas and require gas line assistance, please contact us for reliable and professional service.",
+        "@type": "Answer",
+        "description": "Alpha-Plumbing Services covers gas line repairs in Goodyear, Buckeye, Avondale, and Surprise, providing prompt and efficient service to these local communities."
+      }
+    }
+  ],
+  "description": "Alpha-Plumbing Services covers gas line repairs in Goodyear, Buckeye, Avondale, and Surprise, providing prompt and efficient service to these local communities."
+}

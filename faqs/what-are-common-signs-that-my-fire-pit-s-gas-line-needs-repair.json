@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-common-signs-that-my-fire-pit-s-gas-line-needs-repair",
+  "name": "What are common signs that my fire pit's gas line needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my fire pit's gas line needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of a gas line issue include a persistent smell of natural gas or propane, a visible leak, a flickering or inconsistent flame, or the fire pit failing to ignite. You might also notice a hissing sound near the gas line. If your fire pit isn't performing as expected, or if you suspect a leak, it's crucial to address it promptly to ensure safety and proper operation. Ignoring these signs can lead to more significant problems and safety hazards.",
+        "@type": "Answer",
+        "description": "Signs include gas smell, visible leaks, flickering flame, or failure to ignite. A hissing sound also indicates a potential problem."
+      }
+    }
+  ],
+  "description": "Signs include gas smell, visible leaks, flickering flame, or failure to ignite. A hissing sound also indicates a potential problem."
+}

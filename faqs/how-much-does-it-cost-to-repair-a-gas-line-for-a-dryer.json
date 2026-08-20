@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-much-does-it-cost-to-repair-a-gas-line-for-a-dryer",
+  "name": "How much does it cost to repair a gas line for a dryer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to repair a gas line for a dryer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of gas line repair for a dryer can vary significantly depending on the issue's complexity, the extent of the damage, and whether parts need replacement. Minor repairs, such as tightening connections, might be less expensive than replacing a section of the line or rerouting it. Most plumbing services charge a diagnostic fee to assess the problem accurately. We provide transparent quotes after inspecting your specific situation, ensuring you understand all costs involved before any work begins. For an exact estimate, we recommend scheduling a professional assessment.",
+        "@type": "Answer",
+        "description": "Costs vary based on damage and complexity. Minor repairs are less expensive than line replacement. A diagnostic fee is usually charged for an accurate quote."
+      }
+    }
+  ],
+  "description": "Costs vary based on damage and complexity. Minor repairs are less expensive than line replacement. A diagnostic fee is usually charged for an accurate quote."
+}

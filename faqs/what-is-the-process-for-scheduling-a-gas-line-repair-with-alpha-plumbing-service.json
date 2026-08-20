@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-process-for-scheduling-a-gas-line-repair-with-alpha-plumbing-service",
+  "name": "What is the process for scheduling a gas line repair with Alpha-Plumbing Services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for scheduling a gas line repair with Alpha-Plumbing Services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Scheduling a gas line repair with Alpha-Plumbing Services is a straightforward process. You can contact us by phone or through our website to describe your issue and schedule an appointment. A qualified technician will then be dispatched to your location in areas like Goodyear or Avondale to assess the gas line and range, diagnose the problem, and provide you with a detailed estimate. Once approved, the repair will be performed safely and efficiently, followed by thorough testing to ensure everything is in proper working order.",
+        "@type": "Answer",
+        "description": "Schedule a gas line repair by contacting us by phone or website. A technician will assess, diagnose, estimate, and perform the repair, followed by safety testing."
+      }
+    }
+  ],
+  "description": "Schedule a gas line repair by contacting us by phone or website. A technician will assess, diagnose, estimate, and perform the repair, followed by safety testin"
+}

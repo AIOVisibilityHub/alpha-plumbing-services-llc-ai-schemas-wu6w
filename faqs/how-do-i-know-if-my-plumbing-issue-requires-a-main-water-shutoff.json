@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-do-i-know-if-my-plumbing-issue-requires-a-main-water-shutoff",
+  "name": "How do I know if my plumbing issue requires a main water shutoff?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my plumbing issue requires a main water shutoff?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many plumbing issues, especially those involving significant leaks, pipe replacement, or fixture installation, necessitate a main water shutoff. If you have a burst pipe, a continuously running toilet that won't stop at the local shutoff, or are planning a major appliance installation, a main shutoff is usually required. Our technicians will assess your specific situation and advise on the necessity of a main water shutoff during the initial inspection.",
+        "@type": "Answer",
+        "description": "Main water shutoff is often needed for major leaks, pipe replacements, or fixture installations. Our technicians will assess and advise."
+      }
+    }
+  ],
+  "description": "Main water shutoff is often needed for major leaks, pipe replacements, or fixture installations. Our technicians will assess and advise."
+}

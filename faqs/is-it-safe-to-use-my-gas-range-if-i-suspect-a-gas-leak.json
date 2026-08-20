@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/is-it-safe-to-use-my-gas-range-if-i-suspect-a-gas-leak",
+  "name": "Is it safe to use my gas range if I suspect a gas leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is it safe to use my gas range if I suspect a gas leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No, it is not safe to use your gas range if you suspect a gas leak. Gas leaks pose serious safety risks, including fire, explosions, and carbon monoxide poisoning. If you smell gas or suspect a leak, turn off your range and any other gas appliances immediately if it's safe to do so. Open windows and doors for ventilation, leave the premises, and contact your gas utility company and a licensed plumbing professional from a safe location. Do not use electrical switches or devices, as they could ignite escaped gas.",
+        "@type": "Answer",
+        "description": "No, do not use your gas range if you suspect a leak due to serious safety risks. Turn off appliances, ventilate, evacuate, and call professionals from a safe distance."
+      }
+    }
+  ],
+  "description": "No, do not use your gas range if you suspect a leak due to serious safety risks. Turn off appliances, ventilate, evacuate, and call professionals from a safe di"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-does-post-repair-leak-testing-differ-from-initial-leak-detection",
+  "name": "How does post-repair leak testing differ from initial leak detection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does post-repair leak testing differ from initial leak detection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Initial leak detection focuses on pinpointing the source of an existing leak and assessing its extent before any repairs begin. This often involves diagnostic tools and methods to locate the problem area. Post-repair leak testing, on the other hand, is performed after the repair work is completed. Its purpose is to verify the integrity of the new repair, ensure the original problem is fully resolved, and confirm that no new leaks have been inadvertently created during the repair process. Both steps are crucial but serve different stages of addressing a plumbing leak.",
+        "@type": "Answer",
+        "description": "Initial leak detection finds the problem before repair, while post-repair leak testing verifies the repair's success and checks for new leaks afterward."
+      }
+    }
+  ],
+  "description": "Initial leak detection finds the problem before repair, while post-repair leak testing verifies the repair's success and checks for new leaks afterward."
+}

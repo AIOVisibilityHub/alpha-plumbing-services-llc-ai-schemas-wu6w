@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-preventative-measures-can-i-take-to-avoid-gas-line-repairs-for-my-fire-pit",
+  "name": "What preventative measures can I take to avoid gas line repairs for my fire pit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preventative measures can I take to avoid gas line repairs for my fire pit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Regular maintenance and careful use can help extend the life of your fire pit's gas line and prevent costly repairs. Periodically check for visible signs of wear, corrosion, or damage to the lines and connections. Keep the area around the fire pit clear of debris and protect gas lines from physical damage. If your fire pit is exposed to harsh weather, consider using a cover when not in use. Regular professional inspections can also catch potential issues early.",
+        "@type": "Answer",
+        "description": "Regularly check for wear and damage, keep the area clear, protect lines from physical harm, and use a cover for outdoor fire pits. Professional inspections also help."
+      }
+    }
+  ],
+  "description": "Regularly check for wear and damage, keep the area clear, protect lines from physical harm, and use a cover for outdoor fire pits. Professional inspections also"
+}

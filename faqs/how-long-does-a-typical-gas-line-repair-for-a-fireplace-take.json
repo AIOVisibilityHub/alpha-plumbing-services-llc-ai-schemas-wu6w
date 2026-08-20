@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-a-typical-gas-line-repair-for-a-fireplace-take",
+  "name": "How long does a typical gas line repair for a fireplace take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical gas line repair for a fireplace take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a gas line repair for a fireplace can vary, but most common repairs, such as fixing a minor leak or replacing a small section of pipe, can often be completed within a few hours. More complex issues involving extensive pipe replacement or difficult access might require a longer service time, potentially spanning half a day. Alpha-Plumbing Services prioritizes efficiency while maintaining safety and quality, and our technicians will provide an estimated timeframe after assessing the problem.",
+        "@type": "Answer",
+        "description": "Most repairs take a few hours; complex issues might take longer. Our technicians provide an estimated timeframe after assessment."
+      }
+    }
+  ],
+  "description": "Most repairs take a few hours; complex issues might take longer. Our technicians provide an estimated timeframe after assessment."
+}

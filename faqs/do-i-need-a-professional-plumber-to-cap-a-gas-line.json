@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/do-i-need-a-professional-plumber-to-cap-a-gas-line",
+  "name": "Do I need a professional plumber to cap a gas line?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a professional plumber to cap a gas line?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, it is highly recommended and often legally required to hire a licensed and experienced professional plumber for any gas line work, including isolation and capping. Working with natural gas is inherently dangerous due to the risks of leaks, explosions, and carbon monoxide poisoning. Professionals have the necessary training, tools, and knowledge of safety protocols and local codes to perform the job correctly and safely, ensuring the protection of your home and family.",
+        "@type": "Answer",
+        "description": "Yes, always hire a licensed professional plumber for gas line work due to safety risks and code compliance."
+      }
+    }
+  ],
+  "description": "Yes, always hire a licensed professional plumber for gas line work due to safety risks and code compliance."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-process-for-repairing-a-gas-line-connected-to-a-pool-heater",
+  "name": "What is the process for repairing a gas line connected to a pool heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for repairing a gas line connected to a pool heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The repair process typically begins with a thorough inspection to locate the exact source of the leak, often using specialized leak detection equipment. Once the leak is identified, the gas supply to the area is shut off for safety. The damaged section of the gas line is then either repaired, patched, or replaced depending on the severity and nature of the damage. After the repair, the line is tested to ensure it is sealed and safe before the gas supply is restored. A final inspection confirms the system's integrity.",
+        "@type": "Answer",
+        "description": "The process involves inspection, locating the leak, shutting off gas, repairing or replacing the damaged section, and then testing and restoring gas supply."
+      }
+    }
+  ],
+  "description": "The process involves inspection, locating the leak, shutting off gas, repairing or replacing the damaged section, and then testing and restoring gas supply."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/can-i-perform-a-diy-repair-on-my-pool-heater-gas-line",
+  "name": "Can I perform a DIY repair on my pool heater gas line?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I perform a DIY repair on my pool heater gas line?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No, gas line repairs should never be attempted as a DIY project. Working with gas lines requires specialized knowledge, tools, and adherence to strict safety protocols and local building codes. Improper repairs can lead to dangerous gas leaks, potentially causing fires, explosions, or carbon monoxide poisoning. Always contact a licensed and insured professional for any gas line issues. In the Buckeye, Avondale, and Surprise areas, qualified technicians ensure repairs are done safely and correctly.",
+        "@type": "Answer",
+        "description": "No, gas line repairs require professional expertise, tools, and adherence to safety codes. Always hire a licensed professional."
+      }
+    }
+  ],
+  "description": "No, gas line repairs require professional expertise, tools, and adherence to safety codes. Always hire a licensed professional."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-a-plumbing-permit-and-why-do-i-need-one-for-my-project",
+  "name": "What is a plumbing permit and why do I need one for my project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a plumbing permit and why do I need one for my project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A plumbing permit is an official authorization issued by your local municipality, such as Goodyear, Buckeye, Avondale, Surprise, or Waddel, that grants permission to perform plumbing work. Permits ensure that plumbing installations and repairs comply with local building codes and safety standards. This protects homeowners from unsafe or substandard work, helps prevent potential health hazards, and maintains the value of your property. Most significant plumbing projects, including new installations, major repairs, or alterations to existing systems, require a permit.",
+        "@type": "Answer",
+        "description": "A plumbing permit is municipal approval for plumbing work, ensuring compliance with safety and building codes for your protection and property value."
+      }
+    }
+  ],
+  "description": "A plumbing permit is municipal approval for plumbing work, ensuring compliance with safety and building codes for your protection and property value."
+}

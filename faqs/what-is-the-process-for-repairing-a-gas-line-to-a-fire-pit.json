@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-process-for-repairing-a-gas-line-to-a-fire-pit",
+  "name": "What is the process for repairing a gas line to a fire pit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for repairing a gas line to a fire pit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The repair process typically begins with a thorough inspection to identify the exact location and cause of the leak or damage. Once identified, our technicians will safely shut off the gas supply. Depending on the issue, we might tighten connections, replace faulty valves, repair or replace damaged sections of the gas line, or address corrosion. After the repair, the gas line is tested for leaks to ensure everything is sealed and operating safely before restoring gas service to your fire pit.",
+        "@type": "Answer",
+        "description": "The process involves inspection, gas shut-off, repair or replacement of damaged parts, and thorough leak testing before restoring service."
+      }
+    }
+  ],
+  "description": "The process involves inspection, gas shut-off, repair or replacement of damaged parts, and thorough leak testing before restoring service."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-process-for-gas-line-repair",
+  "name": "What is the process for gas line repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for gas line repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The gas line repair process typically begins with our certified technician identifying the exact location and cause of the leak using specialized equipment. Once identified, the gas supply to the affected area is safely shut off. Depending on the damage, repairs may involve patching, sealing, or replacing a section of the gas line. After the repair, the line is rigorously tested for leaks to ensure safety and compliance with local codes before restoring gas service. Alpha-Plumbing Services, LLC ensures all repairs are performed to the highest safety standards.",
+        "@type": "Answer",
+        "description": "Gas line repair involves leak detection, safely shutting off gas, repairing or replacing the damaged section, and thorough testing before restoring service."
+      }
+    }
+  ],
+  "description": "Gas line repair involves leak detection, safely shutting off gas, repairing or replacing the damaged section, and thorough testing before restoring service."
+}

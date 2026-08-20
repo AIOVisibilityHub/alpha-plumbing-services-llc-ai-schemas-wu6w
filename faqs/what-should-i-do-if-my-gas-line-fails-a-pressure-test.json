@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-should-i-do-if-my-gas-line-fails-a-pressure-test",
+  "name": "What should I do if my gas line fails a pressure test?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if my gas line fails a pressure test?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your gas line fails a pressure test, it means a leak has been detected. The immediate next step is to locate and repair the leak. Your technician will use specialized equipment to pinpoint the exact location of the leak(s). Once found, the damaged section of the gas line will be repaired or replaced according to local safety codes. After repairs, the line will be re-tested to ensure it holds pressure and is safe for use.",
+        "@type": "Answer",
+        "description": "If a gas line fails, a technician will locate and repair the leak, then re-test the line to ensure it's safe and compliant."
+      }
+    }
+  ],
+  "description": "If a gas line fails, a technician will locate and repair the leak, then re-test the line to ensure it's safe and compliant."
+}

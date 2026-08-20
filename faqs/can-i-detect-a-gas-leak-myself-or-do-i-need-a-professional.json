@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/can-i-detect-a-gas-leak-myself-or-do-i-need-a-professional",
+  "name": "Can I detect a gas leak myself, or do I need a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I detect a gas leak myself, or do I need a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While some obvious signs like a strong rotten egg smell can indicate a gas leak, pinpointing the exact source and severity requires professional expertise and equipment. Gas is highly flammable and dangerous, making DIY detection and repair extremely risky. Professionals have specialized tools to accurately locate even small, hidden leaks and ensure proper repairs are made according to safety codes. For your safety, always rely on certified plumbers for gas leak detection and repair.",
+        "@type": "Answer",
+        "description": "You can identify signs of a leak, but a professional is needed for accurate detection and safe repair due to the hazards involved."
+      }
+    }
+  ],
+  "description": "You can identify signs of a leak, but a professional is needed for accurate detection and safe repair due to the hazards involved."
+}

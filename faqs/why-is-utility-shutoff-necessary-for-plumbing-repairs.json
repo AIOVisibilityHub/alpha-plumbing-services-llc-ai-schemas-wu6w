@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/why-is-utility-shutoff-necessary-for-plumbing-repairs",
+  "name": "Why is utility shutoff necessary for plumbing repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is utility shutoff necessary for plumbing repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Utility shutoff is crucial for many plumbing repairs to prevent water damage, ensure safety, and allow technicians to work effectively. For example, replacing a main water line, repairing a burst pipe, or installing a new water heater often requires the main water supply to be temporarily turned off. This prevents water from flowing through the system during the repair, protecting your property and our technicians from potential hazards.",
+        "@type": "Answer",
+        "description": "Utility shutoff prevents water damage, ensures safety, and allows effective plumbing repairs by stopping water flow to the affected area."
+      }
+    }
+  ],
+  "description": "Utility shutoff prevents water damage, ensures safety, and allows effective plumbing repairs by stopping water flow to the affected area."
+}

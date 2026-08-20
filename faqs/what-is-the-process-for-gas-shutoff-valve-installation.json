@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-process-for-gas-shutoff-valve-installation",
+  "name": "What is the process for gas shutoff valve installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for gas shutoff valve installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for gas shutoff valve installation typically involves first turning off the main gas supply to the property. Then, the existing valve is carefully removed, or the new line is prepped for a new installation. The new valve is installed using appropriate threading and sealant to ensure a leak-proof connection. After installation, the gas supply is restored, and the entire system is thoroughly tested for any leaks. This work should only be performed by a qualified and licensed plumbing professional.",
+        "@type": "Answer",
+        "description": "Gas shutoff valve installation involves turning off gas, removing or prepping for the new valve, installing it securely, restoring gas, and leak testing."
+      }
+    }
+  ],
+  "description": "Gas shutoff valve installation involves turning off gas, removing or prepping for the new valve, installing it securely, restoring gas, and leak testing."
+}

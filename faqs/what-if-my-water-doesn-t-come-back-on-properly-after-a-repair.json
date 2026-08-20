@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-if-my-water-doesn-t-come-back-on-properly-after-a-repair",
+  "name": "What if my water doesn't come back on properly after a repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What if my water doesn't come back on properly after a repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you experience any issues with your water supply after our technicians have completed a repair and restored service, please contact Alpha-Plumbing Services, LLC immediately. We will promptly dispatch a technician to investigate and resolve the problem. Your satisfaction and the proper functioning of your plumbing system are our top priorities, and we stand by our work.",
+        "@type": "Answer",
+        "description": "If your water supply has issues after our repair and restoration, contact Alpha-Plumbing Services, LLC immediately for a prompt resolution."
+      }
+    }
+  ],
+  "description": "If your water supply has issues after our repair and restoration, contact Alpha-Plumbing Services, LLC immediately for a prompt resolution."
+}

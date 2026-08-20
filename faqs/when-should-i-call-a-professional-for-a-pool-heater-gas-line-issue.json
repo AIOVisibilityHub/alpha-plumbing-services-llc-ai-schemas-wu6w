@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-should-i-call-a-professional-for-a-pool-heater-gas-line-issue",
+  "name": "When should I call a professional for a pool heater gas line issue?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for a pool heater gas line issue?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should contact a professional immediately if you suspect a gas leak, such as smelling gas or hearing a hissing sound. Other reasons to call include noticing a drop in your pool heater's performance, unusual pilot light behavior (e.g., frequently going out), or if you see visible damage to the gas line itself. Attempting to repair gas lines yourself can be dangerous and should only be handled by certified and licensed professionals to ensure safety and compliance with local regulations.",
+        "@type": "Answer",
+        "description": "Call a professional immediately if you suspect a gas leak, notice performance issues, or see visible damage to the gas line."
+      }
+    }
+  ],
+  "description": "Call a professional immediately if you suspect a gas leak, notice performance issues, or see visible damage to the gas line."
+}

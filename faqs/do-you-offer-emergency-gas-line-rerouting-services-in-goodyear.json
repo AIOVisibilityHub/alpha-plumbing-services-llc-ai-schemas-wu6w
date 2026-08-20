@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/do-you-offer-emergency-gas-line-rerouting-services-in-goodyear",
+  "name": "Do you offer emergency gas line rerouting services in Goodyear?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer emergency gas line rerouting services in Goodyear?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While gas line rerouting is typically a planned project, an urgent need might arise from sudden damage or immediate safety concerns. Alpha-Plumbing Services offers prompt response for gas line issues. If you suspect a gas leak or have immediate safety concerns, evacuate the area and call your gas provider's emergency line first, then contact us for professional assessment and rerouting services in Goodyear, Buckeye, Avondale, and Surprise.",
+        "@type": "Answer",
+        "description": "Alpha-Plumbing Services offers prompt response for urgent gas line issues, but in emergencies, first contact your gas provider."
+      }
+    }
+  ],
+  "description": "Alpha-Plumbing Services offers prompt response for urgent gas line issues, but in emergencies, first contact your gas provider."
+}

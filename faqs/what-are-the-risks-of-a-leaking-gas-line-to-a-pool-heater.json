@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-the-risks-of-a-leaking-gas-line-to-a-pool-heater",
+  "name": "What are the risks of a leaking gas line to a pool heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the risks of a leaking gas line to a pool heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A leaking gas line poses several significant risks. The most immediate dangers include fire and explosion due to the flammability of natural gas, especially in enclosed spaces or when gas accumulates. Inhaling natural gas can also lead to health issues, as it displaces oxygen, potentially causing dizziness, nausea, or asphyxiation if the leak is significant. Additionally, a continuous leak can lead to property damage, harm vegetation around the leak, and result in higher utility bills. Prompt repair is crucial for safety.",
+        "@type": "Answer",
+        "description": "Risks include fire, explosion, health issues from gas inhalation, property damage, and increased utility bills. Prompt repair is crucial."
+      }
+    }
+  ],
+  "description": "Risks include fire, explosion, health issues from gas inhalation, property damage, and increased utility bills. Prompt repair is crucial."
+}

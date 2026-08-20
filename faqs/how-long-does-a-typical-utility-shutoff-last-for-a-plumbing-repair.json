@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-a-typical-utility-shutoff-last-for-a-plumbing-repair",
+  "name": "How long does a typical utility shutoff last for a plumbing repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical utility shutoff last for a plumbing repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a utility shutoff varies depending on the complexity and scope of the plumbing repair. Minor repairs might only require a shutoff for an hour or two, while more extensive projects, like a full pipe replacement, could take several hours. We always aim to complete work efficiently to minimize disruption and will provide an estimated timeframe before beginning any work that requires a shutoff.",
+        "@type": "Answer",
+        "description": "Utility shutoff duration depends on repair complexity, ranging from one hour for minor fixes to several hours for larger projects. We provide an estimate beforehand."
+      }
+    }
+  ],
+  "description": "Utility shutoff duration depends on repair complexity, ranging from one hour for minor fixes to several hours for larger projects. We provide an estimate before"
+}

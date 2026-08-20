@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-common-signs-of-a-gas-leak-from-a-pool-heater",
+  "name": "What are common signs of a gas leak from a pool heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs of a gas leak from a pool heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of a gas leak from a pool heater include a distinct sulfur or rotten egg smell, which is an additive to natural gas to make leaks detectable. You might also notice a hissing sound near the heater, unexplained dead or discolored vegetation around the gas line, or an increase in your gas bill without a change in usage. If you suspect a gas leak, it's important to turn off the gas supply and contact a professional immediately to ensure safety and prevent further issues.",
+        "@type": "Answer",
+        "description": "Signs of a gas leak include a rotten egg smell, hissing sounds, discolored vegetation, or an unexplained increase in your gas bill."
+      }
+    }
+  ],
+  "description": "Signs of a gas leak include a rotten egg smell, hissing sounds, discolored vegetation, or an unexplained increase in your gas bill."
+}
