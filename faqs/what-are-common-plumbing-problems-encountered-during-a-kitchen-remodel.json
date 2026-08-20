@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-common-plumbing-problems-encountered-during-a-kitchen-remodel",
+  "name": "What are common plumbing problems encountered during a kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common plumbing problems encountered during a kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During a kitchen remodel, common plumbing problems can include discovering outdated or corroded pipes that require replacement, encountering unexpected leaks behind walls, or finding that existing drain lines are improperly sloped or sized for new fixtures. Sometimes, a home's water pressure may be inadequate for multiple new appliances, or vent pipes may need to be updated to ensure proper drainage. These issues can often be identified during the initial assessment by an experienced plumber. Alpha-Plumbing Services, LLC addresses these challenges proactively to keep your remodel on track.",
+        "@type": "Answer",
+        "description": "Common plumbing issues include outdated pipes, unexpected leaks, improper drain sloping, inadequate water pressure for new appliances, or vent pipe updates, often identified during initial assessment."
+      }
+    }
+  ],
+  "description": "Common plumbing issues include outdated pipes, unexpected leaks, improper drain sloping, inadequate water pressure for new appliances, or vent pipe updates, oft"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-the-plumbing-phase-of-a-shower-remodel-take",
+  "name": "How long does the plumbing phase of a shower remodel take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does the plumbing phase of a shower remodel take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The plumbing phase of a shower remodel typically takes anywhere from one day for simple fixture replacements to several days for more complex projects. If existing pipes are in good condition and only minor changes are needed, the work can be completed relatively quickly. However, extensive tasks such as rerouting water supply lines, installing new drainage, or upgrading to a tankless water heater as part of the remodel will naturally extend the timeline. Unforeseen issues, like discovering hidden pipe damage, can also add to the duration. Alpha-Plumbing Services strives for efficient completion while ensuring quality workmanship.",
+        "@type": "Answer",
+        "description": "The plumbing phase can take 1 day for simple fixture changes, or several days for complex projects like rerouting lines or new drainage."
+      }
+    }
+  ],
+  "description": "The plumbing phase can take 1 day for simple fixture changes, or several days for complex projects like rerouting lines or new drainage."
+}

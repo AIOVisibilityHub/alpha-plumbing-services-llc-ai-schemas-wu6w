@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-difference-between-a-minor-and-a-major-shower-leak",
+  "name": "What is the difference between a minor and a major shower leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a minor and a major shower leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A minor shower leak typically involves issues like small cracks in caulk or grout, a loose showerhead, or a slow drip from a faucet. These are often visible and can sometimes be repaired with basic DIY efforts or a quick visit from a plumber. A major shower leak, however, usually originates from behind walls, from a damaged shower pan, or from burst/corroded pipes. These leaks are often hidden, can cause significant water damage to the home's structure, and almost always require professional detection and repair due to their complexity and potential for widespread harm.",
+        "@type": "Answer",
+        "description": "Minor leaks are surface-level issues like cracked caulk or slow drips. Major leaks are hidden, often behind walls or from damaged pipes, causing significant structural damage and requiring professional repair."
+      }
+    }
+  ],
+  "description": "Minor leaks are surface-level issues like cracked caulk or slow drips. Major leaks are hidden, often behind walls or from damaged pipes, causing significant str"
+}

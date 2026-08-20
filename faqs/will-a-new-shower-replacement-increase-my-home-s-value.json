@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/will-a-new-shower-replacement-increase-my-home-s-value",
+  "name": "Will a new shower replacement increase my home's value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will a new shower replacement increase my home's value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A well-executed shower replacement can contribute positively to your home's value, especially if your current shower is outdated or damaged. Modern, energy-efficient fixtures and an updated design can make your bathroom more appealing to potential buyers. While it's not always a dollar-for-dollar return, a functional and aesthetically pleasing shower improves overall home desirability and can accelerate sale time. Focus on quality materials and professional installation for the best return on investment.",
+        "@type": "Answer",
+        "description": "A well-executed shower replacement, especially if modern and updated, can increase your home's value and appeal to potential buyers."
+      }
+    }
+  ],
+  "description": "A well-executed shower replacement, especially if modern and updated, can increase your home's value and appeal to potential buyers."
+}

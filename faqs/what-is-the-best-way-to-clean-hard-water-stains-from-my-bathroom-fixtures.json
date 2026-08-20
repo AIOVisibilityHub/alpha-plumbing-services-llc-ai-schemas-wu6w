@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-best-way-to-clean-hard-water-stains-from-my-bathroom-fixtures",
+  "name": "What is the best way to clean hard water stains from my bathroom fixtures?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the best way to clean hard water stains from my bathroom fixtures?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For mild stains, household acids like white vinegar or lemon juice can be effective. Apply the solution, let it sit for 15-30 minutes, and then scrub with a non-abrasive brush or cloth. For stubborn stains, specialized hard water stain removers are available. Always test any cleaner on an inconspicuous area first to prevent damage to fixture finishes. Regular cleaning helps prevent severe buildup.",
+        "@type": "Answer",
+        "description": "Mild stains can be cleaned with vinegar or lemon juice. For stubborn stains, use specialized removers and always test on an inconspicuous area first."
+      }
+    }
+  ],
+  "description": "Mild stains can be cleaned with vinegar or lemon juice. For stubborn stains, use specialized removers and always test on an inconspicuous area first."
+}

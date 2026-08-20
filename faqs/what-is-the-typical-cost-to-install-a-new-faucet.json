@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-typical-cost-to-install-a-new-faucet",
+  "name": "What is the typical cost to install a new faucet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost to install a new faucet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of faucet installation varies depending on several factors, including the type of faucet, the complexity of the installation, and any necessary plumbing modifications. Our service includes the professional installation of the faucet, basic supply lines, and testing for leaks. If additional work, such as repairing existing plumbing or modifying countertops, is required, it will impact the final cost. We provide transparent estimates after assessing your specific needs. Please note that the cost of the faucet itself is separate from the installation service.",
+        "@type": "Answer",
+        "description": "Faucet installation costs vary based on faucet type, complexity, and any required plumbing modifications. We provide estimates after assessing your needs."
+      }
+    }
+  ],
+  "description": "Faucet installation costs vary based on faucet type, complexity, and any required plumbing modifications. We provide estimates after assessing your needs."
+}

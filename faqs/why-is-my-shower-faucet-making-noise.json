@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/why-is-my-shower-faucet-making-noise",
+  "name": "Why is my shower faucet making noise?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is my shower faucet making noise?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Noises from a shower faucet, such as squealing, banging (water hammer), or whistling, often indicate an issue with internal components. A squealing sound might point to a worn-out washer or cartridge, while water hammer can be caused by loose pipes or sudden changes in water pressure. Whistling often suggests a partially blocked pipe or a worn washer vibrating in the water flow. Identifying the specific noise helps determine the underlying problem and the necessary repair.",
+        "@type": "Answer",
+        "description": "Shower faucet noises like squealing, banging, or whistling usually indicate worn washers, faulty cartridges, or issues with water pressure and pipes."
+      }
+    }
+  ],
+  "description": "Shower faucet noises like squealing, banging, or whistling usually indicate worn washers, faulty cartridges, or issues with water pressure and pipes."
+}

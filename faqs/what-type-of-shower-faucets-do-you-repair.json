@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-type-of-shower-faucets-do-you-repair",
+  "name": "What type of shower faucets do you repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What type of shower faucets do you repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our technicians are experienced in repairing a wide range of shower faucet types, including single-handle, double-handle, and thermostatic mixing valves. We also work with various brands and styles, from standard cartridge-based faucets to more complex pressure-balancing and diverter systems. Regardless of the type or brand of your shower faucet, our team has the knowledge and tools to diagnose and resolve most common issues effectively.",
+        "@type": "Answer",
+        "description": "We repair various shower faucet types, including single-handle, double-handle, thermostatic mixing valves, and different brands and styles."
+      }
+    }
+  ],
+  "description": "We repair various shower faucet types, including single-handle, double-handle, thermostatic mixing valves, and different brands and styles."
+}

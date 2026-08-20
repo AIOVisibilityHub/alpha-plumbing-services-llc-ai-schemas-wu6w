@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-it-take-to-repair-a-dripping-faucet",
+  "name": "How long does it take to repair a dripping faucet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to repair a dripping faucet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most dripping faucet repairs can be completed relatively quickly, often within 30 minutes to an hour, depending on the complexity of the faucet and the specific problem. Replacing a simple washer or O-ring is usually a fast process. However, if the issue involves a more intricate cartridge replacement, corrosion, or requires accessing hard-to-reach components, the repair might take longer. Our plumbers work efficiently to restore your faucet's function as soon as possible.",
+        "@type": "Answer",
+        "description": "Most dripping faucet repairs take 30 minutes to an hour, depending on complexity and the parts needed for replacement."
+      }
+    }
+  ],
+  "description": "Most dripping faucet repairs take 30 minutes to an hour, depending on complexity and the parts needed for replacement."
+}

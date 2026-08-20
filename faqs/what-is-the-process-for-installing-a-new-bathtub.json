@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-process-for-installing-a-new-bathtub",
+  "name": "What is the process for installing a new bathtub?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for installing a new bathtub?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The bathtub installation process typically begins with the removal of the old tub, if applicable, followed by preparing the subfloor and wall surrounds. Plumbing connections for drain and water supply are then adjusted or set up. The new tub is carefully maneuvered into place, leveled, and secured. Finally, the faucet and drain assembly are installed, connections are tested for leaks, and sealing or caulking is applied around the tub edges. Any necessary tile or surround work often follows these plumbing steps.",
+        "@type": "Answer",
+        "description": "Installation involves removing the old tub, preparing the area, adjusting plumbing, setting the new tub, connecting fixtures, and sealing for leaks."
+      }
+    }
+  ],
+  "description": "Installation involves removing the old tub, preparing the area, adjusting plumbing, setting the new tub, connecting fixtures, and sealing for leaks."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-involved-in-a-professional-bathtub-drain-repair-service",
+  "name": "What is involved in a professional bathtub drain repair service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in a professional bathtub drain repair service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A professional bathtub drain repair service typically starts with a diagnostic assessment to identify the root cause of the problem, using tools like cameras if necessary. For clogs, technicians might use augers or hydro-jetting equipment. If parts are damaged, such as the stopper, drain flange, or overflow assembly, they will be replaced. For leaks, the plumber will identify the source and repair or replace the affected pipes or seals, ensuring proper function and preventing future issues.",
+        "@type": "Answer",
+        "description": "Professional service involves diagnosis, using tools like augers or cameras for clogs, and replacing damaged parts or repairing leaks."
+      }
+    }
+  ],
+  "description": "Professional service involves diagnosis, using tools like augers or cameras for clogs, and replacing damaged parts or repairing leaks."
+}

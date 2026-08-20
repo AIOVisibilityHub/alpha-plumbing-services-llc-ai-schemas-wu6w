@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-should-i-call-a-plumber-during-a-bathroom-remodel-project",
+  "name": "When should I call a plumber during a bathroom remodel project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a plumber during a bathroom remodel project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should involve a plumber early in the planning stages of your bathroom remodel, especially if you plan to change the layout or move fixtures. They can advise on feasibility, potential challenges with existing plumbing, and help estimate costs. The main plumbing work typically occurs in two phases: rough-in plumbing after demolition and framing, and then final fixture installation once tiling and painting are complete. Coordinating these phases with your contractor ensures a smooth project flow.",
+        "@type": "Answer",
+        "description": "Call a plumber early in the planning phase, especially for layout changes. They will perform rough-in plumbing and final fixture installation."
+      }
+    }
+  ],
+  "description": "Call a plumber early in the planning phase, especially for layout changes. They will perform rough-in plumbing and final fixture installation."
+}

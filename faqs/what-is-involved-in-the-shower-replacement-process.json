@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-involved-in-the-shower-replacement-process",
+  "name": "What is involved in the shower replacement process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the shower replacement process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The shower replacement process typically begins with an initial consultation and estimate, followed by the removal of your old shower unit and any necessary demolition. Next, any required plumbing adjustments are made, and the area is prepared for the new installation. This might include waterproofing and preparing the subfloor or walls. The new shower base, walls, and fixtures are then installed. Finally, finishing touches like grouting, sealing, and cleanup are performed. We keep you informed at each stage of the process.",
+        "@type": "Answer",
+        "description": "The process involves consultation, old shower removal, plumbing adjustments, site preparation, new shower installation, and finishing touches."
+      }
+    }
+  ],
+  "description": "The process involves consultation, old shower removal, plumbing adjustments, site preparation, new shower installation, and finishing touches."
+}

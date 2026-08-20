@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/do-i-need-a-permit-for-a-shower-replacement",
+  "name": "Do I need a permit for a shower replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for a shower replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether a permit is required for a shower replacement depends on the scope of the work and local building codes in Goodyear, Buckeye, Avondale, or Surprise. Simple cosmetic changes like replacing tiles or fixtures often do not require a permit. However, if the replacement involves altering the plumbing system, changing the shower's footprint, or making structural modifications, a permit is typically necessary. We can help you determine if your project requires a permit and guide you through the necessary steps to ensure compliance with local regulations.",
+        "@type": "Answer",
+        "description": "Permits are usually needed if the replacement involves altering plumbing, changing the footprint, or structural modifications. Simple cosmetic updates often do not require one."
+      }
+    }
+  ],
+  "description": "Permits are usually needed if the replacement involves altering plumbing, changing the footprint, or structural modifications. Simple cosmetic updates often do"
+}

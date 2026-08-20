@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-kind-of-maintenance-does-a-water-softener-require",
+  "name": "What kind of maintenance does a water softener require?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of maintenance does a water softener require?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Salt-based water softeners primarily require periodic replenishment of salt in the brine tank. The frequency depends on your water usage and hardness levels, but it's typically every few weeks to a few months. Beyond salt, it's recommended to have the system inspected annually by a professional to ensure it's functioning optimally, check for wear and tear, and clean components if necessary. Some systems may also require occasional cleaning of the resin bed or other internal parts.",
+        "@type": "Answer",
+        "description": "Salt-based softeners need regular salt replenishment. Annual professional inspections are recommended to ensure optimal performance and address wear."
+      }
+    }
+  ],
+  "description": "Salt-based softeners need regular salt replenishment. Annual professional inspections are recommended to ensure optimal performance and address wear."
+}

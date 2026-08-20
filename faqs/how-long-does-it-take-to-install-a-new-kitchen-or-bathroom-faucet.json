@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-it-take-to-install-a-new-kitchen-or-bathroom-faucet",
+  "name": "How long does it take to install a new kitchen or bathroom faucet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install a new kitchen or bathroom faucet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most standard faucet installations are completed within 1 to 3 hours. This timeframe can vary based on the accessibility of the plumbing, whether it's a new installation or a replacement, and if any unforeseen issues arise, such as corroded connections or required modifications to the sink or countertop. Our technicians work efficiently to minimize disruption, ensuring a professional and timely installation. More complex installations, such as those involving significant plumbing adjustments or specialized fixtures, may require additional time.",
+        "@type": "Answer",
+        "description": "Standard faucet installations typically take 1 to 3 hours, depending on accessibility and complexity. More involved projects may take longer."
+      }
+    }
+  ],
+  "description": "Standard faucet installations typically take 1 to 3 hours, depending on accessibility and complexity. More involved projects may take longer."
+}

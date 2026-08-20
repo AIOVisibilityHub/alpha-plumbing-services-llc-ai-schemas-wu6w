@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-process-for-finding-a-hidden-shower-leak",
+  "name": "What is the process for finding a hidden shower leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for finding a hidden shower leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Finding a hidden shower leak often involves a systematic approach. Plumbers typically begin by visually inspecting accessible areas like grout, caulk, and fixtures. If no obvious source is found, they might use specialized tools such as moisture meters, thermal imaging cameras, or pressure testing equipment to pinpoint the exact location of the leak without unnecessary demolition. Sometimes, dye tests are performed to trace water pathways. Once located, the necessary repair steps can be determined and executed efficiently.",
+        "@type": "Answer",
+        "description": "Plumbers use visual inspections, moisture meters, thermal cameras, or pressure tests to find hidden leaks. Dye tests may also be used to trace water pathways."
+      }
+    }
+  ],
+  "description": "Plumbers use visual inspections, moisture meters, thermal cameras, or pressure tests to find hidden leaks. Dye tests may also be used to trace water pathways."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-s-the-difference-between-a-thermostatic-and-pressure-balancing-shower-valve",
+  "name": "What's the difference between a thermostatic and pressure-balancing shower valve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a thermostatic and pressure-balancing shower valve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Both thermostatic and pressure-balancing shower valves regulate water temperature, but they do so differently. A pressure-balancing valve reacts to sudden changes in water pressure (e.g., someone flushing a toilet) to prevent scalding or freezing, maintaining a consistent temperature by adjusting the hot and cold water mix. A thermostatic valve, on the other hand, maintains a precise, pre-set temperature regardless of pressure fluctuations or incoming water temperature changes. Thermostatic valves offer finer control and often include a volume control separate from temperature, providing a more consistent and luxurious shower experience. Alpha-Plumbing Services can help you choose the best option for your needs.",
+        "@type": "Answer",
+        "description": "Pressure-balancing valves react to pressure changes to prevent scalding, while thermostatic valves maintain a precise, pre-set temperature regardless of pressure or incoming water temperature."
+      }
+    }
+  ],
+  "description": "Pressure-balancing valves react to pressure changes to prevent scalding, while thermostatic valves maintain a precise, pre-set temperature regardless of pressur"
+}

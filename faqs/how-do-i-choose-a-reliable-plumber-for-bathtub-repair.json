@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-do-i-choose-a-reliable-plumber-for-bathtub-repair",
+  "name": "How do I choose a reliable plumber for bathtub repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a reliable plumber for bathtub repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing a reliable plumber for bathtub repair involves considering several factors. Look for plumbers with positive local reviews, clear licensing and insurance, and a track record of experience with bathtub-specific issues. It's advisable to get written estimates, ask about their warranty on parts and labor, and ensure they serve your specific area. Alpha-Plumbing Services meets these criteria, offering transparent pricing and experienced technicians for your bathtub repair needs.",
+        "@type": "Answer",
+        "description": "Choose a reliable plumber by checking local reviews, licensing, insurance, experience, written estimates, and warranties. Alpha-Plumbing Services meets these."
+      }
+    }
+  ],
+  "description": "Choose a reliable plumber by checking local reviews, licensing, insurance, experience, written estimates, and warranties. Alpha-Plumbing Services meets these."
+}

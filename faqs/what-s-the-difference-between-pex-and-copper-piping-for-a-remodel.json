@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-s-the-difference-between-pex-and-copper-piping-for-a-remodel",
+  "name": "What's the difference between PEX and copper piping for a remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between PEX and copper piping for a remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "PEX (cross-linked polyethylene) and copper are both excellent choices for plumbing, but they have key differences. Copper is durable, recyclable, and has a long track record, but it's more expensive to install due to soldering and material costs. PEX is flexible, less expensive, easier to install with fewer fittings, and resistant to freezing bursts. However, it can be susceptible to UV light degradation (if exposed) and has a slightly lower resistance to heat than copper. Your plumber can help you decide which material best suits your project and budget.",
+        "@type": "Answer",
+        "description": "Copper is durable and proven but more expensive. PEX is flexible, less costly, easier to install, and freeze-resistant, ideal for many remodels."
+      }
+    }
+  ],
+  "description": "Copper is durable and proven but more expensive. PEX is flexible, less costly, easier to install, and freeze-resistant, ideal for many remodels."
+}

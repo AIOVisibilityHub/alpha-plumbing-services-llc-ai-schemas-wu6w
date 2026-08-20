@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-do-i-know-if-i-need-a-water-softener",
+  "name": "How do I know if I need a water softener?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if I need a water softener?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You likely need a water softener if you notice common signs of hard water. These include mineral buildup or scale on faucets, showerheads, and inside appliances like coffee makers. Your soap and shampoo may not lather well, and your skin and hair might feel dry after showering. Laundry may appear dull or stiff, and dishes might have spots even after washing. We can perform a water hardness test to confirm the mineral content in your water.",
+        "@type": "Answer",
+        "description": "Look for mineral buildup, poor soap lather, dry skin/hair, dull laundry, and spots on dishes. A water hardness test can confirm."
+      }
+    }
+  ],
+  "description": "Look for mineral buildup, poor soap lather, dry skin/hair, dull laundry, and spots on dishes. A water hardness test can confirm."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-types-of-bathroom-faucets-are-available",
+  "name": "What types of bathroom faucets are available?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of bathroom faucets are available?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common types of bathroom faucets include single-handle faucets, which control both hot and cold water with one lever; widespread faucets, featuring separate handles for hot and cold water and a spout; centerset faucets, where the spout and handles are combined on a single base; and wall-mounted faucets, which offer a clean countertop look but require specific plumbing within the wall. There are also touchless options for added convenience.",
+        "@type": "Answer",
+        "description": "Available bathroom faucet types include single-handle, widespread, centerset, wall-mounted, and touchless options."
+      }
+    }
+  ],
+  "description": "Available bathroom faucet types include single-handle, widespread, centerset, wall-mounted, and touchless options."
+}

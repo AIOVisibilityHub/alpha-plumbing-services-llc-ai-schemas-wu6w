@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-process-for-installing-a-new-shower",
+  "name": "What is the process for installing a new shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for installing a new shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The shower installation process typically begins with an initial consultation and assessment of your current bathroom and desired shower type. This is followed by demolition, if necessary, to remove old fixtures and prepare the space. Plumbing lines are then adjusted or installed, followed by waterproofing and sub-floor preparation. Next, the shower pan or base is installed, walls are tiled or paneled, and fixtures like the showerhead and faucet are put in place. Finally, sealing and finishing touches are applied. Alpha-Plumbing Services ensures each step is completed with precision for a durable and functional shower.",
+        "@type": "Answer",
+        "description": "The shower installation process involves consultation, demolition, plumbing adjustments, waterproofing, base installation, tiling, fixture placement, and final sealing."
+      }
+    }
+  ],
+  "description": "The shower installation process involves consultation, demolition, plumbing adjustments, waterproofing, base installation, tiling, fixture placement, and final"
+}

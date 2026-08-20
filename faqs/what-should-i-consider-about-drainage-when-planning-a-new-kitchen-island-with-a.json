@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-should-i-consider-about-drainage-when-planning-a-new-kitchen-island-with-a",
+  "name": "What should I consider about drainage when planning a new kitchen island with a sink?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider about drainage when planning a new kitchen island with a sink?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When planning a kitchen island with a sink, drainage is a critical consideration. Unlike wall-mounted sinks that can easily connect to existing drain lines, an island sink often requires new drain and vent lines to be run through the floor or ceiling. This can involve breaking into the slab or accessing the ceiling below, which adds complexity and cost. Proper venting is essential to prevent slow drains and gurgling noises. Alpha-Plumbing Services, LLC can assess your home's structure and existing plumbing to determine the most efficient and compliant way to install drainage for an island sink.",
+        "@type": "Answer",
+        "description": "For a kitchen island sink, consider complex drainage and venting requirements, often needing new lines through the floor or ceiling. Proper venting prevents drainage issues."
+      }
+    }
+  ],
+  "description": "For a kitchen island sink, consider complex drainage and venting requirements, often needing new lines through the floor or ceiling. Proper venting prevents dra"
+}

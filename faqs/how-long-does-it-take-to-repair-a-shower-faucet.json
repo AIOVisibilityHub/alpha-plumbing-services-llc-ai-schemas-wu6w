@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-it-take-to-repair-a-shower-faucet",
+  "name": "How long does it take to repair a shower faucet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to repair a shower faucet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most standard shower faucet repairs can be completed within 1 to 3 hours, assuming the necessary parts are readily available. The duration can vary based on the complexity of the problem, the accessibility of the faucet's internal components, and the type of faucet. For instance, replacing a cartridge might be quicker than troubleshooting an intermittent hot water issue. Our technicians aim to resolve issues efficiently while ensuring a lasting repair.",
+        "@type": "Answer",
+        "description": "Most shower faucet repairs take 1 to 3 hours, depending on the complexity of the issue, accessibility, and the type of faucet being repaired."
+      }
+    }
+  ],
+  "description": "Most shower faucet repairs take 1 to 3 hours, depending on the complexity of the issue, accessibility, and the type of faucet being repaired."
+}

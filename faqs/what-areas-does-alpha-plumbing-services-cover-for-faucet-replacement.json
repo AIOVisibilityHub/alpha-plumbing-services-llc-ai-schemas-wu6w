@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-areas-does-alpha-plumbing-services-cover-for-faucet-replacement",
+  "name": "What areas does Alpha-Plumbing Services cover for faucet replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas does Alpha-Plumbing Services cover for faucet replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Alpha-Plumbing Services proudly provides faucet replacement services in Goodyear, Buckeye, Avondale, Surprise, and Waddell. If you are located in one of these communities, our experienced plumbers are ready to assist you with your plumbing needs. Please contact us to schedule an appointment or to inquire about service availability in your specific neighborhood.",
+        "@type": "Answer",
+        "description": "Alpha-Plumbing Services offers faucet replacement in Goodyear, Buckeye, Avondale, Surprise, and Waddell. Contact us for service."
+      }
+    }
+  ],
+  "description": "Alpha-Plumbing Services offers faucet replacement in Goodyear, Buckeye, Avondale, Surprise, and Waddell. Contact us for service."
+}

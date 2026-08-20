@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-involved-in-a-typical-shower-faucet-repair-process",
+  "name": "What is involved in a typical shower faucet repair process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in a typical shower faucet repair process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical shower faucet repair process begins with diagnosing the problem, which may involve disassembling the faucet handles and trim. The technician will then inspect internal components like cartridges, washers, and O-rings to identify worn or damaged parts. Replacement parts are then installed, the faucet is reassembled, and the water supply is turned back on to test for leaks and proper function. The area is cleaned up after the repair is complete.",
+        "@type": "Answer",
+        "description": "The repair process involves diagnosing the issue, disassembling the faucet, replacing worn parts, reassembling, and testing for proper function and leaks."
+      }
+    }
+  ],
+  "description": "The repair process involves diagnosing the issue, disassembling the faucet, replacing worn parts, reassembling, and testing for proper function and leaks."
+}

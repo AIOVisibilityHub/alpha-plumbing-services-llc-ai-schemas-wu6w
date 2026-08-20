@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-areas-do-you-serve-for-bathtub-repair",
+  "name": "What areas do you serve for bathtub repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas do you serve for bathtub repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Alpha-Plumbing Services provides professional bathtub repair services to a specific set of communities. Our primary service areas include Goodyear, Buckeye, Avondale, and Surprise. If you are located in one of these towns and require expert bathtub repair, please contact us. We focus on these areas to ensure efficient and timely service for our local customers.",
+        "@type": "Answer",
+        "description": "Alpha-Plumbing Services offers bathtub repair in Goodyear, Buckeye, Avondale, and Surprise."
+      }
+    }
+  ],
+  "description": "Alpha-Plumbing Services offers bathtub repair in Goodyear, Buckeye, Avondale, and Surprise."
+}

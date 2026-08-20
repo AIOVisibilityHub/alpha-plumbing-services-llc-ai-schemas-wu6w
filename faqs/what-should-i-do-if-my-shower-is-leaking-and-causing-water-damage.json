@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-should-i-do-if-my-shower-is-leaking-and-causing-water-damage",
+  "name": "What should I do if my shower is leaking and causing water damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if my shower is leaking and causing water damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your shower is leaking and actively causing water damage, the first crucial step is to immediately turn off the main water supply to your home to stop the flow of water. This will help prevent further damage to walls, floors, and ceilings. After the water is shut off, try to contain any existing water with towels or buckets. Then, contact a professional plumbing service like Alpha-Plumbing Services right away. We can quickly dispatch a technician to diagnose the leak's source and perform the necessary repairs to protect your property.",
+        "@type": "Answer",
+        "description": "If your shower is leaking and causing damage, immediately turn off the main water supply, contain the water, and call a professional plumber."
+      }
+    }
+  ],
+  "description": "If your shower is leaking and causing damage, immediately turn off the main water supply, contain the water, and call a professional plumber."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-do-i-know-if-my-water-softener-needs-to-be-replaced",
+  "name": "How do I know if my water softener needs to be replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my water softener needs to be replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs your water softener needs replacement include scale buildup on faucets and showerheads, laundry not feeling clean, soap not lathering effectively, and a noticeable change in water taste or feel. If your system is regularly needing repairs, is older than 10-15 years, or if you notice rust or leaks, it's often more cost-effective to replace it. A professional assessment can confirm if replacement is the best solution for your home in areas like Goodyear or Buckeye.",
+        "@type": "Answer",
+        "description": "Signs include scale buildup, dingy laundry, soap not lathering, and changes in water taste. Frequent repairs or age (10-15+ years) also indicate replacement is needed."
+      }
+    }
+  ],
+  "description": "Signs include scale buildup, dingy laundry, soap not lathering, and changes in water taste. Frequent repairs or age (10-15+ years) also indicate replacement is"
+}

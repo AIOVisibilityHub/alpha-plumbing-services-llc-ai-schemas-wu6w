@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-a-bathtub-replacement-take",
+  "name": "How long does a bathtub replacement take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a bathtub replacement take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard bathtub replacement project can typically be completed within one to three days. This timeframe can vary based on the complexity of the existing setup and the new tub's requirements. For example, if extensive plumbing modifications, subfloor repairs, or custom tile work are needed, the project might extend beyond this initial estimate. A simpler, like-for-like replacement with minimal surrounding work will usually be on the shorter end of the spectrum. Your plumbing professional can provide a more accurate timeline after assessing your specific bathroom.",
+        "@type": "Answer",
+        "description": "A standard replacement usually takes 1-3 days, but can vary based on project complexity and necessary repairs."
+      }
+    }
+  ],
+  "description": "A standard replacement usually takes 1-3 days, but can vary based on project complexity and necessary repairs."
+}

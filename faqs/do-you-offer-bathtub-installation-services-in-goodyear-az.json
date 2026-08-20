@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/do-you-offer-bathtub-installation-services-in-goodyear-az",
+  "name": "Do you offer bathtub installation services in Goodyear, AZ?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer bathtub installation services in Goodyear, AZ?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Alpha-Plumbing Services, LLC proudly offers professional bathtub installation services in Goodyear, AZ, and surrounding areas. Our licensed and experienced plumbers are equipped to handle a wide range of bathtub types and installation complexities. We focus on ensuring proper plumbing connections, adherence to local building codes, and a durable, leak-free finish. Contact us to discuss your specific bathtub installation needs and to schedule an on-site assessment for a personalized quote in the Goodyear area.",
+        "@type": "Answer",
+        "description": "Yes, Alpha-Plumbing Services, LLC provides professional bathtub installation services in Goodyear, AZ, and nearby communities."
+      }
+    }
+  ],
+  "description": "Yes, Alpha-Plumbing Services, LLC provides professional bathtub installation services in Goodyear, AZ, and nearby communities."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-common-signs-that-my-shower-valve-needs-repair",
+  "name": "What are common signs that my shower valve needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my shower valve needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common indicators that your shower valve requires repair include a sudden drop in water pressure, inconsistent water temperature (either too hot or too cold, or fluctuating rapidly), or a persistent drip from the showerhead even when the valve is fully closed. You might also notice a squealing or grinding noise when operating the shower, or difficulty turning the handle. Addressing these issues promptly can prevent further damage to your plumbing system and conserve water.",
+        "@type": "Answer",
+        "description": "Look for low water pressure, inconsistent water temperature, a dripping showerhead, or unusual noises from the valve. These signs indicate a potential need for repair."
+      }
+    }
+  ],
+  "description": "Look for low water pressure, inconsistent water temperature, a dripping showerhead, or unusual noises from the valve. These signs indicate a potential need for"
+}

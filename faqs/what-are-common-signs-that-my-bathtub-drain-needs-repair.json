@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-common-signs-that-my-bathtub-drain-needs-repair",
+  "name": "What are common signs that my bathtub drain needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my bathtub drain needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that your bathtub drain needs repair include slow drainage, standing water, gurgling sounds coming from the drain, foul odors, or water leaking from around the drain assembly or pipes below the tub. A completely clogged drain, where no water goes down, is also a clear indicator. These issues often stem from hair, soap scum, mineral buildup, or foreign objects obstructing the drainpipe, or from damaged drain components like the stopper or overflow plate.",
+        "@type": "Answer",
+        "description": "Slow drainage, standing water, gurgling sounds, odors, or leaks are common signs your bathtub drain needs repair."
+      }
+    }
+  ],
+  "description": "Slow drainage, standing water, gurgling sounds, odors, or leaks are common signs your bathtub drain needs repair."
+}

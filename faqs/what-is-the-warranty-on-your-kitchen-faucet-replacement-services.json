@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-warranty-on-your-kitchen-faucet-replacement-services",
+  "name": "What is the warranty on your kitchen faucet replacement services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the warranty on your kitchen faucet replacement services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Alpha-Plumbing Services, LLC stands behind the quality of our workmanship for kitchen faucet replacement. We provide a warranty on our installation services to ensure your peace of mind. The specific terms and duration of the warranty will be outlined at the time of service. It's important to note that the warranty for the faucet itself is typically provided by the manufacturer. If you experience any issues related to our installation after the service, please contact us promptly, and we will address them.",
+        "@type": "Answer",
+        "description": "We offer a warranty on our installation services for kitchen faucet replacement. The faucet's warranty is from the manufacturer."
+      }
+    }
+  ],
+  "description": "We offer a warranty on our installation services for kitchen faucet replacement. The faucet's warranty is from the manufacturer."
+}

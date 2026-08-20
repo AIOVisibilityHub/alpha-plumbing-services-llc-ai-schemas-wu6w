@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-do-i-know-if-i-have-hard-water",
+  "name": "How do I know if I have hard water?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if I have hard water?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of hard water include white, chalky residue (limescale) on faucets, showerheads, and dishes after washing. You may also notice reduced soap lathering, requiring more soap to get clean. Clothes might feel stiff or look dull after washing, and your skin or hair may feel dry or sticky after showering. Sometimes, a professional water test can confirm the exact hardness level, but these visual and tactile cues are strong indicators of hard water presence in your home.",
+        "@type": "Answer",
+        "description": "Look for soap scum on fixtures, spots on dishes, reduced soap lather, dry skin/hair, or stiff laundry. A professional water test can confirm hardness levels."
+      }
+    }
+  ],
+  "description": "Look for soap scum on fixtures, spots on dishes, reduced soap lather, dry skin/hair, or stiff laundry. A professional water test can confirm hardness levels."
+}

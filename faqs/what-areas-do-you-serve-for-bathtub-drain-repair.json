@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-areas-do-you-serve-for-bathtub-drain-repair",
+  "name": "What areas do you serve for bathtub drain repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas do you serve for bathtub drain repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Alpha-Plumbing Services, LLC provides expert bathtub drain repair services to residents and businesses in Goodyear, Buckeye, Avondale, Surprise, and Waddel. If you are experiencing issues with your bathtub drain in these areas, please contact us to schedule a service appointment. We are dedicated to offering prompt and reliable plumbing solutions to our local communities.",
+        "@type": "Answer",
+        "description": "We serve Goodyear, Buckeye, Avondale, Surprise, and Waddel for all bathtub drain repair needs."
+      }
+    }
+  ],
+  "description": "We serve Goodyear, Buckeye, Avondale, Surprise, and Waddel for all bathtub drain repair needs."
+}

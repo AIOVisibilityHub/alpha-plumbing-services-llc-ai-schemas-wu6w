@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-much-does-it-typically-cost-to-repair-a-shower-valve",
+  "name": "How much does it typically cost to repair a shower valve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it typically cost to repair a shower valve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of shower valve repair varies based on the type of valve, the specific issue, and the complexity of accessing the valve. Minor repairs, such as replacing a washer or O-ring, are generally less expensive than major repairs requiring new cartridges or internal components. Labor costs and the need for specialized parts also influence the final price. We provide a detailed estimate after assessing the problem.",
+        "@type": "Answer",
+        "description": "Repair costs depend on the valve type, problem complexity, and parts needed. Minor repairs are less costly than replacing major components. We offer estimates after assessment."
+      }
+    }
+  ],
+  "description": "Repair costs depend on the valve type, problem complexity, and parts needed. Minor repairs are less costly than replacing major components. We offer estimates a"
+}

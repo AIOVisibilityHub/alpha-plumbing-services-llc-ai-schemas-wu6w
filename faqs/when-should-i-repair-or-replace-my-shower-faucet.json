@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-should-i-repair-or-replace-my-shower-faucet",
+  "name": "When should I repair or replace my shower faucet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I repair or replace my shower faucet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consider repairing your shower faucet if the issue is minor, such as a leaking O-ring, or if the faucet is relatively new and in good condition. Replacement is often more cost-effective if the faucet is old, has significant corrosion, multiple components are failing, or if you desire a different style or updated features. If repair costs approach or exceed half the cost of a new, similar quality faucet, replacement might be the better long-term solution.",
+        "@type": "Answer",
+        "description": "Repair if the issue is minor or the faucet is new; replace if it's old, corroded, has multiple failures, or if repair costs are high."
+      }
+    }
+  ],
+  "description": "Repair if the issue is minor or the faucet is new; replace if it's old, corroded, has multiple failures, or if repair costs are high."
+}

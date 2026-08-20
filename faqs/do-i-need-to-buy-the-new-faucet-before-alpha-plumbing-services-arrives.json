@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/do-i-need-to-buy-the-new-faucet-before-alpha-plumbing-services-arrives",
+  "name": "Do I need to buy the new faucet before Alpha-Plumbing Services arrives?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to buy the new faucet before Alpha-Plumbing Services arrives?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, for faucet replacement services, we generally ask that customers purchase and have the new faucet on hand before our technicians arrive. This ensures you get the exact style and features you desire. Our service focuses on the professional removal of your old faucet and the correct installation of your chosen new one. If you need advice on suitable faucet types, we can offer guidance during a consultation.",
+        "@type": "Answer",
+        "description": "Yes, please have your new faucet ready before our technicians arrive. Our service focuses on professional removal and installation of your chosen fixture."
+      }
+    }
+  ],
+  "description": "Yes, please have your new faucet ready before our technicians arrive. Our service focuses on professional removal and installation of your chosen fixture."
+}

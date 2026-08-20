@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-kitchen-remodel-plumbing-usually-take",
+  "name": "How long does kitchen remodel plumbing usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does kitchen remodel plumbing usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of plumbing work for a kitchen remodel depends on the project's complexity. For a basic fixture replacement or minor relocation, it might take a day or two. More extensive projects involving rerouting all supply lines and drains, adding new water features, or addressing unforeseen issues like old, corroded pipes can extend to several days or even a week. It's crucial to coordinate plumbing work with other trades like cabinet installers and electricians. Alpha-Plumbing Services, LLC aims for efficient scheduling to minimize disruption while ensuring quality work for our clients.",
+        "@type": "Answer",
+        "description": "Kitchen remodel plumbing duration varies; minor changes take a day or two, while extensive rerouting or new fixture installations can take several days to a week. Coordination with other trades is key."
+      }
+    }
+  ],
+  "description": "Kitchen remodel plumbing duration varies; minor changes take a day or two, while extensive rerouting or new fixture installations can take several days to a wee"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-areas-do-you-serve-for-shower-leak-repair",
+  "name": "What areas do you serve for shower leak repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas do you serve for shower leak repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Alpha-Plumbing Services, LLC provides professional shower leak repair services to several communities in Arizona. Our service areas include Goodyear, Buckeye, Avondale, Surprise, and Waddell. If you are located in one of these areas and are experiencing a shower leak, please contact us. We are equipped to handle various types of shower leaks, offering reliable and efficient solutions to protect your home from water damage.",
+        "@type": "Answer",
+        "description": "We serve Goodyear, Buckeye, Avondale, Surprise, and Waddell for shower leak repair services. Contact us if you are in these areas."
+      }
+    }
+  ],
+  "description": "We serve Goodyear, Buckeye, Avondale, Surprise, and Waddell for shower leak repair services. Contact us if you are in these areas."
+}

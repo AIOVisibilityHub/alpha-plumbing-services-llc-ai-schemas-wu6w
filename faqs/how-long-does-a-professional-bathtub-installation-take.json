@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-a-professional-bathtub-installation-take",
+  "name": "How long does a professional bathtub installation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a professional bathtub installation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard bathtub installation, involving the replacement of an existing tub with a similar model in the same location, typically takes between one to two days. This timeframe accounts for removing the old tub, preparing the area, making any minor plumbing adjustments, and carefully installing the new unit. If the project involves significant changes to the bathroom layout, new plumbing lines, tiling work, or a conversion (e.g., tub-to-shower), the installation can extend to several days. We provide a more accurate timeline after assessing your specific project needs.",
+        "@type": "Answer",
+        "description": "Standard bathtub installation usually takes 1-2 days. More complex projects with layout changes or plumbing modifications may take longer."
+      }
+    }
+  ],
+  "description": "Standard bathtub installation usually takes 1-2 days. More complex projects with layout changes or plumbing modifications may take longer."
+}

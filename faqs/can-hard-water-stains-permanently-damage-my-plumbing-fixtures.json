@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/can-hard-water-stains-permanently-damage-my-plumbing-fixtures",
+  "name": "Can hard water stains permanently damage my plumbing fixtures?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can hard water stains permanently damage my plumbing fixtures?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, if left untreated for extended periods, hard water stains can cause permanent damage to plumbing fixtures. The mineral buildup can etch into surfaces, making them dull and rough, and can even corrode certain finishes, particularly on metal fixtures. This damage can be difficult or impossible to reverse with cleaning alone, often requiring replacement of the affected fixture to restore its appearance and function.",
+        "@type": "Answer",
+        "description": "Yes, prolonged untreated hard water stains can permanently etch surfaces, corrode finishes, and damage fixtures beyond simple cleaning, potentially requiring replacement."
+      }
+    }
+  ],
+  "description": "Yes, prolonged untreated hard water stains can permanently etch surfaces, corrode finishes, and damage fixtures beyond simple cleaning, potentially requiring re"
+}

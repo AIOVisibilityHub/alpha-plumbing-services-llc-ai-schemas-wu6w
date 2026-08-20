@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-difference-between-a-salt-based-and-salt-free-water-softener",
+  "name": "What is the difference between a salt-based and salt-free water softener?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a salt-based and salt-free water softener?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Salt-based water softeners use ion exchange to remove hard minerals like calcium and magnesium, replacing them with sodium ions, resulting in truly softened water. Salt-free systems, often called water conditioners, do not remove minerals but instead alter their form so they don't stick to surfaces, preventing scale buildup. They don't technically soften water. The choice depends on your specific water issues and preferences for water feel and taste.",
+        "@type": "Answer",
+        "description": "Salt-based softeners remove hard minerals, while salt-free conditioners alter minerals to prevent scale without technically softening water."
+      }
+    }
+  ],
+  "description": "Salt-based softeners remove hard minerals, while salt-free conditioners alter minerals to prevent scale without technically softening water."
+}

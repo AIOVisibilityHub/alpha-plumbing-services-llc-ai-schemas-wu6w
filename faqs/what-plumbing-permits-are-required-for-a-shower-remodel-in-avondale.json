@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-plumbing-permits-are-required-for-a-shower-remodel-in-avondale",
+  "name": "What plumbing permits are required for a shower remodel in Avondale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What plumbing permits are required for a shower remodel in Avondale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Avondale, plumbing permits are typically required for shower remodels that involve significant alterations to the existing plumbing system. This includes moving drain lines, rerouting water supply lines, changing the size of pipes, or installing a new shower pan if it involves altering the subfloor. Simple fixture replacements (like a new shower head on existing plumbing) usually do not require a permit. Permits ensure that the work complies with local building codes, promoting safety and preventing future issues. Alpha-Plumbing Services can help determine if a permit is needed for your specific project and assist with the application process.",
+        "@type": "Answer",
+        "description": "Permits are often required in Avondale for major plumbing alterations like moving drains or supply lines, or new shower pan installations. Simple fixture replacements typically do not need one."
+      }
+    }
+  ],
+  "description": "Permits are often required in Avondale for major plumbing alterations like moving drains or supply lines, or new shower pan installations. Simple fixture replac"
+}

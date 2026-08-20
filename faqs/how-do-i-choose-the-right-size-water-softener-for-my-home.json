@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-do-i-choose-the-right-size-water-softener-for-my-home",
+  "name": "How do I choose the right size water softener for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right size water softener for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the correct size water softener depends on your household's water usage and the hardness level of your water. This is typically measured in grains per gallon (GPG). We calculate the total grains of hardness your home uses daily to determine the appropriate capacity for the softener. An undersized unit will regenerate too frequently, while an oversized one is an unnecessary expense. Our experts can perform a water test and assess your needs to recommend the ideal size.",
+        "@type": "Answer",
+        "description": "The right size depends on your household's water usage and water hardness level. We can help assess your needs."
+      }
+    }
+  ],
+  "description": "The right size depends on your household's water usage and water hardness level. We can help assess your needs."
+}

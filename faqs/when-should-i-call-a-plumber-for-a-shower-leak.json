@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-should-i-call-a-plumber-for-a-shower-leak",
+  "name": "When should I call a plumber for a shower leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a plumber for a shower leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a plumber for a shower leak if you notice persistent water stains, peeling paint, mold growth, or a sudden increase in your water bill. If you've attempted minor repairs yourself without success, or if the leak seems to be originating from behind walls or from plumbing fixtures, professional intervention is necessary. Early intervention by a qualified plumber can prevent extensive water damage, mold issues, and costly structural repairs to your home. Do not delay if the leak is significant.",
+        "@type": "Answer",
+        "description": "Call a plumber if you see persistent water damage, mold, higher water bills, or if the leak is complex or behind walls. Prompt action prevents extensive damage."
+      }
+    }
+  ],
+  "description": "Call a plumber if you see persistent water damage, mold, higher water bills, or if the leak is complex or behind walls. Prompt action prevents extensive damage."
+}

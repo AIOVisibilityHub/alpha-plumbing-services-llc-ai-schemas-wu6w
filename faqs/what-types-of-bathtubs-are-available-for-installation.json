@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-types-of-bathtubs-are-available-for-installation",
+  "name": "What types of bathtubs are available for installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of bathtubs are available for installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "There are several common types of bathtubs suitable for various bathroom designs and needs. Alcove tubs are the most common, designed to fit into a three-wall enclosure. Drop-in tubs are installed within a framed enclosure, often tiled. Freestanding tubs offer a sculptural focal point, standing alone without surrounding walls. Walk-in tubs provide easier access for individuals with mobility challenges. Jetted tubs include air or water jets for a therapeutic experience. Each type has specific installation requirements and aesthetic considerations.",
+        "@type": "Answer",
+        "description": "Bathtub types include alcove, drop-in, freestanding, walk-in, and jetted tubs, each with unique installation and design features."
+      }
+    }
+  ],
+  "description": "Bathtub types include alcove, drop-in, freestanding, walk-in, and jetted tubs, each with unique installation and design features."
+}

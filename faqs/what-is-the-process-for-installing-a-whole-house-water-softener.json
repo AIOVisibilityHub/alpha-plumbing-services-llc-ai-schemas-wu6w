@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-process-for-installing-a-whole-house-water-softener",
+  "name": "What is the process for installing a whole-house water softener?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for installing a whole-house water softener?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation process begins with selecting the right location, usually near the main water line where it enters your home. Our licensed plumber will then shut off the main water supply and cut into the water line to install the softener. This involves connecting the inlet and outlet pipes, setting up the drain line for regeneration, and connecting the brine tank. Finally, the system is configured, tested for leaks, and flushed before restoring your main water supply. We ensure all connections are secure and the system operates correctly.",
+        "@type": "Answer",
+        "description": "The process involves site selection, shutting off water, cutting the main line, connecting the softener and brine tank, setting up the drain, and testing."
+      }
+    }
+  ],
+  "description": "The process involves site selection, shutting off water, cutting the main line, connecting the softener and brine tank, setting up the drain, and testing."
+}

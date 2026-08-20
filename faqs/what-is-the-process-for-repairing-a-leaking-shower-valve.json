@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-process-for-repairing-a-leaking-shower-valve",
+  "name": "What is the process for repairing a leaking shower valve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for repairing a leaking shower valve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process begins with turning off the main water supply to prevent flooding. Our technician will then identify the specific type of valve and component causing the leak. This often involves disassembling the valve handle and trim to access the cartridge, O-rings, or seals. Damaged parts are replaced with new ones, and the valve is reassembled and tested thoroughly for leaks and proper function before restoring water service. We ensure the work area is clean upon completion.",
+        "@type": "Answer",
+        "description": "Repairing a leaking shower valve involves turning off the water, disassembling the valve to identify the faulty part, replacing it, and then reassembling and testing the valve for proper function."
+      }
+    }
+  ],
+  "description": "Repairing a leaking shower valve involves turning off the water, disassembling the valve to identify the faulty part, replacing it, and then reassembling and te"
+}

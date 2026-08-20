@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-do-i-maintain-my-new-shower-after-replacement",
+  "name": "How do I maintain my new shower after replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I maintain my new shower after replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Proper maintenance is key to prolonging the life and appearance of your new shower. Regularly clean surfaces with non-abrasive cleaners to prevent soap scum and mildew buildup. Ensure good ventilation to reduce moisture, using an exhaust fan during and after showers. Periodically inspect grout lines and caulk for any signs of wear or cracking, addressing them promptly to prevent leaks. Avoid harsh chemicals that can damage finishes. Following these steps helps keep your shower looking new and functional for years.",
+        "@type": "Answer",
+        "description": "Maintain your new shower by cleaning regularly with non-abrasive cleaners, ensuring good ventilation, and periodically inspecting grout and caulk."
+      }
+    }
+  ],
+  "description": "Maintain your new shower by cleaning regularly with non-abrasive cleaners, ensuring good ventilation, and periodically inspecting grout and caulk."
+}

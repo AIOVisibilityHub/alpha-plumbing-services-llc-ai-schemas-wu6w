@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/are-there-different-types-of-bathtub-drains-and-does-that-affect-repair",
+  "name": "Are there different types of bathtub drains, and does that affect repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there different types of bathtub drains, and does that affect repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, there are several types of bathtub drains, including trip lever, toe-touch, push-pull, and lift-and-turn styles. Each type operates slightly differently, primarily in how the stopper mechanism works. While the basic principles of clog removal are similar across most drains, repairing or replacing specific stopper components will depend on the drain type. Our technicians are familiar with all common bathtub drain mechanisms and can repair them effectively.",
+        "@type": "Answer",
+        "description": "Yes, drain types like trip lever or toe-touch exist; repair depends on the specific stopper mechanism, but clogs are generally similar."
+      }
+    }
+  ],
+  "description": "Yes, drain types like trip lever or toe-touch exist; repair depends on the specific stopper mechanism, but clogs are generally similar."
+}

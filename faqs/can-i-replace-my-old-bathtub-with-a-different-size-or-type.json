@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/can-i-replace-my-old-bathtub-with-a-different-size-or-type",
+  "name": "Can I replace my old bathtub with a different size or type?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace my old bathtub with a different size or type?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacing your old bathtub with a different size or type is often possible but typically involves more extensive work than a direct swap. Changing dimensions may require modifying wall structures, floor supports, and relocating existing plumbing lines for the drain and faucet. If you're switching from an alcove to a freestanding tub, for example, new flooring might be needed where the old tub sat. These modifications can increase both the complexity and cost of the installation. We can assess your bathroom to determine feasibility and provide a detailed plan.",
+        "@type": "Answer",
+        "description": "Yes, but changing bathtub size or type often requires significant modifications to walls, flooring, and plumbing, increasing complexity and cost."
+      }
+    }
+  ],
+  "description": "Yes, but changing bathtub size or type often requires significant modifications to walls, flooring, and plumbing, increasing complexity and cost."
+}

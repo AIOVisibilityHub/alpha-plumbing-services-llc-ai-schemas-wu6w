@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-a-thermostatic-shower-valve-and-how-is-its-repair-different",
+  "name": "What is a thermostatic shower valve, and how is its repair different?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a thermostatic shower valve, and how is its repair different?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A thermostatic shower valve precisely controls and maintains a set water temperature, even if pressure or temperature changes occur in your hot or cold water lines. This prevents scalding. Repairing a thermostatic valve often involves replacing a specialized thermostatic cartridge, which can be more complex and costly than repairing a standard pressure-balancing valve. Due to their precision components, professional expertise is highly recommended for these repairs.",
+        "@type": "Answer",
+        "description": "A thermostatic shower valve maintains consistent water temperature. Its repair often involves replacing a specialized cartridge, requiring professional expertise due to its precision."
+      }
+    }
+  ],
+  "description": "A thermostatic shower valve maintains consistent water temperature. Its repair often involves replacing a specialized cartridge, requiring professional expertis"
+}

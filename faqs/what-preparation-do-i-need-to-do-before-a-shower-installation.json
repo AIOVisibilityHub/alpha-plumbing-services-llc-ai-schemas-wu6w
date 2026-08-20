@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-preparation-do-i-need-to-do-before-a-shower-installation",
+  "name": "What preparation do I need to do before a shower installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation do I need to do before a shower installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your shower installation begins, it's helpful to clear the bathroom of personal items, decorations, and any movable furniture to provide easy access for the plumbers. Ensure a clear path from the entry point of your home to the bathroom. If you have specific design choices or material preferences, have those finalized and readily available. Discuss any special requirements or concerns with Alpha-Plumbing Services beforehand. This preparation helps ensure the installation process is as smooth and efficient as possible for our team working in your home.",
+        "@type": "Answer",
+        "description": "Before installation, clear personal items from the bathroom, ensure a clear path for plumbers, and finalize any design choices. Discuss special requirements with our team."
+      }
+    }
+  ],
+  "description": "Before installation, clear personal items from the bathroom, ensure a clear path for plumbers, and finalize any design choices. Discuss special requirements wit"
+}

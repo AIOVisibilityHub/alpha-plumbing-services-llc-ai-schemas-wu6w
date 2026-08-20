@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-areas-do-you-serve-for-shower-faucet-repair",
+  "name": "What areas do you serve for shower faucet repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas do you serve for shower faucet repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Alpha-Plumbing Services, LLC provides professional shower faucet repair services to residents and businesses in Goodyear, Buckeye, Avondale, Surprise, and Waddel. If you are experiencing issues with your shower faucet in any of these areas, our experienced technicians are available to diagnose the problem and provide efficient, reliable repairs. We are committed to serving our local communities with high-quality plumbing solutions.",
+        "@type": "Answer",
+        "description": "We serve Goodyear, Buckeye, Avondale, Surprise, and Waddel for all shower faucet repair needs."
+      }
+    }
+  ],
+  "description": "We serve Goodyear, Buckeye, Avondale, Surprise, and Waddel for all shower faucet repair needs."
+}

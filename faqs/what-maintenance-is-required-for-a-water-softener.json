@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-maintenance-is-required-for-a-water-softener",
+  "name": "What maintenance is required for a water softener?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for a water softener?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The primary maintenance for a salt-based water softener is regularly refilling it with softener salt. The frequency depends on your water usage and hardness, but typically it's once every 1-2 months. It's also advisable to periodically clean the brine tank and check for any salt bridging. Some systems may require occasional resin bed cleaning. We offer maintenance tips and services to ensure your unit operates efficiently and effectively.",
+        "@type": "Answer",
+        "description": "Main maintenance involves refilling salt regularly and occasionally cleaning the brine tank. We provide maintenance guidance."
+      }
+    }
+  ],
+  "description": "Main maintenance involves refilling salt regularly and occasionally cleaning the brine tank. We provide maintenance guidance."
+}

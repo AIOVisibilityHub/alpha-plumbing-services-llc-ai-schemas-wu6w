@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-remodel-plumbing",
+  "name": "What is remodel plumbing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is remodel plumbing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Remodel plumbing involves modifying existing plumbing systems during a renovation project. This can include moving or adding new fixtures like sinks, toilets, showers, or bathtubs, re-routing water supply lines and drainpipes, or upgrading to more efficient systems. It ensures the plumbing infrastructure supports the new layout and functionality of your remodeled space, whether it's a kitchen, bathroom, or an entire home.",
+        "@type": "Answer",
+        "description": "Remodel plumbing modifies existing plumbing systems during renovations, often involving moving or adding fixtures and re-routing pipes."
+      }
+    }
+  ],
+  "description": "Remodel plumbing modifies existing plumbing systems during renovations, often involving moving or adding fixtures and re-routing pipes."
+}

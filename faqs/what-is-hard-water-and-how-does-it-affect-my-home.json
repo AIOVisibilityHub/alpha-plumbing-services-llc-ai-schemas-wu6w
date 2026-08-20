@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-hard-water-and-how-does-it-affect-my-home",
+  "name": "What is hard water and how does it affect my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is hard water and how does it affect my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hard water contains high levels of dissolved minerals like calcium and magnesium. These minerals can cause several problems in your home, including mineral buildup (limescale) on fixtures and appliances, reduced soap lather, dry skin and hair, and even decreased efficiency and lifespan of water-using appliances such as water heaters, dishwashers, and washing machines. Identifying these signs early can help you determine if a hard water solution is necessary for your Goodyear, Buckeye, Avondale, or Surprise home.",
+        "@type": "Answer",
+        "description": "Hard water has high mineral content (calcium, magnesium) which causes limescale buildup, reduces soap effectiveness, and can damage appliances."
+      }
+    }
+  ],
+  "description": "Hard water has high mineral content (calcium, magnesium) which causes limescale buildup, reduces soap effectiveness, and can damage appliances."
+}

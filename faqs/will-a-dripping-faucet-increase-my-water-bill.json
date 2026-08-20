@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/will-a-dripping-faucet-increase-my-water-bill",
+  "name": "Will a dripping faucet increase my water bill?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will a dripping faucet increase my water bill?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, even a small drip can significantly increase your water bill over time. A faucet dripping at one drip per second can waste hundreds, even thousands, of gallons of water per year. This constant waste not only impacts your utility costs but also represents an unnecessary drain on water resources. Promptly repairing a dripping faucet is an effective way to conserve water and reduce your monthly expenses.",
+        "@type": "Answer",
+        "description": "Yes, a dripping faucet can waste thousands of gallons of water annually, leading to noticeable increases in your water bill. Repairing it conserves water and reduces costs."
+      }
+    }
+  ],
+  "description": "Yes, a dripping faucet can waste thousands of gallons of water annually, leading to noticeable increases in your water bill. Repairing it conserves water and re"
+}

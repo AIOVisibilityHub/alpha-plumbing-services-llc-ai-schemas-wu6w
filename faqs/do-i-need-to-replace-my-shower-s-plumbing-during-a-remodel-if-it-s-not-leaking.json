@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/do-i-need-to-replace-my-shower-s-plumbing-during-a-remodel-if-it-s-not-leaking",
+  "name": "Do I need to replace my shower's plumbing during a remodel if it's not leaking?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to replace my shower's plumbing during a remodel if it's not leaking?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Even if your shower's plumbing isn't currently leaking, a remodel is an opportune time to consider upgrades, especially in older homes. While not always strictly necessary, replacing older galvanized or polybutylene pipes with modern PEX or copper can prevent future issues like corrosion, reduced water pressure, or leaks. Upgrading can also improve water flow and ensure compatibility with new, more efficient fixtures. A professional plumber can inspect your existing system and advise if a proactive replacement would be beneficial for long-term reliability and performance.",
+        "@type": "Answer",
+        "description": "Not always, but a remodel is ideal for inspecting and potentially upgrading older pipes to prevent future issues and improve performance."
+      }
+    }
+  ],
+  "description": "Not always, but a remodel is ideal for inspecting and potentially upgrading older pipes to prevent future issues and improve performance."
+}

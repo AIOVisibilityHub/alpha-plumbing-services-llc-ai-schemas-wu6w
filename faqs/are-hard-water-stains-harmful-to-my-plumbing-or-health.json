@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/are-hard-water-stains-harmful-to-my-plumbing-or-health",
+  "name": "Are hard water stains harmful to my plumbing or health?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are hard water stains harmful to my plumbing or health?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While generally not harmful to your health, hard water stains can be damaging to your plumbing fixtures over time. Mineral buildup can clog aerators, reduce water pressure from showerheads, and corrode certain finishes if left unaddressed. These deposits can also make fixtures appear dirty and worn, potentially shortening their lifespan and requiring more frequent replacement or repair.",
+        "@type": "Answer",
+        "description": "Hard water stains are not harmful to health but can damage plumbing fixtures by causing clogs, reducing pressure, and corroding finishes over time."
+      }
+    }
+  ],
+  "description": "Hard water stains are not harmful to health but can damage plumbing fixtures by causing clogs, reducing pressure, and corroding finishes over time."
+}

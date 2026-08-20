@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-should-i-consider-replacing-my-bathtub-drain-instead-of-repairing-it",
+  "name": "When should I consider replacing my bathtub drain instead of repairing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my bathtub drain instead of repairing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing your bathtub drain if repairs are frequently needed, if the drain assembly is severely corroded or cracked, or if it's an older, outdated model causing recurring issues. Sometimes, the cost of repeated repairs can approach or exceed the cost of a full replacement, making replacement a more economical long-term solution. A professional plumber can assess the condition and advise on the best course of action.",
+        "@type": "Answer",
+        "description": "Consider replacement if repairs are frequent, the drain is severely corroded/cracked, or if it's an outdated model."
+      }
+    }
+  ],
+  "description": "Consider replacement if repairs are frequent, the drain is severely corroded/cracked, or if it's an outdated model."
+}

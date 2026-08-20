@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-do-i-choose-the-right-plumber-for-shower-valve-repair-in-goodyear-az",
+  "name": "How do I choose the right plumber for shower valve repair in Goodyear, AZ?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right plumber for shower valve repair in Goodyear, AZ?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a plumber for shower valve repair in Goodyear, look for a licensed, insured, and reputable company with experience in plumbing repairs. Check for positive customer reviews and ensure they offer clear pricing and warranties on their work. Alpha-Plumbing Services, LLC is a local, trusted provider serving Goodyear and surrounding areas, committed to delivering quality repairs and customer satisfaction.",
+        "@type": "Answer",
+        "description": "Choose a licensed, insured, and reputable plumber with good reviews and clear pricing. Alpha-Plumbing Services, LLC serves Goodyear and nearby areas."
+      }
+    }
+  ],
+  "description": "Choose a licensed, insured, and reputable plumber with good reviews and clear pricing. Alpha-Plumbing Services, LLC serves Goodyear and nearby areas."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-types-of-showers-can-i-choose-from-for-a-replacement",
+  "name": "What types of showers can I choose from for a replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of showers can I choose from for a replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When replacing your shower, you have several options to consider. Common choices include pre-fabricated shower inserts made from acrylic or fiberglass, which are durable and easy to install. Another popular option is a custom-tiled shower, offering extensive design flexibility with various tile materials like ceramic, porcelain, or natural stone. You can also opt for walk-in showers for accessibility and a modern aesthetic, or shower/tub combinations if you need both. Each type offers different benefits in terms of cost, aesthetics, and maintenance.",
+        "@type": "Answer",
+        "description": "You can choose from pre-fabricated inserts (acrylic/fiberglass), custom-tiled showers (ceramic, porcelain, stone), walk-in showers, or shower/tub combinations."
+      }
+    }
+  ],
+  "description": "You can choose from pre-fabricated inserts (acrylic/fiberglass), custom-tiled showers (ceramic, porcelain, stone), walk-in showers, or shower/tub combinations."
+}

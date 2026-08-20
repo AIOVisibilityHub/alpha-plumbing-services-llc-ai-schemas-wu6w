@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/why-is-my-new-bathroom-faucet-dripping-after-installation",
+  "name": "Why is my new bathroom faucet dripping after installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is my new bathroom faucet dripping after installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A new bathroom faucet dripping after installation can indicate several issues. It might be due to improper seating of internal components, an overtightened or undertightened connection, a faulty O-ring or washer, or even debris in the water line preventing a full seal. If you experience this, it's best to contact Alpha-Plumbing Services to inspect and resolve the problem promptly.",
+        "@type": "Answer",
+        "description": "A dripping new faucet can be caused by improper installation, faulty components, or debris; professional inspection is recommended."
+      }
+    }
+  ],
+  "description": "A dripping new faucet can be caused by improper installation, faulty components, or debris; professional inspection is recommended."
+}

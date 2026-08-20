@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/can-i-replace-my-bathtub-with-a-shower",
+  "name": "Can I replace my bathtub with a shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace my bathtub with a shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, converting a bathtub into a walk-in shower is a common and popular renovation project. This conversion can significantly enhance bathroom accessibility, provide a more contemporary aesthetic, and free up space in smaller bathrooms. The process typically involves removing the existing tub, modifying plumbing, installing a new shower pan, waterproofing the walls, and then tiling or installing shower panels. This type of conversion is often chosen for its convenience and modern appeal, especially for those who prefer showering over bathing.",
+        "@type": "Answer",
+        "description": "Yes, you can replace a bathtub with a shower, which can improve accessibility, aesthetics, and space."
+      }
+    }
+  ],
+  "description": "Yes, you can replace a bathtub with a shower, which can improve accessibility, aesthetics, and space."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/can-alpha-plumbing-services-install-a-shower-in-my-specific-location",
+  "name": "Can Alpha-Plumbing Services install a shower in my specific location?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can Alpha-Plumbing Services install a shower in my specific location?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Alpha-Plumbing Services proudly provides professional shower installation services in several communities. Our primary service areas include Goodyear, Buckeye, Avondale, Surprise, and Waddel. If you are located in one of these areas, or nearby, we are equipped to assist you with your shower installation needs. We focus on delivering reliable and high-quality plumbing solutions right in your neighborhood. Please contact us to confirm service availability for your exact address and to schedule a consultation.",
+        "@type": "Answer",
+        "description": "Alpha-Plumbing Services installs showers in Goodyear, Buckeye, Avondale, Surprise, and Waddel. Contact us to confirm service for your specific location."
+      }
+    }
+  ],
+  "description": "Alpha-Plumbing Services installs showers in Goodyear, Buckeye, Avondale, Surprise, and Waddel. Contact us to confirm service for your specific location."
+}
