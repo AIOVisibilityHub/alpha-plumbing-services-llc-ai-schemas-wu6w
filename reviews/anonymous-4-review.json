@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Anonymous"
+  },
+  "reviewBody": "\"Angel called us the morning after we made the claim the night before with a very reasonable time for our repair.\"",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": 5,
+    "bestRating": 5
+  },
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "Alpha-Plumbing Services, LLC",
+    "url": "www.alpha-plumbingservices.com",
+    "makesOffer": {
+      "@type": "Offer",
+      "itemOffered": {
+        "@type": "Service",
+        "name": "General plumbing service"
+      }
+    }
+  }
+}

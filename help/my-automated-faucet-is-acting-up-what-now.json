@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "My Automated Faucet is Acting Up – What Now?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Automated kitchen faucets are super handy, adding a touch of modern convenience to your home. But when they start acting wonky, it can be pretty frustrating! If yours isn't turning on, turning off, or detecting motion like it should, there are a few usual suspects. Sometimes, it's as simple as the batteries needing a change – many automated faucets rely on them for their sensor and valve operation. So, check that first! \n\nAnother common issue we see is the sensor getting dirty or obstructed. If there's grime, food particles, or even a sponge too close, it can mess with its ability to 'see' your hands. Give the sensor a gentle wipe-down and make sure the area around it is clear. However, if those easy fixes don't work, you might be dealing with something a bit more involved, like a faulty solenoid valve (which controls the water flow) or a problem with the wiring itself. \n\nThese systems are more complex than traditional faucets, combining electronics with plumbing. Trying to diagnose or repair a deeper electrical or valve issue yourself can sometimes cause more problems than it solves, or even damage the unit further. If you're scratching your head, or if it's a brand-new installation that's just not right, it's definitely time to call in the pros. We've got experience with these types of modern installations and can quickly pinpoint the problem, getting your automated faucet back to seamlessly working order in places like Peoria, Glendale, and Phoenix.",
+  "datePublished": "2026-08-19"
+}
