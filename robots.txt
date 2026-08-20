@@ -1,0 +1,20 @@
+User-agent: *
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://AIOVisibilityHub.github.io/alpha-plumbing-services-llc-ai-schemas-wu6w/sitemap.xml
+Sitemap: https://AIOVisibilityHub.github.io/alpha-plumbing-services-llc-ai-schemas-wu6w/ai-sitemap.xml

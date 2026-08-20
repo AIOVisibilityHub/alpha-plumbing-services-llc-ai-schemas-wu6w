@@ -1,0 +1,48 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-08-20T00:30:07.204Z",
+  "name": "Cross-Destination Index",
+  "aliases": [
+    "Authority Network",
+    "Repository Mirror Index",
+    "Related AI Data Sources"
+  ],
+  "purpose": "Transparent source discovery, entity consistency, mirror verification, and AI crawler navigation across every published copy of this AI Data Package.",
+  "notALinkWheel": true,
+  "entity": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "canonicalUrl": "www.alpha-plumbingservices.com",
+    "aiDataHub": "https://AIOVisibilityHub.github.io/alpha-plumbing-services-llc-ai-schemas-wu6w/ai-data.html"
+  },
+  "related": [
+    {
+      "role": "canonical",
+      "label": "Alpha-Plumbing Services, LLC — canonical website",
+      "url": "www.alpha-plumbingservices.com"
+    },
+    {
+      "role": "ai-data-hub",
+      "label": "Alpha-Plumbing Services, LLC — AI Data Hub",
+      "url": "https://AIOVisibilityHub.github.io/alpha-plumbing-services-llc-ai-schemas-wu6w/ai-data.html"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "github",
+      "label": "GitHub repository",
+      "url": "https://github.com/AIOVisibilityHub/alpha-plumbing-services-llc-ai-schemas-wu6w"
+    },
+    {
+      "role": "mirror-pages",
+      "platform": "github",
+      "label": "GitHub — AI Data Hub mirror",
+      "url": "https://AIOVisibilityHub.github.io/alpha-plumbing-services-llc-ai-schemas-wu6w/ai-data.html"
+    }
+  ],
+  "destinations": {
+    "github": {
+      "url": "https://github.com/AIOVisibilityHub/alpha-plumbing-services-llc-ai-schemas-wu6w",
+      "pagesUrl": "https://AIOVisibilityHub.github.io/alpha-plumbing-services-llc-ai-schemas-wu6w/",
+      "repo": "AIOVisibilityHub/alpha-plumbing-services-llc-ai-schemas-wu6w"
+    }
+  }
+}
