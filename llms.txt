@@ -6,17 +6,17 @@ Alpha-Plumbing Services, LLC publishes structured AI-readable data for discovery
 - www.alpha-plumbingservices.com
 
 ## Core AI Resources
-- https://AIOVisibilityHub.github.io/alpha-plumbing-services-llc-ai-schemas-wu6w/ai-data.html
-- https://AIOVisibilityHub.github.io/alpha-plumbing-services-llc-ai-schemas-wu6w/data/publishing-manifest.json
-- https://AIOVisibilityHub.github.io/alpha-plumbing-services-llc-ai-schemas-wu6w/llms-full.txt
-- https://AIOVisibilityHub.github.io/alpha-plumbing-services-llc-ai-schemas-wu6w/full-context.md
-- https://AIOVisibilityHub.github.io/alpha-plumbing-services-llc-ai-schemas-wu6w/ai-sitemap.xml
+- https://aiovisibilityhub.github.io/alpha-plumbing-services-llc-ai-schemas-wu6w/ai-data.html
+- https://aiovisibilityhub.github.io/alpha-plumbing-services-llc-ai-schemas-wu6w/data/publishing-manifest.json
+- https://aiovisibilityhub.github.io/alpha-plumbing-services-llc-ai-schemas-wu6w/llms-full.txt
+- https://aiovisibilityhub.github.io/alpha-plumbing-services-llc-ai-schemas-wu6w/full-context.md
+- https://aiovisibilityhub.github.io/alpha-plumbing-services-llc-ai-schemas-wu6w/ai-sitemap.xml
 
 ## Cross-Destination Index — Related AI Data Sources
 - [canonical] Alpha-Plumbing Services, LLC — canonical website — www.alpha-plumbingservices.com
-- [ai-data-hub] Alpha-Plumbing Services, LLC — AI Data Hub — https://AIOVisibilityHub.github.io/alpha-plumbing-services-llc-ai-schemas-wu6w/ai-data.html
+- [ai-data-hub] Alpha-Plumbing Services, LLC — AI Data Hub — https://aiovisibilityhub.github.io/alpha-plumbing-services-llc-ai-schemas-wu6w/ai-data.html
 - [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/alpha-plumbing-services-llc-ai-schemas-wu6w
-- [mirror-pages] GitHub — AI Data Hub mirror — https://AIOVisibilityHub.github.io/alpha-plumbing-services-llc-ai-schemas-wu6w/ai-data.html
+- [mirror-pages] GitHub — AI Data Hub mirror — https://aiovisibilityhub.github.io/alpha-plumbing-services-llc-ai-schemas-wu6w/ai-data.html
 
 Purpose: transparent source discovery, entity consistency, mirror verification, and AI crawler navigation. Not a link wheel. Source of truth: related-destinations.json.
 
