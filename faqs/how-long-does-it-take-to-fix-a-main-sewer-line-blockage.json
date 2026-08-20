@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-it-take-to-fix-a-main-sewer-line-blockage",
+  "name": "How long does it take to fix a main sewer line blockage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to fix a main sewer line blockage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time it takes to fix a main sewer line blockage varies significantly depending on the nature and location of the problem. A straightforward clog might be cleared in a few hours using snaking or hydro-jetting. If the issue involves significant tree root intrusion, a collapsed pipe, or other structural damage, the repair could take much longer, potentially a full day or even multiple days if excavation and pipe replacement are necessary. A plumber will provide an estimated timeline after diagnosis.",
+        "@type": "Answer",
+        "description": "Fixing a main sewer line blockage can take a few hours for simple clogs or multiple days for complex issues like pipe damage requiring excavation."
+      }
+    }
+  ],
+  "description": "Fixing a main sewer line blockage can take a few hours for simple clogs or multiple days for complex issues like pipe damage requiring excavation."
+}

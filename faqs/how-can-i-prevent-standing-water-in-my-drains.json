@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-can-i-prevent-standing-water-in-my-drains",
+  "name": "How can I prevent standing water in my drains?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent standing water in my drains?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Regular maintenance can significantly reduce the risk of standing water. Use drain screens to catch hair and food particles before they enter the drain. Avoid pouring grease down the sink, and flush drains with hot water periodically. A mixture of baking soda and vinegar followed by hot water can also help break down minor buildup. Routine professional drain cleaning every few years can also prevent major blockages.",
+        "@type": "Answer",
+        "description": "Prevent standing water by using drain screens, avoiding grease, flushing with hot water, and considering professional drain cleaning."
+      }
+    }
+  ],
+  "description": "Prevent standing water by using drain screens, avoiding grease, flushing with hot water, and considering professional drain cleaning."
+}

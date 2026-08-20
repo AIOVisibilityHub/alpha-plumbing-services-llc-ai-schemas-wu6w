@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/is-sewer-line-locating-necessary-before-digging",
+  "name": "Is sewer line locating necessary before digging?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is sewer line locating necessary before digging?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, absolutely. Locating your sewer line before any digging or excavation project is essential to prevent costly damages and potential safety hazards. Even minor digging can strike and rupture an unmarked sewer line, leading to significant repairs, property damage, and service interruptions. Professional locating services ensure you know the precise location of your pipes, allowing you to dig safely and avoid unintended consequences. It protects your property and prevents expensive mistakes.",
+        "@type": "Answer",
+        "description": "Yes, sewer line locating is necessary before digging to prevent accidental damage to pipes, which can lead to costly repairs and safety hazards."
+      }
+    }
+  ],
+  "description": "Yes, sewer line locating is necessary before digging to prevent accidental damage to pipes, which can lead to costly repairs and safety hazards."
+}

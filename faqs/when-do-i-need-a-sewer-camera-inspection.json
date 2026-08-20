@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-do-i-need-a-sewer-camera-inspection",
+  "name": "When do I need a sewer camera inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need a sewer camera inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider a sewer camera inspection if you experience frequent drain backups, slow drains, gurgling noises from toilets, or foul odors. It's also recommended before purchasing a new home to assess the sewer system's condition and prevent unexpected repair costs. If you've had recurring issues or suspect damage, an inspection can pinpoint the exact problem and its location, helping to determine the best course of action.",
+        "@type": "Answer",
+        "description": "Consider an inspection for frequent drain backups, slow drains, gurgling noises, foul odors, or before buying a home to check the sewer system's condition."
+      }
+    }
+  ],
+  "description": "Consider an inspection for frequent drain backups, slow drains, gurgling noises, foul odors, or before buying a home to check the sewer system's condition."
+}

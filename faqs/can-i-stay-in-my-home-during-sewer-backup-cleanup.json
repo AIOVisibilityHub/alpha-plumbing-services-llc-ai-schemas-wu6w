@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/can-i-stay-in-my-home-during-sewer-backup-cleanup",
+  "name": "Can I stay in my home during sewer backup cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I stay in my home during sewer backup cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Staying in your home during sewer backup cleanup is generally not recommended, especially if the affected area is large or critical living spaces are compromised. The presence of hazardous contaminants, strong odors from disinfectants, and specialized drying equipment can make the environment unsafe and uncomfortable. Our team at Alpha-Plumbing Services LLC can advise you on the safety of your specific situation during the initial assessment and recommend temporary relocation if necessary.",
+        "@type": "Answer",
+        "description": "It's generally not recommended to stay home during cleanup due to hazardous contaminants, odors, and equipment. We will advise based on your situation."
+      }
+    }
+  ],
+  "description": "It's generally not recommended to stay home during cleanup due to hazardous contaminants, odors, and equipment. We will advise based on your situation."
+}

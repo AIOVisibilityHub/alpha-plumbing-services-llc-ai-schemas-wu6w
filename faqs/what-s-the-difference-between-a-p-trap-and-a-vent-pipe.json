@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-s-the-difference-between-a-p-trap-and-a-vent-pipe",
+  "name": "What's the difference between a P-trap and a vent pipe?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a P-trap and a vent pipe?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A P-trap is the U-shaped pipe directly under sinks, showers, and other fixtures. Its purpose is to hold a small amount of water, creating a barrier that prevents sewer gases from traveling up the drain into your home. A vent pipe, typically extending through your roof, equalizes air pressure in your plumbing system, allowing wastewater to drain efficiently and preventing the P-trap's water seal from being siphoned away. Both are essential for preventing sewer odors.",
+        "@type": "Answer",
+        "description": "A P-trap holds water to block sewer gases, while a vent pipe equalizes air pressure, ensuring proper drainage and protecting the P-trap seal."
+      }
+    }
+  ],
+  "description": "A P-trap holds water to block sewer gases, while a vent pipe equalizes air pressure, ensuring proper drainage and protecting the P-trap seal."
+}

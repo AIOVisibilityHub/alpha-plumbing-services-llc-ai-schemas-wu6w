@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/why-is-sewage-backing-up-into-my-shower",
+  "name": "Why is sewage backing up into my shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is sewage backing up into my shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sewage backing up into your shower typically indicates a significant clog or blockage in your main sewer line. This can be caused by various issues such as tree roots invading pipes, accumulation of grease, hair, and other debris, or even structural damage to the sewer line itself. When the main line is obstructed, wastewater from other fixtures like toilets or sinks has nowhere to go and often finds the lowest drain point, which is usually your shower.",
+        "@type": "Answer",
+        "description": "Sewage backup in your shower usually means there's a main sewer line blockage from tree roots, grease, hair, or pipe damage."
+      }
+    }
+  ],
+  "description": "Sewage backup in your shower usually means there's a main sewer line blockage from tree roots, grease, hair, or pipe damage."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/why-does-my-bathroom-smell-like-sewage",
+  "name": "Why does my bathroom smell like sewage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why does my bathroom smell like sewage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A sewage smell in your bathroom often indicates an issue with your plumbing system. Common causes include a dry P-trap, a clogged drain, a faulty wax ring on your toilet, or a damaged vent pipe. The P-trap prevents sewer gases from entering your home by holding a small amount of water. If it dries out, gases can escape. Clogs can also trap organic matter that decomposes and releases odors. Our technicians can diagnose the specific cause and recommend the best solution.",
+        "@type": "Answer",
+        "description": "A sewage smell usually means there's a plumbing issue like a dry P-trap, clogged drain, or vent pipe problem."
+      }
+    }
+  ],
+  "description": "A sewage smell usually means there's a plumbing issue like a dry P-trap, clogged drain, or vent pipe problem."
+}

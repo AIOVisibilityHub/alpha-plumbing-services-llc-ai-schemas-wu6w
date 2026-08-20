@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-does-a-plumber-do-to-fix-a-gurgling-drain",
+  "name": "What does a plumber do to fix a gurgling drain?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does a plumber do to fix a gurgling drain?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When you call a plumber for a gurgling drain, they will typically start by diagnosing the cause. This often involves inspecting the drain and sometimes using a drain camera to locate clogs or inspect the condition of your pipes and vent system. Depending on the diagnosis, they might use a drain snake or auger to clear stubborn clogs. If the issue is with a vent pipe, they may clear blockages from the vent stack on your roof. For more complex issues like collapsed pipes or persistent blockages, hydro-jetting might be used.",
+        "@type": "Answer",
+        "description": "Plumbers diagnose the cause, often using cameras, then use tools like augers or hydro-jetting to clear clogs or vent issues."
+      }
+    }
+  ],
+  "description": "Plumbers diagnose the cause, often using cameras, then use tools like augers or hydro-jetting to clear clogs or vent issues."
+}

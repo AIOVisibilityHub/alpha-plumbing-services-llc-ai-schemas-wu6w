@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/do-you-offer-water-heater-installation-services-in-waddell",
+  "name": "Do you offer water heater installation services in Waddell?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer water heater installation services in Waddell?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Alpha-Plumbing Services proudly offers comprehensive water heater installation services in Waddell, Arizona, as well as Goodyear, Buckeye, Avondale, and Surprise. Our local team is familiar with the specific plumbing codes and requirements in the Waddell area, ensuring a compliant and efficient installation. We are committed to providing prompt and reliable service to residents throughout our service area for all their water heating needs.",
+        "@type": "Answer",
+        "description": "Yes, we offer water heater installation services in Waddell and other nearby areas, ensuring compliance with local codes."
+      }
+    }
+  ],
+  "description": "Yes, we offer water heater installation services in Waddell and other nearby areas, ensuring compliance with local codes."
+}

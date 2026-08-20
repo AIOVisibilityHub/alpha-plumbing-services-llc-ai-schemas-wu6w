@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/does-alpha-plumbing-services-llc-offer-sewer-line-repair-in-waddel-and-sun-city",
+  "name": "Does Alpha-Plumbing Services, LLC offer sewer line repair in Waddel and Sun City?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does Alpha-Plumbing Services, LLC offer sewer line repair in Waddel and Sun City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Alpha-Plumbing Services, LLC proudly offers comprehensive sewer line repair services to residents and businesses in Waddel, Sun City, and other nearby communities. Our service areas include Goodyear, Buckeye, Avondale, Surprise, and Waddel. We are equipped to handle various sewer line issues, providing reliable and efficient solutions tailored to your property's needs. Contact us for a professional assessment.",
+        "@type": "Answer",
+        "description": "Yes, Alpha-Plumbing Services, LLC provides sewer line repair in Waddel, Sun City, and surrounding service areas."
+      }
+    }
+  ],
+  "description": "Yes, Alpha-Plumbing Services, LLC provides sewer line repair in Waddel, Sun City, and surrounding service areas."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/can-i-install-a-water-heater-myself",
+  "name": "Can I install a water heater myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install a water heater myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it might seem like a cost-saving option, installing a water heater is a complex task that typically requires professional expertise. Improper installation can lead to safety hazards such as gas leaks, carbon monoxide poisoning, electric shock, water damage, or even explosions. Additionally, installations often require permits and adherence to local plumbing and electrical codes. Hiring a licensed professional ensures the job is done safely, correctly, and to code, protecting your home and warranty.",
+        "@type": "Answer",
+        "description": "Water heater installation is complex and should be done by licensed professionals due to safety risks, code requirements, and warranty implications."
+      }
+    }
+  ],
+  "description": "Water heater installation is complex and should be done by licensed professionals due to safety risks, code requirements, and warranty implications."
+}

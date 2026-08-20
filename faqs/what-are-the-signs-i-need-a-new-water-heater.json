@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-the-signs-i-need-a-new-water-heater",
+  "name": "What are the signs I need a new water heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs I need a new water heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs you may need a new water heater include inconsistent water temperature, discolored or rusty hot water, strange noises like rumbling or popping coming from the tank, or a visible leak. A noticeable drop in hot water supply, especially if your hot water runs out quickly, can also indicate that your unit is failing. For optimal performance and safety, water heaters typically last between 8-12 years, so age is another factor to consider for replacement.",
+        "@type": "Answer",
+        "description": "Look for inconsistent temperature, discolored water, strange noises, leaks, or a lack of hot water. Water heaters typically last 8-12 years."
+      }
+    }
+  ],
+  "description": "Look for inconsistent temperature, discolored water, strange noises, leaks, or a lack of hot water. Water heaters typically last 8-12 years."
+}

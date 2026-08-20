@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-difference-between-a-tankless-and-a-traditional-water-heater",
+  "name": "What is the difference between a tankless and a traditional water heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a tankless and a traditional water heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A traditional water heater stores and heats a large tank of water, providing a limited supply of hot water until the tank is depleted. Tankless water heaters, also known as on-demand water heaters, heat water directly as it flows through the unit, supplying a continuous flow of hot water without a storage tank. Tankless units are generally more energy-efficient and take up less space, while traditional units often have lower upfront costs. Your choice depends on your household's hot water needs and budget.",
+        "@type": "Answer",
+        "description": "Traditional heaters store hot water in a tank, offering a limited supply. Tankless units heat water on demand for continuous supply, are more efficient, but often cost more upfront."
+      }
+    }
+  ],
+  "description": "Traditional heaters store hot water in a tank, offering a limited supply. Tankless units heat water on demand for continuous supply, are more efficient, but oft"
+}

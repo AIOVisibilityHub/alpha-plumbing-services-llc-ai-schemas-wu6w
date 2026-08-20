@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-do-i-choose-the-right-company-for-collapsed-sewer-line-repair",
+  "name": "How do I choose the right company for collapsed sewer line repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right company for collapsed sewer line repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a company for collapsed sewer line repair, look for experienced professionals with a strong local reputation. Verify that they are licensed, insured, and offer transparent pricing with detailed estimates. Inquire about their experience with both traditional and trenchless repair methods and their diagnostic capabilities, such as video inspection. Customer reviews and testimonials can also provide insight into their reliability and quality of service. Alpha-Plumbing Services, LLC has extensive experience serving Goodyear, Buckeye, Avondale, and Surprise with comprehensive sewer repair solutions.",
+        "@type": "Answer",
+        "description": "Choose a licensed, insured company with local experience, transparent pricing, and expertise in various repair methods (trenchless/traditional). Check their reputation and diagnostic capabilities."
+      }
+    }
+  ],
+  "description": "Choose a licensed, insured company with local experience, transparent pricing, and expertise in various repair methods (trenchless/traditional). Check their rep"
+}

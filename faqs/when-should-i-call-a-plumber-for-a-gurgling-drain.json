@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-should-i-call-a-plumber-for-a-gurgling-drain",
+  "name": "When should I call a plumber for a gurgling drain?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a plumber for a gurgling drain?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a plumber if your gurgling drain persists after attempting simple DIY fixes like plunging or using boiling water. It's also advisable to call a professional if multiple drains in your home are gurgling simultaneously, as this often points to a more significant issue with your main sewer line or vent stack. Strong sewer odors accompanying the gurgling or signs of slow drainage in other fixtures are also indicators that a professional inspection is needed. Early intervention can prevent more extensive damage.",
+        "@type": "Answer",
+        "description": "Call a plumber if gurgling persists, if multiple drains gurgle, or if there are accompanying odors or widespread slow drainage."
+      }
+    }
+  ],
+  "description": "Call a plumber if gurgling persists, if multiple drains gurgle, or if there are accompanying odors or widespread slow drainage."
+}

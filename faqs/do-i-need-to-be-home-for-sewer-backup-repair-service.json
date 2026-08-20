@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/do-i-need-to-be-home-for-sewer-backup-repair-service",
+  "name": "Do I need to be home for sewer backup repair service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to be home for sewer backup repair service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For most sewer backup repair services, an adult homeowner or authorized representative needs to be present, especially during the initial assessment and at the completion of the work. This allows our technicians to access affected areas, explain the problem, discuss solutions, and ensure your satisfaction with the repair. If only exterior work is required, prior arrangements can sometimes be made for limited access without direct supervision.",
+        "@type": "Answer",
+        "description": "An adult homeowner should typically be present for sewer backup repair, especially for assessment and completion. This allows access, discussion, and quality assurance."
+      }
+    }
+  ],
+  "description": "An adult homeowner should typically be present for sewer backup repair, especially for assessment and completion. This allows access, discussion, and quality as"
+}

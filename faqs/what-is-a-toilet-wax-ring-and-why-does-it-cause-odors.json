@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-a-toilet-wax-ring-and-why-does-it-cause-odors",
+  "name": "What is a toilet wax ring and why does it cause odors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a toilet wax ring and why does it cause odors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A toilet wax ring forms a watertight and airtight seal between the base of your toilet and the drainpipe in the floor. Its primary function is to prevent water from leaking out and sewer gases from leaking into your bathroom. If this wax ring dries out, cracks, or becomes improperly sealed, it can allow sewer gases to escape, leading to an unpleasant sewage smell. Replacing a faulty wax ring typically resolves this issue.",
+        "@type": "Answer",
+        "description": "A toilet wax ring seals the toilet to the drainpipe, preventing leaks and blocking sewer gas. A damaged ring allows gas to escape, causing odors."
+      }
+    }
+  ],
+  "description": "A toilet wax ring seals the toilet to the drainpipe, preventing leaks and blocking sewer gas. A damaged ring allows gas to escape, causing odors."
+}

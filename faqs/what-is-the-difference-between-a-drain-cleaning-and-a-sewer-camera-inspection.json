@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-difference-between-a-drain-cleaning-and-a-sewer-camera-inspection",
+  "name": "What is the difference between a drain cleaning and a sewer camera inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a drain cleaning and a sewer camera inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A drain cleaning service primarily focuses on removing existing blockages and buildup to restore proper flow in your pipes. This often involves methods like snaking or hydro-jetting. A sewer camera inspection, on the other hand, is a diagnostic tool. Its purpose is to visually identify the *cause* of recurring blockages or the overall condition of your sewer line. While drain cleaning addresses the symptom, the camera inspection identifies the root problem, allowing for targeted and lasting solutions.",
+        "@type": "Answer",
+        "description": "Drain cleaning removes blockages to restore flow, while a sewer camera inspection visually diagnoses the cause of problems or pipe condition."
+      }
+    }
+  ],
+  "description": "Drain cleaning removes blockages to restore flow, while a sewer camera inspection visually diagnoses the cause of problems or pipe condition."
+}

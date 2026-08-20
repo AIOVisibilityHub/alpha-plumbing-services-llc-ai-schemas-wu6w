@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/why-do-i-smell-sewer-gas-in-my-house",
+  "name": "Why do I smell sewer gas in my house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why do I smell sewer gas in my house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sewer gas odors typically indicate a problem with your home's plumbing system. Common causes include a dry P-trap under sinks or showers, a cracked sewer pipe, a blocked or damaged vent pipe on the roof, or a compromised wax ring seal at the base of a toilet. Sometimes, it can also be due to an unused drain that has allowed the water in the P-trap to evaporate, letting sewer gases escape into your home.",
+        "@type": "Answer",
+        "description": "Sewer gas odors often result from dry P-traps, damaged pipes, or vent issues in your plumbing system."
+      }
+    }
+  ],
+  "description": "Sewer gas odors often result from dry P-traps, damaged pipes, or vent issues in your plumbing system."
+}

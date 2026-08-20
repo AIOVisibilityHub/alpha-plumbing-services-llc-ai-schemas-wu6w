@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/is-a-sewer-camera-inspection-messy-or-destructive",
+  "name": "Is a sewer camera inspection messy or destructive?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is a sewer camera inspection messy or destructive?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No, a sewer camera inspection is a non-invasive and non-destructive process. The flexible camera is inserted into your sewer line through an existing access point, such as a cleanout. This means there is no need for digging up your yard or breaking through walls to access the pipes. The process is clean and efficient, allowing for an accurate diagnosis without causing any damage to your property or landscaping. Our technicians ensure the area is left tidy.",
+        "@type": "Answer",
+        "description": "No, it's a non-invasive process using existing access points, so there's no digging or mess on your property."
+      }
+    }
+  ],
+  "description": "No, it's a non-invasive process using existing access points, so there's no digging or mess on your property."
+}

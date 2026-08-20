@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-difference-between-traditional-and-trenchless-sewer-line-replacement",
+  "name": "What is the difference between traditional and trenchless sewer line replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between traditional and trenchless sewer line replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Traditional sewer line replacement involves excavating a trench along the entire length of the damaged pipe to expose and replace it. This method can be more intrusive to landscaping. Trenchless methods, like pipe bursting or pipe lining, require minimal excavation. Pipe bursting involves pulling a new pipe through the old one, fracturing the old pipe as it goes. Pipe lining inserts a new, cured-in-place pipe inside the existing one. Trenchless options often reduce disruption to your yard and hardscaping, but might not be suitable for all situations.",
+        "@type": "Answer",
+        "description": "Traditional replacement digs an open trench, while trenchless methods like pipe bursting or lining replace the pipe with minimal digging, reducing disruption."
+      }
+    }
+  ],
+  "description": "Traditional replacement digs an open trench, while trenchless methods like pipe bursting or lining replace the pipe with minimal digging, reducing disruption."
+}

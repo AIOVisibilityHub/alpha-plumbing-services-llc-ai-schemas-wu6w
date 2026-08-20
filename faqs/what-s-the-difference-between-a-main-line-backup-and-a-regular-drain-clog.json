@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-s-the-difference-between-a-main-line-backup-and-a-regular-drain-clog",
+  "name": "What's the difference between a main line backup and a regular drain clog?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a main line backup and a regular drain clog?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A regular drain clog typically affects only one fixture, like a single sink or toilet, and is usually isolated within that fixture's trap or immediate branch line. A main line backup, however, indicates a blockage in the primary sewer pipe that all your home's drains connect to. This results in multiple fixtures backing up simultaneously, sometimes in unexpected ways (e.g., toilet gurgling when the shower drains). Main line issues are generally more severe and require professional intervention to avoid widespread plumbing problems.",
+        "@type": "Answer",
+        "description": "A regular clog affects one fixture; a main line backup affects multiple fixtures simultaneously due to a blockage in the main sewer pipe."
+      }
+    }
+  ],
+  "description": "A regular clog affects one fixture; a main line backup affects multiple fixtures simultaneously due to a blockage in the main sewer pipe."
+}

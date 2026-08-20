@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-steps-are-involved-in-the-sewer-backup-cleanup-process",
+  "name": "What steps are involved in the sewer backup cleanup process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps are involved in the sewer backup cleanup process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our cleanup process begins with a thorough assessment to determine the source and extent of contamination. This is followed by safe sewage extraction using specialized pumps. Next, we remove and properly dispose of all contaminated porous materials like carpet, drywall, and insulation. The affected area is then thoroughly cleaned, disinfected, and sanitized to eliminate pathogens. Finally, professional-grade drying and dehumidification equipment is used to prevent mold growth, ensuring a healthy and dry environment. Repairs and reconstruction follow as needed.",
+        "@type": "Answer",
+        "description": "Our process involves assessment, sewage extraction, removal of contaminated materials, thorough disinfection, and professional drying to prevent mold."
+      }
+    }
+  ],
+  "description": "Our process involves assessment, sewage extraction, removal of contaminated materials, thorough disinfection, and professional drying to prevent mold."
+}

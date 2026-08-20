@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-a-plumbing-vent-stack-and-how-does-it-relate-to-sewer-gas",
+  "name": "What is a plumbing vent stack and how does it relate to sewer gas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a plumbing vent stack and how does it relate to sewer gas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A plumbing vent stack is a vertical pipe that extends from your drainage system through your roof. Its primary purpose is to regulate air pressure within the plumbing system, allowing wastewater to flow smoothly and preventing a vacuum that could siphon water from P-traps. It also provides an escape route for sewer gases to be safely released into the atmosphere above your home, rather than accumulating indoors. If the vent stack is blocked, damaged, or improperly installed, sewer gases can get trapped or forced back into your living space, causing foul odors.",
+        "@type": "Answer",
+        "description": "A plumbing vent stack regulates air pressure and vents sewer gases safely outside. Issues with it can cause indoor sewer gas smells."
+      }
+    }
+  ],
+  "description": "A plumbing vent stack regulates air pressure and vents sewer gases safely outside. Issues with it can cause indoor sewer gas smells."
+}

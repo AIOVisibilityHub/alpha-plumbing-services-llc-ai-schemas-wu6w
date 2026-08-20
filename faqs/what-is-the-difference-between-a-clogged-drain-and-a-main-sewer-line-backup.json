@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-difference-between-a-clogged-drain-and-a-main-sewer-line-backup",
+  "name": "What is the difference between a clogged drain and a main sewer line backup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a clogged drain and a main sewer line backup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A clogged drain typically affects only one fixture, like a single sink or toilet, where water drains slowly or not at all. It's usually a localized issue. A main sewer line backup, however, affects multiple fixtures throughout your home, often causing sewage to back up into the lowest drains, such as bathtubs or shower stalls, when other fixtures are used. This indicates a problem outside your immediate fixture drain, affecting the entire home's drainage system.",
+        "@type": "Answer",
+        "description": "A clogged drain affects one fixture, while a main sewer line backup impacts multiple fixtures, causing widespread drainage issues."
+      }
+    }
+  ],
+  "description": "A clogged drain affects one fixture, while a main sewer line backup impacts multiple fixtures, causing widespread drainage issues."
+}

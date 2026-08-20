@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-should-i-do-immediately-if-sewage-is-backing-up-into-my-shower",
+  "name": "What should I do immediately if sewage is backing up into my shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately if sewage is backing up into my shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you notice sewage backing up, stop using all water-consuming appliances immediately, including toilets, sinks, washing machines, and dishwashers. This prevents more water from entering the compromised system. Avoid trying to clear the blockage yourself with chemicals or plungers, as this can worsen the issue or be ineffective against a main line clog. Contact a professional plumber promptly to diagnose the cause and safely resolve the problem.",
+        "@type": "Answer",
+        "description": "Stop using all water, toilets, and appliances immediately. Do not attempt to clear it yourself; call a professional plumber right away."
+      }
+    }
+  ],
+  "description": "Stop using all water, toilets, and appliances immediately. Do not attempt to clear it yourself; call a professional plumber right away."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-much-does-sewer-line-repair-typically-cost-in-goodyear-or-buckeye",
+  "name": "How much does sewer line repair typically cost in Goodyear or Buckeye?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does sewer line repair typically cost in Goodyear or Buckeye?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of sewer line repair varies widely based on the extent of the damage, the repair method used (e.g., trenchless vs. traditional excavation), and the length of the affected pipe. Minor repairs might be a few hundred dollars, while a full replacement could be several thousand. We provide a detailed estimate after a thorough inspection of your specific situation to give you an accurate cost for your property in Goodyear, Buckeye, or surrounding areas.",
+        "@type": "Answer",
+        "description": "Costs vary based on damage, repair method, and pipe length. We provide detailed estimates after inspection."
+      }
+    }
+  ],
+  "description": "Costs vary based on damage, repair method, and pipe length. We provide detailed estimates after inspection."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-often-should-i-pour-water-down-unused-drains-to-prevent-sewer-odor",
+  "name": "How often should I pour water down unused drains to prevent sewer odor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should I pour water down unused drains to prevent sewer odor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For drains that are rarely used, such as in guest bathrooms, utility sinks, or floor drains, it's recommended to pour a cup or two of water down them at least once a month. This simple action keeps the P-trap full, creating a water seal that prevents sewer gases from entering your home. If you're away for an extended period, it's a good practice to do this before you leave.",
+        "@type": "Answer",
+        "description": "Pour water down unused drains monthly to keep P-traps full and prevent sewer gas from entering your home."
+      }
+    }
+  ],
+  "description": "Pour water down unused drains monthly to keep P-traps full and prevent sewer gas from entering your home."
+}

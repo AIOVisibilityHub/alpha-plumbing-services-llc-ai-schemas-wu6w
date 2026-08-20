@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/can-i-prevent-future-sewer-line-problems-after-a-repair",
+  "name": "Can I prevent future sewer line problems after a repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I prevent future sewer line problems after a repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you can take steps to prevent future sewer line problems. Avoid flushing non-biodegradable items, fats, oils, and grease down drains. Be mindful of tree roots; consider planting trees away from sewer lines. Regular plumbing maintenance, such as annual camera inspections, can help identify potential issues early before they escalate into major repairs. Proper care helps extend the life of your sewer system.",
+        "@type": "Answer",
+        "description": "Prevent problems by avoiding non-flushable items, managing tree roots, and scheduling regular professional inspections."
+      }
+    }
+  ],
+  "description": "Prevent problems by avoiding non-flushable items, managing tree roots, and scheduling regular professional inspections."
+}

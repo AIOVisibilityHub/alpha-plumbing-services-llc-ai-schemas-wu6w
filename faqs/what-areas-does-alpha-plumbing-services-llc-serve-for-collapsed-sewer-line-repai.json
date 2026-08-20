@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-areas-does-alpha-plumbing-services-llc-serve-for-collapsed-sewer-line-repai",
+  "name": "What areas does Alpha-Plumbing Services, LLC serve for collapsed sewer line repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas does Alpha-Plumbing Services, LLC serve for collapsed sewer line repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Alpha-Plumbing Services, LLC proudly serves the following areas for collapsed sewer line repair: Goodyear, Buckeye, Avondale, Surprise, and Waddell. We are a local business committed to providing prompt and reliable plumbing solutions to homeowners and businesses in these communities. If you are experiencing sewer line issues in any of these locations, please contact us for a professional assessment and service.",
+        "@type": "Answer",
+        "description": "Alpha-Plumbing Services, LLC serves Goodyear, Buckeye, Avondale, Surprise, and Waddell for collapsed sewer line repair."
+      }
+    }
+  ],
+  "description": "Alpha-Plumbing Services, LLC serves Goodyear, Buckeye, Avondale, Surprise, and Waddell for collapsed sewer line repair."
+}

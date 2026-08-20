@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-should-i-call-a-professional-plumber-for-sewer-odor",
+  "name": "When should I call a professional plumber for sewer odor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional plumber for sewer odor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional plumber if the sewer odor persists after you've tried simple solutions like pouring water down unused drains or if you can't identify the source. If the smell is strong, continuous, or accompanied by gurgling sounds, slow drains, or other plumbing issues, it's crucial to seek professional help. These signs might indicate a more serious problem with your main sewer line or vent system.",
+        "@type": "Answer",
+        "description": "Call a plumber if the sewer odor persists after simple fixes, or if it's strong, continuous, or accompanied by other plumbing problems."
+      }
+    }
+  ],
+  "description": "Call a plumber if the sewer odor persists after simple fixes, or if it's strong, continuous, or accompanied by other plumbing problems."
+}

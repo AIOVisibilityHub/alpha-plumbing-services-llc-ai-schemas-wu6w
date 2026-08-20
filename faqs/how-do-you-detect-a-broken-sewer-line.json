@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-do-you-detect-a-broken-sewer-line",
+  "name": "How do you detect a broken sewer line?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you detect a broken sewer line?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Alpha-Plumbing Services uses several methods to detect broken sewer lines. A primary method is a sewer camera inspection, where a small camera is sent through the pipe to identify cracks, blockages, or breaks. We also use smoke testing to find leaks and hydrostatic pressure tests. These techniques allow us to pinpoint the exact location and nature of the damage without extensive digging.",
+        "@type": "Answer",
+        "description": "We use sewer camera inspections, smoke testing, and hydrostatic pressure tests to accurately locate and assess the damage."
+      }
+    }
+  ],
+  "description": "We use sewer camera inspections, smoke testing, and hydrostatic pressure tests to accurately locate and assess the damage."
+}

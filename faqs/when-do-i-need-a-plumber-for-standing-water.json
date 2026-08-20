@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-do-i-need-a-plumber-for-standing-water",
+  "name": "When do I need a plumber for standing water?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need a plumber for standing water?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a plumber if standing water doesn't clear after attempting basic remedies like plunging, or if the problem recurs frequently. If multiple drains in your home are backed up, it indicates a more serious clog in the main sewer line, which definitely requires professional attention. A plumber has specialized tools like augers or hydro-jetting equipment to effectively clear stubborn or deep-seated clogs.",
+        "@type": "Answer",
+        "description": "Call a plumber if plunging doesn't work, if clogs are frequent, or if multiple drains are affected, indicating a main line issue."
+      }
+    }
+  ],
+  "description": "Call a plumber if plunging doesn't work, if clogs are frequent, or if multiple drains are affected, indicating a main line issue."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-causes-a-foul-odor-from-my-kitchen-sink-drain",
+  "name": "What causes a foul odor from my kitchen sink drain?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes a foul odor from my kitchen sink drain?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Foul odors from kitchen sink drains are commonly caused by food particles, grease, and other organic matter accumulating in the drain pipes or garbage disposal. Over time, this debris decomposes, leading to unpleasant smells. Running hot water, cleaning the garbage disposal, or using a drain cleaner can help. If the smell persists, it might be due to a clogged vent pipe or a more significant blockage deeper in the plumbing system, requiring professional attention.",
+        "@type": "Answer",
+        "description": "Food particles, grease, and organic matter decomposing in the drain or garbage disposal are common causes of foul kitchen sink odors."
+      }
+    }
+  ],
+  "description": "Food particles, grease, and organic matter decomposing in the drain or garbage disposal are common causes of foul kitchen sink odors."
+}

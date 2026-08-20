@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-should-i-repair-versus-replace-my-sewer-line",
+  "name": "When should I repair versus replace my sewer line?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I repair versus replace my sewer line?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The decision to repair or replace depends on the extent and nature of the damage. Minor issues, such as small cracks, isolated root intrusion, or single bellied sections, can often be repaired. However, if the pipe has extensive damage, multiple breaks, severe corrosion, or if it's an older pipe prone to recurring problems, replacement is often the more cost-effective and long-term solution. Our technicians will assess your specific situation and provide recommendations based on the severity and age of your sewer line.",
+        "@type": "Answer",
+        "description": "Repair is suitable for minor damage, while replacement is recommended for extensive damage, severe corrosion, or recurring issues in older sewer lines."
+      }
+    }
+  ],
+  "description": "Repair is suitable for minor damage, while replacement is recommended for extensive damage, severe corrosion, or recurring issues in older sewer lines."
+}

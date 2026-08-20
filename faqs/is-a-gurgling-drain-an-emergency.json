@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/is-a-gurgling-drain-an-emergency",
+  "name": "Is a gurgling drain an emergency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is a gurgling drain an emergency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A gurgling drain is usually not an immediate emergency, but it's a clear sign of an underlying issue that should be addressed promptly. Left unaddressed, a partial clog can worsen, leading to a complete blockage, slow drainage, and potentially overflowing sinks or tubs. A failing vent system can also cause multiple fixtures to gurgle, smell bad, and drain poorly. While not always urgent, ignoring the gurgling can lead to more significant, costlier repairs down the line.",
+        "@type": "Answer",
+        "description": "Not usually an emergency, but gurgling drains signal a problem that should be addressed to prevent worse issues like full clogs or overflows."
+      }
+    }
+  ],
+  "description": "Not usually an emergency, but gurgling drains signal a problem that should be addressed to prevent worse issues like full clogs or overflows."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/will-my-homeowner-s-insurance-cover-sewer-backup-cleanup",
+  "name": "Will my homeowner's insurance cover sewer backup cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my homeowner's insurance cover sewer backup cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many standard homeowner's insurance policies do not automatically cover sewer backup damage. Often, it requires a specific endorsement or rider to be added to your policy. It is crucial to review your policy documents or contact your insurance provider directly to understand your coverage. Alpha-Plumbing Services LLC can assist with documentation and communication with your insurer regarding the scope of work, but policy coverage is determined by your insurance company.",
+        "@type": "Answer",
+        "description": "Standard homeowner's insurance often excludes sewer backup; a specific rider may be needed. Check your policy or contact your insurer for details."
+      }
+    }
+  ],
+  "description": "Standard homeowner's insurance often excludes sewer backup; a specific rider may be needed. Check your policy or contact your insurer for details."
+}

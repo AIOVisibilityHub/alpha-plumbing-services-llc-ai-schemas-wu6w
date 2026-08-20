@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-causes-sewer-backup",
+  "name": "What causes sewer backup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes sewer backup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sewer backups often occur due to blockages in the main sewer line or your home's lateral line. Common culprits include tree root intrusion, grease buildup, flushing non-biodegradable items like wet wipes, and structural damage to pipes such as cracks or collapses. Heavy rainfall can also overwhelm the municipal sewer system, leading to backflow into connected homes. Identifying the cause is crucial for effective and lasting repair.",
+        "@type": "Answer",
+        "description": "Sewer backups are typically caused by blockages from tree roots, grease, non-flushable items, or damaged pipes. Heavy rain can also contribute to system overload."
+      }
+    }
+  ],
+  "description": "Sewer backups are typically caused by blockages from tree roots, grease, non-flushable items, or damaged pipes. Heavy rain can also contribute to system overloa"
+}

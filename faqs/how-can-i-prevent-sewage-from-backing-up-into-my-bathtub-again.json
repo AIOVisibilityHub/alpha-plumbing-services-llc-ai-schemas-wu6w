@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-can-i-prevent-sewage-from-backing-up-into-my-bathtub-again",
+  "name": "How can I prevent sewage from backing up into my bathtub again?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent sewage from backing up into my bathtub again?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preventative measures include being mindful of what goes down your drains: avoid flushing non-biodegradable items, properly dispose of grease and food scraps, and use drain screens to catch hair. Consider regular plumbing maintenance, such as professional drain cleaning every few years, especially if you have older pipes or nearby trees. If tree roots are a known issue, consider routine root cutting services. These steps help maintain clear sewer lines.",
+        "@type": "Answer",
+        "description": "Prevent future backups by avoiding flushing non-biodegradables, disposing of grease properly, and considering professional drain cleaning or root cutting services."
+      }
+    }
+  ],
+  "description": "Prevent future backups by avoiding flushing non-biodegradables, disposing of grease properly, and considering professional drain cleaning or root cutting servic"
+}

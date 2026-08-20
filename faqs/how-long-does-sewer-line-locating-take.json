@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-sewer-line-locating-take",
+  "name": "How long does sewer line locating take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does sewer line locating take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time it takes to locate a sewer line typically depends on the length and complexity of your property's sewer system, as well as the ease of access to the cleanout. For a standard residential property, the process can often be completed within one to two hours. However, more extensive systems or properties with limited access might require additional time. Alpha-Plumbing Services, LLC prioritizes efficient service to minimize disruption to your day.",
+        "@type": "Answer",
+        "description": "Sewer line locating typically takes 1-2 hours for standard residential properties, though it can vary based on system complexity and access."
+      }
+    }
+  ],
+  "description": "Sewer line locating typically takes 1-2 hours for standard residential properties, though it can vary based on system complexity and access."
+}

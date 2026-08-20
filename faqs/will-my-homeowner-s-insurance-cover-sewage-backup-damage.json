@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/will-my-homeowner-s-insurance-cover-sewage-backup-damage",
+  "name": "Will my homeowner's insurance cover sewage backup damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my homeowner's insurance cover sewage backup damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowner's insurance policies often have specific clauses regarding water damage, and sewage backup coverage can vary. Standard policies may not cover damage from external sewer line backups unless you have added an endorsement, often called 'Sewer Backup and Sump Pump Overflow' coverage. It's important to review your specific policy documents or contact your insurance provider directly to understand what is covered and what limitations may apply to your situation.",
+        "@type": "Answer",
+        "description": "Standard homeowner's insurance might not cover sewage backup damage unless you have a specific endorsement. Check your policy or contact your provider for details."
+      }
+    }
+  ],
+  "description": "Standard homeowner's insurance might not cover sewage backup damage unless you have a specific endorsement. Check your policy or contact your provider for detai"
+}

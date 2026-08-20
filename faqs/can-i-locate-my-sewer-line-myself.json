@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/can-i-locate-my-sewer-line-myself",
+  "name": "Can I locate my sewer line myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I locate my sewer line myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Attempting to locate your sewer line without professional equipment and experience is not recommended. Professional sewer line locating requires specialized tools, such as waterproof cameras with radio transmitters and sensitive receivers, to accurately map underground pipes. Without these tools, you risk damaging your plumbing system or other underground utilities during excavation. Hiring a professional service like Alpha-Plumbing Services, LLC ensures accuracy, safety, and proper documentation of your sewer line's location.",
+        "@type": "Answer",
+        "description": "No, professional sewer line locating requires specialized equipment and expertise to ensure accuracy and prevent damage. DIY attempts are not recommended."
+      }
+    }
+  ],
+  "description": "No, professional sewer line locating requires specialized equipment and expertise to ensure accuracy and prevent damage. DIY attempts are not recommended."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-problems-can-a-sewer-camera-inspection-detect",
+  "name": "What problems can a sewer camera inspection detect?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What problems can a sewer camera inspection detect?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A sewer camera inspection can detect a wide range of issues within your plumbing system. These include blockages from grease, debris, or foreign objects, as well as tree root intrusion into pipes. It can identify cracks, breaks, punctures, or misaligned pipe sections due to ground shifting. The camera also reveals corrosion, deterioration, and sagging pipes (bellies) that can collect waste. This comprehensive view helps diagnose the exact cause of plumbing problems.",
+        "@type": "Answer",
+        "description": "It can detect blockages, root intrusion, cracks, breaks, misaligned pipes, corrosion, deterioration, and sagging pipe sections."
+      }
+    }
+  ],
+  "description": "It can detect blockages, root intrusion, cracks, breaks, misaligned pipes, corrosion, deterioration, and sagging pipe sections."
+}

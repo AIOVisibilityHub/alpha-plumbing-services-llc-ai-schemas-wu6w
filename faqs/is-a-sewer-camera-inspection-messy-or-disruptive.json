@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/is-a-sewer-camera-inspection-messy-or-disruptive",
+  "name": "Is a sewer camera inspection messy or disruptive?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is a sewer camera inspection messy or disruptive?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No, a sewer camera inspection is a non-invasive process and is generally not messy or disruptive. Plumbers typically access your sewer line through an existing cleanout access point, often located outside your home or in a basement. This means there's no need for digging up your yard or breaking through walls to perform the inspection. The process is clean, efficient, and designed to minimize disturbance to your property.",
+        "@type": "Answer",
+        "description": "No, a sewer camera inspection is non-invasive and not messy, as it uses an existing cleanout access point without digging or disruption."
+      }
+    }
+  ],
+  "description": "No, a sewer camera inspection is non-invasive and not messy, as it uses an existing cleanout access point without digging or disruption."
+}

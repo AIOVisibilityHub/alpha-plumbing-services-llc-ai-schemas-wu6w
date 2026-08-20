@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-should-i-consider-replacing-my-entire-sewer-line-instead-of-just-repairing",
+  "name": "When should I consider replacing my entire sewer line instead of just repairing a collapsed section?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my entire sewer line instead of just repairing a collapsed section?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing your entire sewer line if there are multiple collapses, extensive damage along a significant portion of the pipe, or if the pipe material is old and prone to recurring issues. Frequent repairs can be more costly in the long run than a full replacement. Additionally, if the existing sewer line is undersized for your property's needs or is made of outdated materials, a full replacement can offer a more durable and long-term solution. A professional assessment can help determine the most cost-effective and lasting option.",
+        "@type": "Answer",
+        "description": "Consider full replacement for multiple collapses, extensive damage, or if the pipe is old and frequently problematic. This can be more cost-effective than ongoing repairs."
+      }
+    }
+  ],
+  "description": "Consider full replacement for multiple collapses, extensive damage, or if the pipe is old and frequently problematic. This can be more cost-effective than ongoi"
+}

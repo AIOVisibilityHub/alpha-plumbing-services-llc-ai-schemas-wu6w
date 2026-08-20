@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/do-i-need-to-call-a-plumber-or-a-general-contractor-for-sewage-backup",
+  "name": "Do I need to call a plumber or a general contractor for sewage backup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to call a plumber or a general contractor for sewage backup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should always call a licensed plumber for any sewage backup issue. Plumbers specialize in drainage systems, pipe inspections, clog removal, and sewer line repairs or replacements. A general contractor might be needed for restoring affected areas of your home after the plumbing issue is resolved, such as repairing walls or flooring damaged by sewage. However, the initial diagnosis and repair of the plumbing system itself require a plumbing professional.",
+        "@type": "Answer",
+        "description": "Call a licensed plumber for sewage backup diagnosis and repair. A general contractor might be needed for restoring property damage after plumbing fixes."
+      }
+    }
+  ],
+  "description": "Call a licensed plumber for sewage backup diagnosis and repair. A general contractor might be needed for restoring property damage after plumbing fixes."
+}

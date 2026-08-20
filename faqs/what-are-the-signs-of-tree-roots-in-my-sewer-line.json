@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-the-signs-of-tree-roots-in-my-sewer-line",
+  "name": "What are the signs of tree roots in my sewer line?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs of tree roots in my sewer line?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs of tree roots in your sewer line often include multiple slow drains throughout your home, gurgling sounds coming from toilets or drains, and frequent, recurring clogs. You might also notice sections of your lawn that are unusually lush or greener than surrounding areas, indicating a leak. In severe cases, sewage might back up into your toilets, sinks, or showers. Professional video inspection can confirm the presence and extent of root intrusion.",
+        "@type": "Answer",
+        "description": "Tree roots in sewer lines cause multiple slow drains, gurgling sounds, recurring clogs, and sometimes unusually lush lawn spots. Sewage backups can occur in severe cases."
+      }
+    }
+  ],
+  "description": "Tree roots in sewer lines cause multiple slow drains, gurgling sounds, recurring clogs, and sometimes unusually lush lawn spots. Sewage backups can occur in sev"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-difference-between-a-toilet-clog-and-a-main-drain-clog",
+  "name": "What is the difference between a toilet clog and a main drain clog?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a toilet clog and a main drain clog?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A toilet clog is typically isolated to the toilet itself or its immediate P-trap, often caused by too much toilet paper or a foreign object. You might notice the toilet flushing slowly or not at all, but other drains in the house work fine. A main drain clog, however, affects multiple fixtures throughout your home, often causing water to back up into the lowest drains, such as a tub or shower, when you use a higher fixture like a toilet. This indicates a blockage further down the primary sewer line that serves your entire property.",
+        "@type": "Answer",
+        "description": "A toilet clog affects only the toilet, while a main drain clog impacts multiple fixtures, causing backups into low drains like a tub."
+      }
+    }
+  ],
+  "description": "A toilet clog affects only the toilet, while a main drain clog impacts multiple fixtures, causing backups into low drains like a tub."
+}

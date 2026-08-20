@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-areas-does-alpha-plumbing-services-llc-serve-for-sewer-backup-cleanup",
+  "name": "What areas does Alpha-Plumbing Services LLC serve for sewer backup cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas does Alpha-Plumbing Services LLC serve for sewer backup cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Alpha-Plumbing Services LLC proudly offers sewer backup cleanup and restoration services to a specific range of communities. Our primary service areas include Goodyear, Buckeye, Avondale, and Surprise. We focus on providing prompt and reliable service to residents and businesses within these locations to ensure quick response times when emergencies like sewer backups occur.",
+        "@type": "Answer",
+        "description": "Alpha-Plumbing Services LLC provides sewer backup cleanup in Goodyear, Buckeye, Avondale, and Surprise, ensuring prompt local response."
+      }
+    }
+  ],
+  "description": "Alpha-Plumbing Services LLC provides sewer backup cleanup in Goodyear, Buckeye, Avondale, and Surprise, ensuring prompt local response."
+}

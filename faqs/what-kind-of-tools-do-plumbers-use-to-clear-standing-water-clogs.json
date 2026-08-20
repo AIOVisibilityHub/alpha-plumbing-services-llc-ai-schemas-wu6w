@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-kind-of-tools-do-plumbers-use-to-clear-standing-water-clogs",
+  "name": "What kind of tools do plumbers use to clear standing water clogs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of tools do plumbers use to clear standing water clogs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional plumbers use a range of specialized tools to effectively clear standing water clogs. For common clogs, they might use a plumber's snake or auger, which is a flexible cable that can break up or retrieve obstructions. For more stubborn or deeper clogs, hydro-jetting equipment is used, which blasts high-pressure water through the pipes to clean them thoroughly. Video inspection cameras can also be used to locate the exact source and nature of the clog.",
+        "@type": "Answer",
+        "description": "Plumbers use tools like augers or snakes for common clogs, and hydro-jetting for tougher blockages, sometimes with video inspection."
+      }
+    }
+  ],
+  "description": "Plumbers use tools like augers or snakes for common clogs, and hydro-jetting for tougher blockages, sometimes with video inspection."
+}

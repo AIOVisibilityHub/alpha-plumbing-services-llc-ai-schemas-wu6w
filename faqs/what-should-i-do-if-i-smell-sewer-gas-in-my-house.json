@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-should-i-do-if-i-smell-sewer-gas-in-my-house",
+  "name": "What should I do if I smell sewer gas in my house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if I smell sewer gas in my house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you detect a sewer gas smell, first try to identify its source. Check seldom-used drains and pour a cup of water down them to refill the P-trap. Ensure all toilet seals are intact. If the smell persists, open windows to ventilate the area and contact a professional plumber. A plumber can use specialized tools to pinpoint the exact cause, whether it's a dry trap, a plumbing vent issue, a cracked pipe, or a more serious sewer line problem, and provide a lasting solution.",
+        "@type": "Answer",
+        "description": "Ventilate your home, pour water down unused drains, and if the smell persists, contact a plumber to diagnose and fix the issue."
+      }
+    }
+  ],
+  "description": "Ventilate your home, pour water down unused drains, and if the smell persists, contact a plumber to diagnose and fix the issue."
+}

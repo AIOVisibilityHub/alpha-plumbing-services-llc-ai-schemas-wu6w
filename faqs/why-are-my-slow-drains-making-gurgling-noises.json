@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/why-are-my-slow-drains-making-gurgling-noises",
+  "name": "Why are my slow drains making gurgling noises?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why are my slow drains making gurgling noises?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Gurgling noises from slow drains often indicate a blockage that's restricting airflow in your plumbing system. When water tries to pass a clog, air gets trapped and then released, creating a gurgling sound. If these noises occur in multiple fixtures or in conjunction with slow drainage throughout your house, it's a strong sign of a significant obstruction in your main sewer line. This requires professional attention to clear the blockage and restore proper drainage.",
+        "@type": "Answer",
+        "description": "Gurgling noises from slow drains mean a blockage is trapping air in your pipes. If it's widespread, it points to a main sewer line clog that needs professional clearing."
+      }
+    }
+  ],
+  "description": "Gurgling noises from slow drains mean a blockage is trapping air in your pipes. If it's widespread, it points to a main sewer line clog that needs professional"
+}

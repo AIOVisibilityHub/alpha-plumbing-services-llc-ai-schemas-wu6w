@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/is-sewage-backing-up-into-my-shower-an-emergency",
+  "name": "Is sewage backing up into my shower an emergency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is sewage backing up into my shower an emergency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, sewage backing up into your shower is considered an urgent plumbing emergency. Raw sewage contains harmful bacteria and pathogens, posing significant health risks to anyone exposed. It can also cause extensive property damage if not addressed quickly, leading to costly repairs. Prompt action is crucial to minimize health hazards and prevent further contamination or structural damage to your home.",
+        "@type": "Answer",
+        "description": "Yes, it is an emergency due to health risks from harmful bacteria and potential for extensive property damage. Act quickly."
+      }
+    }
+  ],
+  "description": "Yes, it is an emergency due to health risks from harmful bacteria and potential for extensive property damage. Act quickly."
+}

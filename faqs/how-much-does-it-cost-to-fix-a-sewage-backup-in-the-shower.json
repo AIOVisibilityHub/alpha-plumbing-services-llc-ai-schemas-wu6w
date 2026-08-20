@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-much-does-it-cost-to-fix-a-sewage-backup-in-the-shower",
+  "name": "How much does it cost to fix a sewage backup in the shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to fix a sewage backup in the shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to fix a sewage backup varies widely depending on the cause and severity of the blockage. Simple clogs might be resolved with snaking for a few hundred dollars. However, more complex issues like tree root removal, damaged pipes requiring excavation, or extensive main sewer line repairs can range from several hundred to several thousand dollars. A professional plumber will provide an estimate after diagnosing the specific problem.",
+        "@type": "Answer",
+        "description": "Costs vary based on the cause and severity, from a few hundred for simple clogs to several thousand for main line repairs. A plumber will provide an estimate."
+      }
+    }
+  ],
+  "description": "Costs vary based on the cause and severity, from a few hundred for simple clogs to several thousand for main line repairs. A plumber will provide an estimate."
+}

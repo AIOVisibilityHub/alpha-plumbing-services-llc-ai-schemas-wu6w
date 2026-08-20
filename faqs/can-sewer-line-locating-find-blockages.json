@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/can-sewer-line-locating-find-blockages",
+  "name": "Can sewer line locating find blockages?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can sewer line locating find blockages?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While the primary purpose of sewer line locating is to map the physical path of the pipe, the process often involves using a sewer camera inspection. This camera can visually identify the exact location of blockages, breaks, or other obstructions within the pipe. By combining the visual inspection with the locating technology, technicians can accurately determine not only where the pipe is, but also precisely where any problem areas are located underground, facilitating targeted repairs.",
+        "@type": "Answer",
+        "description": "Yes, sewer line locating often uses a camera inspection that can visually pinpoint the exact location of blockages or damage within the pipe."
+      }
+    }
+  ],
+  "description": "Yes, sewer line locating often uses a camera inspection that can visually pinpoint the exact location of blockages or damage within the pipe."
+}

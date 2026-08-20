@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-a-p-trap-and-how-does-it-prevent-sewage-smells",
+  "name": "What is a P-trap and how does it prevent sewage smells?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a P-trap and how does it prevent sewage smells?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A P-trap is a U-shaped bend in your drainpipe, typically found under sinks, showers, and toilets. Its design allows it to hold a small amount of water, creating a seal that blocks noxious sewer gases from rising into your home. If a P-trap dries out due to infrequent use or evaporation, this water seal breaks, allowing odors to escape. Ensuring your P-traps remain filled with water is a simple preventative measure.",
+        "@type": "Answer",
+        "description": "A P-trap is a U-shaped drainpipe section that holds water, forming a seal to block sewer gases from entering your home."
+      }
+    }
+  ],
+  "description": "A P-trap is a U-shaped drainpipe section that holds water, forming a seal to block sewer gases from entering your home."
+}

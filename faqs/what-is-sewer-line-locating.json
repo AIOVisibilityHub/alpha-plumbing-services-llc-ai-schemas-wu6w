@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-sewer-line-locating",
+  "name": "What is sewer line locating?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is sewer line locating?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sewer line locating is the process of precisely identifying the underground path and depth of your sewer pipes. This is typically done using a specialized transmitter attached to a camera that's inserted into the sewer line. The transmitter emits a signal that a technician can detect above ground with a receiver, allowing them to map the exact route of the pipe. This technology helps prevent accidental damage during excavation, locate clogs or damage, and plan for future landscaping or construction projects on your property.",
+        "@type": "Answer",
+        "description": "Sewer line locating uses specialized equipment to find the exact underground path and depth of your sewer pipes. This helps prevent damage and locate issues."
+      }
+    }
+  ],
+  "description": "Sewer line locating uses specialized equipment to find the exact underground path and depth of your sewer pipes. This helps prevent damage and locate issues."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-do-you-repair-a-collapsed-sewer-line",
+  "name": "How do you repair a collapsed sewer line?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you repair a collapsed sewer line?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing a collapsed sewer line typically starts with a video inspection to locate and assess the damage. Depending on the severity and location, repair methods vary. Trenchless repair, like pipe bursting or CIPP lining, can replace or reinforce the old pipe with minimal digging. For more extensive damage or specific pipe types, traditional trenching may be necessary to excavate and replace the damaged section. The best method depends on the pipe material, soil conditions, and surrounding landscaping.",
+        "@type": "Answer",
+        "description": "Repair involves a video inspection to determine if trenchless methods (pipe bursting, CIPP lining) or traditional excavation and replacement are needed."
+      }
+    }
+  ],
+  "description": "Repair involves a video inspection to determine if trenchless methods (pipe bursting, CIPP lining) or traditional excavation and replacement are needed."
+}

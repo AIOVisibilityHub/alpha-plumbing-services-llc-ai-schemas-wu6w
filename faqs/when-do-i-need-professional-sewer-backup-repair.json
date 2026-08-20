@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-do-i-need-professional-sewer-backup-repair",
+  "name": "When do I need professional sewer backup repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need professional sewer backup repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You need professional sewer backup repair if you experience any of the definitive signs like sewage backing up into your home, persistent foul odors, or multiple clogged drains that chemical cleaners or plungers cannot resolve. DIY attempts without proper tools can worsen the problem or cause pipe damage. Professionals have the equipment to accurately diagnose the issue and safely perform the necessary repairs, protecting your property and health.",
+        "@type": "Answer",
+        "description": "Call for professional repair if sewage backs up, odors persist, or multiple drains are clogged. DIY efforts may worsen the problem or damage pipes."
+      }
+    }
+  ],
+  "description": "Call for professional repair if sewage backs up, odors persist, or multiple drains are clogged. DIY efforts may worsen the problem or damage pipes."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-causes-slow-drains-throughout-the-house",
+  "name": "What causes slow drains throughout the house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes slow drains throughout the house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Slow drains throughout an entire house often indicate a deeper issue than a single clogged fixture. Common causes include a main sewer line blockage, accumulation of grease, hair, and soap scum in shared drainpipes, or even tree root intrusion into outdoor sewer lines. Mineral buildup from hard water can also restrict pipe diameter over time, leading to widespread drainage problems. Identifying the root cause requires professional inspection to ensure the correct solution is applied.",
+        "@type": "Answer",
+        "description": "Slow drains throughout a house can be caused by main sewer line blockages, accumulated debris in shared pipes, or tree root intrusion. Professional inspection helps identify the exact problem."
+      }
+    }
+  ],
+  "description": "Slow drains throughout a house can be caused by main sewer line blockages, accumulated debris in shared pipes, or tree root intrusion. Professional inspection h"
+}

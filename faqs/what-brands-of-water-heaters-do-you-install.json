@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-brands-of-water-heaters-do-you-install",
+  "name": "What brands of water heaters do you install?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What brands of water heaters do you install?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Alpha-Plumbing Services installs a variety of reputable water heater brands known for their reliability and efficiency. We work with leading manufacturers such as Rheem, Bradford White, A. O. Smith, and Navien (for tankless units). Our team can recommend the best brand and model for your specific needs and budget, ensuring you receive a high-quality product that provides consistent hot water for years to come. All installations adhere to manufacturer specifications.",
+        "@type": "Answer",
+        "description": "We install trusted brands like Rheem, Bradford White, A. O. Smith, and Navien. We recommend the best option for your needs."
+      }
+    }
+  ],
+  "description": "We install trusted brands like Rheem, Bradford White, A. O. Smith, and Navien. We recommend the best option for your needs."
+}

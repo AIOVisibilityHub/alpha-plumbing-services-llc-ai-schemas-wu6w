@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/can-i-prevent-sewer-backups",
+  "name": "Can I prevent sewer backups?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I prevent sewer backups?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, several preventative measures can reduce the risk of sewer backups. Avoid flushing anything other than toilet paper. Dispose of grease in the trash, not down the drain. Consider installing a backflow prevention device, especially if you live in a flood-prone area. Regular professional drain cleaning, especially if you have mature trees near your sewer line, can help prevent root intrusion and maintain clear pipes.",
+        "@type": "Answer",
+        "description": "Prevent backups by not flushing non-toilet paper items, disposing of grease properly, and considering a backflow preventer. Regular professional drain cleaning is also effective."
+      }
+    }
+  ],
+  "description": "Prevent backups by not flushing non-toilet paper items, disposing of grease properly, and considering a backflow preventer. Regular professional drain cleaning"
+}

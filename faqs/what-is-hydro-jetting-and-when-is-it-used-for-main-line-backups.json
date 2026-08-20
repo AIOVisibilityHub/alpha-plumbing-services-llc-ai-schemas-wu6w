@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-hydro-jetting-and-when-is-it-used-for-main-line-backups",
+  "name": "What is hydro-jetting and when is it used for main line backups?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is hydro-jetting and when is it used for main line backups?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hydro-jetting is a highly effective method for clearing main line backups, using high-pressure water streams to scour the inside of your pipes. It can remove tough obstructions like grease buildup, mineral deposits, and even tree roots more thoroughly than traditional snaking. We typically use hydro-jetting when there are stubborn clogs that a snake can't clear, or as a preventative measure to thoroughly clean the line. It's an environmentally friendly solution that leaves pipes exceptionally clean.",
+        "@type": "Answer",
+        "description": "Hydro-jetting uses high-pressure water to clear tough main line blockages like grease and roots, often used for stubborn clogs or preventative cleaning."
+      }
+    }
+  ],
+  "description": "Hydro-jetting uses high-pressure water to clear tough main line blockages like grease and roots, often used for stubborn clogs or preventative cleaning."
+}

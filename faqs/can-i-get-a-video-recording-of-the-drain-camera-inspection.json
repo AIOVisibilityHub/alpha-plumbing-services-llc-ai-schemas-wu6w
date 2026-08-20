@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/can-i-get-a-video-recording-of-the-drain-camera-inspection",
+  "name": "Can I get a video recording of the drain camera inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I get a video recording of the drain camera inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Alpha-Plumbing Services can provide you with a video recording or relevant still images from your drain camera inspection. This footage serves as a valuable record, allowing you to see firsthand the condition of your pipes and any identified issues. It's helpful for understanding the recommended repairs and can also be useful for insurance purposes or future reference.",
+        "@type": "Answer",
+        "description": "Yes, Alpha-Plumbing Services can provide a video recording or images from your drain camera inspection for your records and understanding."
+      }
+    }
+  ],
+  "description": "Yes, Alpha-Plumbing Services can provide a video recording or images from your drain camera inspection for your records and understanding."
+}

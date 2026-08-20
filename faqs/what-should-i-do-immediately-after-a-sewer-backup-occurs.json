@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-should-i-do-immediately-after-a-sewer-backup-occurs",
+  "name": "What should I do immediately after a sewer backup occurs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately after a sewer backup occurs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you experience a sewer backup, your immediate safety and minimizing damage are key. First, avoid contact with the contaminated water. If safe, shut off your main water supply and, if applicable, your electrical power to the affected area. Contact a professional cleanup service like Alpha-Plumbing Services LLC promptly. Do not attempt to clean it yourself, as sewage contains harmful bacteria and pathogens. We can assess the situation, extract the wastewater, and begin the disinfection process quickly.",
+        "@type": "Answer",
+        "description": "Immediately avoid contact with water, shut off water and power if safe, and call Alpha-Plumbing Services LLC for professional help."
+      }
+    }
+  ],
+  "description": "Immediately avoid contact with water, shut off water and power if safe, and call Alpha-Plumbing Services LLC for professional help."
+}

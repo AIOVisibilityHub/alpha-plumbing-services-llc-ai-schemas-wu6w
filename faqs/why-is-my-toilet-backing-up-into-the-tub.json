@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/why-is-my-toilet-backing-up-into-the-tub",
+  "name": "Why is my toilet backing up into the tub?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is my toilet backing up into the tub?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When your toilet backs up into the tub, it indicates a clog deeper in your plumbing system, beyond the toilet's trap. The most common cause is a blockage in the main drain line or a secondary branch line serving both fixtures. This blockage prevents wastewater from flowing freely, causing it to seek the next lowest drain opening, which is often the tub or shower. Common culprits include excessive toilet paper, non-flushable items, grease buildup, or tree roots infiltrating the sewer line. It requires professional diagnosis to locate and remove the obstruction.",
+        "@type": "Answer",
+        "description": "Your toilet backing up into the tub usually signals a clog in the main drain line or a shared branch line, causing wastewater to back up into the lowest open drain."
+      }
+    }
+  ],
+  "description": "Your toilet backing up into the tub usually signals a clog in the main drain line or a shared branch line, causing wastewater to back up into the lowest open dr"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/do-you-offer-drain-cleaning-services-for-standing-water-in-avondale",
+  "name": "Do you offer drain cleaning services for standing water in Avondale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer drain cleaning services for standing water in Avondale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Alpha-Plumbing Services offers comprehensive drain cleaning services for standing water and other blockage issues in Avondale and surrounding areas. Our technicians are equipped with advanced tools, including drain snakes, augers, and hydro-jetting equipment, to effectively clear any type of clog, from minor sink blockages to severe main line obstructions. We ensure your drains flow freely again.",
+        "@type": "Answer",
+        "description": "Yes, Alpha-Plumbing Services provides comprehensive drain cleaning in Avondale using advanced tools to clear all types of clogs."
+      }
+    }
+  ],
+  "description": "Yes, Alpha-Plumbing Services provides comprehensive drain cleaning in Avondale using advanced tools to clear all types of clogs."
+}

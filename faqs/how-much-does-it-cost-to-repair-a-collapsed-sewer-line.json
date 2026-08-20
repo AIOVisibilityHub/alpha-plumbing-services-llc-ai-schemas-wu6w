@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-much-does-it-cost-to-repair-a-collapsed-sewer-line",
+  "name": "How much does it cost to repair a collapsed sewer line?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to repair a collapsed sewer line?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to repair a collapsed sewer line varies significantly based on several factors. These include the extent of the damage, the length and depth of the affected pipe, the chosen repair method (trenchless vs. traditional), accessibility, and local labor rates. Trenchless methods can sometimes be more expensive upfront but save on landscaping restoration costs. A professional inspection is essential to provide an accurate estimate tailored to your specific situation.",
+        "@type": "Answer",
+        "description": "Costs vary based on damage extent, pipe length/depth, repair method (trenchless vs. traditional), and accessibility. An inspection is needed for an accurate estimate."
+      }
+    }
+  ],
+  "description": "Costs vary based on damage extent, pipe length/depth, repair method (trenchless vs. traditional), and accessibility. An inspection is needed for an accurate est"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-can-i-prevent-future-main-line-backups",
+  "name": "How can I prevent future main line backups?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent future main line backups?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preventing future main line backups involves a combination of mindful habits and occasional professional maintenance. Avoid flushing anything other than human waste and toilet paper. Be cautious about what goes down your drains, especially grease and food scraps. Consider regular professional drain cleaning, particularly if you have older pipes or known issues with tree roots. Installing a root barrier around your sewer line can also be effective. A sewer camera inspection every few years can help identify potential problems before they escalate.",
+        "@type": "Answer",
+        "description": "Prevent future backups by avoiding flushing non-biodegradable items, properly disposing of grease, and considering regular professional drain cleaning or inspections."
+      }
+    }
+  ],
+  "description": "Prevent future backups by avoiding flushing non-biodegradable items, properly disposing of grease, and considering regular professional drain cleaning or inspec"
+}

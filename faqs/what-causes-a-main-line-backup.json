@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-causes-a-main-line-backup",
+  "name": "What causes a main line backup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes a main line backup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Main line backups are typically caused by blockages in the primary sewer line connecting your home to the municipal sewer system. Common culprits include tree roots invading pipes, significant grease buildup, flushing non-biodegradable items like wet wipes, or structural issues like cracked or collapsed pipes. Over time, these obstructions can restrict flow, leading to wastewater backing up into your sinks, toilets, and showers. Identifying the specific cause is crucial for effective repair and preventing future occurrences.",
+        "@type": "Answer",
+        "description": "Main line backups are often caused by tree roots, grease buildup, non-flushable items, or damaged pipes."
+      }
+    }
+  ],
+  "description": "Main line backups are often caused by tree roots, grease buildup, non-flushable items, or damaged pipes."
+}

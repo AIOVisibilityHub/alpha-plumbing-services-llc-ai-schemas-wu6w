@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-can-i-get-rid-of-a-bad-smell-coming-from-my-bathroom-drain",
+  "name": "How can I get rid of a bad smell coming from my bathroom drain?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I get rid of a bad smell coming from my bathroom drain?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To get rid of a bad smell from a bathroom drain, start by removing any visible hair or debris from the drain opening. Pour hot water down the drain, followed by a mixture of baking soda and vinegar, and let it sit for 30 minutes before flushing with more hot water. Ensure the P-trap beneath the sink has water in it by running the faucet periodically. If these steps don't work, a professional may need to clear a deeper clog or inspect for a dry P-trap or other issues.",
+        "@type": "Answer",
+        "description": "Remove debris, use baking soda and vinegar, or ensure the P-trap is full of water. If the smell persists, professional help may be needed."
+      }
+    }
+  ],
+  "description": "Remove debris, use baking soda and vinegar, or ensure the P-trap is full of water. If the smell persists, professional help may be needed."
+}

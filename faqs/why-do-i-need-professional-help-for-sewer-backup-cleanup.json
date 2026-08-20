@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/why-do-i-need-professional-help-for-sewer-backup-cleanup",
+  "name": "Why do I need professional help for sewer backup cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why do I need professional help for sewer backup cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sewer backups involve highly contaminated water containing bacteria, viruses, and other pathogens that pose serious health risks. Professionals have specialized equipment for safe water extraction, thorough disinfection, and proper disposal of contaminated materials. They also understand how to identify and address hidden moisture, preventing mold growth and further structural damage. Alpha-Plumbing Services LLC ensures the affected area is safely and completely restored to a healthy environment, minimizing long-term issues.",
+        "@type": "Answer",
+        "description": "Professional help is crucial due to health risks from contaminated water, specialized equipment needs, and to prevent mold and structural damage."
+      }
+    }
+  ],
+  "description": "Professional help is crucial due to health risks from contaminated water, specialized equipment needs, and to prevent mold and structural damage."
+}

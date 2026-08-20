@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-a-sewer-camera-inspection",
+  "name": "What is a sewer camera inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a sewer camera inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A sewer camera inspection uses a waterproof camera attached to a flexible rod to visually inspect the interior of your sewer lines. The camera transmits live video to a monitor, allowing a technician to identify potential problems like cracks, blockages, root intrusion, or pipe corrosion. This non-invasive method helps diagnose issues accurately without extensive digging, saving time and money. It's a critical tool for understanding the health of your plumbing system and planning necessary repairs.",
+        "@type": "Answer",
+        "description": "A sewer camera inspection uses a waterproof camera to visually inspect the inside of your sewer lines, identifying problems without digging."
+      }
+    }
+  ],
+  "description": "A sewer camera inspection uses a waterproof camera to visually inspect the inside of your sewer lines, identifying problems without digging."
+}

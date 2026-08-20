@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/is-a-drain-camera-inspection-messy-or-destructive",
+  "name": "Is a drain camera inspection messy or destructive?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is a drain camera inspection messy or destructive?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No, a drain camera inspection is a non-invasive and non-destructive process. The flexible camera is inserted into your drain lines through existing access points, such as a cleanout or a toilet drain. This means there's no need for digging, cutting into walls, or any other destructive methods to assess your pipes. The process is clean, efficient, and preserves your property's integrity.",
+        "@type": "Answer",
+        "description": "No, a drain camera inspection is a non-invasive process, using existing access points without digging or damaging your property."
+      }
+    }
+  ],
+  "description": "No, a drain camera inspection is a non-invasive process, using existing access points without digging or damaging your property."
+}

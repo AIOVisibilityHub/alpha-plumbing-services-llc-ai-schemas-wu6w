@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-do-plumbers-locate-underground-drains",
+  "name": "How do plumbers locate underground drains?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do plumbers locate underground drains?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Plumbers typically locate underground drains using a combination of methods. The primary tool is a sewer camera equipped with a traceable sonde (transmitter). This camera is inserted into the drain line, and as it travels, the sonde emits a signal. A receiver held above ground detects this signal, allowing the technician to accurately map the pipe's exact location, depth, and direction. This non-invasive method provides precise data, helping to identify blockages, collapses, or bellies in the line without digging.",
+        "@type": "Answer",
+        "description": "Plumbers locate drains by inserting a sewer camera with a traceable sonde into the pipe. A receiver detects the sonde's signal above ground, mapping the drain's exact location and depth."
+      }
+    }
+  ],
+  "description": "Plumbers locate drains by inserting a sewer camera with a traceable sonde into the pipe. A receiver detects the sonde's signal above ground, mapping the drain's"
+}

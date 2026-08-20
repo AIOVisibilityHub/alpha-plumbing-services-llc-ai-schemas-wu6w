@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-s-the-difference-between-trenchless-and-traditional-sewer-line-repair",
+  "name": "What's the difference between trenchless and traditional sewer line repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between trenchless and traditional sewer line repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Traditional sewer line repair involves excavating a trench along the entire length of the damaged pipe to access and replace it. This method can be disruptive to landscaping, driveways, and foundations. Trenchless repair, conversely, uses minimal digging, typically requiring only one or two access points. It repairs or replaces the pipe underground without extensive excavation, preserving your property's aesthetics and reducing labor time.",
+        "@type": "Answer",
+        "description": "Traditional repair excavates the entire pipe, while trenchless uses minimal digging to repair or replace underground."
+      }
+    }
+  ],
+  "description": "Traditional repair excavates the entire pipe, while trenchless uses minimal digging to repair or replace underground."
+}

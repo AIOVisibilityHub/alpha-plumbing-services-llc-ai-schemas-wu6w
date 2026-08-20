@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-it-take-to-clear-a-main-sewer-line-blockage",
+  "name": "How long does it take to clear a main sewer line blockage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to clear a main sewer line blockage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time it takes to clear a main sewer line blockage can vary. For straightforward clogs accessible with snaking, the process might take 1 to 3 hours. More complex issues, such as extensive tree root intrusion or significant buildup requiring hydro-jetting, could take several hours. If a sewer line needs repair due to damage, the timeline will extend. A professional plumber will assess the situation and provide an estimated completion time upon diagnosis.",
+        "@type": "Answer",
+        "description": "Clearing a main sewer line blockage can take 1 to 3 hours for simple clogs, or several hours for complex issues like tree roots. Damage requiring repair extends the timeline."
+      }
+    }
+  ],
+  "description": "Clearing a main sewer line blockage can take 1 to 3 hours for simple clogs, or several hours for complex issues like tree roots. Damage requiring repair extends"
+}

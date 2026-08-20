@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-typical-cost-to-fix-slow-drains-in-a-whole-house",
+  "name": "What is the typical cost to fix slow drains in a whole house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost to fix slow drains in a whole house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to fix slow drains throughout a whole house varies significantly based on the cause and severity of the blockage. Simple main line snaking might be less expensive than issues requiring hydro-jetting, trenchless sewer repair, or tree root removal. During an initial inspection, a plumber will diagnose the problem and provide a transparent estimate tailored to your specific situation. Alpha-Plumbing Services offers clear pricing after a thorough assessment.",
+        "@type": "Answer",
+        "description": "Cost to fix whole-house slow drains varies based on the cause, such as snaking, hydro-jetting, or tree root removal. A plumber provides an estimate after diagnosis."
+      }
+    }
+  ],
+  "description": "Cost to fix whole-house slow drains varies based on the cause, such as snaking, hydro-jetting, or tree root removal. A plumber provides an estimate after diagno"
+}

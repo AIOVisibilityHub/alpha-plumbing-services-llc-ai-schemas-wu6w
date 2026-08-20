@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/is-drain-locating-a-messy-process",
+  "name": "Is drain locating a messy process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is drain locating a messy process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No, drain locating is generally a clean and non-invasive process. Unlike traditional methods that might involve extensive digging to find pipes, modern drain locating primarily uses electronic signal detection. A small camera with a transmitter is inserted into the existing drain access points, such as a cleanout. There is usually no need for excavation during the locating process itself. Our technicians take care to protect your property and ensure that the process is as tidy and minimally disruptive as possible.",
+        "@type": "Answer",
+        "description": "No, drain locating is a clean, non-invasive process. It uses electronic detection via a camera inserted into existing access points, avoiding extensive digging."
+      }
+    }
+  ],
+  "description": "No, drain locating is a clean, non-invasive process. It uses electronic detection via a camera inserted into existing access points, avoiding extensive digging."
+}

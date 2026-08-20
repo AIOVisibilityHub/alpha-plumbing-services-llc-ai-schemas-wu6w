@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-common-causes-of-clogs-that-make-a-toilet-back-up-into-a-tub",
+  "name": "What are common causes of clogs that make a toilet back up into a tub?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common causes of clogs that make a toilet back up into a tub?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several issues can lead to a toilet backing up into a tub. The most frequent culprits include excessive amounts of toilet paper, flushing non-flushable items like wipes (even 'flushable' ones), feminine hygiene products, paper towels, or cotton swabs. Grease buildup from kitchen drains can also contribute to main line clogs, as can hair accumulation from shower drains. Another significant cause is tree root intrusion into the sewer line, which can create a dense blockage that prevents wastewater flow and causes backups into the lowest fixtures.",
+        "@type": "Answer",
+        "description": "Common causes include excessive toilet paper, non-flushable items, grease buildup, hair accumulation, and tree roots in the sewer line."
+      }
+    }
+  ],
+  "description": "Common causes include excessive toilet paper, non-flushable items, grease buildup, hair accumulation, and tree roots in the sewer line."
+}

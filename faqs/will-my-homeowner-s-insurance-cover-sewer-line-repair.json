@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/will-my-homeowner-s-insurance-cover-sewer-line-repair",
+  "name": "Will my homeowner's insurance cover sewer line repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my homeowner's insurance cover sewer line repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowner's insurance coverage for sewer line repair varies widely depending on your specific policy and the cause of the damage. Generally, sudden and accidental damage may be covered, but issues arising from normal wear and tear, neglect, or tree root invasion might not be. It's crucial to review your policy or contact your insurance provider directly to understand your coverage. We recommend checking your policy details before starting major repairs.",
+        "@type": "Answer",
+        "description": "Coverage depends on your specific policy and damage cause; typically, sudden accidents may be covered, but wear and tear often are not."
+      }
+    }
+  ],
+  "description": "Coverage depends on your specific policy and damage cause; typically, sudden accidents may be covered, but wear and tear often are not."
+}
