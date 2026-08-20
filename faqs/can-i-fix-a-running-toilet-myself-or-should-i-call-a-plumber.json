@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/can-i-fix-a-running-toilet-myself-or-should-i-call-a-plumber",
+  "name": "Can I fix a running toilet myself or should I call a plumber?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I fix a running toilet myself or should I call a plumber?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many minor running toilet issues, such as a simple flapper replacement or adjusting the float arm, can be tackled by a homeowner with basic DIY skills. However, if you're unsure about the cause, lack the right tools, or find the problem persists after your attempts, it's best to call a professional plumber. Incorrect repairs can sometimes lead to further damage or continued water waste.",
+        "@type": "Answer",
+        "description": "Simple running toilet issues can be DIY, but for complex problems or persistent leaks, it's advisable to call a professional plumber to prevent further damage."
+      }
+    }
+  ],
+  "description": "Simple running toilet issues can be DIY, but for complex problems or persistent leaks, it's advisable to call a professional plumber to prevent further damage."
+}

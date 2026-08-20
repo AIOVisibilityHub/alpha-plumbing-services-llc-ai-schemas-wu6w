@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/will-i-have-water-during-the-water-line-reroute-process",
+  "name": "Will I have water during the water line reroute process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will I have water during the water line reroute process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During the actual installation phase of a water line reroute, your water supply will need to be shut off for a period, typically several hours to a full day, to allow for the safe connection of the new lines and disconnection of the old. We strive to minimize this disruption by planning the work efficiently. We will communicate the expected water shut-off times in advance so you can make necessary preparations.",
+        "@type": "Answer",
+        "description": "Your water supply will be shut off for several hours to a full day during the water line reroute installation for safe connection."
+      }
+    }
+  ],
+  "description": "Your water supply will be shut off for several hours to a full day during the water line reroute installation for safe connection."
+}

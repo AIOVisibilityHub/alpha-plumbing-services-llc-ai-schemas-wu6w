@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/do-i-need-to-replace-all-the-pipes-in-my-house-or-just-certain-sections",
+  "name": "Do I need to replace all the pipes in my house, or just certain sections?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to replace all the pipes in my house, or just certain sections?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you need a full repipe or partial replacement depends on the condition of your existing plumbing system. If issues are isolated to a single area or specific type of pipe, a partial replacement might suffice. However, if you have widespread corrosion, frequent leaks throughout the home, or an outdated material like polybutylene, a complete repiping is often the more cost-effective and long-term solution to prevent future problems. We can help determine the best approach for your home.",
+        "@type": "Answer",
+        "description": "The need for full or partial replacement depends on the extent of pipe issues. Widespread problems often warrant a full repipe for long-term solutions."
+      }
+    }
+  ],
+  "description": "The need for full or partial replacement depends on the extent of pipe issues. Widespread problems often warrant a full repipe for long-term solutions."
+}

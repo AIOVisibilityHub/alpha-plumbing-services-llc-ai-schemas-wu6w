@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-areas-does-alpha-plumbing-services-llc-cover-for-toilet-repairs",
+  "name": "What areas does Alpha-Plumbing Services, LLC cover for toilet repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas does Alpha-Plumbing Services, LLC cover for toilet repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Alpha-Plumbing Services, LLC proudly provides professional toilet repair services, including non-flushing toilet issues, to homeowners and businesses in a specific service area. Our primary service locations include Goodyear, Buckeye, Avondale, Surprise, and Waddel. If you are experiencing plumbing problems in these communities, our skilled technicians are ready to assist you with prompt and reliable service.",
+        "@type": "Answer",
+        "description": "Alpha-Plumbing Services, LLC covers toilet repairs in Goodyear, Buckeye, Avondale, Surprise, and Waddel."
+      }
+    }
+  ],
+  "description": "Alpha-Plumbing Services, LLC covers toilet repairs in Goodyear, Buckeye, Avondale, Surprise, and Waddel."
+}

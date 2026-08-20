@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-much-does-it-cost-to-fix-a-running-toilet",
+  "name": "How much does it cost to fix a running toilet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to fix a running toilet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to repair a running toilet can vary depending on the specific cause and the parts needed. Simple fixes like replacing a flapper valve might be less expensive than issues requiring a new fill valve assembly or more complex internal tank repairs. Homeowners in Goodyear, Buckeye, Avondale, or Surprise can expect a service call fee plus the cost of parts and labor. We provide an estimate after diagnosing the problem.",
+        "@type": "Answer",
+        "description": "Repair costs vary based on the cause and parts needed, from simple flapper replacement to more complex valve issues. An estimate is provided after diagnosis."
+      }
+    }
+  ],
+  "description": "Repair costs vary based on the cause and parts needed, from simple flapper replacement to more complex valve issues. An estimate is provided after diagnosis."
+}

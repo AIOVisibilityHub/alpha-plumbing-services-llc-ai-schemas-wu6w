@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/is-whole-home-repiping-a-messy-process",
+  "name": "Is whole-home repiping a messy process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is whole-home repiping a messy process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We understand concerns about mess and strive to keep your home as clean as possible during a repiping project. Our team uses protective coverings for floors and furniture and performs thorough clean-up throughout and after the job. While there will be some dust and debris associated with accessing walls and ceilings, we take measures to contain it. Our goal is to complete the repiping efficiently while respecting your living space.",
+        "@type": "Answer",
+        "description": "We minimize mess during repiping by using protective coverings and thorough clean-up, despite some dust and debris from accessing walls."
+      }
+    }
+  ],
+  "description": "We minimize mess during repiping by using protective coverings and thorough clean-up, despite some dust and debris from accessing walls."
+}

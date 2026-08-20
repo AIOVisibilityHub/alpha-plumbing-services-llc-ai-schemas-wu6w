@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-included-in-alpha-plumbing-services-repiping-estimate",
+  "name": "What is included in Alpha-Plumbing Services' repiping estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is included in Alpha-Plumbing Services' repiping estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our whole-home repiping estimate includes a comprehensive breakdown of all costs associated with the project. This covers labor, the chosen piping materials (PEX or copper), fittings, necessary permits, and clean-up. We ensure transparency, so you understand exactly what you are paying for, with no hidden fees. The estimate will be provided after a thorough assessment of your home's specific plumbing needs and structural layout.",
+        "@type": "Answer",
+        "description": "Alpha-Plumbing Services' repiping estimate includes labor, chosen materials, fittings, permits, and clean-up, with no hidden fees."
+      }
+    }
+  ],
+  "description": "Alpha-Plumbing Services' repiping estimate includes labor, chosen materials, fittings, permits, and clean-up, with no hidden fees."
+}

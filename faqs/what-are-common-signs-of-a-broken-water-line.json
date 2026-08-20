@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-common-signs-of-a-broken-water-line",
+  "name": "What are common signs of a broken water line?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs of a broken water line?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several indicators suggest a broken water line. You might notice unusually high water bills without a change in usage, which often points to a hidden leak. Puddles or consistently wet spots in your yard, especially when it hasn't rained, can indicate a subsurface leak. A sudden drop in water pressure throughout your home, or the sound of running water when no fixtures are in use, also warrant investigation. Discolored water or a persistent musty odor might also be signs of a problem requiring professional assessment.",
+        "@type": "Answer",
+        "description": "Signs include high water bills, wet spots in your yard, low water pressure, discolored water, or the sound of running water when off."
+      }
+    }
+  ],
+  "description": "Signs include high water bills, wet spots in your yard, low water pressure, discolored water, or the sound of running water when off."
+}

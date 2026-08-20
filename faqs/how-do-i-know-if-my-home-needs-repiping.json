@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-do-i-know-if-my-home-needs-repiping",
+  "name": "How do I know if my home needs repiping?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my home needs repiping?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several signs indicate your home may need repiping. These include frequent leaks, consistently low water pressure throughout the house, rust-colored or discolored water, and a metallic taste or odor in your water. Homes built before the 1970s often have galvanized steel pipes, which are prone to corrosion. If you're experiencing these issues, especially in older homes in areas like Goodyear or Buckeye, it's advisable to have a professional inspection to determine the condition of your plumbing system.",
+        "@type": "Answer",
+        "description": "Look for frequent leaks, low water pressure, discolored or metallic-tasting water, especially in older homes, to tell if repiping is needed."
+      }
+    }
+  ],
+  "description": "Look for frequent leaks, low water pressure, discolored or metallic-tasting water, especially in older homes, to tell if repiping is needed."
+}

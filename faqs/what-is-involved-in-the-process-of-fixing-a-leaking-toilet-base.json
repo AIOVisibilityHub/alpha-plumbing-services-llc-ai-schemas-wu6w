@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-involved-in-the-process-of-fixing-a-leaking-toilet-base",
+  "name": "What is involved in the process of fixing a leaking toilet base?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the process of fixing a leaking toilet base?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process typically starts with shutting off the water supply and flushing the toilet to empty the tank and bowl. Next, the plumber will disconnect the water line, unbolt the toilet from the floor, and carefully lift and remove it. The old wax ring and any residue are then cleaned off the flange. A new wax ring (or wax-free seal) is installed, and the toilet is carefully set back in place, bolted down, and the water supply reconnected. Finally, the toilet is tested for leaks.",
+        "@type": "Answer",
+        "description": "The process involves shutting off water, removing the toilet, cleaning the old seal, installing a new wax ring, reinstalling the toilet, and testing for leaks."
+      }
+    }
+  ],
+  "description": "The process involves shutting off water, removing the toilet, cleaning the old seal, installing a new wax ring, reinstalling the toilet, and testing for leaks."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-the-benefits-of-upgrading-to-a-water-efficient-toilet-during-a-remodel",
+  "name": "What are the benefits of upgrading to a water-efficient toilet during a remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of upgrading to a water-efficient toilet during a remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Upgrading to a WaterSense-certified or other high-efficiency toilet can significantly reduce your household's water consumption, leading to lower water bills over time. These toilets use less water per flush without compromising performance. They are also environmentally friendly by conserving a valuable resource. During a remodel, it's an opportune time to make this upgrade for long-term savings and sustainability in your home in Surprise, Litchfield, or other service areas.",
+        "@type": "Answer",
+        "description": "Water-efficient toilets reduce water usage and utility bills. They are environmentally friendly and save money long-term."
+      }
+    }
+  ],
+  "description": "Water-efficient toilets reduce water usage and utility bills. They are environmentally friendly and save money long-term."
+}

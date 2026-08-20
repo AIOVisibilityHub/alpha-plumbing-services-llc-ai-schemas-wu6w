@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-do-plumbers-fix-a-severe-toilet-clog",
+  "name": "How do plumbers fix a severe toilet clog?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do plumbers fix a severe toilet clog?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For severe toilet clogs, plumbers typically use professional tools like a toilet auger or drain snake to physically break up or retrieve the obstruction. If the clog is deep within the main sewer line, they might use a larger auger or hydro-jetting equipment, which uses high-pressure water to clear blockages and clean the pipes. They may also inspect the line with a camera to identify the exact cause.",
+        "@type": "Answer",
+        "description": "Plumbers use tools like augers or drain snakes for severe clogs, or hydro-jetting for main line issues, sometimes with camera inspection."
+      }
+    }
+  ],
+  "description": "Plumbers use tools like augers or drain snakes for severe clogs, or hydro-jetting for main line issues, sometimes with camera inspection."
+}

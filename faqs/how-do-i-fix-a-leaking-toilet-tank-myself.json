@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-do-i-fix-a-leaking-toilet-tank-myself",
+  "name": "How do I fix a leaking toilet tank myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I fix a leaking toilet tank myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minor toilet tank leaks can sometimes be fixed by a homeowner. If the leak is from a loose flapper, adjusting or replacing it might solve the issue. For leaks around the tank bolts, tightening them or replacing the rubber washers can help. If you suspect a faulty fill valve, a replacement kit is often available at hardware stores. However, pinpointing the exact leak source can be challenging, and incorrect repairs can lead to further damage or water waste. For complex leaks or if you're unsure, it's best to consult a professional plumber.",
+        "@type": "Answer",
+        "description": "You can attempt to fix a leaking flapper, tighten tank bolts, or replace a fill valve. For complex leaks or uncertainty, professional plumbing service is recommended."
+      }
+    }
+  ],
+  "description": "You can attempt to fix a leaking flapper, tighten tank bolts, or replace a fill valve. For complex leaks or uncertainty, professional plumbing service is recomm"
+}

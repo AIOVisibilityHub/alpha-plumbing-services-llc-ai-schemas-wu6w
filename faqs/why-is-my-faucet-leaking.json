@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/why-is-my-faucet-leaking",
+  "name": "Why is my faucet leaking?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is my faucet leaking?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Faucets typically leak due to worn-out internal components. Over time, rubber washers, O-rings, or seals can degrade, leading to water escaping. Issues like corroded valve seats, loose packing nuts, or damaged cartridges are also common culprits. The specific cause often depends on the faucet type, such as compression, cartridge, ceramic disc, or ball faucets. Identifying the exact component causing the leak is key to a precise repair, preventing further water waste and potential damage.",
+        "@type": "Answer",
+        "description": "Faucets leak due to worn internal components like washers, O-rings, or cartridges, or corroded valve seats."
+      }
+    }
+  ],
+  "description": "Faucets leak due to worn internal components like washers, O-rings, or cartridges, or corroded valve seats."
+}

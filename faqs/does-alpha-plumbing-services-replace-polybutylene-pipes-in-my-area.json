@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/does-alpha-plumbing-services-replace-polybutylene-pipes-in-my-area",
+  "name": "Does Alpha-Plumbing Services replace polybutylene pipes in my area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does Alpha-Plumbing Services replace polybutylene pipes in my area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Alpha-Plumbing Services specializes in polybutylene pipe replacement and proudly serves homeowners in several local communities. Our service areas include Goodyear, Buckeye, Avondale, and Surprise. If you reside in one of these areas and are concerned about polybutylene plumbing in your home, please contact us for a professional assessment and a detailed quote. We are committed to providing reliable and high-quality plumbing solutions to our local customers.",
+        "@type": "Answer",
+        "description": "Yes, Alpha-Plumbing Services replaces polybutylene pipes in Goodyear, Buckeye, Avondale, and Surprise. Contact us for a professional assessment."
+      }
+    }
+  ],
+  "description": "Yes, Alpha-Plumbing Services replaces polybutylene pipes in Goodyear, Buckeye, Avondale, and Surprise. Contact us for a professional assessment."
+}

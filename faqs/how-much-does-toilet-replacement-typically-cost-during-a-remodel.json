@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-much-does-toilet-replacement-typically-cost-during-a-remodel",
+  "name": "How much does toilet replacement typically cost during a remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does toilet replacement typically cost during a remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of toilet replacement varies depending on the type of toilet selected, its features, and the complexity of the installation. Basic models start lower, while high-efficiency, smart, or wall-mounted toilets can be more expensive. Installation costs factor in labor and any necessary plumbing adjustments. For an accurate estimate tailored to your specific remodel needs in Goodyear, Buckeye, or Waddel, Alpha-Plumbing Services offers detailed quotes after assessing your project requirements.",
+        "@type": "Answer",
+        "description": "Cost varies based on toilet type, features, and installation complexity. Get a custom quote for your remodel."
+      }
+    }
+  ],
+  "description": "Cost varies based on toilet type, features, and installation complexity. Get a custom quote for your remodel."
+}

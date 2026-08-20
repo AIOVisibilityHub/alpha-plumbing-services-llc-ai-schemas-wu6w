@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-a-typical-water-line-repair-take",
+  "name": "How long does a typical water line repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical water line repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a water line repair depends on the complexity of the break, its location, and the repair method chosen. Minor repairs, such as patching a small leak in an accessible area, might take a few hours. More complex repairs, especially those requiring significant excavation or trenchless technology for extensive pipe replacement, could take a full day or longer. We provide an estimated timeline after our initial assessment, keeping you informed throughout the process.",
+        "@type": "Answer",
+        "description": "Repair time varies based on complexity, location, and method. Minor repairs take a few hours; complex ones can take a day or more."
+      }
+    }
+  ],
+  "description": "Repair time varies based on complexity, location, and method. Minor repairs take a few hours; complex ones can take a day or more."
+}

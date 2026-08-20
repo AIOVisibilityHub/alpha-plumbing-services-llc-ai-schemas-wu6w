@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/can-a-toilet-tank-leak-cause-water-damage-to-my-home",
+  "name": "Can a toilet tank leak cause water damage to my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a toilet tank leak cause water damage to my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, even a slow toilet tank leak can cause significant water damage over time. Constant dripping can lead to mold and mildew growth in hidden areas, warp wooden flooring, damage subflooring, and compromise the structural integrity of ceilings in rooms below. It can also degrade grout in tile floors, stain bathroom fixtures, and attract pests. Addressing a leak promptly is crucial to prevent costly repairs and maintain a healthy home environment. Undetected leaks are particularly dangerous as damage can accumulate without immediate notice.",
+        "@type": "Answer",
+        "description": "Yes, toilet tank leaks can cause serious water damage, including mold, warped flooring, subfloor damage, and compromised ceilings, requiring prompt repair."
+      }
+    }
+  ],
+  "description": "Yes, toilet tank leaks can cause serious water damage, including mold, warped flooring, subfloor damage, and compromised ceilings, requiring prompt repair."
+}

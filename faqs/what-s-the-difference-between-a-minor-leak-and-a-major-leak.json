@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-s-the-difference-between-a-minor-leak-and-a-major-leak",
+  "name": "What's the difference between a minor leak and a major leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a minor leak and a major leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A minor leak, often a drip or slow seepage, might not cause immediate catastrophic damage but can lead to mold, wood rot, and increased water bills over time. These are typically easier and less costly to repair. A major leak, like a burst pipe or significant gush of water, can cause rapid and extensive water damage, structural issues, and poses an immediate threat to property and safety. Both require prompt attention, but major leaks demand emergency response to mitigate severe consequences.",
+        "@type": "Answer",
+        "description": "Minor leaks are slow drips causing gradual damage, while major leaks involve significant water flow, leading to rapid, extensive property damage and requiring emergency attention."
+      }
+    }
+  ],
+  "description": "Minor leaks are slow drips causing gradual damage, while major leaks involve significant water flow, leading to rapid, extensive property damage and requiring e"
+}

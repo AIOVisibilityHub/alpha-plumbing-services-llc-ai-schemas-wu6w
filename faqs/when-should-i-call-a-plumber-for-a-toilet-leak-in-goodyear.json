@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-should-i-call-a-plumber-for-a-toilet-leak-in-goodyear",
+  "name": "When should I call a plumber for a toilet leak in Goodyear?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a plumber for a toilet leak in Goodyear?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a plumber immediately if you notice water pooling around the base of your toilet, especially if the water is discolored or smells of sewage. Early intervention prevents further damage to your home's structure and helps avoid costly extensive repairs. For residents in Goodyear, Buckeye, Avondale, and Surprise, Alpha-Plumbing Services, LLC is available to quickly diagnose and fix toilet leaks.",
+        "@type": "Answer",
+        "description": "Call a plumber promptly for any toilet base leak, particularly if the water is discolored or smells, to prevent further damage."
+      }
+    }
+  ],
+  "description": "Call a plumber promptly for any toilet base leak, particularly if the water is discolored or smells, to prevent further damage."
+}

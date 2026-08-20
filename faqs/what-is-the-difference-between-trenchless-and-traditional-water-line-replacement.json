@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-difference-between-trenchless-and-traditional-water-line-replacement",
+  "name": "What is the difference between trenchless and traditional water line replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between trenchless and traditional water line replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Traditional water line replacement involves excavating a trench along the entire length of the old pipe to remove and replace it. This method can be more disruptive to landscaping. Trenchless water line replacement, on the other hand, uses techniques like pipe bursting or pipe lining, requiring only small access points. This minimizes damage to your yard and driveway, often making it a quicker and less invasive option, though it's not suitable for all situations.",
+        "@type": "Answer",
+        "description": "Traditional replacement involves full trench excavation, while trenchless methods use minimal digging to replace or reline pipes, reducing yard damage."
+      }
+    }
+  ],
+  "description": "Traditional replacement involves full trench excavation, while trenchless methods use minimal digging to replace or reline pipes, reducing yard damage."
+}

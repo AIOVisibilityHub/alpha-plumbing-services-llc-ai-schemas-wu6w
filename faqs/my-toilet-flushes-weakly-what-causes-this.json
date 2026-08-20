@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/my-toilet-flushes-weakly-what-causes-this",
+  "name": "My toilet flushes weakly; what causes this?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "My toilet flushes weakly; what causes this?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A weak flush often indicates insufficient water flow or pressure. This could be due to a partially closed water supply valve, a worn-out flapper that doesn't stay open long enough, or sediment buildup in the rim jets under the toilet bowl's rim. Another common cause is a partial blockage in the trap or drain line. Addressing a weak flush often improves toilet efficiency. If you're experiencing this in Goodyear, Buckeye, Avondale, Surprise, or Waddel, Alpha-Plumbing Services can diagnose and resolve it.",
+        "@type": "Answer",
+        "description": "Weak flushing is often caused by low water flow, a faulty flapper, or sediment in the rim jets. A partial blockage can also be a factor."
+      }
+    }
+  ],
+  "description": "Weak flushing is often caused by low water flow, a faulty flapper, or sediment in the rim jets. A partial blockage can also be a factor."
+}

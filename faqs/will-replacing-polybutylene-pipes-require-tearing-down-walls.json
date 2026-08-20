@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/will-replacing-polybutylene-pipes-require-tearing-down-walls",
+  "name": "Will replacing polybutylene pipes require tearing down walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will replacing polybutylene pipes require tearing down walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In most cases, replacing polybutylene pipes does require opening up walls and ceilings to access the existing plumbing lines. However, our skilled plumbers at Alpha-Plumbing Services aim to minimize disruption by strategically planning access points. We often work to contain dust and debris and can coordinate with drywall repair specialists to restore your home once the re-piping is complete. The exact extent of wall opening depends on your home's layout and the accessibility of the piping.",
+        "@type": "Answer",
+        "description": "Yes, it typically requires opening walls/ceilings for access. We minimize disruption and can coordinate repairs."
+      }
+    }
+  ],
+  "description": "Yes, it typically requires opening walls/ceilings for access. We minimize disruption and can coordinate repairs."
+}

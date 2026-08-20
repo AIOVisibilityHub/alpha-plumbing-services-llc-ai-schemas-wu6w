@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-a-water-line-replacement-typically-take",
+  "name": "How long does a water line replacement typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a water line replacement typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a water line replacement depends on several factors, including the length of the line, the complexity of the excavation, and the chosen method (e.g., trenchless or traditional trenching). Most standard residential water line replacements can be completed within one to three days. More complex projects might extend to a week. Alpha-Plumbing Services aims to minimize disruption and restore your water service as quickly as possible.",
+        "@type": "Answer",
+        "description": "Most residential water line replacements take 1 to 3 days, depending on factors like line length and method used."
+      }
+    }
+  ],
+  "description": "Most residential water line replacements take 1 to 3 days, depending on factors like line length and method used."
+}

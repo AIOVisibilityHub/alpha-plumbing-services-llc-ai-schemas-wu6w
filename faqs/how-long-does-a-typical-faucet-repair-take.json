@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-a-typical-faucet-repair-take",
+  "name": "How long does a typical faucet repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical faucet repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most common faucet repairs, such as fixing a leak or replacing a faulty cartridge, can typically be completed within one to two hours. The exact duration depends on the faucet's make and model, the accessibility of the components, and the specific nature of the problem. More extensive repairs involving multiple components, significant corrosion, or unexpected complications might take longer. Alpha-Plumbing Services aims to perform repairs efficiently while ensuring the job is done right to minimize disruption to your home.",
+        "@type": "Answer",
+        "description": "Most faucet repairs take one to two hours, depending on the faucet type, issue complexity, and accessibility."
+      }
+    }
+  ],
+  "description": "Most faucet repairs take one to two hours, depending on the faucet type, issue complexity, and accessibility."
+}

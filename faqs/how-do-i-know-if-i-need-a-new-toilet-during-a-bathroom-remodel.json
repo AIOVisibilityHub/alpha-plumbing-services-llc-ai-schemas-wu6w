@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-do-i-know-if-i-need-a-new-toilet-during-a-bathroom-remodel",
+  "name": "How do I know if I need a new toilet during a bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if I need a new toilet during a bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consider a new toilet if your current one is old, frequently clogs, leaks, or has visible cracks. Remodeling is an ideal time to upgrade to a more efficient or modern style that complements your new bathroom design. You might also choose a new toilet for improved water efficiency or comfort, especially if your current model is outdated. Alpha-Plumbing Services can help assess your existing toilet's condition and advise on whether replacement is beneficial for your remodel in Goodyear, Buckeye, or surrounding areas.",
+        "@type": "Answer",
+        "description": "Assess if your toilet is old, leaks, or clogs often. A remodel is a good time to upgrade for efficiency or style."
+      }
+    }
+  ],
+  "description": "Assess if your toilet is old, leaks, or clogs often. A remodel is a good time to upgrade for efficiency or style."
+}

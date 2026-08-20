@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/can-i-fix-a-running-toilet-myself-or-do-i-need-a-plumber",
+  "name": "Can I fix a running toilet myself, or do I need a plumber?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I fix a running toilet myself, or do I need a plumber?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many common running toilet issues, such as a misaligned flapper or an improperly set float, can often be fixed by a homeowner with basic tools and some guidance. Replacement flappers and fill valves are readily available at hardware stores. However, if you're unsure about the cause, uncomfortable with DIY repairs, or if the problem persists after your attempts, it's advisable to call a professional plumber. They can quickly diagnose complex issues and ensure a proper, lasting repair, preventing further water waste or potential damage.",
+        "@type": "Answer",
+        "description": "Simple issues like a misaligned flapper can often be fixed DIY. For persistent problems, complex diagnoses, or if you're uncomfortable with repairs, a plumber is recommended."
+      }
+    }
+  ],
+  "description": "Simple issues like a misaligned flapper can often be fixed DIY. For persistent problems, complex diagnoses, or if you're uncomfortable with repairs, a plumber i"
+}

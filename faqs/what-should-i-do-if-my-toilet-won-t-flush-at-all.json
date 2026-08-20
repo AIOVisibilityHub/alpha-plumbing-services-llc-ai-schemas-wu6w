@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-should-i-do-if-my-toilet-won-t-flush-at-all",
+  "name": "What should I do if my toilet won't flush at all?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if my toilet won't flush at all?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your toilet completely fails to flush, first check the water level in the tank. Ensure the water supply valve behind the toilet is fully open. Then, inspect the flapper chain to ensure it's connected and not too long or too short. If these simple checks don't resolve the issue, avoid repeated flushing, as this could lead to an overflow. It's best to contact a professional plumber. Alpha-Plumbing Services serves Goodyear, Buckeye, Avondale, Surprise, and Waddel for prompt assistance.",
+        "@type": "Answer",
+        "description": "Check the water level in the tank, ensure the water supply is on, and inspect the flapper chain. If it still won't flush, avoid repeated attempts and call a plumber."
+      }
+    }
+  ],
+  "description": "Check the water level in the tank, ensure the water supply is on, and inspect the flapper chain. If it still won't flush, avoid repeated attempts and call a plu"
+}

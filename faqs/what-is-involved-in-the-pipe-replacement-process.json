@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-involved-in-the-pipe-replacement-process",
+  "name": "What is involved in the pipe replacement process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the pipe replacement process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The pipe replacement process typically begins with an assessment to determine the extent of replacement needed. Next, existing pipes are accessed, often requiring small, strategic openings in walls or ceilings. New pipes are then installed, connecting to fixtures and the main water line. Finally, walls or other access points are repaired, and the system is tested for leaks and proper function. Our team will keep you informed at every stage.",
+        "@type": "Answer",
+        "description": "The process involves assessment, accessing old pipes, installing new ones, repairing access points, and testing the new system."
+      }
+    }
+  ],
+  "description": "The process involves assessment, accessing old pipes, installing new ones, repairing access points, and testing the new system."
+}

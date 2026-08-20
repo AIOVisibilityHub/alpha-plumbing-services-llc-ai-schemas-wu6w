@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/is-it-safe-to-drink-water-from-newly-replaced-copper-pipes",
+  "name": "Is it safe to drink water from newly replaced copper pipes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is it safe to drink water from newly replaced copper pipes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, it is generally safe to drink water from newly replaced copper pipes once they have been properly flushed. During installation, small amounts of debris or flux may be present, which is why flushing the system thoroughly before use is a standard practice. Your plumber will ensure the system is clean and ready for use. Copper is a natural element and a common material for safe drinking water delivery.",
+        "@type": "Answer",
+        "description": "Yes, once properly flushed after installation, it is safe to drink water from new copper pipes."
+      }
+    }
+  ],
+  "description": "Yes, once properly flushed after installation, it is safe to drink water from new copper pipes."
+}

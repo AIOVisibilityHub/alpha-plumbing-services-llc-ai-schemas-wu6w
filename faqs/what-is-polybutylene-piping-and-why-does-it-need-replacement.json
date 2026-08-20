@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-polybutylene-piping-and-why-does-it-need-replacement",
+  "name": "What is polybutylene piping and why does it need replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is polybutylene piping and why does it need replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Polybutylene is a type of plastic resin used extensively in plumbing systems from 1978 to 1995. While initially seen as a cost-effective alternative to copper, it has since been found to be prone to failure. Exposure to oxidants in public water supplies, like chlorine, can cause the pipes and plastic fittings to become brittle, crack, and leak. These failures often occur without warning, leading to significant water damage. Due to the high risk of leaks and potential property damage, replacement with more reliable materials like PEX or copper is strongly recommended for homes with polybutylene plumbing.",
+        "@type": "Answer",
+        "description": "Polybutylene is a plastic pipe material used from 1978-1995 that degrades from water oxidants, leading to leaks and requiring replacement."
+      }
+    }
+  ],
+  "description": "Polybutylene is a plastic pipe material used from 1978-1995 that degrades from water oxidants, leading to leaks and requiring replacement."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-factors-influence-the-cost-of-broken-water-line-repair",
+  "name": "What factors influence the cost of broken water line repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of broken water line repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of repairing a broken water line varies depending on several factors. These include the location and accessibility of the break (e.g., under a slab, in the yard), the extent of the damage to the pipe, and the type of pipe material (e.g., copper, PEX, galvanized steel). Repair methods, such as traditional excavation versus trenchless technologies, also impact the overall cost. We provide transparent estimates after a comprehensive assessment to ensure you understand all associated expenses.",
+        "@type": "Answer",
+        "description": "Cost factors include the break's location and accessibility, extent of damage, pipe material, and the chosen repair method. We provide transparent estimates."
+      }
+    }
+  ],
+  "description": "Cost factors include the break's location and accessibility, extent of damage, pipe material, and the chosen repair method. We provide transparent estimates."
+}

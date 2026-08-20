@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/why-is-my-toilet-not-flushing",
+  "name": "Why is my toilet not flushing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is my toilet not flushing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A toilet that isn't flushing can be caused by several issues. Common reasons include a low water level in the tank, a faulty flapper that isn't lifting or sealing correctly, a clogged overflow pipe, or a problem with the fill valve. Less common but possible causes involve blockages in the trap or main drain line. Identifying the specific cause usually requires a quick inspection of the toilet's internal components. If you're in Goodyear, Buckeye, Avondale, Surprise, or Waddel, Alpha-Plumbing Services can help diagnose the problem.",
+        "@type": "Answer",
+        "description": "Common reasons your toilet isn't flushing include low water in the tank, a faulty flapper, or a clogged overflow pipe. Blockages can also prevent proper flushing."
+      }
+    }
+  ],
+  "description": "Common reasons your toilet isn't flushing include low water in the tank, a faulty flapper, or a clogged overflow pipe. Blockages can also prevent proper flushin"
+}

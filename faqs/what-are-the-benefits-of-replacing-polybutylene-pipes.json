@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-the-benefits-of-replacing-polybutylene-pipes",
+  "name": "What are the benefits of replacing polybutylene pipes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of replacing polybutylene pipes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacing polybutylene pipes offers significant benefits, primarily peace of mind. It eliminates the constant worry of catastrophic leaks and potential water damage. A re-pipe can improve water pressure and flow throughout your home, and using modern materials like PEX or copper enhances the reliability and longevity of your plumbing system. This upgrade also increases your home's value and can simplify the process of obtaining homeowner's insurance, as many insurers are hesitant to cover homes with polybutylene.",
+        "@type": "Answer",
+        "description": "Benefits include eliminating leak worries, improved water pressure, enhanced plumbing reliability, increased home value, and easier homeowner's insurance."
+      }
+    }
+  ],
+  "description": "Benefits include eliminating leak worries, improved water pressure, enhanced plumbing reliability, increased home value, and easier homeowner's insurance."
+}

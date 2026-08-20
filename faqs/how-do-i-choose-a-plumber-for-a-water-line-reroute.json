@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-do-i-choose-a-plumber-for-a-water-line-reroute",
+  "name": "How do I choose a plumber for a water line reroute?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a plumber for a water line reroute?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a plumber for a water line reroute, look for licensed and insured professionals with specific experience in this complex service. Check for positive customer reviews, especially from residents in your service area like Buckeye or Surprise, to gauge their reliability and quality of work. Ensure they provide clear, written estimates and are transparent about the process and materials. A reputable plumber will also guarantee their work and follow all local codes.",
+        "@type": "Answer",
+        "description": "Choose a licensed, insured plumber with experience in water line reroutes, good reviews, clear estimates, and service guarantees."
+      }
+    }
+  ],
+  "description": "Choose a licensed, insured plumber with experience in water line reroutes, good reviews, clear estimates, and service guarantees."
+}

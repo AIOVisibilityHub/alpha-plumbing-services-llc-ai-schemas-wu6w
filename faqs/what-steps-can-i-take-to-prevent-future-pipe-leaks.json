@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-steps-can-i-take-to-prevent-future-pipe-leaks",
+  "name": "What steps can I take to prevent future pipe leaks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps can I take to prevent future pipe leaks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preventing pipe leaks involves several proactive measures. Regularly inspect exposed pipes for signs of corrosion or wear. Insulate pipes in unheated areas to prevent freezing in colder months. Address high water pressure issues, as excessive pressure can strain pipes and fixtures. Avoid pouring grease down drains, which can lead to clogs and increased pressure. For older homes, consider professional plumbing inspections to identify potential weaknesses before they become leaks. Timely repairs of small issues can prevent larger problems.",
+        "@type": "Answer",
+        "description": "Prevent leaks by inspecting pipes, insulating against freezing, managing water pressure, and avoiding drain clogs. Regular professional inspections can also identify potential issues early."
+      }
+    }
+  ],
+  "description": "Prevent leaks by inspecting pipes, insulating against freezing, managing water pressure, and avoiding drain clogs. Regular professional inspections can also ide"
+}

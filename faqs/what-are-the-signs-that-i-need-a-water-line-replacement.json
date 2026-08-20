@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-the-signs-that-i-need-a-water-line-replacement",
+  "name": "What are the signs that I need a water-line replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs that I need a water-line replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Key indicators that you might need a water-line replacement include a sudden drop in water pressure, visible leaks in your yard or home, discolored or rusty-looking water, and unusually high water bills without a change in usage. Persistent damp spots in your yard that don't dry, or the sound of running water when no fixtures are in use, can also signal a hidden leak. If your home has older pipes, especially those made of lead or polybutylene, proactive replacement might be advisable before major issues arise.",
+        "@type": "Answer",
+        "description": "Signs include low water pressure, visible leaks, discolored water, high water bills, persistent damp spots in the yard, or older pipes made of lead or polybutylene."
+      }
+    }
+  ],
+  "description": "Signs include low water pressure, visible leaks, discolored water, high water bills, persistent damp spots in the yard, or older pipes made of lead or polybutyl"
+}

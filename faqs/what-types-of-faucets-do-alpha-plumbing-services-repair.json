@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-types-of-faucets-do-alpha-plumbing-services-repair",
+  "name": "What types of faucets do Alpha-Plumbing Services repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of faucets do Alpha-Plumbing Services repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Alpha-Plumbing Services is equipped to repair a wide variety of faucet types commonly found in residential and commercial properties. This includes single-handle, double-handle, ball, disc, cartridge, and compression faucets for kitchens, bathrooms, laundry rooms, and utility sinks. Our experienced plumbers are familiar with numerous brands and models, ensuring we can address most faucet issues effectively. We aim to provide comprehensive repair solutions tailored to your specific faucet needs.",
+        "@type": "Answer",
+        "description": "Alpha-Plumbing Services repairs various faucet types, including single-handle, double-handle, ball, disc, cartridge, and compression faucets."
+      }
+    }
+  ],
+  "description": "Alpha-Plumbing Services repairs various faucet types, including single-handle, double-handle, ball, disc, cartridge, and compression faucets."
+}

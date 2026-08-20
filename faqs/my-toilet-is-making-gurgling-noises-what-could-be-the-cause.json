@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/my-toilet-is-making-gurgling-noises-what-could-be-the-cause",
+  "name": "My toilet is making gurgling noises. What could be the cause?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "My toilet is making gurgling noises. What could be the cause?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Gurgling noises from your toilet, especially after flushing or when another plumbing fixture is used, often indicate an issue with your plumbing vent system or a partial clog in the main drain line. The vent pipe allows air into the drain system, preventing a vacuum. If it's blocked, air can be pulled through the toilet trap, causing gurgling. A partial clog in the main drain can also restrict water flow, leading to air bubbles and gurgling sounds as water struggles to pass. These issues can affect multiple fixtures and usually require a professional to diagnose and clear the blockage in the vent or drain line.",
+        "@type": "Answer",
+        "description": "Gurgling noises typically suggest a problem with your plumbing vent system or a partial clog in the main drain line, which can cause air to be pulled through the toilet trap."
+      }
+    }
+  ],
+  "description": "Gurgling noises typically suggest a problem with your plumbing vent system or a partial clog in the main drain line, which can cause air to be pulled through th"
+}

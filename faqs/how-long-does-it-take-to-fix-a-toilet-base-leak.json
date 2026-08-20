@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-it-take-to-fix-a-toilet-base-leak",
+  "name": "How long does it take to fix a toilet base leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to fix a toilet base leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most standard toilet base leak repairs, such as replacing a wax ring and resealing the toilet, can typically be completed within 1 to 2 hours. This timeframe includes draining the toilet, removing it, replacing the old seal, and reinstalling it properly. More complex issues, like repairing subfloor damage or replacing a cracked toilet, will naturally take longer. Our plumbers work efficiently to minimize disruption.",
+        "@type": "Answer",
+        "description": "Replacing a wax ring typically takes 1-2 hours. More complex repairs, like subfloor damage, will take longer."
+      }
+    }
+  ],
+  "description": "Replacing a wax ring typically takes 1-2 hours. More complex repairs, like subfloor damage, will take longer."
+}

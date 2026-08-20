@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-much-does-it-cost-to-fix-a-toilet-leaking-at-the-base",
+  "name": "How much does it cost to fix a toilet leaking at the base?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to fix a toilet leaking at the base?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to fix a toilet leaking at the base varies depending on the cause and the parts needed. Replacing a wax ring, which is a common fix, typically involves labor and the cost of the new wax ring and bolts. If the toilet itself is cracked and needs replacement, the cost will be higher, including the new toilet unit and installation. We provide upfront estimates after diagnosing the specific issue.",
+        "@type": "Answer",
+        "description": "Costs vary based on the leak's cause, but replacing a wax ring is generally less expensive than replacing a cracked toilet. We provide upfront estimates."
+      }
+    }
+  ],
+  "description": "Costs vary based on the leak's cause, but replacing a wax ring is generally less expensive than replacing a cracked toilet. We provide upfront estimates."
+}

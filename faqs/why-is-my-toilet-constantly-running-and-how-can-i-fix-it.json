@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/why-is-my-toilet-constantly-running-and-how-can-i-fix-it",
+  "name": "Why is my toilet constantly running and how can I fix it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is my toilet constantly running and how can I fix it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A constantly running toilet is typically due to a faulty flapper valve that isn't sealing properly, a fill valve that's set too high, or a worn-out fill valve assembly. The flapper might be old and stiff, preventing a tight seal, or the chain could be too long, getting caught under it. Adjusting the fill valve to ensure the water level is below the overflow tube can resolve an overfilling tank. If these simple adjustments don't work, replacing the flapper or the entire fill valve assembly is often necessary. These repairs can be straightforward for a homeowner, but complex issues benefit from professional attention.",
+        "@type": "Answer",
+        "description": "A constantly running toilet is usually caused by a faulty flapper valve or a fill valve issue. Adjusting the water level or replacing these parts can often resolve it."
+      }
+    }
+  ],
+  "description": "A constantly running toilet is usually caused by a faulty flapper valve or a fill valve issue. Adjusting the water level or replacing these parts can often reso"
+}

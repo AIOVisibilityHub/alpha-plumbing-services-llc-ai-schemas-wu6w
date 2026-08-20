@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-quickly-should-i-address-a-pipe-leak",
+  "name": "How quickly should I address a pipe leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly should I address a pipe leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should address a pipe leak as quickly as possible. Even small leaks can waste significant amounts of water over time and lead to serious property damage, including mold growth, structural compromise, and increased utility bills. Immediate action can prevent minor issues from becoming major, costly repairs. If you notice a leak, it's best to contact a professional plumber right away to assess the situation and perform necessary repairs.",
+        "@type": "Answer",
+        "description": "Address pipe leaks immediately to prevent water waste, costly property damage, mold growth, and structural issues. Prompt action can save time and money."
+      }
+    }
+  ],
+  "description": "Address pipe leaks immediately to prevent water waste, costly property damage, mold growth, and structural issues. Prompt action can save time and money."
+}

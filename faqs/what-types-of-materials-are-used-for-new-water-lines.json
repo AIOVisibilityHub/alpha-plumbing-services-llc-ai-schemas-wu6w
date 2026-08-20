@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-types-of-materials-are-used-for-new-water-lines",
+  "name": "What types of materials are used for new water lines?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of materials are used for new water lines?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common materials for new water lines include copper, PEX (cross-linked polyethylene), and occasionally PVC (polyvinyl chloride) or CPVC (chlorinated polyvinyl chloride) for specific applications. Copper is durable and long-lasting but can be more expensive. PEX is flexible, corrosion-resistant, and easier to install, making it a popular choice. PVC/CPVC are rigid plastics suitable for certain uses but may have temperature or pressure limitations. The best material for your replacement will depend on local codes, water conditions, and your budget.",
+        "@type": "Answer",
+        "description": "New water lines commonly use copper, PEX, or PVC/CPVC. Copper is durable, PEX is flexible and corrosion-resistant, and plastics are used for specific applications."
+      }
+    }
+  ],
+  "description": "New water lines commonly use copper, PEX, or PVC/CPVC. Copper is durable, PEX is flexible and corrosion-resistant, and plastics are used for specific applicatio"
+}

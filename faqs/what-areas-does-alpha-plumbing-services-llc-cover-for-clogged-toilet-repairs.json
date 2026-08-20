@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-areas-does-alpha-plumbing-services-llc-cover-for-clogged-toilet-repairs",
+  "name": "What areas does Alpha-Plumbing Services, LLC cover for clogged toilet repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas does Alpha-Plumbing Services, LLC cover for clogged toilet repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Alpha-Plumbing Services, LLC provides expert clogged toilet repair services in several local areas. Our service technicians are available in Goodyear, Buckeye, Avondale, Surprise, and Waddell. If you are experiencing a toilet blockage in any of these communities, our team is ready to respond with prompt and reliable plumbing solutions.",
+        "@type": "Answer",
+        "description": "Alpha-Plumbing Services, LLC covers clogged toilet repairs in Goodyear, Buckeye, Avondale, Surprise, and Waddell."
+      }
+    }
+  ],
+  "description": "Alpha-Plumbing Services, LLC covers clogged toilet repairs in Goodyear, Buckeye, Avondale, Surprise, and Waddell."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-should-i-consider-repairing-versus-completely-replacing-a-water-line",
+  "name": "When should I consider repairing versus completely replacing a water line?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider repairing versus completely replacing a water line?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding between repair and replacement hinges on the nature and frequency of the problem. A single, isolated leak in an otherwise healthy pipe might be suitable for repair. However, if your water line is old, shows signs of extensive corrosion, has multiple leaks, or is made of problematic materials like lead or polybutylene, a full replacement is generally the more economical and reliable long-term solution. Frequent repairs can be costly and disruptive. Our plumbers can help you assess the condition of your line to recommend the best course of action.",
+        "@type": "Answer",
+        "description": "Repair is suitable for isolated leaks; replacement is better for old, corroded pipes, multiple leaks, or problematic materials like lead or polybutylene for long-term reliability."
+      }
+    }
+  ],
+  "description": "Repair is suitable for isolated leaks; replacement is better for old, corroded pipes, multiple leaks, or problematic materials like lead or polybutylene for lon"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-the-common-signs-of-polybutylene-pipe-failure",
+  "name": "What are the common signs of polybutylene pipe failure?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs of polybutylene pipe failure?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Polybutylene pipes often fail without obvious external signs until a leak occurs. However, some indicators might suggest an issue. These include a sudden drop in water pressure, unexplained increases in your water bill, discolored water, or visible water stains on ceilings or walls. Small, recurrent leaks, even if they seem minor, can also be a warning sign. Since internal degradation is common, a pipe can look fine externally but be structurally compromised. Proactive inspection is key to prevent major damage.",
+        "@type": "Answer",
+        "description": "Signs include sudden water pressure drops, unexplained high water bills, discolored water, visible water stains, or small, recurrent leaks."
+      }
+    }
+  ],
+  "description": "Signs include sudden water pressure drops, unexplained high water bills, discolored water, visible water stains, or small, recurrent leaks."
+}

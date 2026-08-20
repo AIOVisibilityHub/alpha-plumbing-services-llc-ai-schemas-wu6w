@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-much-does-a-toilet-replacement-typically-cost",
+  "name": "How much does a toilet replacement typically cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a toilet replacement typically cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a toilet replacement varies depending on the type of toilet, its features, and the complexity of the installation. Basic models are less expensive, while high-efficiency or comfort-height toilets can cost more. Installation labor also contributes to the total. Alpha-Plumbing Services provides transparent quotes after assessing your specific needs and chosen fixture, ensuring you understand all costs involved before we begin work.",
+        "@type": "Answer",
+        "description": "Toilet replacement costs vary by toilet type, features, and installation complexity. We provide detailed quotes after an assessment."
+      }
+    }
+  ],
+  "description": "Toilet replacement costs vary by toilet type, features, and installation complexity. We provide detailed quotes after an assessment."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-should-i-consider-replacing-my-toilet-instead-of-repairing-it",
+  "name": "When should I consider replacing my toilet instead of repairing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my toilet instead of repairing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consider replacing your toilet if it's an older model with frequent flushing issues, requires costly parts that are hard to find, or if the bowl itself is cracked or constantly clogs despite repairs. If repair costs approach or exceed half the price of a new, more efficient toilet, replacement is often more economical in the long run. Modern toilets can also offer significant water savings. Alpha-Plumbing Services can provide guidance on repair vs. replacement options in Goodyear, Buckeye, Avondale, Surprise, and Waddel.",
+        "@type": "Answer",
+        "description": "Replace if repairs are frequent, parts are expensive, or if the toilet is old and inefficient. Consider replacement when repair costs near a new toilet's price."
+      }
+    }
+  ],
+  "description": "Replace if repairs are frequent, parts are expensive, or if the toilet is old and inefficient. Consider replacement when repair costs near a new toilet's price."
+}

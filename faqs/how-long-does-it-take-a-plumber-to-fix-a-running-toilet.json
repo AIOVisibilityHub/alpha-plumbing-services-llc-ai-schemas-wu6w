@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-it-take-a-plumber-to-fix-a-running-toilet",
+  "name": "How long does it take a plumber to fix a running toilet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take a plumber to fix a running toilet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most common running toilet issues can be diagnosed and repaired by a professional plumber relatively quickly. Simple fixes, such as replacing a flapper or adjusting a fill valve, often take between 30 minutes to an hour. More complex problems, like replacing the entire flush valve assembly or addressing issues with the toilet's internal mechanisms, might take longer, potentially up to 1.5 to 2 hours. The exact time depends on the specific cause, the availability of parts, and the complexity of the toilet's design.",
+        "@type": "Answer",
+        "description": "A plumber can typically fix a running toilet in 30 minutes to 2 hours, depending on whether it's a simple adjustment or a component replacement."
+      }
+    }
+  ],
+  "description": "A plumber can typically fix a running toilet in 30 minutes to 2 hours, depending on whether it's a simple adjustment or a component replacement."
+}

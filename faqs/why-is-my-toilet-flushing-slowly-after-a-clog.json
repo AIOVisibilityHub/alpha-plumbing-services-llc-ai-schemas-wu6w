@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/why-is-my-toilet-flushing-slowly-after-a-clog",
+  "name": "Why is my toilet flushing slowly after a clog?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is my toilet flushing slowly after a clog?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A slow-flushing toilet after a clog indicates that the blockage may not be fully cleared, or there could be a partial obstruction further down the pipe. Residual debris can restrict water flow, leading to a weak flush. It might also suggest an issue with the toilet's internal mechanisms, such as a faulty flapper or mineral buildup in the rim jets, which affects flushing power.",
+        "@type": "Answer",
+        "description": "Slow flushing after a clog often means the blockage isn't fully cleared, or there's a partial obstruction in the pipe."
+      }
+    }
+  ],
+  "description": "Slow flushing after a clog often means the blockage isn't fully cleared, or there's a partial obstruction in the pipe."
+}

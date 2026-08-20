@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-should-i-repair-my-toilet-versus-replacing-the-entire-unit",
+  "name": "When should I repair my toilet versus replacing the entire unit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I repair my toilet versus replacing the entire unit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding between repairing and replacing a toilet depends on several factors. If the issue is minor, like a faulty flapper, fill valve, or a small leak, repair is usually the most cost-effective option. However, if your toilet is old, frequently clogs, has visible cracks in the tank or bowl, or requires frequent, expensive repairs, replacement might be more economical in the long run. Modern toilets are also more water-efficient, potentially saving on water bills. A professional plumber can assess the condition of your toilet and provide a recommendation based on the severity of the problem and the age of the unit.",
+        "@type": "Answer",
+        "description": "Repair minor issues like faulty valves. Consider replacement if the toilet is old, frequently clogs, has cracks, or needs expensive, recurring repairs. A plumber can advise."
+      }
+    }
+  ],
+  "description": "Repair minor issues like faulty valves. Consider replacement if the toilet is old, frequently clogs, has cracks, or needs expensive, recurring repairs. A plumbe"
+}

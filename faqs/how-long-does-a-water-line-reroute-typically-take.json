@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-a-water-line-reroute-typically-take",
+  "name": "How long does a water line reroute typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a water line reroute typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a water line reroute can vary depending on the complexity of your home's layout, the length of the new piping needed, and the accessibility of the work areas. A standard residential water line reroute usually takes one to three days. This includes the time for assessment, preparation, installation of new lines, connection to fixtures, and testing the new system to ensure everything is functioning correctly and without leaks.",
+        "@type": "Answer",
+        "description": "A typical residential water line reroute usually takes one to three days, depending on complexity and accessibility."
+      }
+    }
+  ],
+  "description": "A typical residential water line reroute usually takes one to three days, depending on complexity and accessibility."
+}

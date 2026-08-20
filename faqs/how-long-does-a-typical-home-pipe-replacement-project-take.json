@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-a-typical-home-pipe-replacement-project-take",
+  "name": "How long does a typical home pipe replacement project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical home pipe replacement project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a home pipe replacement project depends on the scope of work, including the size of your house and the complexity of its plumbing system. For an average-sized home, a full repiping can typically take anywhere from 3 to 7 days. Our team works efficiently to minimize disruption and will provide a clear timeline after an initial assessment, ensuring transparency throughout the process.",
+        "@type": "Answer",
+        "description": "Most full home pipe replacements take 3-7 days, depending on home size and system complexity. We provide a clear timeline after assessment."
+      }
+    }
+  ],
+  "description": "Most full home pipe replacements take 3-7 days, depending on home size and system complexity. We provide a clear timeline after assessment."
+}

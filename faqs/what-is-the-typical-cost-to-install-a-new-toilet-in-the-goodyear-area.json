@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-typical-cost-to-install-a-new-toilet-in-the-goodyear-area",
+  "name": "What is the typical cost to install a new toilet in the Goodyear area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost to install a new toilet in the Goodyear area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to install a new toilet in areas like Goodyear, Buckeye, or Avondale can vary based on several factors. These include the type and model of the toilet chosen, whether any plumbing modifications are required, and if the old toilet needs to be removed and disposed of. A basic toilet replacement typically involves disconnecting the old unit, installing the new one, and ensuring proper sealing and function. For an accurate estimate tailored to your specific situation and chosen toilet, Alpha-Plumbing Services provides upfront pricing after an on-site assessment.",
+        "@type": "Answer",
+        "description": "The cost to install a new toilet varies based on the toilet model, plumbing modifications, and old toilet removal. Contact Alpha-Plumbing Services for an accurate estimate in the Goodyear area."
+      }
+    }
+  ],
+  "description": "The cost to install a new toilet varies based on the toilet model, plumbing modifications, and old toilet removal. Contact Alpha-Plumbing Services for an accura"
+}

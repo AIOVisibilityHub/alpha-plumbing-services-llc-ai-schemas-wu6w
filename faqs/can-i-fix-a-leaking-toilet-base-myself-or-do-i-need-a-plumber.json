@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/can-i-fix-a-leaking-toilet-base-myself-or-do-i-need-a-plumber",
+  "name": "Can I fix a leaking toilet base myself, or do I need a plumber?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I fix a leaking toilet base myself, or do I need a plumber?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor leaks from loose bolts might be tightened by a homeowner, addressing a leaking wax ring typically requires removing the toilet, replacing the old ring, and carefully reinstalling the toilet. This process can be challenging, as toilets are heavy and proper alignment is crucial for a lasting seal. If you're unsure, lack the necessary tools, or suspect a more complex issue like a cracked porcelain, hiring a professional plumber ensures the repair is done correctly, preventing further damage.",
+        "@type": "Answer",
+        "description": "You might fix minor leaks from loose bolts, but replacing a wax ring often requires professional help due to the complexity of removing and reinstalling the toilet."
+      }
+    }
+  ],
+  "description": "You might fix minor leaks from loose bolts, but replacing a wax ring often requires professional help due to the complexity of removing and reinstalling the toi"
+}

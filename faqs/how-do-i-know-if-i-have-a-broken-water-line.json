@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-do-i-know-if-i-have-a-broken-water-line",
+  "name": "How do I know if I have a broken water line?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if I have a broken water line?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs of a broken water line often include unexplained wet spots in your yard or on your pavement, unusually high water bills without a change in usage, a noticeable drop in water pressure inside your home, discolored water, or the sound of running water when no faucets are open. If you observe any of these indicators, it's advisable to contact a professional plumber immediately to diagnose the issue and prevent further damage.",
+        "@type": "Answer",
+        "description": "Look for unexplained wet spots, high water bills, low water pressure, discolored water, or sounds of running water when no faucets are open."
+      }
+    }
+  ],
+  "description": "Look for unexplained wet spots, high water bills, low water pressure, discolored water, or sounds of running water when no faucets are open."
+}

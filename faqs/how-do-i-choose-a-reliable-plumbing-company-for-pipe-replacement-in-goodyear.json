@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-do-i-choose-a-reliable-plumbing-company-for-pipe-replacement-in-goodyear",
+  "name": "How do I choose a reliable plumbing company for pipe replacement in Goodyear?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a reliable plumbing company for pipe replacement in Goodyear?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a plumbing company for pipe replacement in Goodyear or surrounding areas, look for licensed and insured professionals with a strong track record. Check for local reviews, ask for references, and ensure they provide detailed, written estimates. A reputable company should offer clear communication, stand behind their work with guarantees, and have experience with repiping projects specific to residential properties in our climate. Alpha-Plumbing Services is licensed and insured in your area.",
+        "@type": "Answer",
+        "description": "Choose licensed, insured plumbers with good local reviews. Get detailed estimates and ensure they offer guarantees for their work."
+      }
+    }
+  ],
+  "description": "Choose licensed, insured plumbers with good local reviews. Get detailed estimates and ensure they offer guarantees for their work."
+}

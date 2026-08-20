@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-can-i-prepare-my-bathroom-for-a-new-toilet-installation",
+  "name": "How can I prepare my bathroom for a new toilet installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prepare my bathroom for a new toilet installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare your bathroom for a new toilet installation, first clear the area around the toilet, removing any rugs, decorative items, or cleaning supplies. Ensure there's enough space for the plumber to work comfortably and for the old toilet to be removed. If you have purchased a new toilet, make sure it's readily accessible for the installation team. It's also helpful to ensure easy access to the main water shut-off valve, although our plumbers can locate it if needed. This preparation helps ensure a smooth and efficient installation process.",
+        "@type": "Answer",
+        "description": "Prepare your bathroom by clearing the area around the toilet, ensuring easy access for the plumber, and making sure the new toilet is accessible."
+      }
+    }
+  ],
+  "description": "Prepare your bathroom by clearing the area around the toilet, ensuring easy access for the plumber, and making sure the new toilet is accessible."
+}

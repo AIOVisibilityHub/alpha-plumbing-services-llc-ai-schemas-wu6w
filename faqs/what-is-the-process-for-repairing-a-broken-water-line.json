@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-process-for-repairing-a-broken-water-line",
+  "name": "What is the process for repairing a broken water line?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for repairing a broken water line?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our repair process begins with a thorough inspection using advanced leak detection equipment to accurately locate the break. Once pinpointed, we'll discuss the best repair method, which might involve excavation for a traditional repair or trenchless techniques depending on the damage and location. Our technicians will then perform the repair, which could include patching, clamping, or replacing a section of the pipe. After the repair, we test the line to ensure integrity and restore your property with minimal disruption.",
+        "@type": "Answer",
+        "description": "We locate the break using detection equipment, then discuss repair options like excavation or trenchless methods. We repair, test, and restore the area."
+      }
+    }
+  ],
+  "description": "We locate the break using detection equipment, then discuss repair options like excavation or trenchless methods. We repair, test, and restore the area."
+}

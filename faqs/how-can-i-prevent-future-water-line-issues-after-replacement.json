@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-can-i-prevent-future-water-line-issues-after-replacement",
+  "name": "How can I prevent future water line issues after replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent future water line issues after replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After water line replacement, you can help prevent future issues by being mindful of what you plant near your new lines, as aggressive tree roots can cause damage. Avoiding heavy vehicles driving over the line's path, if applicable, can also extend its life. Regular plumbing inspections can identify potential problems early. Alpha-Plumbing Services uses high-quality materials and professional installation to maximize the lifespan of your new water line.",
+        "@type": "Answer",
+        "description": "Prevent future issues by avoiding aggressive tree roots near lines, preventing heavy vehicle traffic over them, and scheduling regular plumbing inspections."
+      }
+    }
+  ],
+  "description": "Prevent future issues by avoiding aggressive tree roots near lines, preventing heavy vehicle traffic over them, and scheduling regular plumbing inspections."
+}

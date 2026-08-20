@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-common-signs-of-a-partially-clogged-toilet",
+  "name": "What are common signs of a partially clogged toilet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs of a partially clogged toilet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A partially clogged toilet often shows signs like slow draining after flushing, water levels rising higher than usual before slowly receding, or a gurgling sound coming from the toilet or other drains after flushing. These indicators suggest there's an obstruction that hasn't fully blocked the pipe yet, but it's reducing the water flow.",
+        "@type": "Answer",
+        "description": "Signs include slow draining, water rising high before receding, or gurgling sounds after flushing. These indicate a partial obstruction."
+      }
+    }
+  ],
+  "description": "Signs include slow draining, water rising high before receding, or gurgling sounds after flushing. These indicate a partial obstruction."
+}

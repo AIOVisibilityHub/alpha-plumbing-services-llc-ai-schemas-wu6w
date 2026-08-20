@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/why-is-my-toilet-leaking-at-the-base",
+  "name": "Why is my toilet leaking at the base?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is my toilet leaking at the base?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A toilet leaking at the base usually indicates a problem with the wax ring or the bolts securing the toilet to the floor. The wax ring creates a watertight seal between the toilet and the drainpipe; if it's old, damaged, or installed incorrectly, water can seep out. Loose toilet bolts can also compromise this seal, allowing water to escape with every flush. Less common causes include cracks in the toilet bowl or tank, or condensation building up around the base, which might be mistaken for a leak.",
+        "@type": "Answer",
+        "description": "A toilet leaking at the base often means a faulty wax ring or loose toilet bolts are compromising the seal to the drainpipe."
+      }
+    }
+  ],
+  "description": "A toilet leaking at the base often means a faulty wax ring or loose toilet bolts are compromising the seal to the drainpipe."
+}

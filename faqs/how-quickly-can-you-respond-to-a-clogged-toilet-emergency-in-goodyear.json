@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-quickly-can-you-respond-to-a-clogged-toilet-emergency-in-goodyear",
+  "name": "How quickly can you respond to a clogged toilet emergency in Goodyear?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly can you respond to a clogged toilet emergency in Goodyear?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "As a local plumbing service for Goodyear, Buckeye, Avondale, Surprise, and Waddell, we prioritize emergency calls. We strive to provide prompt service to address urgent issues like overflowing toilets as quickly as possible. Our dispatch team will give you an estimated arrival time when you call.",
+        "@type": "Answer",
+        "description": "We prioritize emergency calls in Goodyear and nearby areas. We aim for prompt service and will provide an estimated arrival time when you call."
+      }
+    }
+  ],
+  "description": "We prioritize emergency calls in Goodyear and nearby areas. We aim for prompt service and will provide an estimated arrival time when you call."
+}

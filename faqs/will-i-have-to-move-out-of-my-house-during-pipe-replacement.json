@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/will-i-have-to-move-out-of-my-house-during-pipe-replacement",
+  "name": "Will I have to move out of my house during pipe replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will I have to move out of my house during pipe replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In most residential pipe replacement projects, you do not need to move out of your home. Our plumbers work to maintain functionality of essential services where possible. There might be periods when water is temporarily shut off for parts of the day. We will communicate the schedule in advance, and our team strives to complete the work with minimal disruption to your daily routine, allowing you to stay in your home.",
+        "@type": "Answer",
+        "description": "Typically, you do not need to move out. Water may be temporarily shut off, but we minimize disruption and communicate schedules in advance."
+      }
+    }
+  ],
+  "description": "Typically, you do not need to move out. Water may be temporarily shut off, but we minimize disruption and communicate schedules in advance."
+}

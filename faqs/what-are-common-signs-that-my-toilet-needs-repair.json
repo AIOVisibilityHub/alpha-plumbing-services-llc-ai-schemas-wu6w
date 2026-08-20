@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-common-signs-that-my-toilet-needs-repair",
+  "name": "What are common signs that my toilet needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my toilet needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs your toilet needs repair include continuous running, weak or incomplete flushing, leaks around the base, and unusual noises like gurgling or whistling. A running toilet can waste significant water, while a weak flush might indicate issues with the flapper, fill valve, or siphon jet. Leaks often point to a failing wax ring or loose tank bolts. Addressing these issues promptly can prevent further damage and higher water bills. If you notice any of these symptoms, it's best to have a professional diagnose the problem to ensure a proper and lasting repair. This proactive approach helps maintain your plumbing system's efficiency and prevents minor issues from escalating into major emergencies.",
+        "@type": "Answer",
+        "description": "Common signs include a continuously running toilet, weak flushing, leaks around the base, and strange noises. These indicate issues with internal components or seals."
+      }
+    }
+  ],
+  "description": "Common signs include a continuously running toilet, weak flushing, leaks around the base, and strange noises. These indicate issues with internal components or"
+}

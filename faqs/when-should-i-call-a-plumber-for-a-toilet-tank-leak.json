@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-should-i-call-a-plumber-for-a-toilet-tank-leak",
+  "name": "When should I call a plumber for a toilet tank leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a plumber for a toilet tank leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a plumber if you cannot identify the source of the leak, if your attempted repairs don't stop the leak, or if the leak is significant and causing damage. A professional plumber has the tools and expertise to accurately diagnose the problem, whether it's a worn gasket, a cracked tank, or a complex fill valve issue. Prompt professional intervention can prevent extensive water damage to your flooring or ceiling and ensure the repair is done correctly the first time, saving you time and potential future costs.",
+        "@type": "Answer",
+        "description": "Call a plumber if you can't find the leak source, your repairs fail, or the leak is substantial. Professionals can prevent water damage and ensure proper repair."
+      }
+    }
+  ],
+  "description": "Call a plumber if you can't find the leak source, your repairs fail, or the leak is substantial. Professionals can prevent water damage and ensure proper repair"
+}

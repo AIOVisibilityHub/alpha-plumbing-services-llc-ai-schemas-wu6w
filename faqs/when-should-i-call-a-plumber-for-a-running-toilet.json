@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-should-i-call-a-plumber-for-a-running-toilet",
+  "name": "When should I call a plumber for a running toilet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a plumber for a running toilet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a plumber for a running toilet if you've attempted basic troubleshooting steps (like checking the flapper and float) and the problem persists. If you can't identify the cause, or if you're uncomfortable performing the repair yourself, a professional can accurately diagnose and fix the issue. Additionally, if the running water is causing other problems, like overflowing or significant water pooling around the base, immediate professional help is advised to prevent water damage.",
+        "@type": "Answer",
+        "description": "Call a plumber if DIY fixes don't work, you can't identify the problem, or if the running toilet is causing water damage or overflow."
+      }
+    }
+  ],
+  "description": "Call a plumber if DIY fixes don't work, you can't identify the problem, or if the running toilet is causing water damage or overflow."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-process-for-replacing-a-single-water-line",
+  "name": "What is the process for replacing a single water line?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for replacing a single water line?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process generally begins with a thorough inspection to locate the problem and determine the best replacement strategy. Next, the water supply to the affected area is shut off. If the line is underground, excavation may be necessary. The old pipe is then disconnected and removed, followed by the installation of the new water line. Connections are made, and the system is tested for leaks and proper pressure. Finally, any excavated areas are backfilled and restored. Our team ensures the work area is left clean and tidy.",
+        "@type": "Answer",
+        "description": "The process involves inspection, shutting off water, excavating if needed, removing the old pipe, installing the new one, testing for leaks, and restoring the site."
+      }
+    }
+  ],
+  "description": "The process involves inspection, shutting off water, excavating if needed, removing the old pipe, installing the new one, testing for leaks, and restoring the s"
+}

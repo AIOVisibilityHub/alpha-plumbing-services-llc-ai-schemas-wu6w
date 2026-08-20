@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-difference-between-a-running-toilet-and-a-leaky-toilet",
+  "name": "What is the difference between a running toilet and a leaky toilet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a running toilet and a leaky toilet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A 'running toilet' specifically refers to the sound of water continuously entering the toilet tank or bowl, often after flushing, indicating that the fill valve isn't shutting off completely or the flapper isn't sealing properly. A 'leaky toilet' is a broader term that can include a running toilet but also encompasses leaks from other parts, such as the base of the toilet, the water supply line, or internal tank cracks. While a running toilet is a type of leak, not all leaks cause the toilet to 'run' in the audible sense, like a slow drip from the base.",
+        "@type": "Answer",
+        "description": "A running toilet means water is continuously flowing into the tank or bowl. A leaky toilet is a broader term for water escaping from any part, including a running issue or a leak from the base."
+      }
+    }
+  ],
+  "description": "A running toilet means water is continuously flowing into the tank or bowl. A leaky toilet is a broader term for water escaping from any part, including a runni"
+}

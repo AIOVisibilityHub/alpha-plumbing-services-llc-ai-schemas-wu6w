@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-a-typical-toilet-tank-leak-repair-take",
+  "name": "How long does a typical toilet tank leak repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical toilet tank leak repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a toilet tank leak repair depends on the complexity of the issue. Simple repairs, such as replacing a flapper or adjusting a fill valve, can often be completed within 30 minutes to an hour. More involved repairs, like replacing a tank-to-bowl gasket or a full flush valve assembly, might take 1 to 2 hours. If the problem requires troubleshooting or part replacement not immediately on hand, it could take longer. A plumber can provide a more accurate time estimate after diagnosing the specific leak.",
+        "@type": "Answer",
+        "description": "Simple repairs like flapper replacement take 30-60 minutes. More complex jobs, such as gasket replacement, may take 1-2 hours."
+      }
+    }
+  ],
+  "description": "Simple repairs like flapper replacement take 30-60 minutes. More complex jobs, such as gasket replacement, may take 1-2 hours."
+}

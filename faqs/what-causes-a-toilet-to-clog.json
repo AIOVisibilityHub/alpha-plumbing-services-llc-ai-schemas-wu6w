@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-causes-a-toilet-to-clog",
+  "name": "What causes a toilet to clog?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes a toilet to clog?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Toilets commonly clog due to non-flushable items like wipes, paper towels, or feminine hygiene products. Excessive toilet paper can also cause blockages. In some cases, tree roots infiltrating sewer lines or damaged pipes can lead to recurring clogs. Older low-flow toilets may also struggle to move waste effectively, contributing to frequent clogs. Understanding the cause can help prevent future issues.",
+        "@type": "Answer",
+        "description": "Common causes include non-flushable items, excessive toilet paper, and sometimes tree roots or damaged pipes."
+      }
+    }
+  ],
+  "description": "Common causes include non-flushable items, excessive toilet paper, and sometimes tree roots or damaged pipes."
+}

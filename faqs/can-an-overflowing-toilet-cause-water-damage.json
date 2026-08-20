@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/can-an-overflowing-toilet-cause-water-damage",
+  "name": "Can an overflowing toilet cause water damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can an overflowing toilet cause water damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, an overflowing toilet can cause significant water damage if not addressed quickly. Water can seep into flooring, subflooring, walls, and even ceilings if the overflow occurs on an upper floor. This can lead to structural damage, mold growth, and damage to personal belongings. Prompt action, including shutting off the water and cleaning up the spill, is crucial to minimize potential damage and associated repair costs.",
+        "@type": "Answer",
+        "description": "Yes, an overflowing toilet can cause significant water damage to floors, walls, and belongings, and can lead to mold if not addressed quickly."
+      }
+    }
+  ],
+  "description": "Yes, an overflowing toilet can cause significant water damage to floors, walls, and belongings, and can lead to mold if not addressed quickly."
+}

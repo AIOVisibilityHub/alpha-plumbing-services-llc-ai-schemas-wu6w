@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/do-you-offer-emergency-plumbing-services-for-running-toilets-in-goodyear",
+  "name": "Do you offer emergency plumbing services for running toilets in Goodyear?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer emergency plumbing services for running toilets in Goodyear?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Alpha-Plumbing Services, LLC provides plumbing services for running toilets and other issues in Goodyear, Arizona, and surrounding areas. While a running toilet isn't always an emergency, continuous running can lead to significant water waste and potential water damage. If you're experiencing a persistent running toilet or any other urgent plumbing problem, please contact us. We serve Goodyear, Buckeye, Avondale, and Surprise, and can schedule a service appointment to address your needs promptly.",
+        "@type": "Answer",
+        "description": "Yes, Alpha-Plumbing Services, LLC addresses running toilet issues in Goodyear and surrounding areas. Contact us for service."
+      }
+    }
+  ],
+  "description": "Yes, Alpha-Plumbing Services, LLC addresses running toilet issues in Goodyear and surrounding areas. Contact us for service."
+}

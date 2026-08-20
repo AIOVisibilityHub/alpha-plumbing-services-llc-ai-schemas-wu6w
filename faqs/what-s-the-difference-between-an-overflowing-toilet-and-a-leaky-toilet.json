@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-s-the-difference-between-an-overflowing-toilet-and-a-leaky-toilet",
+  "name": "What's the difference between an overflowing toilet and a leaky toilet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between an overflowing toilet and a leaky toilet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An overflowing toilet involves water spilling over the rim of the bowl, usually due to a clog or a tank overfilling. It's a sudden event where water actively exits the toilet structure. A leaky toilet, however, refers to water slowly escaping from a crack, loose connection, or a worn seal. Leaks can be gradual drips from the tank, base, or supply line, often leading to water pooling around the toilet or phantom flushing, rather than an immediate spill over the top.",
+        "@type": "Answer",
+        "description": "An overflowing toilet spills water over the rim due to a clog, while a leaky toilet involves water slowly escaping from a crack or loose connection."
+      }
+    }
+  ],
+  "description": "An overflowing toilet spills water over the rim due to a clog, while a leaky toilet involves water slowly escaping from a crack or loose connection."
+}

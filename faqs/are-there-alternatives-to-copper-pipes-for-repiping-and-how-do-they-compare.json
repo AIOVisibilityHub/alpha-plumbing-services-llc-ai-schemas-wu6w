@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/are-there-alternatives-to-copper-pipes-for-repiping-and-how-do-they-compare",
+  "name": "Are there alternatives to copper pipes for repiping, and how do they compare?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there alternatives to copper pipes for repiping, and how do they compare?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, common alternatives include PEX (cross-linked polyethylene) and CPVC (chlorinated polyvinyl chloride). PEX is flexible, corrosion-resistant, and less expensive to install than copper. CPVC is rigid, corrosion-resistant, and also generally more affordable than copper. While copper is durable and long-lasting, PEX and CPVC offer different benefits in terms of cost, installation ease, and resistance to certain water conditions. We can discuss options suitable for your specific needs.",
+        "@type": "Answer",
+        "description": "Alternatives like PEX and CPVC offer different cost, flexibility, and corrosion resistance benefits compared to traditional copper pipes."
+      }
+    }
+  ],
+  "description": "Alternatives like PEX and CPVC offer different cost, flexibility, and corrosion resistance benefits compared to traditional copper pipes."
+}

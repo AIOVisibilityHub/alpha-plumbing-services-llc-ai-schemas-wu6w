@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-much-does-it-cost-to-repair-a-leaking-pipe",
+  "name": "How much does it cost to repair a leaking pipe?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to repair a leaking pipe?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to repair a leaking pipe can vary widely depending on several factors, such as the location of the leak, the type of pipe, the extent of the damage, and whether walls or flooring need to be opened and repaired. Minor repairs might be a few hundred dollars, while more complex jobs involving extensive damage or difficult access can be significantly more. We provide transparent estimates after a thorough inspection.",
+        "@type": "Answer",
+        "description": "Leak repair costs vary based on leak location, pipe type, and damage extent. Minor repairs are less, while complex jobs cost more. We offer transparent estimates."
+      }
+    }
+  ],
+  "description": "Leak repair costs vary based on leak location, pipe type, and damage extent. Minor repairs are less, while complex jobs cost more. We offer transparent estimate"
+}

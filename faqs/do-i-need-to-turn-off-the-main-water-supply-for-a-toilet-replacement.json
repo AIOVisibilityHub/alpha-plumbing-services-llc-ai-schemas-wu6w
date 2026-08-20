@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/do-i-need-to-turn-off-the-main-water-supply-for-a-toilet-replacement",
+  "name": "Do I need to turn off the main water supply for a toilet replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to turn off the main water supply for a toilet replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you should turn off the main water supply to your house before beginning a toilet replacement. While there is a shut-off valve behind the toilet itself, turning off the main supply adds an extra layer of precaution and is essential if the toilet's shut-off valve is faulty or needs replacement. This prevents accidental water flow and potential flooding during the removal of the old unit and installation of the new one.",
+        "@type": "Answer",
+        "description": "Yes, turn off the main water supply to your house for a toilet replacement. This prevents potential flooding and ensures safety during the process."
+      }
+    }
+  ],
+  "description": "Yes, turn off the main water supply to your house for a toilet replacement. This prevents potential flooding and ensures safety during the process."
+}

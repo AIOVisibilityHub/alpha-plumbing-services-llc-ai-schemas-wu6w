@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-it-take-to-replace-a-toilet-during-a-bathroom-remodel",
+  "name": "How long does it take to replace a toilet during a bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to replace a toilet during a bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Typically, replacing a standard toilet takes approximately 2 to 4 hours. This timeframe can vary based on whether new plumbing lines or floor modifications are required, or if the new toilet has different rough-in dimensions than the old one. If the remodel involves significant changes to the bathroom layout, the overall project duration will be longer. Alpha-Plumbing Services aims for efficient installations to minimize disruption to your remodel timeline.",
+        "@type": "Answer",
+        "description": "Standard toilet replacement usually takes 2-4 hours, but can vary with plumbing adjustments or floor modifications."
+      }
+    }
+  ],
+  "description": "Standard toilet replacement usually takes 2-4 hours, but can vary with plumbing adjustments or floor modifications."
+}

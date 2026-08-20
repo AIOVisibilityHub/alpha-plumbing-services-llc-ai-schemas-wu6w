@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-should-i-call-a-plumber-for-a-clogged-toilet",
+  "name": "When should I call a plumber for a clogged toilet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a plumber for a clogged toilet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a plumber if your toilet remains clogged after using a plunger, if you experience frequent clogs, or if multiple drains in your home are slow or backed up. These issues might indicate a deeper problem in your plumbing system, such as a main sewer line blockage. A professional can diagnose and resolve complex clogs that household tools cannot handle.",
+        "@type": "Answer",
+        "description": "Call a plumber if plunging doesn't work, clogs are frequent, or multiple drains are affected, indicating a main line issue."
+      }
+    }
+  ],
+  "description": "Call a plumber if plunging doesn't work, clogs are frequent, or multiple drains are affected, indicating a main line issue."
+}

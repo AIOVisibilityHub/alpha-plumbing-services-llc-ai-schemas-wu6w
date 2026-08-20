@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-much-water-does-a-running-toilet-waste",
+  "name": "How much water does a running toilet waste?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much water does a running toilet waste?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A continuously running toilet can waste a significant amount of water, leading to higher utility bills. Even a slow, undetectable leak can waste hundreds of gallons per day. A moderately running toilet can waste between 1 to 5 gallons per minute, which can translate to thousands of gallons per month. This wasted water not only impacts your wallet but also puts unnecessary strain on water resources. Promptly fixing a running toilet is important for both conservation and cost savings.",
+        "@type": "Answer",
+        "description": "A running toilet can waste hundreds to thousands of gallons of water per month, significantly increasing utility bills and impacting water conservation."
+      }
+    }
+  ],
+  "description": "A running toilet can waste hundreds to thousands of gallons of water per month, significantly increasing utility bills and impacting water conservation."
+}

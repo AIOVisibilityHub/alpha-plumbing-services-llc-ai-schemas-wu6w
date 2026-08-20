@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-areas-do-alpha-plumbing-services-cover-for-toilet-leak-repairs",
+  "name": "What areas do Alpha-Plumbing Services cover for toilet leak repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas do Alpha-Plumbing Services cover for toilet leak repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Alpha-Plumbing Services, LLC proudly provides toilet leak repair services to homeowners and businesses in Goodyear, Buckeye, Avondale, Surprise, and Waddell. Our team of experienced plumbers is familiar with the common plumbing issues in these communities and is equipped to provide prompt and reliable service. We understand the urgency of plumbing leaks and strive to offer timely appointments to minimize disruption and potential water damage to your property.",
+        "@type": "Answer",
+        "description": "Alpha-Plumbing Services covers toilet leak repairs in Goodyear, Buckeye, Avondale, Surprise, and Waddell, providing prompt and reliable service."
+      }
+    }
+  ],
+  "description": "Alpha-Plumbing Services covers toilet leak repairs in Goodyear, Buckeye, Avondale, Surprise, and Waddell, providing prompt and reliable service."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-the-signs-that-my-copper-pipes-need-to-be-replaced",
+  "name": "What are the signs that my copper pipes need to be replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs that my copper pipes need to be replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common indicators that your copper pipes may need replacement include persistent leaks, discolored water (brown, green, or blue), reduced water pressure, and frequent pipe repairs. Corrosion, pitting, or pinhole leaks are also clear signs of aging copper pipes. If your home is older and still has original copper piping, it's worth having a professional inspection to assess their condition and prevent potential water damage.",
+        "@type": "Answer",
+        "description": "Signs include persistent leaks, discolored water, low water pressure, and frequent repairs, especially in older homes."
+      }
+    }
+  ],
+  "description": "Signs include persistent leaks, discolored water, low water pressure, and frequent repairs, especially in older homes."
+}

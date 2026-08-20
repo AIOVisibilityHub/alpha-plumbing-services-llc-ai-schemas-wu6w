@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/will-a-water-line-reroute-damage-my-home-s-structure",
+  "name": "Will a water line reroute damage my home's structure?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will a water line reroute damage my home's structure?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A properly executed water line reroute is designed to minimize structural damage to your home. Our plumbers use precise techniques to cut into drywall or flooring only where necessary to install new lines. Any disturbed areas are typically patched and prepared for finishing after the plumbing work is complete. The goal is to provide a reliable water system with as little impact to your property as possible, and we discuss all steps with you beforehand.",
+        "@type": "Answer",
+        "description": "A properly executed water line reroute minimizes structural damage, with necessary cuts patched after new lines are installed."
+      }
+    }
+  ],
+  "description": "A properly executed water line reroute minimizes structural damage, with necessary cuts patched after new lines are installed."
+}

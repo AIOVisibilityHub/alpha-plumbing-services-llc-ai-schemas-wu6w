@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-common-signs-that-i-need-water-line-replacement",
+  "name": "What are common signs that I need water line replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that I need water line replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common indicators for water line replacement include consistently low water pressure, discolored water (brown, yellow, or rusty), wet spots in your yard that don't dry, unusually high water bills without increased usage, and visible leaks from pipes. Frequent repairs on your existing water line also suggest it might be time for a full replacement. Addressing these signs promptly can prevent further damage to your property.",
+        "@type": "Answer",
+        "description": "Look for low water pressure, discolored water, wet spots in the yard, high water bills, or frequent leaks. These indicate potential water line issues."
+      }
+    }
+  ],
+  "description": "Look for low water pressure, discolored water, wet spots in the yard, high water bills, or frequent leaks. These indicate potential water line issues."
+}

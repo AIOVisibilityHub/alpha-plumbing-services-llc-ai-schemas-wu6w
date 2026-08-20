@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/does-alpha-plumbing-services-offer-emergency-water-line-replacement-in-avondale",
+  "name": "Does Alpha-Plumbing Services offer emergency water line replacement in Avondale or Surprise?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does Alpha-Plumbing Services offer emergency water line replacement in Avondale or Surprise?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Alpha-Plumbing Services understands that a burst or severely leaking water line is an emergency. We offer prompt emergency water line replacement services to residents and businesses in our service areas, including Avondale and Surprise. Our team is equipped to respond quickly to minimize water damage and restore your essential water supply. Contact us immediately if you suspect an emergency water line issue.",
+        "@type": "Answer",
+        "description": "Yes, Alpha-Plumbing Services provides emergency water line replacement in Avondale, Surprise, and other service areas to address urgent issues."
+      }
+    }
+  ],
+  "description": "Yes, Alpha-Plumbing Services provides emergency water line replacement in Avondale, Surprise, and other service areas to address urgent issues."
+}

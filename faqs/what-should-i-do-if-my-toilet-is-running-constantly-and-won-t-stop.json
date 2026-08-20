@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-should-i-do-if-my-toilet-is-running-constantly-and-won-t-stop",
+  "name": "What should I do if my toilet is running constantly and won't stop?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if my toilet is running constantly and won't stop?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your toilet is running constantly and you can't stop it, the first immediate step is to turn off the water supply to the toilet. The shut-off valve is usually located on the wall behind or near the base of the toilet. Turn it clockwise until the water flow stops. This will prevent further water waste and potential overflow. Once the water is off, you can then attempt basic troubleshooting or, if preferred, contact a professional plumber like Alpha-Plumbing Services, LLC to diagnose and repair the underlying problem.",
+        "@type": "Answer",
+        "description": "If your toilet won't stop running, immediately turn off the water supply using the shut-off valve behind the toilet, then troubleshoot or call a plumber."
+      }
+    }
+  ],
+  "description": "If your toilet won't stop running, immediately turn off the water supply using the shut-off valve behind the toilet, then troubleshoot or call a plumber."
+}

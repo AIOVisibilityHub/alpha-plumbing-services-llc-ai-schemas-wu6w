@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-can-i-choose-the-right-plumber-for-copper-pipe-replacement",
+  "name": "How can I choose the right plumber for copper pipe replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I choose the right plumber for copper pipe replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a plumber for copper pipe replacement, look for licensed and insured professionals with experience in repiping. Check their local reputation through reviews and ask for references. Ensure they provide a clear, written estimate that details the scope of work and materials. A reliable plumber should also be knowledgeable about local codes and permit requirements. Alpha-Plumbing Services, LLC meets these criteria and provides services in Goodyear, Buckeye, Avondale, and Surprise.",
+        "@type": "Answer",
+        "description": "Choose licensed, insured plumbers with good reviews, clear estimates, and knowledge of local codes, like Alpha-Plumbing Services."
+      }
+    }
+  ],
+  "description": "Choose licensed, insured plumbers with good reviews, clear estimates, and knowledge of local codes, like Alpha-Plumbing Services."
+}

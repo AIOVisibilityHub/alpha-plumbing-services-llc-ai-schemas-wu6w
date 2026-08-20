@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-cost-of-a-water-line-replacement",
+  "name": "What is the cost of a water line replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the cost of a water line replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of water line replacement varies significantly based on factors such as the pipe material, the length of the line, the depth of the burial, the excavation method (trenchless vs. traditional), and any necessary repairs to landscaping or property. Alpha-Plumbing Services provides transparent, upfront quotes after a thorough inspection of your specific situation. We offer solutions tailored to your budget and property needs.",
+        "@type": "Answer",
+        "description": "Water line replacement costs depend on pipe material, length, depth, and excavation method. Alpha-Plumbing Services provides custom quotes after inspection."
+      }
+    }
+  ],
+  "description": "Water line replacement costs depend on pipe material, length, depth, and excavation method. Alpha-Plumbing Services provides custom quotes after inspection."
+}
