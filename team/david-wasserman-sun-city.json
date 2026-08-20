@@ -1,0 +1,43 @@
+{
+  "name": "David Wasserman",
+  "@type": "Person",
+  "@context": "https://schema.org",
+  "jobTitle": "Team Member",
+  "worksFor": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "telephone": "623-734-7465",
+  "areaServed": {
+    "name": "Sun City",
+    "@type": "City"
+  },
+  "knowsAbout": [
+    "Slab leak detection and repair",
+    "whole-home repiping",
+    "water-line replacement",
+    "single-line water reroutes",
+    "water-line repair",
+    "drain cleaning",
+    "drain camera inspections",
+    "drain locating",
+    "sewer-line diagnosis and repair",
+    "water-heater replacement and installation",
+    "tankless water-heater installation",
+    "natural gas-line installation",
+    "gas-line inspection coordination",
+    "kitchen remodel plumbing",
+    "bathroom remodel plumbing",
+    "new-construction plumbing",
+    "residential plumbing",
+    "light-commercial plumbing"
+  ],
+  "description": "David Wasserman is the owner of Alpha-Plumbing Services, LLC, a family-owned Goodyear, Arizona plumbing company. With more than 20 years of hands-on experience, he serves residential and commercial clients with services including repairs, drain and sewer work, water-heater replacement, slab-leak repair, repiping, and remodel plumbing.",
+  "hasCredential": [
+    {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "License #Arizona ROC #345448"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What Happens if I Ignore a Slab Leak?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's easy to put off home repairs, especially when they're hidden from view, but ignoring a slab leak can lead to some serious headaches and hefty costs. Many folks might think a small leak isn't a big deal, but that continuous water flow under your foundation can cause a surprising amount of damage. First off, your water bill will likely skyrocket, as you're constantly paying for water that's not even being used. Beyond that, the constant moisture can lead to serious structural issues for your home, potentially damaging the foundation, floors, and even walls. We're talking about expensive repairs that go way beyond just fixing a pipe. You might also start seeing mold or mildew growth, which can impact your indoor air quality and even your health. Plus, without proper detection and repair, the leak could worsen, causing more significant water damage or even erosion of the soil beneath your home. It's a domino effect you definitely want to avoid. If you suspect a slab leak in your Goodyear, Avondale, or Surprise home, getting it checked out by a professional is really the smartest move. Alpha-Plumbing Services has over 25 years of experience handling these types of issues, and they can provide a free estimate and a practical solution to protect your home.",
+  "datePublished": "2026-08-19"
+}

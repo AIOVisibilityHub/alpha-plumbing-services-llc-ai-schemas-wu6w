@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Mistakes to Avoid When Dealing With Natural Gas Lines",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Working with natural gas lines isn't like fixing a leaky faucet—it's serious business, and there are some critical mistakes to steer clear of. First and foremost, never, ever try to fix a gas leak yourself. Gas is highly flammable and explosive, so DIY attempts are incredibly dangerous. Always evacuate and call professionals immediately. Second, assuming you can install a new gas appliance or extend a line without proper knowledge or tools is a huge risk. Incorrect installation can lead to leaks, carbon monoxide poisoning, or even explosions. Third, neglecting regular maintenance on your gas appliances or lines can lead to problems. Gas systems need occasional checks to ensure they're operating safely and efficiently. Fourth, using improper materials or fittings for gas lines is a big no-no. Everything needs to be specifically rated for gas to prevent leaks and ensure durability. Fifth, failing to get necessary permits and inspections for gas line work can result in fines, unsafe conditions, and complications if you ever sell your home. Lastly, if you smell gas, don't use anything that could create a spark—that includes light switches, phones, or even your car ignition nearby. When it comes to gas lines, always trust certified and experienced professionals like Alpha-Plumbing Services, LLC. We're equipped to handle gas line installations and repairs safely across Goodyear and the West Valley, ensuring your peace of mind.",
+  "datePublished": "2026-08-19"
+}

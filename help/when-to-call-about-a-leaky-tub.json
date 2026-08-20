@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When to Call About a Leaky Tub",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Noticing a drip, drip, drip from your tub? It might seem minor, but ignoring a leaky tub can lead to bigger, more expensive problems down the road, like water damage to your floors or even structural issues. You definitely don't want that! If you're seeing persistent puddles around the base of your tub, discolored or soft spots on your ceiling below (if you have an upstairs bathroom), or even a noticeable increase in your water bill, it's a pretty strong sign that something's amiss. Sometimes, it’s just a worn-out faucet washer, which is a fairly straightforward fix. Other times, it could be a more complex issue with the drain assembly or even a crack in the tub itself. Our team at Alpha-Plumbing Services has seen it all, and with over 25 years of experience, we can quickly diagnose the problem and offer a practical solution. Don't let a small leak turn into a flood – giving us a call is the best way to protect your home. We're happy to help homeowners in Goodyear, Buckeye, Avondale, and other West Valley communities get things flowing smoothly again. Just reach out to us at 623-734-7465 to schedule an appointment!",
+  "datePublished": "2026-08-19"
+}

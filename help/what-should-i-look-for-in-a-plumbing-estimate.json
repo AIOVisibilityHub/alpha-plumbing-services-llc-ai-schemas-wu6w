@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What Should I Look for in a Plumbing Estimate?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When you're getting plumbing work done, whether it's a minor repair or a big project like a whole-home repipe, understanding your estimate is crucial. You want to make sure you're getting a fair and transparent deal, and that all the necessary details are covered. First off, look for a clear breakdown of costs. Does it detail parts, labor, and any potential extra fees? A good estimate won't just be a single number. Secondly, ensure it clearly outlines the scope of work. What exactly is being repaired, replaced, or installed? For instance, if it's a water heater replacement, does it include removal of the old unit? Third, check for any guarantees or warranties on both parts and labor. We stand behind our work, guaranteeing proper installation up to international plumbing code. Also, confirm that the company is licensed and insured, like Alpha-Plumbing Services with ROC #345448. Finally, make sure the estimate is in writing. This protects both you and the plumbing company. Don't be afraid to ask questions until you feel completely comfortable with what's being offered. A reputable plumber, like us, will be happy to explain everything to your satisfaction.",
+  "datePublished": "2026-08-19"
+}

@@ -1,0 +1,49 @@
+{
+  "url": "www.alpha-plumbingservices.com",
+  "name": "natural gas-line installation",
+  "@type": "LocalBusiness",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Goodyear"
+  },
+  "@context": "https://schema.org",
+  "provider": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "LocalBusiness",
+    "telephone": "623-734-7465"
+  },
+  "telephone": "623-734-7465",
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West",
+      "@type": "City"
+    }
+  ],
+  "description": "Learn how Alpha-Plumbing Services, LLC approaches natural gas-line installation in Goodyear, Buckeye, Avondale, including the typical process, what to expect, and how to get started.",
+  "serviceType": "natural gas-line installation"
+}

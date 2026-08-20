@@ -1,0 +1,84 @@
+{
+  "name": "Mistakes to Avoid When Getting a Plumbing Estimate",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "Getting an estimate for plumbing work can sometimes feel overwhelming, but avoiding a few common mistakes can save you a lot of hassle and money down the road. First, don't rush the process. It's tempting to go with the first quote you get, especially if you have an urgent issue, but taking a moment to ensure it's comprehensive is key. Second, don't just compare prices. A cheaper estimate might mean lower quality parts, less experienced labor, or hidden fees. Always compare the scope of work and what's included. Third, neglecting to ask about licensing and insurance. A professional plumbing company, like Alpha-Plumbing Services, will be licensed, bonded, and insured (our ROC # is 345448), protecting you in case of any unforeseen issues. Fourth, failing to get the estimate in writing. Verbal agreements can lead to misunderstandings; always insist on a detailed, written estimate. Fifth, not clarifying what's *not* included. Sometimes, disposal fees or permit costs aren't in the initial quote, so ask about potential additional charges. Finally, don't ignore your gut feeling. If something feels off, or you're pressured into a decision, it's okay to step back. By avoiding these pitfalls, you'll be better equipped to choose a reliable plumber who provides quality work at a fair price.",
+      "@type": "HowToStep",
+      "position": 1
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "description": "Mistakes to Avoid When Getting a Plumbing Estimate"
+}

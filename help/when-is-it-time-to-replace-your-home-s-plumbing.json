@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When is it Time to Replace Your Home's Plumbing?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Knowing when to replace your home's entire plumbing system, also known as whole-home repiping, can be a big decision, but it's often a smart investment in your property's future. If your home is older, especially built before the 1970s, it likely has galvanized steel or polybutylene pipes, which are notorious for problems. Over time, galvanized pipes corrode internally, leading to reduced water pressure, rust-colored water, and frequent leaks. Polybutylene pipes are also known to fail prematurely, causing costly water damage. Beyond the age and material of your pipes, frequent leaks are a huge red flag. If you're constantly patching up leaks here and there, it's a sign that your entire system might be compromised. Another indicator is consistently low water pressure throughout your home, not just at one faucet. Discolored or foul-smelling water can also point to internal pipe corrosion. Waiting too long can lead to catastrophic pipe bursts and extensive water damage. If you're seeing these signs, especially in older homes across Goodyear, Sun City, or Tolleson, it's definitely time to get a professional opinion. Alpha-Plumbing Services offers free estimates for whole-home repiping and water-line replacement, giving you peace of mind and improved water quality and pressure.",
+  "datePublished": "2026-08-19"
+}

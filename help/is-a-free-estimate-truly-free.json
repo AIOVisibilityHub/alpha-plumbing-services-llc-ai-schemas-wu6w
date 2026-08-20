@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Is a Free Estimate Truly Free?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's a great question to ask when you're looking for any home service, and plumbing is no exception. When we say 'free plumbing estimates,' we really mean it – there's no hidden cost to get an initial assessment of your plumbing issue or project. This isn't just a sales tactic; it's our way of helping you understand the scope of work and the potential costs involved without any upfront commitment. Our free estimate typically involves a plumber coming out to your Goodyear or West Valley location, looking at what's going on – whether it's a leaky faucet, a water heater problem, or a plan for remodel plumbing – and giving you a clear idea of what it will take to fix it. This allows us to assess the situation properly, explain your options, and provide you with a transparent quote for the work needed. The key takeaway is that you shouldn't feel pressured or obligated just because you received a free estimate. It's an opportunity for you to get information, compare solutions, and make an informed decision without opening your wallet until you're ready to proceed with the actual work. It’s part of our commitment to honest communication and practical solutions.",
+  "datePublished": "2026-08-19"
+}

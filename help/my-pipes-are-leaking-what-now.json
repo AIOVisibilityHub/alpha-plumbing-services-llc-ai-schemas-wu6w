@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "My Pipes Are Leaking! What Now?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Finding a leaky pipe is never fun, but knowing what to do immediately can prevent a small problem from turning into a major disaster. First things first, turn off your main water supply. Seriously, don't delay! This will stop the flow and minimize water damage until you can assess the situation. Next, try to contain the water with buckets or towels. Once the immediate crisis is under control, you'll need to figure out if it's an isolated incident or a symptom of a bigger underlying issue, especially if you live in an older home. Frequent leaks, discolored water, or consistently low water pressure throughout your house could indicate that your plumbing system is aging out. In these cases, a single pipe repair might just be a temporary fix. It could be time to consider a more comprehensive solution like whole-home repiping or water-line replacement. Attempting extensive pipe repairs yourself can be risky; a botched job can lead to more leaks and bigger problems down the road. For serious leaks or ongoing issues, it's always best to call a professional plumber. Alpha-Plumbing Services has over 25 years of experience in everything from single-line repairs to complete water repipes across the West Valley, including areas like Buckeye and Waddel. They can help you determine the best, long-term solution for your home's plumbing.",
+  "datePublished": "2026-08-19"
+}

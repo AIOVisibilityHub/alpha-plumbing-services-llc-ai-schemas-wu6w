@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When to Call About Pinhole Leaks",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Pinhole leaks are those tiny, often unnoticed drips that can pop up in your plumbing, and they're a clear signal that something's not quite right. If you start seeing these small, localized leaks, especially in copper pipes, it's usually an indicator that the interior of your pipes is corroding. This corrosion can be caused by various factors, including water chemistry or even how your pipes were installed. What starts as a pinhole can quickly expand or be joined by others, leading to significant water damage, increased water bills, and potential mold issues in your Goodyear home. You should definitely call a professional plumber if you notice any evidence of pinhole leaks, like damp spots on walls or ceilings, unexplained musty odors, or visible drips. It's much better to address it proactively rather than waiting for a pipe to burst. Our team can assess if a targeted single line water re-pipe is the right solution to stop the problem in its tracks and prevent future headaches.",
+  "datePublished": "2026-08-19"
+}

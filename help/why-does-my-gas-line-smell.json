@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Why Does My Gas Line Smell?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "A distinct smell of rotten eggs or sulfur is the most common and urgent sign of a natural gas leak, and it’s crucial to act fast. Natural gas itself is odorless, but utility companies add mercaptan to it specifically so you can detect a leak. Don't ignore this smell, even if it's faint! Other subtle indicators might be a hissing sound near a gas line or appliance, which indicates gas escaping. You might also notice a white cloud or dust cloud near a gas line, or bubbles in standing water over a buried line. If plants near an outdoor gas line are dying for no apparent reason, that could also be a sign. Inside your home, pilot lights that keep going out, or a gas appliance that isn’t working properly, could be linked to a gas line issue. If you suspect a gas leak, the most important thing is to prioritize safety: immediately evacuate everyone from the building, and once you're safely outside, call 911 and your gas company. Do not try to find the leak yourself, and don't turn on or off any lights or electrical appliances, as even a small spark could ignite the gas. Once the immediate danger is handled, professionals like Alpha-Plumbing Services, LLC can assess and repair or install new gas lines safely and efficiently in Goodyear and surrounding West Valley areas, ensuring your system is secure.",
+  "datePublished": "2026-08-19"
+}

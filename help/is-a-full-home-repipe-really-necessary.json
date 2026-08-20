@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Is a Full Home Repipe Really Necessary?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's a common question we get in Goodyear and surrounding areas: 'Do I really need to repipe my whole house?' And honestly, it depends. A complete water re-pipe is definitely a bigger project than a simple repair, but it's often the best long-term solution for homes with systemic plumbing issues. If your house is older and still has original galvanized steel pipes, or if you're constantly battling recurring leaks, low water pressure, or discolored water from multiple fixtures, then yes, it's very likely a full repipe is necessary. These are all signs that your existing plumbing is failing due to corrosion and age. While a single line repair might offer a temporary fix for one spot, it doesn't address the underlying problem affecting your entire home. Think of it as replacing a worn-out engine versus patching a tire. Our experienced team can perform a thorough inspection, explain exactly what's going on with your pipes, and give you an honest recommendation on whether a full repipe is the most practical and cost-effective solution for your home's future. It's about protecting your biggest investment.",
+  "datePublished": "2026-08-19"
+}

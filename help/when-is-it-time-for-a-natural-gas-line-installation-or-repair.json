@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When Is It Time for a Natural Gas Line Installation or Repair?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Knowing when to consider a new natural gas line installation or a repair on an existing one is pretty important for your home's safety and functionality. The most urgent sign, of course, is that distinct rotten egg smell – if you detect that, it's an immediate emergency and you should follow safety protocols right away by evacuating and calling 911 and your gas company. Beyond emergencies, you might need a new installation if you're looking to add a new gas appliance, like a stove, dryer, or outdoor grill, and don't have an existing hookup. Or maybe you're renovating and want to relocate an appliance, which often requires extending or rerouting a gas line. For repairs, look out for frequently extinguished pilot lights on your gas appliances or if an appliance isn't performing as efficiently as it should, which could indicate a minor leak or pressure issue. Visible damage to an outdoor gas line, or changes in vegetation around buried lines, are also signals for professional inspection. Gas line work isn't a DIY job; it requires specialized knowledge and adherence to strict safety codes. If you're in Goodyear, Avondale, Surprise, or anywhere in the West Valley, and you're thinking about adding a new gas appliance, experiencing any issues, or suspect a problem, it’s definitely time to call in the experts. Alpha-Plumbing Services, LLC has the experience to safely handle all your natural gas-line installation and repair needs.",
+  "datePublished": "2026-08-19"
+}

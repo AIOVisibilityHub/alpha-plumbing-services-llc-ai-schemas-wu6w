@@ -1,0 +1,46 @@
+{
+  "name": "Jamie Wasserman",
+  "@type": "Person",
+  "@context": "https://schema.org",
+  "jobTitle": "Team Member",
+  "worksFor": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "telephone": "623-734-7465",
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West",
+      "@type": "City"
+    }
+  ],
+  "knowsAbout": [
+    "Office Manager & Customer Support"
+  ],
+  "description": "Jamie Wasserman, Office Manager & Customer Support: Jamie Wasserman helps keep Alpha-Plumbing Services running smoothly behind the scenes. As the office manager and customer-support contact, she assists customers with scheduling, estimates, appointment coordination, service questions, and follow-up communication. Jamie is committed to providing a friendly, responsive experience from the first call through project completion. As part of the family-owned Alpha-Plumbing Services team, she helps ensure every customer receives clear communication and dependable support."
+}

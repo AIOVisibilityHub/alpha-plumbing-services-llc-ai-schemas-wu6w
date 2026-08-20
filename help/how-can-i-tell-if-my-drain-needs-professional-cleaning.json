@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "How Can I Tell if My Drain Needs Professional Cleaning?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Wondering if it's time to call in the pros for your drain issues? Sometimes, the signs are pretty obvious, but other times, they're more subtle. If your drains are consistently slow, even after you've tried a plunger or a basic cleaner, that's a big red flag. Another common sign is strange gurgling noises coming from your drains, especially after flushing a toilet or running water; this usually indicates trapped air due to a blockage. Unpleasant odors wafting up from your sink or shower drains are also a strong indicator that there's a buildup of organic material needing removal. If you're noticing water backing up in your shower, sink, or toilet, that's a clear sign of a significant blockage that needs immediate attention. Lastly, if multiple drains in your home are acting up at the same time, it could point to a larger issue in your main sewer line. Don't let these issues linger! Ignoring them can lead to bigger plumbing nightmares. If you're experiencing any of these, it's a good time to get our team from Alpha-Plumbing Services to take a look and get things flowing smoothly again.",
+  "datePublished": "2026-08-19"
+}

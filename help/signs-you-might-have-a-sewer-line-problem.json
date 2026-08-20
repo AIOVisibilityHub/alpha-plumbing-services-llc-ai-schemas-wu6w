@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Signs You Might Have a Sewer Line Problem",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Dealing with sewer line issues is never fun, but knowing the warning signs can save you a lot of hassle and expense down the road. One of the most common indicators is multiple clogged drains or toilets in your home. If your toilet is gurgling when you run the washing machine, or your shower backs up when you flush, that's a pretty strong sign something's wrong with the main line. Another major clue is water backing up into unexpected places, like your bathtub filling with water when you flush the toilet. Foul odors, like sewage smells, coming from your drains or even your yard, are also a huge red flag that you've got a break or blockage in your sewer line. Beyond the house, look for strange things happening in your yard: unusually lush patches of grass, indentations in the lawn, or wet spots that don't dry. These could all indicate a leaking sewer pipe underground. If you're seeing any of these signs in Goodyear, Avondale, or any of our service areas, it's really time to call in the professionals for a thorough diagnosis. Early detection can prevent serious damage.",
+  "datePublished": "2026-08-19"
+}

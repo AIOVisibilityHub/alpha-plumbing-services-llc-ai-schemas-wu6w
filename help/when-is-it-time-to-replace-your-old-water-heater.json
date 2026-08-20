@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When Is It Time to Replace Your Old Water Heater?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Knowing when to say goodbye to your old water heater before it completely gives up can save you a lot of stress (and cold showers!). Generally, if your water heater is getting up there in years, like over 10-12 years old, it's probably nearing the end of its lifespan. You might notice it's just not as efficient as it used to be, leading to higher energy bills. Another big sign is frequent breakdowns; if you're constantly calling for repairs, the cost might start to outweigh the benefit of keeping the old unit. Leaking around the base is a definite signal that the tank itself is corroding and failing, which means replacement is usually the only safe and reliable option. Also, if you're getting rusty or discolored water from your hot water taps, it’s a strong indicator of internal corrosion. And don't ignore strange noises like loud banging or rumbling, as that often points to serious sediment buildup that can damage the tank. If any of these sound familiar, especially if you're in Goodyear, Buckeye, or anywhere in the West Valley, it's a good idea to have a trusted plumber like Alpha-Plumbing Services, LLC come out and assess your unit. We can help you weigh the pros and cons of repair versus replacement, making sure you make the best decision for your home.",
+  "datePublished": "2026-08-19"
+}

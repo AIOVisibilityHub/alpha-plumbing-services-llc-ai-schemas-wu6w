@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Common Tub Replacement Mistakes to Avoid",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Replacing a bathtub might seem straightforward, but there are definitely a few common slip-ups folks make that can lead to headaches down the road. First off, a big one is underestimating the scope of the project; it’s not just swapping out one tub for another. You've got to consider plumbing connections, flooring, and even wall integrity. Another common mistake is picking the wrong material for your lifestyle. Acrylic is popular, but cast iron offers different durability and heat retention – know what you want and need! Many people also try to DIY without the proper tools or experience, which can lead to leaks, damage to surrounding areas, or even personal injury. It's really tricky to get everything plumb and sealed correctly without the right know-how. Also, overlooking proper ventilation during installation can set you up for future mold issues, and neglecting to check for subfloor damage before placing a heavy new tub can cause structural problems. Always ensure the new tub fits not just the space, but also your home’s existing plumbing and structural capacity. Getting professional advice can save you a ton of trouble, so don't hesitate to give us a call at Alpha-Plumbing Services, LLC.",
+  "datePublished": "2026-08-19"
+}
