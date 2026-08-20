@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-should-i-do-if-my-neighbors-also-have-low-water-pressure",
+  "name": "What should I do if my neighbors also have low water pressure?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if my neighbors also have low water pressure?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your neighbors are experiencing similar low water pressure issues, it strongly suggests a problem originating from the municipal water supply line rather than your individual property's plumbing. In such cases, the first step is to contact your local water utility provider. They can inform you about any scheduled maintenance, unforeseen outages, or larger-scale issues affecting the community's water pressure. While we can address property-specific problems, municipal issues are beyond our scope.",
+        "@type": "Answer",
+        "description": "If neighbors also have low water pressure, it likely points to a municipal supply issue. Contact your local water utility provider first, as this is beyond individual property plumbing repair."
+      }
+    }
+  ],
+  "description": "If neighbors also have low water pressure, it likely points to a municipal supply issue. Contact your local water utility provider first, as this is beyond indi"
+}

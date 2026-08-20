@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-can-i-tell-if-my-laundry-drain-is-clogged",
+  "name": "How can I tell if my laundry drain is clogged?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if my laundry drain is clogged?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of a clogged laundry drain include your washing machine backing up or overflowing, slow draining water after a wash cycle, gurgling noises from the drain, or a foul odor emanating from the drainpipe. You might also notice standing water around the washing machine base. If you observe any of these issues, it's likely your laundry drain needs attention.",
+        "@type": "Answer",
+        "description": "Signs of a clogged laundry drain include washing machine overflow, slow draining, gurgling noises, or foul odors."
+      }
+    }
+  ],
+  "description": "Signs of a clogged laundry drain include washing machine overflow, slow draining, gurgling noises, or foul odors."
+}

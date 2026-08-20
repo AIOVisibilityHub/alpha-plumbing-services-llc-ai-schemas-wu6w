@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-it-take-to-install-a-new-pressure-reducing-valve",
+  "name": "How long does it take to install a new pressure reducing valve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install a new pressure reducing valve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Installing a new pressure reducing valve (PRV) typically takes a licensed plumber between 1 to 3 hours. The exact time can vary depending on the complexity of the installation, the accessibility of your main water line, and whether any old plumbing needs to be removed or adapted. This timeframe usually includes testing the new valve to ensure proper function and setting the pressure to an optimal level for your home. Your water will need to be temporarily shut off during the process.",
+        "@type": "Answer",
+        "description": "Installing a PRV usually takes 1 to 3 hours, depending on complexity and accessibility, and includes testing for proper function."
+      }
+    }
+  ],
+  "description": "Installing a PRV usually takes 1 to 3 hours, depending on complexity and accessibility, and includes testing for proper function."
+}

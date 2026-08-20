@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-s-the-difference-between-well-water-and-city-water-smells",
+  "name": "What's the difference between well water and city water smells?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between well water and city water smells?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Well water odors often stem from natural geological conditions or biological activity, such as sulfur-reducing bacteria causing a rotten egg smell, or dissolved minerals like iron creating a metallic or earthy odor. These issues are specific to individual wells. City water, supplied by municipalities, is typically disinfected with chlorine or chloramines, which can cause a bleach-like smell. While city water usually has consistent quality, plumbing issues in a home can still lead to localized odors. Understanding your water source helps in identifying the likely cause of any unusual smells.",
+        "@type": "Answer",
+        "description": "Well water smells often come from natural minerals or bacteria, while city water smells are usually due to chlorine disinfection from the municipal treatment."
+      }
+    }
+  ],
+  "description": "Well water smells often come from natural minerals or bacteria, while city water smells are usually due to chlorine disinfection from the municipal treatment."
+}

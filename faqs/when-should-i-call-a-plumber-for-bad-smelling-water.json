@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-should-i-call-a-plumber-for-bad-smelling-water",
+  "name": "When should I call a plumber for bad-smelling water?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a plumber for bad-smelling water?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a plumber for bad-smelling water if the odor is persistent, strong, or if you cannot identify the source after basic troubleshooting. If the smell is accompanied by discoloration, unusual taste, or if anyone in your household experiences illness, it's crucial to contact a professional immediately. For smells like rotten eggs, sewage, or persistent metallic odors, a plumber can conduct tests to pinpoint the cause and recommend appropriate solutions, such as water heater flushing, well treatment, or pipe repairs, ensuring your water is safe and pleasant to use.",
+        "@type": "Answer",
+        "description": "Call a plumber for bad-smelling water if the odor is strong, persistent, or accompanied by discoloration or illness. Professional help is needed to identify the source and solution."
+      }
+    }
+  ],
+  "description": "Call a plumber for bad-smelling water if the odor is strong, persistent, or accompanied by discoloration or illness. Professional help is needed to identify the"
+}

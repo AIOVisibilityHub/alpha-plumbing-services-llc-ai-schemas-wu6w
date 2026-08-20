@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-the-signs-that-my-main-drain-needs-cleaning",
+  "name": "What are the signs that my main drain needs cleaning?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs that my main drain needs cleaning?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several indicators suggest your main drain may need attention. These include water backing up in multiple fixtures simultaneously, such as the toilet overflowing when you use the washing machine or shower. You might also hear gurgling sounds coming from drains or toilets, especially after flushing or running water. Slow drainage in several sinks, tubs, or showers is another common sign. Additionally, foul odors emanating from your drains can indicate a sewage buildup in the main line. Don't ignore these warnings.",
+        "@type": "Answer",
+        "description": "Signs include multiple slow drains, water backing up in fixtures, gurgling noises, or foul odors from drains."
+      }
+    }
+  ],
+  "description": "Signs include multiple slow drains, water backing up in fixtures, gurgling noises, or foul odors from drains."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-the-signs-of-high-water-pressure",
+  "name": "What are the signs of high water pressure?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs of high water pressure?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of high water pressure include loud banging noises in your pipes, especially when water is turned off (known as water hammer). You might also notice toilets refilling quickly and loudly, or faucets and showerheads spraying water with excessive force. Frequent leaks in pipes, faucets, or appliances, and a reduced lifespan of water heaters or dishwashers can also indicate pressure issues. These symptoms suggest your plumbing system is under stress.",
+        "@type": "Answer",
+        "description": "Signs include banging pipes, loud toilet refills, forceful sprays from faucets, and frequent leaks in plumbing or appliances."
+      }
+    }
+  ],
+  "description": "Signs include banging pipes, loud toilet refills, forceful sprays from faucets, and frequent leaks in plumbing or appliances."
+}

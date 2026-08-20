@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-process-for-clearing-a-clogged-floor-drain",
+  "name": "What is the process for clearing a clogged floor drain?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for clearing a clogged floor drain?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process often begins with removing the drain cover and attempting to remove visible debris by hand or with a pair of pliers. For deeper clogs, a plumber might use a drain snake (auger) to break up or retrieve the blockage. If the clog is severe or deep within the pipe, hydro-jetting, which uses high-pressure water, may be employed to thoroughly clean the pipe walls. For persistent issues, a camera inspection can identify the exact cause and location of the problem.",
+        "@type": "Answer",
+        "description": "Clearing a floor drain involves removing debris, using a drain snake for deeper clogs, or hydro-jetting for severe blockages. Camera inspection may be used for persistent issues."
+      }
+    }
+  ],
+  "description": "Clearing a floor drain involves removing debris, using a drain snake for deeper clogs, or hydro-jetting for severe blockages. Camera inspection may be used for"
+}

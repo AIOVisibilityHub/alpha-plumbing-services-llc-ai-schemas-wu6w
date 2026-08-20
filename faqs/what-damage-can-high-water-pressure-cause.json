@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-damage-can-high-water-pressure-cause",
+  "name": "What damage can high water pressure cause?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What damage can high water pressure cause?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "High water pressure can cause significant damage to your home's plumbing system. It can prematurely wear out appliances like water heaters, dishwashers, and washing machines by stressing their internal components and hoses. Pipes, especially older or weaker ones, can develop leaks or burst. Faucets, showerheads, and toilet valves may also leak or fail much sooner than expected. This leads to increased water bills and potentially extensive water damage.",
+        "@type": "Answer",
+        "description": "High water pressure can damage appliances, cause pipe leaks or bursts, and wear out faucets and valves, leading to costly repairs."
+      }
+    }
+  ],
+  "description": "High water pressure can damage appliances, cause pipe leaks or bursts, and wear out faucets and valves, leading to costly repairs."
+}

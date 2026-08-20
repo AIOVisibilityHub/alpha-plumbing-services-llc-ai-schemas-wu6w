@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-much-does-it-cost-to-fix-a-slow-drain",
+  "name": "How much does it cost to fix a slow drain?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to fix a slow drain?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to fix a slow drain varies depending on the complexity of the blockage, its location, and the method required for removal. Simple clogs might be less expensive than main sewer line issues or repairs involving pipe damage. We provide transparent pricing after assessing the problem. For homeowners in Goodyear, Buckeye, Avondale, Surprise, and Waddel, we offer reliable service with clear estimates.",
+        "@type": "Answer",
+        "description": "The cost depends on the clog's complexity and location. We provide transparent pricing after assessing the specific issue."
+      }
+    }
+  ],
+  "description": "The cost depends on the clog's complexity and location. We provide transparent pricing after assessing the specific issue."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-areas-do-you-serve-for-clogged-kitchen-sink-repairs",
+  "name": "What areas do you serve for clogged kitchen sink repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas do you serve for clogged kitchen sink repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Alpha-Plumbing Services, LLC proudly serves several communities for clogged kitchen sink repairs. Our primary service areas include Goodyear, Buckeye, Avondale, and Surprise. We focus on providing prompt and reliable plumbing solutions to residents and businesses within these locations. If you are experiencing a clogged kitchen sink in any of these areas, please reach out to us for professional assistance.",
+        "@type": "Answer",
+        "description": "We serve Goodyear, Buckeye, Avondale, and Surprise for clogged kitchen sink repairs."
+      }
+    }
+  ],
+  "description": "We serve Goodyear, Buckeye, Avondale, and Surprise for clogged kitchen sink repairs."
+}

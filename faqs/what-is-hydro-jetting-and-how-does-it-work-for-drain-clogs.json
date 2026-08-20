@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-hydro-jetting-and-how-does-it-work-for-drain-clogs",
+  "name": "What is hydro-jetting and how does it work for drain clogs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is hydro-jetting and how does it work for drain clogs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hydro-jetting is a highly effective method for clearing stubborn drain clogs and cleaning pipe interiors. It involves using a high-pressure stream of water, often exceeding 4,000 PSI, directed through a specialized nozzle into the drainpipe. This powerful stream not only blasts through blockages caused by grease, roots, mineral buildup, and other debris but also scours the pipe walls, removing accumulated residue. The process thoroughly cleans the pipes, helping to prevent future clogs and restore optimal flow. It is particularly effective for main sewer line blockages.",
+        "@type": "Answer",
+        "description": "Hydro-jetting uses a high-pressure water stream to blast through clogs and clean pipe walls, effectively clearing stubborn blockages and preventing future issues."
+      }
+    }
+  ],
+  "description": "Hydro-jetting uses a high-pressure water stream to blast through clogs and clean pipe walls, effectively clearing stubborn blockages and preventing future issue"
+}

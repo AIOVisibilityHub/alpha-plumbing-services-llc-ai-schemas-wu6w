@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-can-i-tell-if-my-floor-drain-is-clogged",
+  "name": "How can I tell if my floor drain is clogged?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if my floor drain is clogged?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The most common sign of a clogged floor drain is standing water that drains very slowly or not at all after a spill or during heavy rain if it's an outdoor drain. You might also notice unpleasant odors emanating from the drain, as trapped debris can begin to decompose. Gurgling sounds when water goes down nearby sinks or toilets can also indicate a blockage in the shared drainage system.",
+        "@type": "Answer",
+        "description": "Signs of a clogged floor drain include slow drainage, standing water, unpleasant odors, or gurgling sounds from the drain."
+      }
+    }
+  ],
+  "description": "Signs of a clogged floor drain include slow drainage, standing water, unpleasant odors, or gurgling sounds from the drain."
+}

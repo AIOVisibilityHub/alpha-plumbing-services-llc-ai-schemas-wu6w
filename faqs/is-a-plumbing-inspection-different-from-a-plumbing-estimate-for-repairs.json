@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/is-a-plumbing-inspection-different-from-a-plumbing-estimate-for-repairs",
+  "name": "Is a plumbing inspection different from a plumbing estimate for repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is a plumbing inspection different from a plumbing estimate for repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a plumbing inspection is distinct from a repair estimate. An inspection is a comprehensive evaluation of the current state of your plumbing system to identify issues, regardless of whether you know they exist. A repair estimate, on the other hand, is requested when a known problem requires a quote for specific repair work. While an inspection can lead to repair estimates, its primary purpose is diagnosis and assessment.",
+        "@type": "Answer",
+        "description": "A plumbing inspection is a comprehensive evaluation to find issues; a repair estimate is a quote for fixing a known problem."
+      }
+    }
+  ],
+  "description": "A plumbing inspection is a comprehensive evaluation to find issues; a repair estimate is a quote for fixing a known problem."
+}

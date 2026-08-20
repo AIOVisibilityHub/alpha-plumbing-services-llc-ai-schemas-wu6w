@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-should-i-do-if-my-shower-drain-is-completely-clogged",
+  "name": "What should I do if my shower drain is completely clogged?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if my shower drain is completely clogged?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your shower drain is completely clogged and water is not draining at all, avoid using chemical drain cleaners as they can damage pipes or cause hazardous fumes. First, try a plunger to dislodge the blockage. Ensure there's enough water to create a seal, then plunge firmly. If this doesn't work, consider carefully removing the drain cover and attempting to pull out any visible hair or debris with pliers or a drain snake. If the clog persists after these attempts, it's best to contact a professional plumber. Alpha-Plumbing Services can diagnose and safely clear severe clogs.",
+        "@type": "Answer",
+        "description": "For a completely clogged shower drain, try plunging first. Avoid chemical cleaners. If unsuccessful, call a professional plumber."
+      }
+    }
+  ],
+  "description": "For a completely clogged shower drain, try plunging first. Avoid chemical cleaners. If unsuccessful, call a professional plumber."
+}

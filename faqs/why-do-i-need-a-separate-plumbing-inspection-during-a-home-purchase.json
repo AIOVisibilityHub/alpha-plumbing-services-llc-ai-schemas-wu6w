@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/why-do-i-need-a-separate-plumbing-inspection-during-a-home-purchase",
+  "name": "Why do I need a separate plumbing inspection during a home purchase?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why do I need a separate plumbing inspection during a home purchase?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While a general home inspection touches upon plumbing, a dedicated plumbing inspection provides a much deeper and more specialized evaluation. General inspectors may not have the specific tools or expertise to identify subtle plumbing issues, such as hidden leaks, aging pipes, or potential drain problems that could become costly after purchase. A specialized plumbing inspection ensures a thorough assessment by a licensed professional, offering greater peace of mind about the system's integrity.",
+        "@type": "Answer",
+        "description": "A separate plumbing inspection offers a deeper, specialized evaluation by a licensed professional, identifying issues a general inspection might miss."
+      }
+    }
+  ],
+  "description": "A separate plumbing inspection offers a deeper, specialized evaluation by a licensed professional, identifying issues a general inspection might miss."
+}

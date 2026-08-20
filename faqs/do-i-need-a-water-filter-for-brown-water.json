@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/do-i-need-a-water-filter-for-brown-water",
+  "name": "Do I need a water filter for brown water?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a water filter for brown water?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A water filter can be an effective solution if you frequently experience brown water due to sediment or rust particles, whether from municipal sources or your internal plumbing. A whole-house sediment filter can be installed at the main water line entering your home to trap these particles before they reach your faucets and appliances. Point-of-use filters, like faucet-mounted or under-sink filters, can also provide filtered water for drinking and cooking. A plumber can help assess your water quality and recommend the most suitable type of filtration system for your specific needs.",
+        "@type": "Answer",
+        "description": "A whole-house sediment filter can help if you frequently get brown water, trapping particles before they reach faucets and appliances."
+      }
+    }
+  ],
+  "description": "A whole-house sediment filter can help if you frequently get brown water, trapping particles before they reach faucets and appliances."
+}

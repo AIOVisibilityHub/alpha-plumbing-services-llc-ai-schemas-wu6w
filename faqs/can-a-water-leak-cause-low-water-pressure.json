@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/can-a-water-leak-cause-low-water-pressure",
+  "name": "Can a water leak cause low water pressure?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a water leak cause low water pressure?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a significant water leak anywhere in your plumbing system can definitely lead to low water pressure. When water escapes through a leak, it reduces the overall volume and pressure available to your faucets and fixtures. Even small, hidden leaks, especially in main supply lines, can have a noticeable impact over time. If you experience a sudden drop in pressure along with other signs like unexplained increases in your water bill or damp spots in your yard or walls, it's crucial to investigate for potential leaks. Prompt repair of leaks can restore water pressure and prevent further damage.",
+        "@type": "Answer",
+        "description": "Yes, significant water leaks, even hidden ones, can reduce water volume and pressure to your fixtures."
+      }
+    }
+  ],
+  "description": "Yes, significant water leaks, even hidden ones, can reduce water volume and pressure to your fixtures."
+}

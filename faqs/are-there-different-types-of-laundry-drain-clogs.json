@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/are-there-different-types-of-laundry-drain-clogs",
+  "name": "Are there different types of laundry drain clogs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there different types of laundry drain clogs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, laundry drain clogs primarily result from a combination of lint, fabric fibers, soap residue, and sometimes hair. These materials accumulate over time, creating a sticky, solid mass that obstructs water flow. While the core cause is usually the same, the severity and location of the clog (e.g., near the standpipe vs. deeper in the main line) can vary, influencing the best method for clearing it.",
+        "@type": "Answer",
+        "description": "Laundry drain clogs are typically caused by accumulated lint, fabric fibers, and soap residue, which can vary in severity and location."
+      }
+    }
+  ],
+  "description": "Laundry drain clogs are typically caused by accumulated lint, fabric fibers, and soap residue, which can vary in severity and location."
+}

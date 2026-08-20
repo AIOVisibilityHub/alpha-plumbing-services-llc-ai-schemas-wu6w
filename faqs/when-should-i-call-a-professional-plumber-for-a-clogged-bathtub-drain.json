@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-should-i-call-a-professional-plumber-for-a-clogged-bathtub-drain",
+  "name": "When should I call a professional plumber for a clogged bathtub drain?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional plumber for a clogged bathtub drain?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional plumber if DIY methods like plunging or snaking don't resolve the clog, or if the drain repeatedly clogs. Persistent slow drainage, foul odors, or gurgling sounds from other drains in your home can indicate a more serious issue, such as a main sewer line blockage or damaged pipes. Our plumbers in Goodyear, Buckeye, Avondale, Surprise, and Waddell have specialized tools and expertise to diagnose and clear complex clogs safely without damaging your plumbing system.",
+        "@type": "Answer",
+        "description": "Call a plumber if DIY methods fail, clogs are frequent, or you notice slow drainage, odors, or gurgling in other drains, which could signal a larger issue."
+      }
+    }
+  ],
+  "description": "Call a plumber if DIY methods fail, clogs are frequent, or you notice slow drainage, odors, or gurgling in other drains, which could signal a larger issue."
+}

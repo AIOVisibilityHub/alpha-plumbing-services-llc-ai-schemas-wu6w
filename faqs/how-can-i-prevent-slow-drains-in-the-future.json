@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-can-i-prevent-slow-drains-in-the-future",
+  "name": "How can I prevent slow drains in the future?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent slow drains in the future?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prevent slow drains, avoid pouring grease down sinks and use drain strainers to catch hair and food particles. Regularly flush drains with hot water and baking soda to help break down minor buildups. Be mindful of what goes down your toilet, only flushing human waste and toilet paper. Regular maintenance and careful disposal habits can significantly reduce the frequency of drain issues.",
+        "@type": "Answer",
+        "description": "Prevent slow drains by avoiding grease, using drain strainers, and flushing with hot water and baking soda. Be mindful of what you flush."
+      }
+    }
+  ],
+  "description": "Prevent slow drains by avoiding grease, using drain strainers, and flushing with hot water and baking soda. Be mindful of what you flush."
+}

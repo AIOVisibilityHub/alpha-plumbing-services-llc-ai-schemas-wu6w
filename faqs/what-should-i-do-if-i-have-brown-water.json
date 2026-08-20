@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-should-i-do-if-i-have-brown-water",
+  "name": "What should I do if I have brown water?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if I have brown water?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you notice brown water, first try running cold water from all your faucets for 15-20 minutes, starting with the lowest level of your home, like a basement or outdoor spigot. This helps flush out the discolored water from your internal plumbing. If the water clears up, the issue was likely localized. If it persists, check with your neighbors to see if they are experiencing similar issues, which could indicate a problem with the municipal water supply. Contact your water utility or a professional plumber if the problem continues.",
+        "@type": "Answer",
+        "description": "Run cold water from all faucets for 15-20 minutes. If it persists, check with neighbors or contact your water utility or a plumber."
+      }
+    }
+  ],
+  "description": "Run cold water from all faucets for 15-20 minutes. If it persists, check with neighbors or contact your water utility or a plumber."
+}

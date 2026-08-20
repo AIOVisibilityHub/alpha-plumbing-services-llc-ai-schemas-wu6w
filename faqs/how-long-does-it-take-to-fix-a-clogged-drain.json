@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-it-take-to-fix-a-clogged-drain",
+  "name": "How long does it take to fix a clogged drain?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to fix a clogged drain?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time it takes to fix a clogged drain depends on its complexity. Minor clogs in a sink or shower can often be resolved within an hour using standard tools. More severe blockages, such as those in a main sewer line or those caused by tree roots, might require a few hours or even a half-day, especially if camera inspections or hydro-jetting are needed. We strive for efficient service.",
+        "@type": "Answer",
+        "description": "Minor clogs can be fixed in under an hour. More severe or main line clogs may take a few hours, depending on the tools and inspection needed."
+      }
+    }
+  ],
+  "description": "Minor clogs can be fixed in under an hour. More severe or main line clogs may take a few hours, depending on the tools and inspection needed."
+}

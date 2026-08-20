@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-is-the-best-time-to-schedule-a-plumbing-inspection-for-a-new-home-purchase",
+  "name": "When is the best time to schedule a plumbing inspection for a new home purchase?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is the best time to schedule a plumbing inspection for a new home purchase?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best time to schedule a plumbing inspection for a new home purchase is typically during your due diligence or inspection period, right after your offer has been accepted. This allows you to identify any significant plumbing issues before finalizing the purchase agreement. It provides an opportunity to negotiate repairs or adjustments with the seller, or to withdraw your offer if major problems are uncovered.",
+        "@type": "Answer",
+        "description": "Schedule a plumbing inspection during your due diligence period after an offer is accepted, to identify issues before finalizing the purchase."
+      }
+    }
+  ],
+  "description": "Schedule a plumbing inspection during your due diligence period after an offer is accepted, to identify issues before finalizing the purchase."
+}

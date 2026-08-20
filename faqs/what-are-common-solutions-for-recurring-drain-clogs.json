@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-common-solutions-for-recurring-drain-clogs",
+  "name": "What are common solutions for recurring drain clogs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common solutions for recurring drain clogs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common solutions for recurring drain clogs depend on the identified cause. For grease or soap buildup, hydro-jetting effectively clears pipe walls. If tree roots are the culprit, rooter service or chemical treatments can remove them, and in severe cases, pipe repair or replacement might be necessary. For damaged or collapsed pipes, trenchless repair methods or traditional excavation may be recommended to restore proper drainage. Regular maintenance can also prevent future issues.",
+        "@type": "Answer",
+        "description": "Solutions include hydro-jetting for buildup, rooter service for tree roots, or pipe repair/replacement for damaged pipes. The specific approach depends on the clog's cause."
+      }
+    }
+  ],
+  "description": "Solutions include hydro-jetting for buildup, rooter service for tree roots, or pipe repair/replacement for damaged pipes. The specific approach depends on the c"
+}

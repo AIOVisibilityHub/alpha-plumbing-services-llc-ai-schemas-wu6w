@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-process-for-professional-drain-cleaning",
+  "name": "What is the process for professional drain cleaning?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for professional drain cleaning?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional drain cleaning typically begins with a thorough inspection, often using a camera to pinpoint the exact location and nature of the clog. Depending on the blockage, plumbers may use a powerful auger (snake) to break up or retrieve the obstruction. For tougher clogs or accumulated grease, hydro-jetting, which uses high-pressure water, can effectively clear the pipes and remove residue.",
+        "@type": "Answer",
+        "description": "Professional drain cleaning involves inspection, then using tools like augers or hydro-jetting to clear the blockage. The method depends on the clog type."
+      }
+    }
+  ],
+  "description": "Professional drain cleaning involves inspection, then using tools like augers or hydro-jetting to clear the blockage. The method depends on the clog type."
+}

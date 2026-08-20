@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-much-does-it-cost-to-fix-a-water-leak-detected-by-a-running-water-meter",
+  "name": "How much does it cost to fix a water leak detected by a running water meter?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to fix a water leak detected by a running water meter?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to fix a water leak varies significantly depending on the leak's location, severity, and accessibility. A simple repair like a flapper valve in a toilet might cost under $100. However, repairing a slab leak or a leak inside a wall can range from several hundred to thousands of dollars due to the labor involved in locating and accessing the pipe, as well as potential structural repairs. We provide detailed estimates after a thorough inspection to determine the exact issue.",
+        "@type": "Answer",
+        "description": "Leak repair costs vary widely, from under $100 for a simple toilet fix to thousands for complex issues like slab leaks, depending on location and severity."
+      }
+    }
+  ],
+  "description": "Leak repair costs vary widely, from under $100 for a simple toilet fix to thousands for complex issues like slab leaks, depending on location and severity."
+}

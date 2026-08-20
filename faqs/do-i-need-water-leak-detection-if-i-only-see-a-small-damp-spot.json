@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/do-i-need-water-leak-detection-if-i-only-see-a-small-damp-spot",
+  "name": "Do I need water leak detection if I only see a small damp spot?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need water leak detection if I only see a small damp spot?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, even a small damp spot can indicate a larger, hidden problem. What appears as minor surface moisture could be the visible symptom of a significant leak behind a wall, under a floor, or in a ceiling. Ignoring it can lead to structural damage, mold growth, and higher water bills over time. Early investigation, even for small signs, is crucial to prevent the issue from escalating.",
+        "@type": "Answer",
+        "description": "Yes, a small damp spot can signal a larger, hidden leak that needs professional investigation to prevent further damage."
+      }
+    }
+  ],
+  "description": "Yes, a small damp spot can signal a larger, hidden leak that needs professional investigation to prevent further damage."
+}

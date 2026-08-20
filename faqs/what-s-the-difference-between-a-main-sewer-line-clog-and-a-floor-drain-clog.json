@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-s-the-difference-between-a-main-sewer-line-clog-and-a-floor-drain-clog",
+  "name": "What's the difference between a main sewer line clog and a floor drain clog?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a main sewer line clog and a floor drain clog?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A floor drain clog affects only that specific drain, causing water to back up in that single location. A main sewer line clog, however, impacts multiple drains and fixtures throughout your home, often causing toilets to back up, multiple sinks to drain slowly, or sewage smells in various areas. A main line clog is a more serious issue that can lead to widespread backups if not addressed promptly.",
+        "@type": "Answer",
+        "description": "A floor drain clog affects one drain, while a main sewer line clog impacts multiple drains and fixtures throughout your home, indicating a larger problem."
+      }
+    }
+  ],
+  "description": "A floor drain clog affects one drain, while a main sewer line clog impacts multiple drains and fixtures throughout your home, indicating a larger problem."
+}

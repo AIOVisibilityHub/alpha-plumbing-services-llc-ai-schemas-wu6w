@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-qualifications-should-a-plumber-have-for-a-home-inspection",
+  "name": "What qualifications should a plumber have for a home inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What qualifications should a plumber have for a home inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a plumber for a home inspection, it's crucial they are licensed and insured in your state. This ensures they meet professional standards and are protected in case of unforeseen incidents. Look for a plumber with specific experience in home inspections, as this requires a keen eye for potential problems often overlooked by those focused solely on repairs. Alpha-Plumbing Services employs licensed and experienced professionals for all inspections.",
+        "@type": "Answer",
+        "description": "A plumber for a home inspection should be licensed and insured, with specific experience in home inspection assessments."
+      }
+    }
+  ],
+  "description": "A plumber for a home inspection should be licensed and insured, with specific experience in home inspection assessments."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-it-take-to-clear-a-main-sewer-line-clog",
+  "name": "How long does it take to clear a main sewer line clog?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to clear a main sewer line clog?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time it takes to clear a main sewer line clog depends on the complexity and location of the blockage. A straightforward clog accessible through a cleanout might be resolved within an hour or two using a snake. However, if a camera inspection is needed to locate the issue, or if hydro jetting is required for a more significant obstruction like dense tree roots or extensive grease buildup, the process could take several hours. In cases requiring pipe repair due to collapse or severe damage, the timeline can extend significantly, potentially over a day or more, including necessary excavation.",
+        "@type": "Answer",
+        "description": "Clearing a main sewer line clog can take from one to several hours for common blockages, but more complex issues or repairs may take longer."
+      }
+    }
+  ],
+  "description": "Clearing a main sewer line clog can take from one to several hours for common blockages, but more complex issues or repairs may take longer."
+}

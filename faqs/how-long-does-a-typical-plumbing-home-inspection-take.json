@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-a-typical-plumbing-home-inspection-take",
+  "name": "How long does a typical plumbing home inspection take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical plumbing home inspection take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard plumbing home inspection typically takes between 1 to 2 hours, depending on the size of the property and the intricacy of its plumbing system. This timeframe allows our licensed plumbers to thoroughly examine all accessible components, test fixtures, and identify any potential concerns without rushing the process. We aim to be efficient while ensuring a comprehensive assessment.",
+        "@type": "Answer",
+        "description": "A typical plumbing home inspection takes 1 to 2 hours, varying by property size and system complexity."
+      }
+    }
+  ],
+  "description": "A typical plumbing home inspection takes 1 to 2 hours, varying by property size and system complexity."
+}

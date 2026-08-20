@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-s-the-difference-between-a-slow-drain-and-a-clogged-drain",
+  "name": "What's the difference between a slow drain and a clogged drain?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a slow drain and a clogged drain?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A slow drain means water eventually goes down, but at a significantly reduced rate. This usually indicates a partial blockage building up in the pipe. A clogged drain, on the other hand, means water is completely backed up and won't drain at all, suggesting a full obstruction. While a slow drain is often an early warning sign, both issues require attention to prevent further plumbing problems. Addressing a slow drain promptly can prevent it from becoming a full clog.",
+        "@type": "Answer",
+        "description": "A slow drain is a partial blockage where water drains slowly; a clogged drain is a full blockage where water doesn't drain at all."
+      }
+    }
+  ],
+  "description": "A slow drain is a partial blockage where water drains slowly; a clogged drain is a full blockage where water doesn't drain at all."
+}

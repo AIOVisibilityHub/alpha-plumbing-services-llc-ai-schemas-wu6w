@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-hydro-jetting-and-is-it-necessary-for-a-bathroom-sink-clog",
+  "name": "What is hydro-jetting, and is it necessary for a bathroom sink clog?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is hydro-jetting, and is it necessary for a bathroom sink clog?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hydro-jetting is a powerful drain cleaning method that uses high-pressure water streams to clear stubborn blockages and clean the interior walls of pipes. It effectively removes accumulated grease, hair, soap scum, and other debris that traditional methods might miss. While not always necessary for a minor bathroom sink clog, hydro-jetting is ideal for severe, recurring clogs or when there's a significant buildup that a snake cannot clear. A plumber will assess if this advanced technique is the most appropriate solution for your specific situation.",
+        "@type": "Answer",
+        "description": "Hydro-jetting uses high-pressure water to clear severe drain blockages. It's used for stubborn or recurring clogs when other methods are insufficient."
+      }
+    }
+  ],
+  "description": "Hydro-jetting uses high-pressure water to clear severe drain blockages. It's used for stubborn or recurring clogs when other methods are insufficient."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-quickly-should-i-address-a-water-meter-running-when-no-water-is-being-used",
+  "name": "How quickly should I address a water meter running when no water is being used?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly should I address a water meter running when no water is being used?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should address a running water meter as quickly as possible. Even a small, continuous leak can waste thousands of gallons of water per month, leading to significantly higher water bills. More importantly, hidden leaks can cause extensive property damage over time, including foundation issues, wood rot, mold growth, and damage to flooring or drywall. Early detection and repair can prevent costly repairs and preserve your home's integrity.",
+        "@type": "Answer",
+        "description": "Address a running water meter immediately. Even small leaks waste water and can cause significant property damage over time, leading to expensive repairs."
+      }
+    }
+  ],
+  "description": "Address a running water meter immediately. Even small leaks waste water and can cause significant property damage over time, leading to expensive repairs."
+}

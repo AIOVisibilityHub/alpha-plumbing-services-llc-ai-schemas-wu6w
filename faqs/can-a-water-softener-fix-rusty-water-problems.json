@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/can-a-water-softener-fix-rusty-water-problems",
+  "name": "Can a water softener fix rusty water problems?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a water softener fix rusty water problems?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A traditional water softener is primarily designed to remove hardness minerals like calcium and magnesium, which cause scale buildup. While some softeners can remove small amounts of dissolved iron, they are not typically effective for significant rusty water issues or particulate rust. For iron removal, a dedicated iron filter is usually required. A plumber can test your water to determine the exact cause of the rust and recommend the most appropriate water treatment solution for your home.",
+        "@type": "Answer",
+        "description": "A traditional water softener is not designed to fix significant rusty water problems; a dedicated iron filter is usually needed."
+      }
+    }
+  ],
+  "description": "A traditional water softener is not designed to fix significant rusty water problems; a dedicated iron filter is usually needed."
+}

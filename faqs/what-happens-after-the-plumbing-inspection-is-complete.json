@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-happens-after-the-plumbing-inspection-is-complete",
+  "name": "What happens after the plumbing inspection is complete?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens after the plumbing inspection is complete?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Following the completion of your plumbing home inspection, Alpha-Plumbing Services will provide you with a detailed report outlining our findings. This report will highlight any identified issues, potential concerns, and recommendations for repairs or maintenance. We are available to discuss the report with you, answer any questions, and provide transparent estimates for any necessary repair work, helping you make informed decisions.",
+        "@type": "Answer",
+        "description": "After the inspection, you'll receive a detailed report with findings and recommendations. We'll discuss it and provide estimates for any necessary repairs."
+      }
+    }
+  ],
+  "description": "After the inspection, you'll receive a detailed report with findings and recommendations. We'll discuss it and provide estimates for any necessary repairs."
+}

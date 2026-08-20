@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-typical-cost-to-clear-a-laundry-drain-clog",
+  "name": "What is the typical cost to clear a laundry drain clog?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost to clear a laundry drain clog?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to clear a laundry drain clog can vary based on the severity of the blockage, the method required (e.g., snaking, hydro-jetting), and the plumber's hourly rates. Generally, homeowners can expect to pay a service call fee plus labor. For an accurate estimate in the Goodyear, Buckeye, Avondale, Surprise, or Waddel areas, it's best to contact Alpha-Plumbing Services directly for a consultation.",
+        "@type": "Answer",
+        "description": "The cost to clear a laundry drain clog varies by severity and method. Contact Alpha-Plumbing Services for an accurate estimate."
+      }
+    }
+  ],
+  "description": "The cost to clear a laundry drain clog varies by severity and method. Contact Alpha-Plumbing Services for an accurate estimate."
+}

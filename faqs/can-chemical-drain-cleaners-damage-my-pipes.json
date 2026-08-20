@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/can-chemical-drain-cleaners-damage-my-pipes",
+  "name": "Can chemical drain cleaners damage my pipes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can chemical drain cleaners damage my pipes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, chemical drain cleaners can potentially damage your pipes, especially if used improperly or excessively. These products often contain harsh corrosive chemicals that can eat away at pipe materials, particularly older or PVC pipes, leading to leaks or bursts over time. They can also harden certain types of clogs, making them more difficult for a plumber to remove. For these reasons, professional plumbers generally advise against using them as a primary solution for slow drains.",
+        "@type": "Answer",
+        "description": "Chemical drain cleaners can damage pipes, especially older or PVC ones, due to corrosive ingredients. They can also worsen clogs, making professional repair harder."
+      }
+    }
+  ],
+  "description": "Chemical drain cleaners can damage pipes, especially older or PVC ones, due to corrosive ingredients. They can also worsen clogs, making professional repair har"
+}

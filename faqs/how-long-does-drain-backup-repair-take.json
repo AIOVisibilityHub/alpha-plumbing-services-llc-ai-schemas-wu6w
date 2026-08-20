@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-drain-backup-repair-take",
+  "name": "How long does drain backup repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does drain backup repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of drain backup repair can range from less than an hour for minor clogs to several hours or even a full day for more complex issues. Simple blockages cleared with standard tools are usually resolved quickly. Repairs involving video inspection, hydro-jetting, or addressing main line problems, especially those caused by tree roots or damaged pipes, naturally take longer due to the diagnostic and intensive clearing processes involved.",
+        "@type": "Answer",
+        "description": "Repair time varies from under an hour for minor clogs to several hours or a full day for complex issues like main line problems."
+      }
+    }
+  ],
+  "description": "Repair time varies from under an hour for minor clogs to several hours or a full day for complex issues like main line problems."
+}

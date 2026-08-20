@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-methods-do-plumbers-use-for-main-drain-cleaning",
+  "name": "What methods do plumbers use for main drain cleaning?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What methods do plumbers use for main drain cleaning?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Plumbers typically use a few methods for main drain cleaning. The most common is snaking or augering, which involves inserting a flexible cable with a cutting head into the drain to break apart or retrieve blockages. For more stubborn clogs or tree root intrusions, hydro jetting is often employed. This method uses high-pressure water streams to thoroughly clean the inside of pipes, removing grease, scale, and roots. A camera inspection may be performed first to identify the exact location and nature of the blockage.",
+        "@type": "Answer",
+        "description": "Common methods include snaking/augering for blockages and hydro jetting for stubborn clogs like tree roots."
+      }
+    }
+  ],
+  "description": "Common methods include snaking/augering for blockages and hydro jetting for stubborn clogs like tree roots."
+}

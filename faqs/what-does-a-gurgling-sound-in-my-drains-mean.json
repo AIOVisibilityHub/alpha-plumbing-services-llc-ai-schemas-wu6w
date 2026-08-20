@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-does-a-gurgling-sound-in-my-drains-mean",
+  "name": "What does a gurgling sound in my drains mean?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does a gurgling sound in my drains mean?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Gurgling sounds in drains typically indicate a partial blockage or a venting issue within your plumbing system. When water flows down a drain, air needs to enter the pipe behind it. If a vent pipe is blocked, or a clog creates a vacuum, air can be drawn through the trap, causing a gurgling sound. This often happens after flushing a toilet or draining a sink. Ignoring gurgling can lead to slower drainage and eventually a complete clog.",
+        "@type": "Answer",
+        "description": "Gurgling in drains usually points to a partial blockage or a problem with your plumbing vent system, affecting proper airflow."
+      }
+    }
+  ],
+  "description": "Gurgling in drains usually points to a partial blockage or a problem with your plumbing vent system, affecting proper airflow."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/why-do-my-pipes-squeal-when-i-turn-on-the-faucet",
+  "name": "Why do my pipes squeal when I turn on the faucet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why do my pipes squeal when I turn on the faucet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Squealing pipes, especially when a faucet is opened, often suggest a problem with water pressure, worn-out faucet components, or restrictions in the water supply line. A loose washer in a faucet, a failing pressure reducing valve, or even sediment buildup can create a high-pitched sound as water forces its way through a narrow opening. Addressing this promptly can prevent further wear on your plumbing fixtures and improve water flow.",
+        "@type": "Answer",
+        "description": "Squealing pipes when a faucet is on can be caused by water pressure issues, worn faucet parts, or restrictions in the water line."
+      }
+    }
+  ],
+  "description": "Squealing pipes when a faucet is on can be caused by water pressure issues, worn faucet parts, or restrictions in the water line."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-should-i-call-a-professional-plumber-for-a-clogged-kitchen-sink",
+  "name": "When should I call a professional plumber for a clogged kitchen sink?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional plumber for a clogged kitchen sink?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional plumber for a clogged kitchen sink if you've tried basic methods like plunging or clearing the P-trap without success. If you notice multiple drains in your home are slow or clogged, or if there's sewage backing up into the sink, it indicates a more serious main line issue that requires expert attention. Persistent foul odors, gurgling noises from drains, or water coming up in other fixtures when you use the sink are also signs that it's time to contact a professional for a thorough diagnosis and repair.",
+        "@type": "Answer",
+        "description": "Call a plumber if plunging fails, multiple drains are affected, or you observe sewage backup, persistent odors, or gurgling."
+      }
+    }
+  ],
+  "description": "Call a plumber if plunging fails, multiple drains are affected, or you observe sewage backup, persistent odors, or gurgling."
+}

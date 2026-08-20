@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-a-typical-drain-unclogging-service-take",
+  "name": "How long does a typical drain unclogging service take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical drain unclogging service take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a drain unclogging service depends on the complexity and location of the blockage. A simple sink or toilet clog might be cleared within an hour. However, if the clog is deeper in the main sewer line, requires extensive diagnostic work like camera inspection, or necessitates advanced techniques like hydro-jetting, the service could take several hours. Alpha-Plumbing Services aims to work efficiently while ensuring the clog is fully resolved and the pipes are functioning properly before completing the job.",
+        "@type": "Answer",
+        "description": "A typical drain unclogging service can take from under an hour for simple clogs to several hours for complex or main line blockages."
+      }
+    }
+  ],
+  "description": "A typical drain unclogging service can take from under an hour for simple clogs to several hours for complex or main line blockages."
+}

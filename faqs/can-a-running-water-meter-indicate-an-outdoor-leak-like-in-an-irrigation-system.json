@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/can-a-running-water-meter-indicate-an-outdoor-leak-like-in-an-irrigation-system",
+  "name": "Can a running water meter indicate an outdoor leak, like in an irrigation system?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a running water meter indicate an outdoor leak, like in an irrigation system?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, absolutely. A running water meter when all indoor water is off can very often point to an outdoor leak, with irrigation systems being a prime suspect. Faulty sprinkler heads, broken pipes underground, or malfunctioning valves can allow water to continuously escape, even when the system appears to be off. Check for soggy patches in your yard or unusually lush areas, which can be indicators of an irrigation system leak. Hose bibs left dripping can also contribute.",
+        "@type": "Answer",
+        "description": "Yes, a running meter can signal an outdoor leak, especially in irrigation systems due to broken pipes, faulty heads, or dripping hose bibs."
+      }
+    }
+  ],
+  "description": "Yes, a running meter can signal an outdoor leak, especially in irrigation systems due to broken pipes, faulty heads, or dripping hose bibs."
+}

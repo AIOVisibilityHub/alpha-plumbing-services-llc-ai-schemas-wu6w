@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/are-chemical-drain-cleaners-safe-for-my-bathtub-pipes",
+  "name": "Are chemical drain cleaners safe for my bathtub pipes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are chemical drain cleaners safe for my bathtub pipes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Chemical drain cleaners can be harsh and potentially damaging to your pipes, especially older or PVC pipes. These cleaners often contain corrosive chemicals that can eat away at pipe material, weaken seals, and even cause leaks over time. While they might temporarily clear a clog, they don't address the root cause and can leave behind residue that contributes to future blockages. Professional plumbers rarely recommend them and prefer safer, more effective methods.",
+        "@type": "Answer",
+        "description": "Chemical drain cleaners are often corrosive and can damage pipes, weakening them or causing leaks. They are not recommended for long-term drain health."
+      }
+    }
+  ],
+  "description": "Chemical drain cleaners are often corrosive and can damage pipes, weakening them or causing leaks. They are not recommended for long-term drain health."
+}

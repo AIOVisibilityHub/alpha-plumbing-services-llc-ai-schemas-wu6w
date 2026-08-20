@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/why-is-my-water-pressure-suddenly-too-high",
+  "name": "Why is my water pressure suddenly too high?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is my water pressure suddenly too high?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sudden high water pressure can be caused by several factors. It might be due to changes in the municipal water supply, especially if utility companies increase pressure for various reasons, such as fire hydrant testing or new construction in the area. Another common cause is a malfunctioning pressure reducing valve (PRV), which is designed to regulate incoming water pressure. If the PRV fails, it can allow unregulated high pressure into your home. A professional plumber can diagnose the exact cause.",
+        "@type": "Answer",
+        "description": "Sudden high water pressure can be due to municipal supply changes or a malfunctioning pressure reducing valve (PRV)."
+      }
+    }
+  ],
+  "description": "Sudden high water pressure can be due to municipal supply changes or a malfunctioning pressure reducing valve (PRV)."
+}

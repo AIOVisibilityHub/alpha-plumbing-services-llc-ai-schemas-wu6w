@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-the-common-causes-of-a-water-meter-running-when-water-is-off",
+  "name": "What are the common causes of a water meter running when water is off?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common causes of a water meter running when water is off?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The most common causes include silent toilet leaks, where water continuously seeps from the tank into the bowl without a noticeable sound. Other frequent culprits are hidden leaks in walls, under foundations (slab leaks), or underground in irrigation lines. Even small drips from faucets or showerheads, when accumulated, can cause the meter to turn. External hose bibs or water features with constant replenishment can also contribute to unexpected meter activity.",
+        "@type": "Answer",
+        "description": "Common causes include silent toilet leaks, hidden leaks in walls or foundations (slab leaks), irrigation system leaks, and persistent dripping faucets."
+      }
+    }
+  ],
+  "description": "Common causes include silent toilet leaks, hidden leaks in walls or foundations (slab leaks), irrigation system leaks, and persistent dripping faucets."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-can-i-check-if-i-have-a-water-leak-using-my-water-meter",
+  "name": "How can I check if I have a water leak using my water meter?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I check if I have a water leak using my water meter?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To check for a leak, first ensure all water-using appliances and fixtures inside and outside your home are completely turned off. Locate your water meter and observe the leak indicator, which is often a small red or blue triangle, a silver wheel, or a sweep hand. If this indicator is still moving, even slowly, it confirms that water is flowing through your meter, indicating a leak. If there's no indicator, note the meter reading, wait 15-30 minutes without using any water, and then check the reading again. Any change confirms a leak.",
+        "@type": "Answer",
+        "description": "Turn off all water, then check your water meter's leak indicator (small triangle/wheel) or note the reading. If it moves or changes, you likely have a leak."
+      }
+    }
+  ],
+  "description": "Turn off all water, then check your water meter's leak indicator (small triangle/wheel) or note the reading. If it moves or changes, you likely have a leak."
+}

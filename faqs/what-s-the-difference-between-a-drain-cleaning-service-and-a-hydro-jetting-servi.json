@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-s-the-difference-between-a-drain-cleaning-service-and-a-hydro-jetting-servi",
+  "name": "What's the difference between a drain cleaning service and a hydro-jetting service for clogs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a drain cleaning service and a hydro-jetting service for clogs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Drain cleaning typically involves using a plumber's snake or auger to break up and remove clogs. This method is effective for localized blockages like hair or grease buildup. Hydro-jetting, on the other hand, is a more powerful and comprehensive cleaning method that uses high-pressure water streams to scour the interior of pipes. It removes stubborn blockages, grease, mineral buildup, and even tree roots, leaving pipes thoroughly cleaned. Hydro-jetting is often recommended for recurring clogs or when a complete pipe cleaning is necessary.",
+        "@type": "Answer",
+        "description": "Drain cleaning uses augers for localized clogs, while hydro-jetting uses high-pressure water to thoroughly clean pipes and remove stubborn blockages."
+      }
+    }
+  ],
+  "description": "Drain cleaning uses augers for localized clogs, while hydro-jetting uses high-pressure water to thoroughly clean pipes and remove stubborn blockages."
+}

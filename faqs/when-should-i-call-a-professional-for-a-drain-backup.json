@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-should-i-call-a-professional-for-a-drain-backup",
+  "name": "When should I call a professional for a drain backup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for a drain backup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional if you experience recurring clogs, slow drainage across multiple fixtures, foul odors from drains, or water backing up into sinks, tubs, or toilets. If DIY methods like plungers or chemical drain cleaners haven't worked, or if you suspect a serious issue like tree root intrusion or a broken pipe, professional intervention is necessary to prevent further damage to your plumbing system.",
+        "@type": "Answer",
+        "description": "Call a professional for recurring clogs, multiple affected fixtures, foul odors, or when DIY methods fail to clear a drain backup."
+      }
+    }
+  ],
+  "description": "Call a professional for recurring clogs, multiple affected fixtures, foul odors, or when DIY methods fail to clear a drain backup."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-often-should-i-have-my-drains-professionally-cleaned",
+  "name": "How often should I have my drains professionally cleaned?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should I have my drains professionally cleaned?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The frequency of professional drain cleaning depends on several factors, including the age of your plumbing system, the type of pipes, and household usage. For most homes, a professional cleaning every one to two years is recommended as a preventative measure. Homes with older plumbing, frequent use of garbage disposals, or residents with long hair may benefit from more frequent cleanings, perhaps annually. Regular maintenance helps prevent severe clogs, extends the life of your plumbing, and ensures efficient drainage. If you notice recurring issues, it's wise to schedule a cleaning sooner.",
+        "@type": "Answer",
+        "description": "Most homes benefit from professional drain cleaning every one to two years. Factors like pipe age and usage can influence this frequency."
+      }
+    }
+  ],
+  "description": "Most homes benefit from professional drain cleaning every one to two years. Factors like pipe age and usage can influence this frequency."
+}

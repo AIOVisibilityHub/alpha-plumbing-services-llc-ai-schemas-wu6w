@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-difference-between-water-hammer-and-air-in-pipes",
+  "name": "What is the difference between water hammer and air in pipes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between water hammer and air in pipes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water hammer is caused by a sudden stop or change in the direction of water flow, creating a shockwave that makes pipes vibrate and bang. This often happens when a faucet is quickly turned off. Air in pipes, sometimes called 'air lock,' usually causes gurgling or sputtering noises from faucets, and can lead to inconsistent water flow or reduced pressure. While both can cause noise, water hammer is a specific pressure surge issue, whereas air in pipes is a trapped air issue. Both can be disruptive but require different solutions.",
+        "@type": "Answer",
+        "description": "Water hammer is a banging noise from sudden water flow changes, often due to pressure surges. Air in pipes causes gurgling and sputtering from trapped air, affecting water flow and pressure."
+      }
+    }
+  ],
+  "description": "Water hammer is a banging noise from sudden water flow changes, often due to pressure surges. Air in pipes causes gurgling and sputtering from trapped air, affe"
+}

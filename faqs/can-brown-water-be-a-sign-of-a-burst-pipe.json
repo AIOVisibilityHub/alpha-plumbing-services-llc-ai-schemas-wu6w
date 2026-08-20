@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/can-brown-water-be-a-sign-of-a-burst-pipe",
+  "name": "Can brown water be a sign of a burst pipe?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can brown water be a sign of a burst pipe?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Brown water itself is not typically a direct sign of a burst pipe. Burst pipes usually lead to more immediate and severe issues like sudden loss of water pressure, visible leaks, flooding, or damp spots. However, if a burst pipe has occurred in the water main outside your home, the repairs could stir up sediment, temporarily causing brown water. If you notice brown water along with a significant drop in water pressure or other signs of a leak on your property, it's crucial to contact a plumber immediately to investigate.",
+        "@type": "Answer",
+        "description": "Brown water isn't a direct sign of a burst pipe, but repairs to a burst main can cause it. Look for sudden pressure loss or leaks for burst pipe signs."
+      }
+    }
+  ],
+  "description": "Brown water isn't a direct sign of a burst pipe, but repairs to a burst main can cause it. Look for sudden pressure loss or leaks for burst pipe signs."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/why-is-my-washing-machine-drain-overflowing",
+  "name": "Why is my washing machine drain overflowing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is my washing machine drain overflowing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An overflowing washing machine drain typically indicates a clog in the drainpipe. This can be caused by an accumulation of lint, soap scum, hair, and debris from clothing over time. The washing machine pumps out water faster than the clogged drain can handle, leading to backups and overflows. It's important to address this promptly to prevent water damage to your laundry area or home.",
+        "@type": "Answer",
+        "description": "Your washing machine drain overflows due to a clog in the drainpipe, often caused by lint, soap scum, and debris."
+      }
+    }
+  ],
+  "description": "Your washing machine drain overflows due to a clog in the drainpipe, often caused by lint, soap scum, and debris."
+}

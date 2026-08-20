@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-does-a-plumbing-home-inspection-include",
+  "name": "What does a plumbing home inspection include?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does a plumbing home inspection include?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A comprehensive plumbing home inspection involves a detailed visual assessment of your property's entire plumbing system. This includes checking water heaters, pipes, drains, fixtures, faucets, toilets, and accessible shut-off valves. We look for leaks, corrosion, proper drainage, water pressure issues, and potential code violations. Our goal is to identify any existing problems or areas of concern that could lead to future issues, providing you with a clear understanding of the plumbing's condition.",
+        "@type": "Answer",
+        "description": "A plumbing home inspection covers water heaters, pipes, drains, fixtures, and accessible valves, checking for leaks, corrosion, and proper function."
+      }
+    }
+  ],
+  "description": "A plumbing home inspection covers water heaters, pipes, drains, fixtures, and accessible valves, checking for leaks, corrosion, and proper function."
+}

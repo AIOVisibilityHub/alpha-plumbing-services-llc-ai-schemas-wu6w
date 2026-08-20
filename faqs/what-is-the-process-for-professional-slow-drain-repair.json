@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-process-for-professional-slow-drain-repair",
+  "name": "What is the process for professional slow drain repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for professional slow drain repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our professional slow drain repair process typically begins with a diagnostic assessment using cameras to identify the exact location and nature of the blockage. Depending on the cause, we may use techniques like snaking to clear simple clogs, hydro-jetting for stubborn blockages, or specialized tools for tree root removal. Our goal is to clear the obstruction thoroughly and restore optimal drainage without damaging your pipes.",
+        "@type": "Answer",
+        "description": "Professional repair involves diagnosing the cause, often with camera inspection, then clearing the blockage using methods like snaking or hydro-jetting to restore flow."
+      }
+    }
+  ],
+  "description": "Professional repair involves diagnosing the cause, often with camera inspection, then clearing the blockage using methods like snaking or hydro-jetting to resto"
+}

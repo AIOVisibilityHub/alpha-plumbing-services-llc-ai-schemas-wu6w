@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-causes-a-drain-to-clog",
+  "name": "What causes a drain to clog?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes a drain to clog?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Drains typically clog due to a build-up of various substances over time. Common culprits include hair, soap scum, grease, food particles, and mineral deposits from hard water. Foreign objects accidentally flushed down toilets or dropped into sinks can also cause blockages. In some cases, tree roots infiltrating sewer lines can create significant clogs in outdoor pipes.",
+        "@type": "Answer",
+        "description": "Hair, soap scum, grease, food, and foreign objects are common causes of clogged drains. Tree roots can also cause blockages in outdoor pipes."
+      }
+    }
+  ],
+  "description": "Hair, soap scum, grease, food, and foreign objects are common causes of clogged drains. Tree roots can also cause blockages in outdoor pipes."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/can-high-water-pressure-cause-pipes-to-bang",
+  "name": "Can high water pressure cause pipes to bang?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can high water pressure cause pipes to bang?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, high water pressure is a common cause of banging pipes. When the pressure in your plumbing system is too high, the sudden opening and closing of faucets or appliances can create significant pressure surges. These surges lead to water hammer, where the water flow abruptly stops or reverses, causing pipes to shake and produce knocking sounds. A pressure reducing valve (PRV) can often resolve this by regulating incoming water pressure.",
+        "@type": "Answer",
+        "description": "High water pressure can cause banging pipes by creating pressure surges when faucets close, leading to water hammer. A pressure reducing valve can help regulate this."
+      }
+    }
+  ],
+  "description": "High water pressure can cause banging pipes by creating pressure surges when faucets close, leading to water hammer. A pressure reducing valve can help regulate"
+}

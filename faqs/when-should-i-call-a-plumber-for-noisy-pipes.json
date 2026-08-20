@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-should-i-call-a-plumber-for-noisy-pipes",
+  "name": "When should I call a plumber for noisy pipes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a plumber for noisy pipes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a plumber for noisy pipes if the sounds are persistent, getting louder, or accompanied by other issues like leaks, reduced water pressure, or drainage problems. While some noises might be minor, others can indicate serious underlying issues that could lead to significant damage if ignored. Early intervention by a professional can often prevent more extensive and costly repairs down the line. Don't wait for a small noise to become a big problem.",
+        "@type": "Answer",
+        "description": "Call a plumber for noisy pipes if sounds are persistent, worsening, or accompanied by other plumbing issues like leaks or low pressure."
+      }
+    }
+  ],
+  "description": "Call a plumber for noisy pipes if sounds are persistent, worsening, or accompanied by other plumbing issues like leaks or low pressure."
+}

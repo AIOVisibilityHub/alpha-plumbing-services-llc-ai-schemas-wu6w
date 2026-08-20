@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-a-pressure-reducing-valve-prv-and-do-i-need-one",
+  "name": "What is a pressure reducing valve (PRV) and do I need one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a pressure reducing valve (PRV) and do I need one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A pressure reducing valve (PRV) is a plumbing device installed on your main water line that lowers and maintains a consistent water pressure throughout your home, regardless of fluctuations in the municipal supply. If your home's water pressure regularly exceeds 80 PSI, or if you experience symptoms like banging pipes and frequent leaks, a PRV is necessary. It protects your plumbing system and appliances from the damaging effects of high pressure. A professional can determine if one is needed.",
+        "@type": "Answer",
+        "description": "A PRV lowers and maintains consistent water pressure. You need one if your home's pressure is regularly above 80 PSI to protect plumbing and appliances."
+      }
+    }
+  ],
+  "description": "A PRV lowers and maintains consistent water pressure. You need one if your home's pressure is regularly above 80 PSI to protect plumbing and appliances."
+}

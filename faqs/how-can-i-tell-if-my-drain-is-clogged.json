@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-can-i-tell-if-my-drain-is-clogged",
+  "name": "How can I tell if my drain is clogged?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if my drain is clogged?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs of a clogged drain include water draining slowly from sinks, tubs, or showers, gurgling sounds coming from drains or toilets, and unpleasant odors emanating from pipes. If water backs up into a sink or tub, or if your toilet overflows after flushing, these are clear indicators of a significant blockage. Multiple fixtures draining slowly could signal a main line issue.",
+        "@type": "Answer",
+        "description": "Slow drainage, gurgling sounds, foul odors, and water backing up are common signs of a clogged drain."
+      }
+    }
+  ],
+  "description": "Slow drainage, gurgling sounds, foul odors, and water backing up are common signs of a clogged drain."
+}

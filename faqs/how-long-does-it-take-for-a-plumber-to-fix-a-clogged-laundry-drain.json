@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-it-take-for-a-plumber-to-fix-a-clogged-laundry-drain",
+  "name": "How long does it take for a plumber to fix a clogged laundry drain?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take for a plumber to fix a clogged laundry drain?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most standard laundry drain clogs can be cleared by a professional plumber within one to two hours. More complex situations, such as clogs deep within the main line or those requiring specialized equipment like hydro-jetting, might take longer. The plumber will usually assess the situation first to give you a more precise timeframe for the repair.",
+        "@type": "Answer",
+        "description": "Most standard laundry drain clogs can be cleared by a plumber within one to two hours, though complex issues may take longer."
+      }
+    }
+  ],
+  "description": "Most standard laundry drain clogs can be cleared by a plumber within one to two hours, though complex issues may take longer."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/is-brown-water-safe-to-drink-or-use",
+  "name": "Is brown water safe to drink or use?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is brown water safe to drink or use?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While brown water, particularly if it's due to rust or sediment from the water main, might not pose an immediate health risk, it's generally not recommended for consumption. It can contain elevated levels of iron, manganese, or other particles that affect taste, odor, and appearance. For sensitive individuals or infants, it's best to avoid drinking it. You should also avoid using it for cooking, brushing teeth, or washing clothes, as it can stain fabrics. Wait for the water to clear before resuming normal use.",
+        "@type": "Answer",
+        "description": "It's generally not recommended to drink or cook with brown water due to potential rust or sediment, which can affect taste, odor, and appearance."
+      }
+    }
+  ],
+  "description": "It's generally not recommended to drink or cook with brown water due to potential rust or sediment, which can affect taste, odor, and appearance."
+}

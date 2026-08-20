@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-s-the-difference-between-a-drain-snake-and-a-plumbing-auger",
+  "name": "What's the difference between a drain snake and a plumbing auger?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a drain snake and a plumbing auger?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A drain snake, often called a hand auger, is a flexible coil of wire typically used for smaller, accessible clogs in sinks, tubs, and showers. It's hand-cranked and designed to break up or retrieve obstructions. A plumbing auger, particularly a powered one (sometimes called a sewer snake), is a heavier-duty tool with a longer, thicker cable. It's used by professionals to tackle more stubborn and deeper clogs, including those in main sewer lines. Both clear clogs, but augers offer more power and reach.",
+        "@type": "Answer",
+        "description": "A drain snake (hand auger) is for smaller, accessible clogs. A plumbing auger (power auger/sewer snake) is a heavier-duty, professional tool for stubborn and deeper main line clogs."
+      }
+    }
+  ],
+  "description": "A drain snake (hand auger) is for smaller, accessible clogs. A plumbing auger (power auger/sewer snake) is a heavier-duty, professional tool for stubborn and de"
+}

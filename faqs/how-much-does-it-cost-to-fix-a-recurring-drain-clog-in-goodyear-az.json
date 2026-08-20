@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-much-does-it-cost-to-fix-a-recurring-drain-clog-in-goodyear-az",
+  "name": "How much does it cost to fix a recurring drain clog in Goodyear, AZ?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to fix a recurring drain clog in Goodyear, AZ?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to fix a recurring drain clog in Goodyear, AZ, varies significantly based on the cause and complexity. Simple clogs addressed with snaking are less expensive than problems requiring video inspection, hydro-jetting, or pipe repair. Factors like the extent of damage, accessibility, and necessary equipment all influence the final price. We provide upfront pricing after a thorough diagnosis to ensure transparency.",
+        "@type": "Answer",
+        "description": "Costs for fixing recurring drain clogs in Goodyear vary based on cause and complexity, from simple snaking to hydro-jetting or pipe repair. Upfront pricing is provided after diagnosis."
+      }
+    }
+  ],
+  "description": "Costs for fixing recurring drain clogs in Goodyear vary based on cause and complexity, from simple snaking to hydro-jetting or pipe repair. Upfront pricing is p"
+}

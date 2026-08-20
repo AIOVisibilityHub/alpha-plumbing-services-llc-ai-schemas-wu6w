@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/do-i-need-special-tools-to-clear-a-floor-drain",
+  "name": "Do I need special tools to clear a floor drain?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need special tools to clear a floor drain?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For minor surface clogs, basic tools like pliers, gloves, and a flashlight might be sufficient to remove visible debris. However, for clogs deeper within the pipe, a hand auger or drain snake is often necessary. These tools help break up or retrieve blockages that are out of reach. For persistent or severe clogs, professional-grade equipment like powered augers or hydro-jetting machines, operated by experienced plumbers, are required.",
+        "@type": "Answer",
+        "description": "For surface clogs, basic tools may suffice, but deeper clogs often require a hand auger or drain snake. Professionals use powered augers or hydro-jetting."
+      }
+    }
+  ],
+  "description": "For surface clogs, basic tools may suffice, but deeper clogs often require a hand auger or drain snake. Professionals use powered augers or hydro-jetting."
+}

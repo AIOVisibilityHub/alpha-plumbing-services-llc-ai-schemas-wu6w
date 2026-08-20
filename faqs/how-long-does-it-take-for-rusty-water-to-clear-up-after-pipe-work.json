@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-it-take-for-rusty-water-to-clear-up-after-pipe-work",
+  "name": "How long does it take for rusty water to clear up after pipe work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take for rusty water to clear up after pipe work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After plumbing repairs, especially on main lines or if your home's water was turned off, it's common for rusty or discolored water to appear temporarily. This is usually due to air and sediment being disturbed in the pipes. To clear it, run all your cold water faucets for 15-30 minutes, starting with the furthest faucet from the main entry point. If the water remains discolored after this time, or if it quickly returns to being rusty, there might be a more persistent issue requiring professional assessment.",
+        "@type": "Answer",
+        "description": "After pipe work, run cold water faucets for 15-30 minutes to clear temporary rusty water. Persistent discoloration needs professional assessment."
+      }
+    }
+  ],
+  "description": "After pipe work, run cold water faucets for 15-30 minutes to clear temporary rusty water. Persistent discoloration needs professional assessment."
+}

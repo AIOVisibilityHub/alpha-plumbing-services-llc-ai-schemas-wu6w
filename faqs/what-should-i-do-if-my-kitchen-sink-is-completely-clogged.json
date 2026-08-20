@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-should-i-do-if-my-kitchen-sink-is-completely-clogged",
+  "name": "What should I do if my kitchen sink is completely clogged?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if my kitchen sink is completely clogged?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your kitchen sink is completely clogged, avoid using chemical drain cleaners as they can damage pipes and aren't always effective. First, try using a plunger. Ensure a tight seal around the drain and plunge vigorously. If that doesn't work, inspect the P-trap under the sink for blockages. Place a bucket underneath, then carefully remove the trap to clear any debris. If the clog persists after these steps, it's best to call a professional plumber to properly diagnose and resolve the issue without causing further damage.",
+        "@type": "Answer",
+        "description": "Try plunging or clearing the P-trap. If unsuccessful, avoid chemical cleaners and call a professional plumber."
+      }
+    }
+  ],
+  "description": "Try plunging or clearing the P-trap. If unsuccessful, avoid chemical cleaners and call a professional plumber."
+}

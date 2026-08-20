@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-much-does-it-cost-to-fix-a-clogged-bathtub-drain",
+  "name": "How much does it cost to fix a clogged bathtub drain?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to fix a clogged bathtub drain?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to fix a clogged bathtub drain varies depending on the severity and location of the clog. Simple clogs that can be cleared with basic tools might be on the lower end of the cost spectrum. More complex blockages, such as those deep within the drainpipe or in the main sewer line, require specialized equipment like hydro-jetting or camera inspection, which can increase the overall cost. We provide transparent pricing after assessing the specific issue.",
+        "@type": "Answer",
+        "description": "The cost depends on the clog's severity and location. Simple clogs are less expensive, while complex or main line issues requiring special equipment may cost more."
+      }
+    }
+  ],
+  "description": "The cost depends on the clog's severity and location. Simple clogs are less expensive, while complex or main line issues requiring special equipment may cost mo"
+}

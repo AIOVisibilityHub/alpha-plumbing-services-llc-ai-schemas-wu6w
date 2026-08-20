@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/why-is-only-one-sink-draining-slowly-but-others-are-fine",
+  "name": "Why is only one sink draining slowly, but others are fine?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is only one sink draining slowly, but others are fine?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If only one sink in your home is draining slowly while others are unaffected, it typically indicates a localized clog within the drainpipe of that specific fixture. This means the problem is likely in the trap or the branch line serving that sink, rather than a main sewer line issue. Common culprits include hair, soap, grease, or food particles accumulating directly within that particular drain. A plumber can efficiently isolate and clear such specific blockages.",
+        "@type": "Answer",
+        "description": "One slow sink suggests a localized clog within that specific drain's trap or branch line, not a main sewer issue. It's usually caused by debris accumulation."
+      }
+    }
+  ],
+  "description": "One slow sink suggests a localized clog within that specific drain's trap or branch line, not a main sewer issue. It's usually caused by debris accumulation."
+}

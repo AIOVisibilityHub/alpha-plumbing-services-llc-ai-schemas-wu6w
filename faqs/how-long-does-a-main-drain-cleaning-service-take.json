@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-a-main-drain-cleaning-service-take",
+  "name": "How long does a main drain cleaning service take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a main drain cleaning service take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a main drain cleaning service can vary. A straightforward blockage that can be cleared with a standard drain snake might take one to two hours. However, more complex situations, such as significant tree root intrusions, multiple blockages, or blockages requiring hydro jetting and camera inspection, could take several hours. Factors like pipe accessibility and the overall condition of your plumbing system also play a role. Our technicians will provide an estimated timeframe after assessing the issue.",
+        "@type": "Answer",
+        "description": "Simple cleanings can take 1-2 hours; complex issues with roots or multiple blockages may take several hours."
+      }
+    }
+  ],
+  "description": "Simple cleanings can take 1-2 hours; complex issues with roots or multiple blockages may take several hours."
+}

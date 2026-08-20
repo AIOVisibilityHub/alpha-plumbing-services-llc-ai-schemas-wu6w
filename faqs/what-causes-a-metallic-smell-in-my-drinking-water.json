@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-causes-a-metallic-smell-in-my-drinking-water",
+  "name": "What causes a metallic smell in my drinking water?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes a metallic smell in my drinking water?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A metallic smell in your drinking water can be caused by the presence of metals such as iron, copper, or zinc. These can leach into the water from corroded plumbing pipes, especially in older homes, or from certain well water sources. High levels of metals can affect the taste, odor, and even color of your water. While some metals are essential in small amounts, excessive levels can be a concern for both plumbing longevity and water quality. Testing can help identify which metals are present and their concentrations.",
+        "@type": "Answer",
+        "description": "A metallic smell in drinking water often indicates the presence of metals like iron or copper, usually from corroded pipes or well water."
+      }
+    }
+  ],
+  "description": "A metallic smell in drinking water often indicates the presence of metals like iron or copper, usually from corroded pipes or well water."
+}

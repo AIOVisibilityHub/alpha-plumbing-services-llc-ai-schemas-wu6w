@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-it-take-to-repair-low-water-pressure",
+  "name": "How long does it take to repair low water pressure?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to repair low water pressure?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required to repair low water pressure varies greatly depending on the cause. A simple adjustment to a pressure regulator might take less than an hour. However, if the issue involves locating and repairing a hidden pipe leak, replacing a section of corroded piping, or addressing main water line problems, the repair could take several hours or even a full day. We aim to complete repairs efficiently while ensuring quality workmanship.",
+        "@type": "Answer",
+        "description": "Repair time depends on the cause; it can range from under an hour for minor adjustments to several hours or a full day for complex issues like pipe replacement or hidden leaks."
+      }
+    }
+  ],
+  "description": "Repair time depends on the cause; it can range from under an hour for minor adjustments to several hours or a full day for complex issues like pipe replacement"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-it-take-for-a-plumber-to-clear-a-clogged-floor-drain",
+  "name": "How long does it take for a plumber to clear a clogged floor drain?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take for a plumber to clear a clogged floor drain?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time it takes to clear a clogged floor drain depends on the complexity and location of the blockage. Simple clogs can often be resolved within an hour. More stubborn clogs, those requiring specialized equipment like a camera inspection or hydro-jetting, or clogs located deep within the main line, may take a few hours. We always aim for efficient service to minimize disruption at your property.",
+        "@type": "Answer",
+        "description": "Clearing a clogged floor drain can take from under an hour for simple clogs to a few hours for more complex or deeper blockages requiring specialized equipment."
+      }
+    }
+  ],
+  "description": "Clearing a clogged floor drain can take from under an hour for simple clogs to a few hours for more complex or deeper blockages requiring specialized equipment."
+}

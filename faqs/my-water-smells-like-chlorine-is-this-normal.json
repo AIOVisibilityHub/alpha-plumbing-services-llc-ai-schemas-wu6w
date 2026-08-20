@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/my-water-smells-like-chlorine-is-this-normal",
+  "name": "My water smells like chlorine. Is this normal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "My water smells like chlorine. Is this normal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A chlorine smell in your water is common, especially if your water comes from a municipal source. Water treatment plants use chlorine or chloramine to disinfect water and kill harmful bacteria and viruses. The smell is often more noticeable when the water first comes out of the tap or if it has been sitting in pipes. While the levels used for disinfection are generally considered safe for consumption, some people prefer to remove the taste and odor. This can often be achieved with activated carbon filters.",
+        "@type": "Answer",
+        "description": "A chlorine smell in tap water is common in municipal water systems, as chlorine is used for disinfection."
+      }
+    }
+  ],
+  "description": "A chlorine smell in tap water is common in municipal water systems, as chlorine is used for disinfection."
+}

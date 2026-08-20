@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/can-my-water-heater-cause-my-hot-water-to-smell-bad",
+  "name": "Can my water heater cause my hot water to smell bad?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can my water heater cause my hot water to smell bad?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, your water heater can definitely be a source of bad-smelling hot water, especially a rotten egg odor. This often happens when harmless sulfur-reducing bacteria react with the magnesium or aluminum anode rod inside the tank, particularly in wells that contain sulfates. The bacteria thrive in the warm, dark environment of the water heater and produce hydrogen sulfide gas. Flushing the water heater, treating it with a disinfectant, or replacing the anode rod with an aluminum/zinc alloy rod can often resolve this issue.",
+        "@type": "Answer",
+        "description": "Yes, your water heater can cause bad-smelling hot water, often due to sulfur bacteria reacting with the anode rod inside the tank."
+      }
+    }
+  ],
+  "description": "Yes, your water heater can cause bad-smelling hot water, often due to sulfur bacteria reacting with the anode rod inside the tank."
+}

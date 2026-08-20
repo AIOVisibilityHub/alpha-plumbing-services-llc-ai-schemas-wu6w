@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-should-i-call-a-plumber-for-low-water-pressure",
+  "name": "When should I call a plumber for low water pressure?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a plumber for low water pressure?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a plumber if you've checked basic issues like the main shut-off valve and individual fixture aerators, and the problem persists. If the low pressure affects multiple fixtures throughout your home, or if it suddenly drops without an obvious cause, it's a good indication that a professional is needed. Also, if you suspect a hidden leak, have an old pressure regulator, or notice discolored water along with low pressure, a plumber can accurately diagnose the issue and recommend the appropriate repairs to restore your water flow.",
+        "@type": "Answer",
+        "description": "Call a plumber if low pressure affects multiple fixtures, drops suddenly, or if you suspect a hidden leak or faulty regulator."
+      }
+    }
+  ],
+  "description": "Call a plumber if low pressure affects multiple fixtures, drops suddenly, or if you suspect a hidden leak or faulty regulator."
+}
