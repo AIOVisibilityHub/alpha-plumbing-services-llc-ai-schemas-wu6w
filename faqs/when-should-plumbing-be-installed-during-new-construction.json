@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-should-plumbing-be-installed-during-new-construction",
+  "name": "When should plumbing be installed during new construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should plumbing be installed during new construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Plumbing installation typically occurs in stages during new construction. The initial rough-in phase happens after the foundation is laid and framing is complete, but before insulation and drywall. This involves installing pipes within walls and floors. The final trim-out phase occurs after interior finishes are mostly complete, where fixtures such as toilets, sinks, faucets, and water heaters are installed. Coordinating these stages with other trades is crucial for an efficient construction timeline.",
+        "@type": "Answer",
+        "description": "Plumbing is installed in stages: rough-in after framing, and final trim-out after interior finishes are mostly complete."
+      }
+    }
+  ],
+  "description": "Plumbing is installed in stages: rough-in after framing, and final trim-out after interior finishes are mostly complete."
+}

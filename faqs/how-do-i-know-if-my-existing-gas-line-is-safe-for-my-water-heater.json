@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-do-i-know-if-my-existing-gas-line-is-safe-for-my-water-heater",
+  "name": "How do I know if my existing gas line is safe for my water heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my existing gas line is safe for my water heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you suspect issues with your gas line, such as a sulfur or rotten egg smell (indicating a gas leak), visible corrosion on pipes, or a yellow or orange flame at your water heater's burner (should be blue), you should contact a professional immediately. Even without these obvious signs, an older gas line or one that hasn't been inspected in years might not meet current safety standards or could be undersized for a new appliance. A professional inspection can assess its condition and ensure it's safe.",
+        "@type": "Answer",
+        "description": "Check for gas smells, pipe corrosion, or an improper flame color. For older lines or new appliances, a professional inspection ensures safety."
+      }
+    }
+  ],
+  "description": "Check for gas smells, pipe corrosion, or an improper flame color. For older lines or new appliances, a professional inspection ensures safety."
+}

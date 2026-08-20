@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-often-should-a-light-commercial-plumbing-system-be-inspected-or-maintained",
+  "name": "How often should a light-commercial plumbing system be inspected or maintained?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should a light-commercial plumbing system be inspected or maintained?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The frequency of inspections and maintenance for a light-commercial plumbing system depends on its age, usage, and the type of business. For high-traffic establishments like restaurants or busy offices, quarterly or semi-annual inspections are often recommended to proactively identify potential issues. For other businesses, an annual inspection might suffice. Regular maintenance, including drain cleaning and checking for leaks, can prevent unexpected breakdowns, reduce water waste, and ensure compliance with local regulations. Your plumbing professional can help establish a tailored maintenance schedule for your specific needs.",
+        "@type": "Answer",
+        "description": "Light-commercial plumbing systems should be inspected annually, or quarterly/semi-annually for high-traffic businesses, depending on age and usage, to prevent issues."
+      }
+    }
+  ],
+  "description": "Light-commercial plumbing systems should be inspected annually, or quarterly/semi-annually for high-traffic businesses, depending on age and usage, to prevent i"
+}

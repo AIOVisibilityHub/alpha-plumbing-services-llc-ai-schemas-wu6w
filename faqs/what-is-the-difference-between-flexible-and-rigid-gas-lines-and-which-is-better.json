@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-difference-between-flexible-and-rigid-gas-lines-and-which-is-better",
+  "name": "What is the difference between flexible and rigid gas lines, and which is better?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between flexible and rigid gas lines, and which is better?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Natural gas lines typically use either rigid steel or flexible corrugated stainless steel tubing (CSST). Rigid lines are durable and ideal for long, straight runs, offering excellent protection. CSST is more flexible, making installation quicker and easier, especially around corners or obstacles. It also offers some seismic resistance. The 'better' option depends on the specific application, local codes, and the layout of your property. Our technicians are experienced with both types and will recommend the most appropriate and code-compliant material for your installation, balancing safety, efficiency, and cost-effectiveness.",
+        "@type": "Answer",
+        "description": "Rigid lines are durable for straight runs, while flexible CSST is easier for complex routes. The best choice depends on the specific installation and local codes."
+      }
+    }
+  ],
+  "description": "Rigid lines are durable for straight runs, while flexible CSST is easier for complex routes. The best choice depends on the specific installation and local code"
+}

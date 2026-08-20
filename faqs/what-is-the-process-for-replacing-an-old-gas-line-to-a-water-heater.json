@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-process-for-replacing-an-old-gas-line-to-a-water-heater",
+  "name": "What is the process for replacing an old gas line to a water heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for replacing an old gas line to a water heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacing an old gas line involves several steps. First, the gas supply to the home is typically shut off for safety. The old line is then carefully disconnected and removed. Next, the new gas line is run, often using approved materials like black iron pipe or flexible corrugated stainless steel tubing (CSST), depending on local codes and specific needs. After installation, the connections are thoroughly tested for leaks, and the gas supply is restored. Finally, the water heater function is verified.",
+        "@type": "Answer",
+        "description": "The process involves shutting off gas, removing the old line, installing the new line, testing for leaks, and restoring gas supply. Qualified professionals handle this to ensure safety."
+      }
+    }
+  ],
+  "description": "The process involves shutting off gas, removing the old line, installing the new line, testing for leaks, and restoring gas supply. Qualified professionals hand"
+}

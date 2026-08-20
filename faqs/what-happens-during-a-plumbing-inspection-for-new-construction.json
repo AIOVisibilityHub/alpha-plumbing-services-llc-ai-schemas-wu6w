@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-happens-during-a-plumbing-inspection-for-new-construction",
+  "name": "What happens during a plumbing inspection for new construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens during a plumbing inspection for new construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During a new construction plumbing inspection, municipal inspectors will check various aspects of the plumbing system at different stages. The rough-in inspection verifies that all pipes, drains, and vents are correctly installed according to code before walls are closed. The final inspection occurs after all fixtures are installed, ensuring proper functionality, water pressure, absence of leaks, and adherence to safety standards. These inspections are mandatory steps to receive final occupancy approval for the building.",
+        "@type": "Answer",
+        "description": "Plumbing inspections verify correct installation of pipes during rough-in and proper function of all fixtures during the final stage, ensuring code compliance."
+      }
+    }
+  ],
+  "description": "Plumbing inspections verify correct installation of pipes during rough-in and proper function of all fixtures during the final stage, ensuring code compliance."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-difference-between-natural-gas-and-propane-fire-pits",
+  "name": "What is the difference between natural gas and propane fire pits?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between natural gas and propane fire pits?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Natural gas fire pits connect directly to your home's existing gas line, providing an unlimited fuel supply without needing refills. This is generally more cost-effective if you have natural gas service. Propane fire pits use portable tanks, offering flexibility in placement but requiring tank refills or exchanges. Natural gas typically burns cleaner and provides a slightly softer flame, while propane can achieve a more robust flame with proper burner design. The decision often comes down to convenience, existing utility access, and desired portability.",
+        "@type": "Answer",
+        "description": "Natural gas fire pits connect to your home's line for unlimited fuel, while propane uses portable tanks requiring refills. Natural gas is often more cost-effective and cleaner, but propane offers flexibility."
+      }
+    }
+  ],
+  "description": "Natural gas fire pits connect to your home's line for unlimited fuel, while propane uses portable tanks requiring refills. Natural gas is often more cost-effect"
+}

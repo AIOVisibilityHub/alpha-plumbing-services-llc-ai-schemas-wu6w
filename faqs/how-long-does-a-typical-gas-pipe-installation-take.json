@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-a-typical-gas-pipe-installation-take",
+  "name": "How long does a typical gas pipe installation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical gas pipe installation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a gas pipe installation varies depending on the project's complexity, the length of piping required, and whether new trenches or structural modifications are necessary. Simple appliance connections might take a few hours, while a full home re-piping or extensive new line installation could take one to two days. We provide a time estimate after an on-site assessment. Our goal is efficient service with minimal disruption, ensuring all safety standards are met.",
+        "@type": "Answer",
+        "description": "Installation time varies, from a few hours for simple connections to one to two days for extensive projects, depending on complexity."
+      }
+    }
+  ],
+  "description": "Installation time varies, from a few hours for simple connections to one to two days for extensive projects, depending on complexity."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-custom-home-plumbing-installation-take",
+  "name": "How long does custom home plumbing installation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does custom home plumbing installation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of custom home plumbing installation depends on the home's size, the complexity of the plumbing system, and the overall construction schedule. Typically, rough-in plumbing (installing pipes within walls and floors before drywall) can take several weeks, followed by fixture installation and final connections towards the end of the project. A detailed timeline will be integrated into the overall home construction schedule and provided by your builder and plumbing contractor.",
+        "@type": "Answer",
+        "description": "Custom home plumbing installation typically takes several weeks for rough-in, with final connections later. The timeline depends on complexity and overall construction schedule."
+      }
+    }
+  ],
+  "description": "Custom home plumbing installation typically takes several weeks for rough-in, with final connections later. The timeline depends on complexity and overall const"
+}

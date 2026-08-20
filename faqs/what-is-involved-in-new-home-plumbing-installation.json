@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-involved-in-new-home-plumbing-installation",
+  "name": "What is involved in new home plumbing installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in new home plumbing installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "New home plumbing installation is a comprehensive process that includes establishing the main water supply line, installing the wastewater drainage system, and fitting all necessary fixtures and appliances. This involves laying down a network of pipes for both hot and cold water, connecting to the municipal sewer or septic system, and ensuring proper ventilation for the drain-waste-vent (DWV) system. Our plumbers coordinate with other trades to ensure that all pipes are correctly routed through walls, floors, and ceilings before they are sealed. The process also includes pressure testing and inspection to guarantee there are no leaks and that the system complies with all local building codes and standards in Goodyear, Buckeye, Avondale, and surrounding areas.",
+        "@type": "Answer",
+        "description": "New home plumbing involves installing water supply and drainage systems, fixtures, and appliances, ensuring compliance with local codes."
+      }
+    }
+  ],
+  "description": "New home plumbing involves installing water supply and drainage systems, fixtures, and appliances, ensuring compliance with local codes."
+}

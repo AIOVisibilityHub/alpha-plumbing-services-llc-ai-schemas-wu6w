@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-factors-influence-the-cost-of-new-construction-plumbing",
+  "name": "What factors influence the cost of new construction plumbing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of new construction plumbing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several factors affect new construction plumbing costs, including the size and complexity of the property, the number and type of fixtures chosen (e.g., standard vs. high-end), the materials used for piping (e.g., PEX, copper, PVC), and local labor rates. The type of water heater, water treatment systems, and whether the property connects to city utilities or requires a well and septic system also play a significant role. Our estimates detail all these components for transparency.",
+        "@type": "Answer",
+        "description": "Costs depend on property size, fixture count and type, piping materials, and labor rates. Utility connections also influence the total price."
+      }
+    }
+  ],
+  "description": "Costs depend on property size, fixture count and type, piping materials, and labor rates. Utility connections also influence the total price."
+}

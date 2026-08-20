@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/can-i-install-a-gas-line-for-a-stove-myself",
+  "name": "Can I install a gas line for a stove myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install a gas line for a stove myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Installing a gas line for a stove is a complex task that requires specialized knowledge, tools, and adherence to strict safety codes. Incorrect installation can lead to dangerous gas leaks, carbon monoxide poisoning, or even explosions. For these reasons, it is strongly recommended that gas line installations be performed by a licensed and experienced professional. Alpha-Plumbing Services, LLC technicians are certified and insured to safely and correctly install gas lines, ensuring your safety and compliance with all local regulations in Goodyear, Buckeye, Avondale, Surprise, and Waddel.",
+        "@type": "Answer",
+        "description": "Installing a gas line is complex and should be done by a licensed professional due to safety risks. Alpha-Plumbing Services, LLC provides certified and insured installation."
+      }
+    }
+  ],
+  "description": "Installing a gas line is complex and should be done by a licensed professional due to safety risks. Alpha-Plumbing Services, LLC provides certified and insured"
+}

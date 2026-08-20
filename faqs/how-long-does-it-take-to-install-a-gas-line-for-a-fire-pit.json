@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-it-take-to-install-a-gas-line-for-a-fire-pit",
+  "name": "How long does it take to install a gas line for a fire pit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install a gas line for a fire pit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation time for a gas line to a fire pit can vary depending on several factors, such as the distance from the existing gas source, the complexity of the trenching required, and the type of landscape. A straightforward installation might take a single day, while more complex projects could extend to two or three days. This includes planning, trenching, laying the gas line, making connections, and performing safety checks. Our technicians will provide a more accurate time estimate after an on-site assessment.",
+        "@type": "Answer",
+        "description": "Installation time varies, typically ranging from one to three days, depending on factors like distance from the gas source and trenching complexity. A precise estimate is provided after an on-site assessment."
+      }
+    }
+  ],
+  "description": "Installation time varies, typically ranging from one to three days, depending on factors like distance from the gas source and trenching complexity. A precise e"
+}

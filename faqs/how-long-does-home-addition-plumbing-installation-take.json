@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-home-addition-plumbing-installation-take",
+  "name": "How long does home addition plumbing installation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does home addition plumbing installation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of home addition plumbing installation depends on the project's scope. A simple bathroom addition might take a few days for rough-in and final fixture installation, while a more complex project involving multiple bathrooms or kitchens could take several weeks. We coordinate closely with other contractors to ensure timely completion, minimizing disruption to your construction timeline.",
+        "@type": "Answer",
+        "description": "Installation time varies with project scope; a simple addition might take days, complex ones weeks."
+      }
+    }
+  ],
+  "description": "Installation time varies with project scope; a simple addition might take days, complex ones weeks."
+}

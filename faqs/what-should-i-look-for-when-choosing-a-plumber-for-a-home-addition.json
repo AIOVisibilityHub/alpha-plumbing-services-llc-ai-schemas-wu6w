@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-should-i-look-for-when-choosing-a-plumber-for-a-home-addition",
+  "name": "What should I look for when choosing a plumber for a home addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for when choosing a plumber for a home addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a plumber for a home addition, look for licensed and insured professionals with experience in new construction or addition plumbing. Check their reputation through reviews and ask for references. Ensure they are familiar with local building codes in your area, such as Goodyear or Avondale, and that they provide clear, written estimates. A reliable plumber will also offer warranties on their work.",
+        "@type": "Answer",
+        "description": "Choose licensed, insured plumbers with experience in home additions, good reviews, and local code knowledge."
+      }
+    }
+  ],
+  "description": "Choose licensed, insured plumbers with experience in home additions, good reviews, and local code knowledge."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-process-for-installing-a-new-gas-line-for-a-stove",
+  "name": "What is the process for installing a new gas line for a stove?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for installing a new gas line for a stove?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Installing a new gas line involves several steps, starting with an assessment of your home's current gas system and the proposed location for the stove. Our Alpha-Plumbing Services, LLC technician will plan the most efficient and code-compliant route for the new line. This typically includes shutting off the main gas supply, running new piping from the main line to the stove's location, making necessary connections, and then meticulously testing for leaks. Finally, the gas supply is restored, and the new connection is verified for safe operation. We handle all aspects, ensuring a professional and secure installation.",
+        "@type": "Answer",
+        "description": "The process involves assessing your system, planning the line route, shutting off gas, installing piping, making connections, and leak testing. Alpha-Plumbing Services, LLC ensures a safe and compliant installation."
+      }
+    }
+  ],
+  "description": "The process involves assessing your system, planning the line route, shutting off gas, installing piping, making connections, and leak testing. Alpha-Plumbing S"
+}

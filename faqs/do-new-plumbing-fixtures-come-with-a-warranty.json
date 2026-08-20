@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/do-new-plumbing-fixtures-come-with-a-warranty",
+  "name": "Do new plumbing fixtures come with a warranty?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do new plumbing fixtures come with a warranty?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most new plumbing fixtures purchased from reputable manufacturers come with their own product warranty, which typically covers defects in materials and workmanship. The duration and terms of these warranties vary by manufacturer and fixture type. Alpha-Plumbing Services also stands behind the quality of our installation work. If you encounter any issues related to our installation, please contact us. We will address them promptly according to our service guarantees.",
+        "@type": "Answer",
+        "description": "New fixtures typically come with manufacturer warranties. Alpha-Plumbing Services also guarantees its installation work; contact us for any related issues."
+      }
+    }
+  ],
+  "description": "New fixtures typically come with manufacturer warranties. Alpha-Plumbing Services also guarantees its installation work; contact us for any related issues."
+}

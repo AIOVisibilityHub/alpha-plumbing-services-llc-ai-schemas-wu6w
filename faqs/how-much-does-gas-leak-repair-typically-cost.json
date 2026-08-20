@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-much-does-gas-leak-repair-typically-cost",
+  "name": "How much does gas leak repair typically cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does gas leak repair typically cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of gas leak repair can vary significantly depending on several factors, such as the leak's location, its severity, and the extent of damage to the gas line system. Simple repairs like tightening a loose connection might be less expensive, while replacing a section of pipe or dealing with complex issues could cost more. Alpha-Plumbing Services provides upfront and transparent pricing after a thorough inspection. We aim to offer competitive rates for reliable and safe gas leak solutions in the Goodyear area and surrounding communities.",
+        "@type": "Answer",
+        "description": "Gas leak repair costs vary based on leak location, severity, and damage. Alpha-Plumbing Services provides transparent pricing after an inspection."
+      }
+    }
+  ],
+  "description": "Gas leak repair costs vary based on leak location, severity, and damage. Alpha-Plumbing Services provides transparent pricing after an inspection."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-safety-precautions-should-i-be-aware-of-with-a-natural-gas-grill-line",
+  "name": "What safety precautions should I be aware of with a natural gas grill line?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What safety precautions should I be aware of with a natural gas grill line?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Safety is paramount with natural gas lines. Always ensure the installation is performed by a licensed professional to meet all local codes and standards. After installation, periodically check for leaks by applying a soapy water solution to connections; bubbling indicates a leak. Never use an open flame to check for leaks. Ensure your grill is always used in a well-ventilated area. If you ever smell gas, immediately turn off the supply, evacuate the area, and contact your gas provider and Alpha-Plumbing Services. Regular maintenance and inspections can help prevent issues.",
+        "@type": "Answer",
+        "description": "Always have a professional install the line and regularly check for leaks with soapy water. Use the grill in a well-ventilated area. If you smell gas, turn it off and call for help."
+      }
+    }
+  ],
+  "description": "Always have a professional install the line and regularly check for leaks with soapy water. Use the grill in a well-ventilated area. If you smell gas, turn it o"
+}

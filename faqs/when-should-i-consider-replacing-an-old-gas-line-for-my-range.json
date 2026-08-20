@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-should-i-consider-replacing-an-old-gas-line-for-my-range",
+  "name": "When should I consider replacing an old gas line for my range?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing an old gas line for my range?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing an old gas line for your range if you notice any signs of wear, corrosion, or damage, such as rust or kinks in visible sections. If the line is very old, made of outdated materials, or doesn't meet current safety codes, a replacement is advisable. Any persistent gas odor, no matter how faint, should prompt an immediate professional inspection. Regular maintenance checks by a qualified plumber can also help identify potential issues before they become serious.",
+        "@type": "Answer",
+        "description": "Consider replacing an old gas line if you see wear, corrosion, or damage, or if it's very old and doesn't meet current codes."
+      }
+    }
+  ],
+  "description": "Consider replacing an old gas line if you see wear, corrosion, or damage, or if it's very old and doesn't meet current codes."
+}

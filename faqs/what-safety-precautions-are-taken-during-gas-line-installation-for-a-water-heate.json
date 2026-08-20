@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-safety-precautions-are-taken-during-gas-line-installation-for-a-water-heate",
+  "name": "What safety precautions are taken during gas line installation for a water heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What safety precautions are taken during gas line installation for a water heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Safety is paramount during gas line installation. Licensed plumbers will first shut off the main gas supply to the property. They use specialized tools and techniques to ensure all connections are tight and secure, preventing leaks. After installation, the new gas line is pressure tested to confirm its integrity. Gas detectors may also be used to verify no leaks are present before the gas supply is restored. All work adheres strictly to local safety codes and regulations.",
+        "@type": "Answer",
+        "description": "Safety precautions include shutting off gas, using specialized tools for secure connections, pressure testing the new line, and using gas detectors to verify no leaks."
+      }
+    }
+  ],
+  "description": "Safety precautions include shutting off gas, using specialized tools for secure connections, pressure testing the new line, and using gas detectors to verify no"
+}

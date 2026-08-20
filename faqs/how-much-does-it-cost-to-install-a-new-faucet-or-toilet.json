@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-much-does-it-cost-to-install-a-new-faucet-or-toilet",
+  "name": "How much does it cost to install a new faucet or toilet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to install a new faucet or toilet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of installing a new faucet or toilet varies depending on several factors, including the type and complexity of the fixture, any necessary plumbing modifications, and the accessibility of the work area. Basic installations are typically more straightforward, while custom fixtures or those requiring pipe adjustments may incur additional costs. We recommend scheduling a consultation with Alpha-Plumbing Services to get an accurate estimate tailored to your specific installation needs. We provide transparent pricing before any work begins.",
+        "@type": "Answer",
+        "description": "Installation cost for faucets or toilets varies by fixture type, complexity, and necessary plumbing modifications. Contact Alpha-Plumbing Services for a custom estimate."
+      }
+    }
+  ],
+  "description": "Installation cost for faucets or toilets varies by fixture type, complexity, and necessary plumbing modifications. Contact Alpha-Plumbing Services for a custom"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-types-of-gas-lines-are-used-for-installation",
+  "name": "What types of gas lines are used for installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of gas lines are used for installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Gas lines are typically installed using either black steel pipe, corrugated stainless steel tubing (CSST), or flexible copper tubing for specific applications. Black steel pipe is traditional and durable, often used for main lines. CSST is a flexible, cost-effective option that can reduce installation time, especially in areas with many turns. Copper tubing is usually reserved for smaller, accessible connections. Our technicians select the most appropriate and code-compliant material based on your specific project needs and local regulations to ensure safety and longevity.",
+        "@type": "Answer",
+        "description": "Common types include black steel pipe, corrugated stainless steel tubing (CSST), and flexible copper tubing. The choice depends on project needs and local codes."
+      }
+    }
+  ],
+  "description": "Common types include black steel pipe, corrugated stainless steel tubing (CSST), and flexible copper tubing. The choice depends on project needs and local codes"
+}

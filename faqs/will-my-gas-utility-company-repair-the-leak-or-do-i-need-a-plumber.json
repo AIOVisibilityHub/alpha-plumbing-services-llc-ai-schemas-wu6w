@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/will-my-gas-utility-company-repair-the-leak-or-do-i-need-a-plumber",
+  "name": "Will my gas utility company repair the leak, or do I need a plumber?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my gas utility company repair the leak, or do I need a plumber?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Your gas utility company is responsible for the main gas lines leading up to your meter and for emergency shut-offs if a leak is detected. However, typically, any leaks found within your home's gas piping system, from the meter onwards, are the homeowner's responsibility to repair. In such cases, you will need to contact a licensed and qualified plumber, like Alpha-Plumbing Services, to perform the necessary repairs. Your utility company can confirm their specific policy when you call them.",
+        "@type": "Answer",
+        "description": "Gas utility companies handle main lines and emergency shut-offs. Leaks within your home's piping are typically the homeowner's responsibility, requiring a licensed plumber."
+      }
+    }
+  ],
+  "description": "Gas utility companies handle main lines and emergency shut-offs. Leaks within your home's piping are typically the homeowner's responsibility, requiring a licen"
+}

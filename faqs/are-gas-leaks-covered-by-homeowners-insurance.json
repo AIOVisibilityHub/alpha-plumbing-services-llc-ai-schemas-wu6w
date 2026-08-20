@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/are-gas-leaks-covered-by-homeowners-insurance",
+  "name": "Are gas leaks covered by homeowners insurance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are gas leaks covered by homeowners insurance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether a gas leak diagnosis and repair are covered by homeowners insurance depends on your specific policy and the cause of the leak. Generally, sudden and accidental damage, like a pipe bursting or an appliance malfunction leading to a leak, may be covered. However, damage due to lack of maintenance, wear and tear, or pre-existing conditions is often excluded. It's essential to review your insurance policy documents or contact your insurance provider directly to understand your coverage limits and what is specifically included or excluded regarding gas line damage and repairs.",
+        "@type": "Answer",
+        "description": "Coverage depends on your homeowners insurance policy and the cause of the leak; review your policy or contact your provider for specifics."
+      }
+    }
+  ],
+  "description": "Coverage depends on your homeowners insurance policy and the cause of the leak; review your policy or contact your provider for specifics."
+}

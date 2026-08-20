@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/do-i-need-to-replace-plumbing-pipes-when-i-remodel-my-bathtub",
+  "name": "Do I need to replace plumbing pipes when I remodel my bathtub?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to replace plumbing pipes when I remodel my bathtub?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacing plumbing pipes during a bathtub remodel isn't always necessary, but it's often a recommended consideration. If your pipes are old, corroded, or made from outdated materials like galvanized steel, this is an ideal time to upgrade them to more durable materials like PEX or copper. This proactive replacement can prevent future leaks, improve water pressure, and extend the lifespan of your plumbing system, saving you from more extensive repairs down the line. We assess the condition of your existing pipes and advise you on the best course of action.",
+        "@type": "Answer",
+        "description": "Pipe replacement isn't always required, but it's recommended if existing pipes are old or corroded to prevent future issues."
+      }
+    }
+  ],
+  "description": "Pipe replacement isn't always required, but it's recommended if existing pipes are old or corroded to prevent future issues."
+}

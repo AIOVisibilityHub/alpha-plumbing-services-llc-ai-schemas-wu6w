@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-factors-determine-the-size-of-the-gas-line-needed-for-a-pool-heater",
+  "name": "What factors determine the size of the gas line needed for a pool heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors determine the size of the gas line needed for a pool heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several critical factors determine the appropriate size of a gas line for a pool heater. The most important is the BTU (British Thermal Unit) rating of the pool heater, which indicates its gas consumption. Secondly, the distance from the gas meter or propane tank to the pool heater location significantly impacts line size, as longer distances require larger diameters to maintain adequate pressure. The type of gas (natural or propane) and the total gas load of all appliances on the system are also considered to ensure proper flow and pressure.",
+        "@type": "Answer",
+        "description": "Gas line size depends on the pool heater's BTU rating, the distance from the gas source, the type of gas, and the total gas load of the property."
+      }
+    }
+  ],
+  "description": "Gas line size depends on the pool heater's BTU rating, the distance from the gas source, the type of gas, and the total gas load of the property."
+}

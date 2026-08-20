@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-involved-in-a-gas-pipe-installation-project",
+  "name": "What is involved in a gas pipe installation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in a gas pipe installation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A gas pipe installation project begins with an assessment of your current gas system and appliance needs. Our technicians will plan the most efficient and safest route for new lines, adhering strictly to local codes. This involves careful measuring, cutting, and joining of specialized gas piping, which can be rigid or flexible depending on the application. After installation, the system undergoes thorough leak testing to ensure safety and integrity before being connected to the gas supply and appliances. We handle all aspects, from initial design to final inspection.",
+        "@type": "Answer",
+        "description": "Gas pipe installation involves planning, laying new pipes, connecting them, and rigorous leak testing to ensure safety and compliance with local codes."
+      }
+    }
+  ],
+  "description": "Gas pipe installation involves planning, laying new pipes, connecting them, and rigorous leak testing to ensure safety and compliance with local codes."
+}

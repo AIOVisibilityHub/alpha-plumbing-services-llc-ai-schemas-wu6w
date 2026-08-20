@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-involved-in-installing-a-new-gas-line-for-a-range",
+  "name": "What is involved in installing a new gas line for a range?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in installing a new gas line for a range?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Installing a new gas line for a range typically involves several steps. First, a qualified technician will assess your home's existing gas supply and determine the best route for the new line. This often includes turning off the main gas supply for safety. Then, the technician will run the new gas line from the main supply to the range's location, ensuring it's properly secured and meets all local code requirements. Finally, the range is connected, and the system is tested for leaks before the gas supply is fully restored.",
+        "@type": "Answer",
+        "description": "Installation includes assessing the gas supply, running a new line, connecting the range, and leak testing."
+      }
+    }
+  ],
+  "description": "Installation includes assessing the gas supply, running a new line, connecting the range, and leak testing."
+}

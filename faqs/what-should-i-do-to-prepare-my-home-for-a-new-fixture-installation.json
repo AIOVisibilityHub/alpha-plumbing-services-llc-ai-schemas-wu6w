@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-should-i-do-to-prepare-my-home-for-a-new-fixture-installation",
+  "name": "What should I do to prepare my home for a new fixture installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do to prepare my home for a new fixture installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare for a new fixture installation, we recommend clearing the work area around the fixture, removing any personal items, and ensuring there's a clear path for our plumbers and their tools. If possible, inform family members about the upcoming work, especially regarding temporary water shut-offs. While our team will take precautions to protect your home, covering nearby furniture or flooring can provide extra protection against dust or splashes. Alpha-Plumbing Services will handle the technical aspects and cleanup of the immediate work area.",
+        "@type": "Answer",
+        "description": "Prepare by clearing the work area, ensuring clear access for plumbers, and informing family. Covering nearby items offers extra protection."
+      }
+    }
+  ],
+  "description": "Prepare by clearing the work area, ensuring clear access for plumbers, and informing family. Covering nearby items offers extra protection."
+}

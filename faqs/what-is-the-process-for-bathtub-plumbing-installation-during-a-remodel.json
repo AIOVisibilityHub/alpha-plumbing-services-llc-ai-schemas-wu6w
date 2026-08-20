@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-process-for-bathtub-plumbing-installation-during-a-remodel",
+  "name": "What is the process for bathtub plumbing installation during a remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for bathtub plumbing installation during a remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process for bathtub plumbing installation during a remodel begins with a thorough assessment of your existing plumbing and your remodel plans. We then carefully remove old fixtures and expose the wall and floor cavities. Next, we install or modify the new drain and overflow assemblies, ensuring proper slope and connections. Water supply lines are then re-routed or extended as needed for the new faucet and showerhead. Finally, we pressure test all new connections to check for leaks before the walls are closed up, ensuring a reliable and code-compliant installation.",
+        "@type": "Answer",
+        "description": "The process involves assessing existing plumbing, removing old fixtures, installing or modifying drain and supply lines, and pressure testing for leaks."
+      }
+    }
+  ],
+  "description": "The process involves assessing existing plumbing, removing old fixtures, installing or modifying drain and supply lines, and pressure testing for leaks."
+}

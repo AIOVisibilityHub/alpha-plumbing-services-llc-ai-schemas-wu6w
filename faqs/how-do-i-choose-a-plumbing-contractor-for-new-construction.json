@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-do-i-choose-a-plumbing-contractor-for-new-construction",
+  "name": "How do I choose a plumbing contractor for new construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a plumbing contractor for new construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a plumbing contractor for new construction, look for companies with specific experience in ground-up installations and a strong local reputation. Verify they are licensed, insured, and familiar with local building codes in areas like Goodyear, Buckeye, or Avondale. Request references and review their portfolio of similar projects. A good contractor will offer transparent estimates, clear communication, and a warranty on their work. Alpha-Plumbing Services meets these criteria and provides detailed proposals.",
+        "@type": "Answer",
+        "description": "Choose a contractor with new construction experience, local licensing, insurance, and a good reputation. Check references and ensure transparent estimates."
+      }
+    }
+  ],
+  "description": "Choose a contractor with new construction experience, local licensing, insurance, and a good reputation. Check references and ensure transparent estimates."
+}

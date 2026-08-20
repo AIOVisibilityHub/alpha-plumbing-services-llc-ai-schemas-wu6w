@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-commercial-tenant-improvement-plumbing",
+  "name": "What is commercial tenant improvement plumbing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is commercial tenant improvement plumbing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Commercial tenant improvement (TI) plumbing involves modifying or upgrading the plumbing systems within a leased commercial space to meet the specific needs of a new tenant or a change in business operations. This can include relocating fixtures, adding new water lines for specialized equipment, installing drainage systems for kitchens or laboratories, or upgrading existing pipes to meet code requirements for a new use. TI plumbing projects are typically part of a larger renovation and are essential for ensuring the space functions correctly for the tenant's business.",
+        "@type": "Answer",
+        "description": "Commercial tenant improvement plumbing modifies or upgrades plumbing systems in a leased commercial space to suit a new tenant's specific business needs or operations."
+      }
+    }
+  ],
+  "description": "Commercial tenant improvement plumbing modifies or upgrades plumbing systems in a leased commercial space to suit a new tenant's specific business needs or oper"
+}

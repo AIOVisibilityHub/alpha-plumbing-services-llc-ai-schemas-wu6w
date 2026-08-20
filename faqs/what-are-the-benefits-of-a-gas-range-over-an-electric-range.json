@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-the-benefits-of-a-gas-range-over-an-electric-range",
+  "name": "What are the benefits of a gas range over an electric range?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of a gas range over an electric range?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Gas ranges offer several benefits compared to electric models. Many cooks prefer gas for its precise temperature control and instant heat adjustment, which allows for more immediate responsiveness while cooking. Gas ranges also tend to continue functioning during power outages, as long as the gas supply is active. However, electric ranges can sometimes offer more consistent low heat and easier cleaning of their smooth tops. The choice often comes down to personal cooking preferences and available utility connections.",
+        "@type": "Answer",
+        "description": "Gas ranges offer precise temperature control and can work during power outages. Electric ranges provide consistent low heat and easy cleaning."
+      }
+    }
+  ],
+  "description": "Gas ranges offer precise temperature control and can work during power outages. Electric ranges provide consistent low heat and easy cleaning."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-should-i-involve-a-plumber-in-my-custom-home-build",
+  "name": "When should I involve a plumber in my custom home build?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I involve a plumber in my custom home build?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is best to involve a plumber during the initial design phase of your custom home build, ideally alongside your architect and builder. Early collaboration ensures that plumbing needs are integrated into the architectural plans from the start. This proactive approach helps identify potential issues, optimize pipe routing, plan for future expansions, and properly size water heaters and supply lines, preventing costly changes and delays later in the construction process.",
+        "@type": "Answer",
+        "description": "Involve a plumber during the initial design phase of your custom home build, alongside your architect, to integrate plumbing needs early and avoid issues."
+      }
+    }
+  ],
+  "description": "Involve a plumber during the initial design phase of your custom home build, alongside your architect, to integrate plumbing needs early and avoid issues."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-involved-in-installing-a-new-gas-line-for-a-dryer",
+  "name": "What is involved in installing a new gas line for a dryer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in installing a new gas line for a dryer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Installing a new gas line for a dryer typically involves several steps. First, a qualified technician will assess your home's current gas system and determine the best route for the new line, considering safety and local codes. This may require accessing your basement, crawl space, or attic. The installation includes running a new gas pipe from the main supply to the dryer's location, connecting it securely, and installing a shut-off valve. After installation, the line is rigorously tested for leaks to ensure safety and compliance before the dryer is connected. Permits are often required for such work.",
+        "@type": "Answer",
+        "description": "Installing a new gas line for a dryer involves assessing the gas system, running new piping, connecting it, installing a shut-off valve, and performing leak tests. Permits are often required for this type of work."
+      }
+    }
+  ],
+  "description": "Installing a new gas line for a dryer involves assessing the gas system, running new piping, connecting it, installing a shut-off valve, and performing leak tes"
+}

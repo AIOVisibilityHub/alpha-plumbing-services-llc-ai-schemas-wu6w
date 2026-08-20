@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-difference-between-a-flexible-gas-line-and-a-rigid-gas-line-for-a-dr",
+  "name": "What is the difference between a flexible gas line and a rigid gas line for a dryer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a flexible gas line and a rigid gas line for a dryer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Flexible gas lines, often made of corrugated stainless steel (CSST), are easier to install and can navigate around obstacles, making them common for appliance connections. Rigid gas lines, typically black iron pipe, are very durable and are often used for the main gas supply runs in a home. While flexible connectors are used for the final connection to the dryer, the main run from the gas supply to the dryer area might be rigid pipe. Both types, when properly installed, are safe and code-compliant, but their applications and installation methods differ.",
+        "@type": "Answer",
+        "description": "Flexible gas lines are easier to install for appliance connections, while rigid gas lines are durable for main supply runs. Both are safe and code-compliant when installed correctly."
+      }
+    }
+  ],
+  "description": "Flexible gas lines are easier to install for appliance connections, while rigid gas lines are durable for main supply runs. Both are safe and code-compliant whe"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/can-i-install-a-gas-line-for-my-pool-heater-myself",
+  "name": "Can I install a gas line for my pool heater myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install a gas line for my pool heater myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Installing a gas line is a complex and potentially hazardous task that should only be performed by a licensed and experienced professional. Improper installation can lead to gas leaks, carbon monoxide poisoning, explosions, or fires, posing serious risks to your property and safety. Furthermore, local codes often require gas line installations to be done by certified plumbers and inspected to ensure compliance. Attempting a DIY installation may also void warranties or insurance coverage.",
+        "@type": "Answer",
+        "description": "No, gas line installation should be done by a licensed professional due to safety risks and compliance with local codes. DIY can be hazardous and void warranties."
+      }
+    }
+  ],
+  "description": "No, gas line installation should be done by a licensed professional due to safety risks and compliance with local codes. DIY can be hazardous and void warrantie"
+}

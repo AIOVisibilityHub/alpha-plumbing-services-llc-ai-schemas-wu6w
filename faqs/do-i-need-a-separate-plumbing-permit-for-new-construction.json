@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/do-i-need-a-separate-plumbing-permit-for-new-construction",
+  "name": "Do I need a separate plumbing permit for new construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a separate plumbing permit for new construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a plumbing permit is typically required for new construction projects in Goodyear, Buckeye, Avondale, and other service areas. This permit ensures that all plumbing installations comply with local building codes and safety standards, protecting homeowners and future occupants. The permit process often involves submitting detailed plans for approval and undergoing inspections at various stages of the installation. Alpha-Plumbing Services assists with navigating these requirements.",
+        "@type": "Answer",
+        "description": "Yes, a plumbing permit is generally required for new construction to ensure compliance with local building codes and safety standards."
+      }
+    }
+  ],
+  "description": "Yes, a plumbing permit is generally required for new construction to ensure compliance with local building codes and safety standards."
+}

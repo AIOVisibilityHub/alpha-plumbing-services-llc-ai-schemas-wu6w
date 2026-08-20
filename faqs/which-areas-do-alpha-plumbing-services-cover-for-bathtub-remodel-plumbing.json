@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/which-areas-do-alpha-plumbing-services-cover-for-bathtub-remodel-plumbing",
+  "name": "Which areas do Alpha-Plumbing Services cover for bathtub remodel plumbing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Which areas do Alpha-Plumbing Services cover for bathtub remodel plumbing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Alpha-Plumbing Services, LLC proudly provides bathtub remodel plumbing services to homeowners in Goodyear, Buckeye, Avondale, Surprise, and Waddell. Our licensed and experienced plumbers are familiar with the specific plumbing requirements and codes within these communities. If you reside in one of these areas and are planning a bathtub remodel, contact us for a professional assessment and quote tailored to your project's needs.",
+        "@type": "Answer",
+        "description": "Alpha-Plumbing Services covers bathtub remodel plumbing in Goodyear, Buckeye, Avondale, Surprise, and Waddell."
+      }
+    }
+  ],
+  "description": "Alpha-Plumbing Services covers bathtub remodel plumbing in Goodyear, Buckeye, Avondale, Surprise, and Waddell."
+}

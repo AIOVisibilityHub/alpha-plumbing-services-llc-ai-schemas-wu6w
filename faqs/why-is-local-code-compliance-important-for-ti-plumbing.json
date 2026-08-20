@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/why-is-local-code-compliance-important-for-ti-plumbing",
+  "name": "Why is local code compliance important for TI plumbing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is local code compliance important for TI plumbing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Local code compliance is critical for tenant improvement plumbing to ensure the safety, functionality, and legality of your commercial space. Codes cover aspects like pipe sizing, material use, fixture installation, and backflow prevention, protecting against health hazards and structural issues. Non-compliance can lead to failed inspections, costly rework, fines, and potential liability. Our plumbers are knowledgeable about specific regulations in areas like Avondale and Surprise, ensuring your project meets all required standards.",
+        "@type": "Answer",
+        "description": "Local code compliance ensures the safety, functionality, and legality of TI plumbing, preventing health hazards, structural issues, rework, and fines."
+      }
+    }
+  ],
+  "description": "Local code compliance ensures the safety, functionality, and legality of TI plumbing, preventing health hazards, structural issues, rework, and fines."
+}

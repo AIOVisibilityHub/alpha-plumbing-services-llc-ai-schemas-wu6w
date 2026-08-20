@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-areas-does-alpha-plumbing-services-cover-for-new-fixture-installations",
+  "name": "What areas does Alpha-Plumbing Services cover for new fixture installations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas does Alpha-Plumbing Services cover for new fixture installations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Alpha-Plumbing Services proudly provides new fixture installation services across several communities in Arizona. Our primary service areas include Goodyear, Buckeye, Avondale, Surprise, and Waddell. If you are located in or around these towns, you can rely on our experienced team for professional and efficient plumbing fixture installations. Feel free to contact us to confirm if your specific address falls within our service radius.",
+        "@type": "Answer",
+        "description": "Alpha-Plumbing Services covers new fixture installations in Goodyear, Buckeye, Avondale, Surprise, and Waddell."
+      }
+    }
+  ],
+  "description": "Alpha-Plumbing Services covers new fixture installations in Goodyear, Buckeye, Avondale, Surprise, and Waddell."
+}

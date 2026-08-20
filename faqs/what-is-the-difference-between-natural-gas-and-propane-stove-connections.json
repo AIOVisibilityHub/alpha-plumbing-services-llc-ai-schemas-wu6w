@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-difference-between-natural-gas-and-propane-stove-connections",
+  "name": "What is the difference between natural gas and propane stove connections?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between natural gas and propane stove connections?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While both natural gas and propane are common fuel sources for stoves, they require different types of connections and specific appliance configurations. Natural gas is typically delivered via a utility line and requires a standard gas line hookup. Propane, on the other hand, is stored in tanks and requires a regulator and different orifice sizes for the stove's burners to function correctly. Most gas stoves come configured for natural gas but can be converted to propane with a conversion kit. Alpha-Plumbing Services, LLC can advise on the appropriate setup for your fuel source.",
+        "@type": "Answer",
+        "description": "Natural gas and propane stoves use different connections; natural gas uses utility lines, while propane uses tanks and requires a regulator and orifice conversion. Alpha-Plumbing Services, LLC can advise on the correct setup."
+      }
+    }
+  ],
+  "description": "Natural gas and propane stoves use different connections; natural gas uses utility lines, while propane uses tanks and requires a regulator and orifice conversi"
+}

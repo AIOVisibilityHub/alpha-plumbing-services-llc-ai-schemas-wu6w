@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-kind-of-plumbing-inspections-are-performed-during-new-home-construction",
+  "name": "What kind of plumbing inspections are performed during new home construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of plumbing inspections are performed during new home construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During new home construction, several plumbing inspections are performed to ensure compliance with local building codes and safety standards. Typically, there's a 'rough-in' inspection after all supply and drain lines are installed but before walls are closed. This checks pipe sizing, materials, connections, and proper venting. A 'top-out' inspection may occur to verify connections to the roof. Finally, a 'final' inspection is conducted once all fixtures are installed and the system is fully operational, checking for leaks, proper drainage, and adequate water pressure. Alpha-Plumbing Services ensures all our work passes these critical inspections in areas like Goodyear, Buckeye, and Avondale.",
+        "@type": "Answer",
+        "description": "New home plumbing involves rough-in, top-out, and final inspections to ensure code compliance, safety, and proper system function."
+      }
+    }
+  ],
+  "description": "New home plumbing involves rough-in, top-out, and final inspections to ensure code compliance, safety, and proper system function."
+}

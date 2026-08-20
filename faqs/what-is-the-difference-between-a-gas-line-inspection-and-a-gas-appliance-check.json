@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-difference-between-a-gas-line-inspection-and-a-gas-appliance-check",
+  "name": "What is the difference between a gas line inspection and a gas appliance check?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a gas line inspection and a gas appliance check?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A gas line inspection focuses on the integrity of the gas piping system itself, checking for leaks, corrosion, proper connections, and overall compliance from the meter to the appliance hookups. A gas appliance check, while related, specifically assesses the functionality, efficiency, and safe operation of individual gas-powered appliances like furnaces, water heaters, or stoves. While an inspection might identify issues with the line feeding an appliance, an appliance check dives deeper into the appliance's internal components. Alpha-Plumbing Services offers both, ensuring comprehensive safety for your entire gas system.",
+        "@type": "Answer",
+        "description": "A gas line inspection checks the gas piping system, while a gas appliance check assesses the functionality and safe operation of individual gas appliances."
+      }
+    }
+  ],
+  "description": "A gas line inspection checks the gas piping system, while a gas appliance check assesses the functionality and safe operation of individual gas appliances."
+}

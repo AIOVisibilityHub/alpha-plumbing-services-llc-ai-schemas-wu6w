@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-do-i-need-a-plumber-for-tenant-improvements",
+  "name": "When do I need a plumber for tenant improvements?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need a plumber for tenant improvements?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You need a plumber for tenant improvements whenever your new business operations or layout require changes to the existing plumbing infrastructure. This includes installing new sinks, toilets, or water heaters, relocating current fixtures, or modifying water and drain lines for equipment like commercial kitchens, medical offices, or salons. Engaging a plumber early ensures that plumbing changes comply with local codes and integrate seamlessly with other construction aspects, preventing costly rework later in the project.",
+        "@type": "Answer",
+        "description": "You need a plumber for tenant improvements when your business operations or layout require changes to the existing plumbing infrastructure, such as installing new fixtures or modifying water lines."
+      }
+    }
+  ],
+  "description": "You need a plumber for tenant improvements when your business operations or layout require changes to the existing plumbing infrastructure, such as installing n"
+}

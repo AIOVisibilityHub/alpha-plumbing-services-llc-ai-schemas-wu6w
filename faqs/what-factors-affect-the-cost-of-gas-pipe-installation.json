@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-factors-affect-the-cost-of-gas-pipe-installation",
+  "name": "What factors affect the cost of gas pipe installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors affect the cost of gas pipe installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several factors influence the cost of gas pipe installation. These include the length and type of piping material needed (e.g., black iron, corrugated stainless steel tubing), the number of appliances being connected, the accessibility of the installation area, and whether trenching or structural modifications are required. Permits, if necessary, also contribute to the overall cost. We provide a detailed estimate after assessing your specific installation needs to ensure transparency.",
+        "@type": "Answer",
+        "description": "Cost is affected by pipe length and material, number of appliances, accessibility, structural modifications, and permit requirements."
+      }
+    }
+  ],
+  "description": "Cost is affected by pipe length and material, number of appliances, accessibility, structural modifications, and permit requirements."
+}

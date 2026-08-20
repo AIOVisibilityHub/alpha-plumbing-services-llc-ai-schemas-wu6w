@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-difference-between-new-construction-plumbing-and-tenant-improvement",
+  "name": "What is the difference between new construction plumbing and tenant improvement plumbing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between new construction plumbing and tenant improvement plumbing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "New construction plumbing involves installing an entire plumbing system from the ground up in a brand-new building. This includes laying all main water and sewer lines, setting up water heaters, and roughing in all fixtures according to the initial architectural plans. Tenant improvement plumbing, in contrast, modifies or adapts an existing plumbing system within an already constructed commercial space to suit the specific needs of a new or changing tenant. It reconfigures existing infrastructure rather than building it entirely anew.",
+        "@type": "Answer",
+        "description": "New construction plumbing builds a system from scratch in a new building, while tenant improvement plumbing modifies an existing system in an already built commercial space."
+      }
+    }
+  ],
+  "description": "New construction plumbing builds a system from scratch in a new building, while tenant improvement plumbing modifies an existing system in an already built comm"
+}

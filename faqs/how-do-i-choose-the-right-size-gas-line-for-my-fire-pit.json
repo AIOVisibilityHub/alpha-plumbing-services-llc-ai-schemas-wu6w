@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-do-i-choose-the-right-size-gas-line-for-my-fire-pit",
+  "name": "How do I choose the right size gas line for my fire pit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right size gas line for my fire pit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the correct size gas line for your fire pit depends on the BTU (British Thermal Unit) output of your fire pit burner and the distance the gas needs to travel from the main supply. A larger fire pit with higher BTU requirements or a longer gas line run will need a larger diameter pipe to ensure adequate gas flow and pressure. Undersized lines can lead to a weak flame. Our technicians calculate the necessary pipe size based on your fire pit's specifications and the layout of your property to ensure optimal performance and safety.",
+        "@type": "Answer",
+        "description": "The right gas line size depends on your fire pit's BTU output and the distance from the gas supply. Our technicians calculate the optimal pipe size for adequate flow and performance."
+      }
+    }
+  ],
+  "description": "The right gas line size depends on your fire pit's BTU output and the distance from the gas supply. Our technicians calculate the optimal pipe size for adequate"
+}

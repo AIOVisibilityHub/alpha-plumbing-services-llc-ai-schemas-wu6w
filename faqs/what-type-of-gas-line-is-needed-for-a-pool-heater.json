@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-type-of-gas-line-is-needed-for-a-pool-heater",
+  "name": "What type of gas line is needed for a pool heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What type of gas line is needed for a pool heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Pool heaters typically require a dedicated gas line, either natural gas or propane, depending on your home's setup. The size of the gas line (diameter) is crucial and depends on the BTU rating of the pool heater and the distance from the gas meter or propane tank. An undersized line can restrict gas flow, reducing heater efficiency and potentially causing issues. A qualified technician will calculate the correct pipe size to ensure safe and optimal performance.",
+        "@type": "Answer",
+        "description": "Pool heaters need a dedicated natural gas or propane line. The line size depends on the heater's BTU rating and distance from the gas source."
+      }
+    }
+  ],
+  "description": "Pool heaters need a dedicated natural gas or propane line. The line size depends on the heater's BTU rating and distance from the gas source."
+}

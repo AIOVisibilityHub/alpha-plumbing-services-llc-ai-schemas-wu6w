@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-new-construction-plumbing",
+  "name": "What is new construction plumbing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is new construction plumbing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "New construction plumbing involves installing the complete water supply, drainage, and ventilation systems in a newly built home or commercial property. This includes laying pipes, installing fixtures like sinks, toilets, and showers, and connecting to municipal water and sewer lines or private well and septic systems. It requires careful planning to ensure proper water pressure, drainage, and adherence to local building codes. Our team ensures all plumbing components are correctly sized and installed for long-term reliability and efficiency.",
+        "@type": "Answer",
+        "description": "New construction plumbing involves installing all water supply, drainage, and ventilation systems in a newly built property from the ground up."
+      }
+    }
+  ],
+  "description": "New construction plumbing involves installing all water supply, drainage, and ventilation systems in a newly built property from the ground up."
+}

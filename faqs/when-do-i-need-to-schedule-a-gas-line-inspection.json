@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-do-i-need-to-schedule-a-gas-line-inspection",
+  "name": "When do I need to schedule a gas line inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need to schedule a gas line inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should schedule a gas line inspection if you suspect a leak, are installing new gas appliances, undertaking a major renovation, or buying/selling a home. Many local jurisdictions in areas like Goodyear, Buckeye, Avondale, Surprise, and Waddell may also require inspections for certain permits or at regular intervals to ensure ongoing safety. Regular inspections can identify potential hazards early and prevent costly repairs or dangerous situations.",
+        "@type": "Answer",
+        "description": "Schedule a gas line inspection if you suspect a leak, install new appliances, renovate, or are involved in a property transaction. Some local regulations may also require periodic inspections."
+      }
+    }
+  ],
+  "description": "Schedule a gas line inspection if you suspect a leak, install new appliances, renovate, or are involved in a property transaction. Some local regulations may al"
+}

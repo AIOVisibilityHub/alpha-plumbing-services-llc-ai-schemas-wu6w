@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-the-plumbing-portion-of-a-bathtub-remodel-typically-take",
+  "name": "How long does the plumbing portion of a bathtub remodel typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does the plumbing portion of a bathtub remodel typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The plumbing phase of a bathtub remodel can vary depending on the complexity of the project. For a straightforward replacement where existing plumbing lines are adequate, it might take 1-2 days. However, if significant re-routing of water supply lines or drain pipes is required, or if we're addressing underlying issues like corroded pipes, the plumbing work could extend to 3-5 days. This estimate does not include the installation of the tub or tiling, which are separate construction steps.",
+        "@type": "Answer",
+        "description": "The plumbing portion typically takes 1-2 days for simple replacements, but can extend to 3-5 days for more complex re-routing or pipe upgrades."
+      }
+    }
+  ],
+  "description": "The plumbing portion typically takes 1-2 days for simple replacements, but can extend to 3-5 days for more complex re-routing or pipe upgrades."
+}

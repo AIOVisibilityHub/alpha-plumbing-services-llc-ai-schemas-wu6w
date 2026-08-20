@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-happens-if-a-gas-leak-is-found-during-an-inspection",
+  "name": "What happens if a gas leak is found during an inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens if a gas leak is found during an inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If a gas leak is detected during an inspection, the first priority is safety. Our technician will immediately advise you on necessary safety measures, which may include evacuating the premises and contacting emergency services if the leak is significant. For smaller, contained leaks, the gas supply to the affected area or the entire property may be shut off. Alpha-Plumbing Services can then provide a clear action plan for repair, including a detailed estimate and scheduling. We prioritize prompt and safe resolution of gas leaks to restore safety to your home in Avondale, Surprise, or other service locations.",
+        "@type": "Answer",
+        "description": "If a gas leak is found, the technician will advise on safety measures, potentially shut off gas, and provide an action plan for prompt, safe repair."
+      }
+    }
+  ],
+  "description": "If a gas leak is found, the technician will advise on safety measures, potentially shut off gas, and provide an action plan for prompt, safe repair."
+}

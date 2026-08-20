@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-involved-in-the-process-of-running-a-new-gas-line-to-a-water-heater",
+  "name": "What is involved in the process of running a new gas line to a water heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the process of running a new gas line to a water heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process of running a new gas line involves several steps. First, our technicians assess the best route from the main gas supply to the water heater location, considering safety and local codes. This includes determining the correct pipe size to ensure adequate gas flow. Next, the line is installed, which may involve drilling through walls or floors and securing the piping. Finally, the new line is connected to the water heater, thoroughly tested for leaks, and inspected to ensure it meets all safety standards before being put into service.",
+        "@type": "Answer",
+        "description": "Installing a new gas line involves planning the route, sizing the pipe, installation, connecting to the water heater, and thorough leak testing and inspection."
+      }
+    }
+  ],
+  "description": "Installing a new gas line involves planning the route, sizing the pipe, installation, connecting to the water heater, and thorough leak testing and inspection."
+}

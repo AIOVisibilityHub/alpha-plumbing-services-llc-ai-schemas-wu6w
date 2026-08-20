@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-kind-of-maintenance-does-a-gas-line-for-a-range-require",
+  "name": "What kind of maintenance does a gas line for a range require?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of maintenance does a gas line for a range require?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Gas lines generally require minimal ongoing maintenance, but periodic professional inspections are important for safety and longevity. A qualified plumber can check for leaks, assess the condition of the line, and ensure all connections are secure. It is crucial to never attempt to repair or modify a gas line yourself. If you ever smell gas, immediately evacuate the area and contact your gas provider and a professional plumber.",
+        "@type": "Answer",
+        "description": "Gas lines need minimal maintenance, but periodic professional inspections are crucial to check for leaks and ensure secure connections."
+      }
+    }
+  ],
+  "description": "Gas lines need minimal maintenance, but periodic professional inspections are crucial to check for leaks and ensure secure connections."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-types-of-plumbing-materials-are-best-for-a-custom-home",
+  "name": "What types of plumbing materials are best for a custom home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of plumbing materials are best for a custom home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best plumbing materials for a custom home depend on your budget, water quality, and specific system requirements. Common options include PEX (cross-linked polyethylene) for its flexibility, corrosion resistance, and ease of installation, and copper for its durability, antimicrobial properties, and long lifespan. PVC is typically used for drain, waste, and vent lines. Your plumber can recommend the most suitable materials based on local conditions, health codes, and your desired performance and longevity.",
+        "@type": "Answer",
+        "description": "PEX, copper, and PVC are common plumbing materials. The best choice depends on budget, water quality, and system needs, as recommended by your plumber."
+      }
+    }
+  ],
+  "description": "PEX, copper, and PVC are common plumbing materials. The best choice depends on budget, water quality, and system needs, as recommended by your plumber."
+}

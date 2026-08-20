@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-it-take-to-install-a-gas-line-for-a-new-range",
+  "name": "How long does it take to install a gas line for a new range?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install a gas line for a new range?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required to install a gas line for a new range can vary, but most standard installations are completed within a few hours. Factors influencing the duration include the complexity of the routing, whether existing plumbing needs to be moved, and if any unexpected issues arise. A professional plumber will be able to provide a more precise time estimate after an initial assessment of your home and the specific installation requirements.",
+        "@type": "Answer",
+        "description": "Most standard gas line installations for a range take a few hours. Time can vary based on complexity and home layout."
+      }
+    }
+  ],
+  "description": "Most standard gas line installations for a range take a few hours. Time can vary based on complexity and home layout."
+}

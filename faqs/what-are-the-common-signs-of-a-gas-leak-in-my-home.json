@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-the-common-signs-of-a-gas-leak-in-my-home",
+  "name": "What are the common signs of a gas leak in my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs of a gas leak in my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Identifying a gas leak early is crucial for safety. Common indicators include a strong sulfur or rotten egg smell, which is an odorant added to natural gas to make leaks detectable. You might also hear a hissing or whistling sound near gas lines or appliances, indicating escaping gas. Visible signs like a damaged gas pipe or a white cloud near a gas line can also point to a leak. Additionally, physical symptoms such as dizziness, nausea, fatigue, or headaches experienced by occupants when indoors could be related to carbon monoxide, often associated with incomplete combustion from gas appliances, though natural gas itself is not directly toxic, it displaces oxygen.",
+        "@type": "Answer",
+        "description": "Common signs include a rotten egg smell, hissing sounds near gas lines, visible damage to pipes, or unexplained physical symptoms like dizziness."
+      }
+    }
+  ],
+  "description": "Common signs include a rotten egg smell, hissing sounds near gas lines, visible damage to pipes, or unexplained physical symptoms like dizziness."
+}

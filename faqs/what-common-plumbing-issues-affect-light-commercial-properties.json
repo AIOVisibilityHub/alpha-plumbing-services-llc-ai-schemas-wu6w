@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-common-plumbing-issues-affect-light-commercial-properties",
+  "name": "What common plumbing issues affect light-commercial properties?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What common plumbing issues affect light-commercial properties?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Light-commercial properties frequently experience issues such as clogged drains due to higher usage, faucet and toilet leaks that can waste significant water, and water heater malfunctions. Other common problems include issues with grease traps in food service establishments, which require regular cleaning and maintenance, and backflow prevention device failures that can contaminate the water supply. Pipe corrosion or damage, often due to aging infrastructure or chemical exposure, can also lead to widespread issues if not addressed promptly by a professional.",
+        "@type": "Answer",
+        "description": "Common light-commercial plumbing issues include clogged drains, leaks, water heater malfunctions, grease trap problems, and backflow prevention device failures."
+      }
+    }
+  ],
+  "description": "Common light-commercial plumbing issues include clogged drains, leaks, water heater malfunctions, grease trap problems, and backflow prevention device failures."
+}

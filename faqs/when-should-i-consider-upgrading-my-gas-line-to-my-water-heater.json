@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-should-i-consider-upgrading-my-gas-line-to-my-water-heater",
+  "name": "When should I consider upgrading my gas line to my water heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider upgrading my gas line to my water heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider upgrading your gas line if your existing water heater is very old and you're replacing it with a new, higher-BTU model that requires more gas flow. Additionally, if you're experiencing insufficient hot water, or if a licensed plumber identifies your current gas line as undersized or corroded during an inspection, an upgrade may be necessary. Safety concerns due to an aging or damaged line are also a primary reason for replacement.",
+        "@type": "Answer",
+        "description": "Consider upgrading if installing a higher-BTU water heater, experiencing hot water issues, or if an inspection reveals an undersized, corroded, or unsafe gas line."
+      }
+    }
+  ],
+  "description": "Consider upgrading if installing a higher-BTU water heater, experiencing hot water issues, or if an inspection reveals an undersized, corroded, or unsafe gas li"
+}

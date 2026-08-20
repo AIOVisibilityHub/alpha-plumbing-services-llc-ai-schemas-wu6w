@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-the-common-signs-of-a-problem-with-my-gas-line-connected-to-the-water-h",
+  "name": "What are the common signs of a problem with my gas line connected to the water heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs of a problem with my gas line connected to the water heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of a gas line issue include a distinct sulfur or rotten egg smell, which indicates a gas leak. Other indicators can be a hissing sound near the gas line, discolored or dead vegetation near outdoor gas lines, or a yellow or orange flame on gas appliances instead of a steady blue one. If you notice any of these, it's crucial to contact a qualified plumber immediately to ensure safety and prevent further damage. Do not attempt to fix a gas leak yourself.",
+        "@type": "Answer",
+        "description": "Signs of a gas line problem include a sulfur smell, hissing sounds, discolored vegetation, or yellow flames on appliances. Contact a plumber immediately if you notice these."
+      }
+    }
+  ],
+  "description": "Signs of a gas line problem include a sulfur smell, hissing sounds, discolored vegetation, or yellow flames on appliances. Contact a plumber immediately if you"
+}

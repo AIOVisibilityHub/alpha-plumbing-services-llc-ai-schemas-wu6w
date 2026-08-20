@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-should-i-look-for-in-a-commercial-plumbing-contractor-for-tis",
+  "name": "What should I look for in a commercial plumbing contractor for TIs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for in a commercial plumbing contractor for TIs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a commercial plumbing contractor for tenant improvements, look for experience with similar commercial projects, proper licensing and insurance, and a strong understanding of local building codes in your area, such as Goodyear or Avondale. A good contractor should offer clear communication, provide detailed estimates, and have a reputation for reliability and quality workmanship. Ask for references and examples of past tenant improvement projects.",
+        "@type": "Answer",
+        "description": "Look for experience with commercial projects, proper licensing, local code knowledge, clear communication, detailed estimates, and good references."
+      }
+    }
+  ],
+  "description": "Look for experience with commercial projects, proper licensing, local code knowledge, clear communication, detailed estimates, and good references."
+}

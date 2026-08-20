@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-causes-gas-leaks-in-residential-properties",
+  "name": "What causes gas leaks in residential properties?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes gas leaks in residential properties?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Gas leaks in homes can be caused by several factors. Common culprits include aging or corroded gas pipes, loose connections at appliances or fittings, damaged appliance hoses, or faulty gas valves. Sometimes, leaks can result from improper installation of gas appliances or lines, or accidental damage during home renovations. Natural wear and tear over time can also weaken components, leading to potential leaks. Regular maintenance can help identify potential issues before they escalate.",
+        "@type": "Answer",
+        "description": "Gas leaks can be caused by aging pipes, loose connections, damaged appliance hoses, faulty valves, or improper installation. Wear and tear also contribute."
+      }
+    }
+  ],
+  "description": "Gas leaks can be caused by aging pipes, loose connections, damaged appliance hoses, faulty valves, or improper installation. Wear and tear also contribute."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-often-should-gas-lines-be-inspected-at-my-home-in-waddel",
+  "name": "How often should gas lines be inspected at my home in Waddel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should gas lines be inspected at my home in Waddel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While there isn't a universal mandatory schedule for residential gas line inspections, many experts recommend a professional inspection every 3 to 5 years, or annually if your home is older or you have concerns. Regular inspections help identify slow leaks, corrosion, or wear and tear before they become serious problems. This proactive approach ensures the ongoing safety and efficiency of your gas system. Alpha-Plumbing Services can help you set up a routine inspection schedule tailored to your property in Waddel, Buckeye, and the surrounding areas.",
+        "@type": "Answer",
+        "description": "Experts recommend professional gas line inspections every 3 to 5 years, or annually for older homes, to ensure ongoing safety and efficiency."
+      }
+    }
+  ],
+  "description": "Experts recommend professional gas line inspections every 3 to 5 years, or annually for older homes, to ensure ongoing safety and efficiency."
+}

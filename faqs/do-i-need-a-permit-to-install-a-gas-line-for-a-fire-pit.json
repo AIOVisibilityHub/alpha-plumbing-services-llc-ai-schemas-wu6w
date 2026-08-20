@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/do-i-need-a-permit-to-install-a-gas-line-for-a-fire-pit",
+  "name": "Do I need a permit to install a gas line for a fire pit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit to install a gas line for a fire pit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, in most cases, installing a new gas line or extending an existing one for a fire pit requires a permit from your local municipality. This is to ensure that the installation meets all safety codes and regulations. Our service includes handling the necessary permit applications and ensuring all work complies with local building codes in areas like Goodyear, Buckeye, Avondale, and Surprise. Obtaining a permit protects you and ensures your installation is safe and legal.",
+        "@type": "Answer",
+        "description": "Yes, a permit is typically required for gas line installations to ensure compliance with local safety codes and regulations. Our service includes handling permit applications."
+      }
+    }
+  ],
+  "description": "Yes, a permit is typically required for gas line installations to ensure compliance with local safety codes and regulations. Our service includes handling permi"
+}

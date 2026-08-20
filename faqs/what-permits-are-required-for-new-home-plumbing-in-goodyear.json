@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-permits-are-required-for-new-home-plumbing-in-goodyear",
+  "name": "What permits are required for new home plumbing in Goodyear?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for new home plumbing in Goodyear?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For new home plumbing installations in Goodyear and surrounding areas, several permits are typically required by the local building authority to ensure the work meets safety and code standards. These usually include a general building permit that covers various trades, but often a specific plumbing permit is also necessary. The permitting process ensures that the installation adheres to the Uniform Plumbing Code (UPC) and local amendments. Alpha-Plumbing Services is familiar with the specific permitting requirements in Goodyear, Buckeye, Avondale, and Surprise, and we handle all necessary paperwork and inspections to ensure your new home's plumbing is fully compliant.",
+        "@type": "Answer",
+        "description": "New home plumbing in Goodyear requires specific permits to ensure compliance with local building and plumbing codes."
+      }
+    }
+  ],
+  "description": "New home plumbing in Goodyear requires specific permits to ensure compliance with local building and plumbing codes."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-should-i-do-if-i-suspect-a-gas-leak",
+  "name": "What should I do if I suspect a gas leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if I suspect a gas leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you suspect a gas leak, prioritize safety. Immediately evacuate everyone, including pets, from the building. Do not use anything that could create a spark, such as light switches, phones, or appliances. Do not try to locate the leak yourself or turn off gas valves. Once safely outside, move a safe distance away and call your gas provider's emergency line or 911 from a cell phone or neighbor's house. Then, contact a professional plumbing service like Alpha-Plumbing Services for repair.",
+        "@type": "Answer",
+        "description": "Evacuate immediately, do not use electronics or switches, and call your gas provider or 911 from a safe location."
+      }
+    }
+  ],
+  "description": "Evacuate immediately, do not use electronics or switches, and call your gas provider or 911 from a safe location."
+}

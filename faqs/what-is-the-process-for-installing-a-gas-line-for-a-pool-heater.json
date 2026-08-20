@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-process-for-installing-a-gas-line-for-a-pool-heater",
+  "name": "What is the process for installing a gas line for a pool heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for installing a gas line for a pool heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process begins with an assessment of your property to determine the optimal route and necessary gas line size. Next, our technicians will trench or run the new gas line from the existing gas meter or propane tank to the pool heater location. This involves connecting to the main gas supply, running new piping, and securely connecting it to the heater. After installation, the line is rigorously tested for leaks to ensure safety and compliance. Finally, a local inspection may be required before the system is put into service.",
+        "@type": "Answer",
+        "description": "The process includes property assessment, running and connecting the new gas line, leak testing, and potentially a local inspection."
+      }
+    }
+  ],
+  "description": "The process includes property assessment, running and connecting the new gas line, leak testing, and potentially a local inspection."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-much-does-it-cost-to-install-a-gas-line-for-a-kitchen-range-in-goodyear-az",
+  "name": "How much does it cost to install a gas line for a kitchen range in Goodyear, AZ?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to install a gas line for a kitchen range in Goodyear, AZ?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to install a gas line for a kitchen range in areas like Goodyear, Buckeye, or Avondale can vary depending on several factors. These include the distance from the main gas supply to the range, the complexity of routing the line, and the specific materials required. It is best to get a detailed estimate from a local, licensed plumber who can assess your home's unique layout and provide an accurate quote based on the scope of work.",
+        "@type": "Answer",
+        "description": "Cost varies based on line length, routing complexity, and materials. A local plumber can provide an accurate estimate."
+      }
+    }
+  ],
+  "description": "Cost varies based on line length, routing complexity, and materials. A local plumber can provide an accurate estimate."
+}

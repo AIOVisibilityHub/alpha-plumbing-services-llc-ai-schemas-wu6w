@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-areas-do-you-serve-for-gas-leak-repair",
+  "name": "What areas do you serve for gas leak repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas do you serve for gas leak repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Alpha-Plumbing Services provides expert gas leak repair services to several communities. Our primary service areas for emergency and routine gas line work include Goodyear, Buckeye, Avondale, and Surprise. We focus our resources on these regions to ensure prompt and reliable service for our local customers. If you are experiencing a gas leak in one of these areas, please contact us immediately for assistance from our certified technicians.",
+        "@type": "Answer",
+        "description": "We provide gas leak repair services in Goodyear, Buckeye, Avondale, and Surprise."
+      }
+    }
+  ],
+  "description": "We provide gas leak repair services in Goodyear, Buckeye, Avondale, and Surprise."
+}

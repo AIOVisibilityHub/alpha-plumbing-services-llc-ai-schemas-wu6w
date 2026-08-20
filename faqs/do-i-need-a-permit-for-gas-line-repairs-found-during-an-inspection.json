@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/do-i-need-a-permit-for-gas-line-repairs-found-during-an-inspection",
+  "name": "Do I need a permit for gas line repairs found during an inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for gas line repairs found during an inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether a permit is required for gas line repairs depends on the specific nature and extent of the repair, as well as local municipal codes in areas like Waddel, Goodyear, or Avondale. Minor repairs might not require a permit, but significant alterations, replacements, or new installations typically do. Alpha-Plumbing Services can advise you on permit requirements based on the inspection findings and the scope of work needed. We also assist with the necessary paperwork to ensure all repairs comply with local building and safety regulations, streamlining the process for you.",
+        "@type": "Answer",
+        "description": "Permit requirements for gas line repairs depend on the repair's nature and local codes. Alpha-Plumbing Services advises on permits and assists with paperwork for compliance."
+      }
+    }
+  ],
+  "description": "Permit requirements for gas line repairs depend on the repair's nature and local codes. Alpha-Plumbing Services advises on permits and assists with paperwork fo"
+}

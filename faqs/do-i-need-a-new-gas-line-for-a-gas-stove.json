@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/do-i-need-a-new-gas-line-for-a-gas-stove",
+  "name": "Do I need a new gas line for a gas stove?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a new gas line for a gas stove?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You might need a new gas line if your current setup doesn't have an existing gas connection for a stove, or if the existing line is too small to safely supply the required volume of natural gas. Building codes specify the size of gas lines based on the appliance's BTU rating and the distance from the main supply. An Alpha-Plumbing Services, LLC technician can assess your home's current gas system and determine if an upgrade or new installation is necessary to safely and efficiently operate your new gas stove. This assessment ensures compliance and proper function.",
+        "@type": "Answer",
+        "description": "A new gas line may be needed if there's no existing connection or if the current line is undersized for your gas stove. An Alpha-Plumbing Services, LLC technician can assess your home's specific requirements."
+      }
+    }
+  ],
+  "description": "A new gas line may be needed if there's no existing connection or if the current line is undersized for your gas stove. An Alpha-Plumbing Services, LLC technici"
+}

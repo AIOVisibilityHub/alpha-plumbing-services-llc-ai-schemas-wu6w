@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-types-of-gas-pipe-materials-are-used-for-installation",
+  "name": "What types of gas pipe materials are used for installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of gas pipe materials are used for installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common materials for gas pipe installation include black iron pipe and corrugated stainless steel tubing (CSST). Black iron pipe is a traditional, durable option, often used for main gas lines and exposed piping. CSST is a more flexible, modern option that can be installed faster due to its ability to bend around obstacles, reducing the need for multiple fittings. The choice of material depends on factors such as local codes, installation location (indoor/outdoor), and specific application requirements. Our technicians will recommend the most suitable material for your project.",
+        "@type": "Answer",
+        "description": "Common materials are black iron pipe, known for durability, and corrugated stainless steel tubing (CSST) for its flexibility and ease of installation."
+      }
+    }
+  ],
+  "description": "Common materials are black iron pipe, known for durability, and corrugated stainless steel tubing (CSST) for its flexibility and ease of installation."
+}

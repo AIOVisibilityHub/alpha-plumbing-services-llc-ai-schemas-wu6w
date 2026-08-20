@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-happens-after-the-gas-leak-is-repaired",
+  "name": "What happens after the gas leak is repaired?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens after the gas leak is repaired?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After a gas leak is repaired by a licensed plumber, the technician will perform a series of tests to ensure the integrity of the gas system. This typically includes a pressure test to confirm there are no remaining leaks and that the repairs are sound. They will then relight any pilot lights and verify that all gas appliances are functioning correctly and safely. Before the gas company restores service, they may also perform their own inspection. A final check ensures your home is safe for gas use.",
+        "@type": "Answer",
+        "description": "After repair, the plumber will test the system for integrity, relight pilots, and ensure appliances function safely before gas service restoration."
+      }
+    }
+  ],
+  "description": "After repair, the plumber will test the system for integrity, relight pilots, and ensure appliances function safely before gas service restoration."
+}

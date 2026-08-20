@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-maintenance-is-required-for-gas-lines-after-installation",
+  "name": "What maintenance is required for gas lines after installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for gas lines after installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Once properly installed, gas lines generally require minimal maintenance. However, it's crucial to have them inspected periodically by a qualified professional, especially if you notice any signs of a leak, such as a sulfur or rotten egg smell, or if you suspect damage. Regular checks ensure the integrity of connections and detect any potential issues before they become serious. Avoid attempting DIY repairs or alterations, as this can compromise safety. Always rely on licensed technicians for any gas line servicing.",
+        "@type": "Answer",
+        "description": "Gas lines need minimal maintenance but require periodic professional inspections, especially if leaks or damage are suspected. Never attempt DIY repairs."
+      }
+    }
+  ],
+  "description": "Gas lines need minimal maintenance but require periodic professional inspections, especially if leaks or damage are suspected. Never attempt DIY repairs."
+}

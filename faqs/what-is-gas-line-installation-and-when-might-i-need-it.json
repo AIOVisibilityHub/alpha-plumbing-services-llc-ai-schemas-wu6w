@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-gas-line-installation-and-when-might-i-need-it",
+  "name": "What is gas line installation and when might I need it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is gas line installation and when might I need it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Gas line installation involves connecting your property to a natural gas supply or extending existing gas lines to new appliances. You might need it when adding new gas appliances like a stove, dryer, water heater, or outdoor grill, converting from electric to gas, or if you're building a new home that requires a gas connection. Professional installation ensures safety and compliance with local codes. Our team services Goodyear, Buckeye, Avondale, and Surprise for these installations.",
+        "@type": "Answer",
+        "description": "Gas line installation connects or extends gas supply to appliances. It's needed for new gas appliance hookups, conversions, or new construction."
+      }
+    }
+  ],
+  "description": "Gas line installation connects or extends gas supply to appliances. It's needed for new gas appliance hookups, conversions, or new construction."
+}

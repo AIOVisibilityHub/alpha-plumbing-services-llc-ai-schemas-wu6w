@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/can-alpha-plumbing-services-help-me-choose-the-right-new-fixture",
+  "name": "Can Alpha-Plumbing Services help me choose the right new fixture?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can Alpha-Plumbing Services help me choose the right new fixture?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Absolutely. While Alpha-Plumbing Services doesn't sell fixtures directly, our experienced plumbers can offer expert advice and guidance on choosing the right new fixture for your home. We can help you understand compatibility with your existing plumbing, recommend reputable brands, and discuss features that best suit your needs for water efficiency, durability, and style. We ensure the chosen fixture is suitable for professional installation and will provide reliable performance.",
+        "@type": "Answer",
+        "description": "Yes, Alpha-Plumbing Services can guide you in choosing the right new fixture, advising on compatibility, brands, and features, though we don't sell them directly."
+      }
+    }
+  ],
+  "description": "Yes, Alpha-Plumbing Services can guide you in choosing the right new fixture, advising on compatibility, brands, and features, though we don't sell them directl"
+}
