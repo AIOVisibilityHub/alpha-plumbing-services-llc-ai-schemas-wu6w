@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Mistakes to Avoid with Damaged Gas Pipes",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Dealing with a damaged gas pipe is a serious situation, and making the wrong moves can escalate the danger quickly. Here are some crucial mistakes to avoid. Firstly, never, ever ignore a suspected damaged pipe, no matter how small the damage appears. What looks minor can be a major hazard. Secondly, don't try to repair it yourself; this isn't a job for the average homeowner due to the high risks involved with gas leaks and explosions. Third, avoid creating any ignition sources – this means no smoking, no turning electrical switches on or off, and don't operate any appliances or vehicles near the area. Fourth, don't delay evacuating your home if you smell gas or suspect a significant leak. Get everyone, including pets, to a safe distance immediately. Finally, don't forget to call qualified professionals like Alpha-Plumbing Services, LLC. We have the experience and proper equipment to safely assess and repair or replace damaged gas pipes in Goodyear, Buckeye, and throughout the West Valley. Your safety and the integrity of your home depend on making the right calls in these critical moments.",
+  "datePublished": "2026-08-19"
+}

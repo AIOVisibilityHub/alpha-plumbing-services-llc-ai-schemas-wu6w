@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Mistakes to Avoid When Installing a Gas Line for Your Stove",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Thinking about a new gas stove or upgrading your current one? That's exciting! But when it comes to the gas line installation, there are a few common pitfalls you'll want to steer clear of to keep things safe and sound. First, don't try to DIY it without proper training; gas lines aren't a weekend project, and improper installation can be really dangerous. Secondly, never skip getting the necessary permits or inspections – that's crucial for compliance and your home's safety records. A third mistake is using the wrong materials or fittings; not all gas pipes are created equal, and specific types are required for safe operation. Also, don't forget to properly secure the line; a loose connection can lead to leaks. Finally, ignoring professional sizing can cause issues; your stove needs a gas line that delivers the right amount of fuel for optimal performance. Avoiding these mistakes ensures your gas stove is installed correctly and safely. For dependable residential service throughout Goodyear and the West Valley, including proper gas line installation, Alpha-Plumbing Services, LLC is here. We offer quality workmanship and guarantee proper installation up to international plumbing codes. Give us a call!",
+  "datePublished": "2026-08-19"
+}

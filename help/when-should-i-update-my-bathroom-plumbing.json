@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When Should I Update My Bathroom Plumbing?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Thinking about a bathroom remodel is exciting, but it’s easy to focus only on the aesthetics and forget about the plumbing until it's too late. Knowing when to call in an expert for your plumbing needs is crucial for a smooth project. If your current plumbing system is older, say 25 years or more, or if you’ve noticed frequent clogs, low water pressure, or strange noises coming from your pipes, it’s definitely time to consider an upgrade. You don't want to invest in a beautiful new bathroom only to have old pipes cause issues down the road. Also, if you're planning to move fixtures around—like putting your toilet where the tub used to be—you'll absolutely need professional plumbing adjustments. This isn’t a DIY job; getting the drainage and water lines correctly rerouted requires specific expertise to avoid costly leaks or code violations. Even if you're just replacing a sink or toilet in the same spot, a professional plumber can ensure proper connections and prevent future headaches. Don't hesitate to reach out to a professional like Alpha-Plumbing Services, LLC if you're unsure; we're happy to discuss your plans and offer practical solutions based on our 25+ years of experience in places like Goodyear and the West Valley.",
+  "datePublished": "2026-08-19"
+}

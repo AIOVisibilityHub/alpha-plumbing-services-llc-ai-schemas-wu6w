@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When to Call a Plumber for Copper Pipe Issues",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It can be tough to know exactly when a plumbing issue crosses the line from DIY fix to 'call the pros.' When it comes to copper pipes, there are definitely some signals that mean it’s time to pick up the phone. If you're experiencing multiple leaks in different areas of your home, or if a single leak is more than just a minor drip, that's a big indicator. Any noticeable drop in water pressure throughout your house could point to internal pipe issues that need a professional diagnosis. If your water looks discolored – rusty, green, or brown – that's a sign of internal corrosion and definitely warrants an expert eye. Don't try to fix major pipe bursts or significant water flow issues yourself; these can cause extensive damage very quickly if not handled correctly. Also, if you’re seeing visible signs of corrosion or deterioration on your pipes, even without an active leak, it’s smart to get a professional opinion. Ignoring these signs can lead to much larger and more costly problems down the road. For any significant concerns about your copper pipes, don't hesitate to contact Alpha-Plumbing Services, LLC. Our team is ready to provide dependable residential plumbing services throughout Goodyear and the West Valley.",
+  "datePublished": "2026-08-19"
+}

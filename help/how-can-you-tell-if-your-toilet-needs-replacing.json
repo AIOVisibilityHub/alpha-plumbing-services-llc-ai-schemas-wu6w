@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "How Can You Tell If Your Toilet Needs Replacing?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's not always obvious when your trusty toilet has reached the end of its useful life. Sometimes, you just need a repair, but other times, a replacement is genuinely the smarter move. Knowing the signs can save you from endless frustration and potential water damage. One of the clearest indicators is persistent clogs. If your toilet clogs frequently, even with minimal use, it might be an issue with the design or internal components rather than just user error. Another sign is a wobbly toilet. If it moves when you sit on it or try to clean around the base, it could be a sign of a failing wax seal or a compromised floor, both of which can lead to leaks. Constant running, though sometimes repairable, can also signal that the internal components are simply worn out beyond economical repair, especially in older models. Surface damage like cracks in the tank or bowl are definite reasons for replacement; these aren't just cosmetic, they can lead to significant leaks. If your toilet is super old, like 20+ years, chances are it's using a lot more water than modern, high-efficiency models. Replacing it could significantly reduce your water bill over time. Lastly, if you're constantly having to jiggle the handle or perform minor fixes, the repair costs can quickly add up, making a new installation a more cost-effective choice. If you're seeing any of these signs, don't hesitate to give Alpha-Plumbing Services, LLC a call. We're a family-owned and operated company with 25 years of experience in the West Valley, and we're committed to providing practical solutions.",
+  "datePublished": "2026-08-19"
+}

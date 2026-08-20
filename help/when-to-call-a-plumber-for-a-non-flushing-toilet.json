@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When to Call a Plumber for a Non-Flushing Toilet",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "A toilet that refuses to flush is more than just an inconvenience; it can bring your daily routine to a screeching halt. While some minor clogs can be tackled with a plunger, there are definite signs that it’s time to call in a professional plumber. If you've tried plunging for a few minutes and the water still isn't draining, or if it drains very slowly and then refuses to flush again, you likely have a more stubborn clog deeper in the line. Another key indicator is if more than one toilet or drain in your home is acting up at the same time. This often points to a main sewer line issue, which definitely needs expert attention. If you hear gurgling sounds from other drains (like your shower or sink) when you try to flush the toilet, that's another red flag for a main line blockage. Also, if you suspect something has been accidentally dropped down the toilet that's causing the blockage – like a child's toy – a plunger won't help and you risk pushing it further in. Don't let a simple clog escalate into a bigger problem; a professional can identify the cause and fix it efficiently. For reliable service in Goodyear and the West Valley, Alpha-Plumbing Services is ready to help.",
+  "datePublished": "2026-08-19"
+}

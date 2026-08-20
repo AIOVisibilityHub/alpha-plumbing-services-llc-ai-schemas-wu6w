@@ -1,0 +1,84 @@
+{
+  "name": "Help! My Shower Faucet Is Dripping Non-Stop!",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "That constant drip from your shower faucet can drive anyone crazy, right? Besides the irritating sound, a persistent drip wastes a surprising amount of water over time, which means higher utility bills for you. Typically, a dripping faucet points to an issue with the internal components, like a worn-out washer, gasket, or a corroded valve seat. These parts are designed to create a tight seal, and once they start to degrade, leaks become inevitable. Before you reach for a bucket to catch the drips, try to gently turn the handle a tiny bit tighter, without forcing it, to see if it stops. Sometimes, that's all it takes for a minor seal issue. If not, you might need to identify your faucet type – cartridge, compression, ball, or disc – as each has different repair needs. For instance, a cartridge faucet might just need a new cartridge. However, opening up your faucet can be tricky, and if not done correctly, you could end up with a bigger problem. If you’re not comfortable with plumbing work or if the leak seems more complex, don't hesitate to reach out. The team at Alpha-Plumbing Services, LLC has been handling these kinds of repairs for over 25 years across Goodyear, Buckeye, and surrounding areas. We can diagnose the exact cause and fix it efficiently, so you can go back to enjoying a drip-free shower. Contact us today at 623-734-7465!",
+      "@type": "HowToStep",
+      "position": 1
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "description": "Help! My Shower Faucet Is Dripping Non-Stop!"
+}

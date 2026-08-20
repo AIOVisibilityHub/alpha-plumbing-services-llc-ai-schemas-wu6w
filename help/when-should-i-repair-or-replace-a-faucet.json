@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When Should I Repair or Replace a Faucet?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Deciding whether to repair an old faucet or spring for a new one can be tricky, but there are some clear indicators that'll help you make the right call. If your faucet is constantly leaking, making weird noises, or just doesn't look good anymore, it's definitely time to consider your options. For simple issues like a worn washer or a loose O-ring, a repair might be quick and cost-effective. We can often replace these small parts and get your faucet working like new, extending its life for years. However, if your faucet is really old, has significant corrosion, or if parts are hard to find, a replacement might actually save you money in the long run. Constantly pouring money into an aging, inefficient faucet might not be the most practical solution. Plus, a new faucet can dramatically improve your kitchen or bathroom's look and functionality, and modern options are often much more water-efficient. We serve homeowners and businesses throughout Goodyear and the surrounding West Valley communities like Glendale and Peoria. If you're weighing your options, give Alpha-Plumbing Services, LLC a call. We'll give you an honest assessment and help you decide the best course of action.",
+  "datePublished": "2026-08-19"
+}

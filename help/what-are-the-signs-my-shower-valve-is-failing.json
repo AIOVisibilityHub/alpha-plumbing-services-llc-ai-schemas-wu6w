@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What are the signs my shower valve is failing?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Recognizing the signs of a failing shower valve can save you a lot of hassle down the road. One of the most obvious clues is inconsistent water temperature; you might be taking a shower and suddenly it's scalding hot or freezing cold without you touching the handle. That's usually a sign the valve isn't mixing the hot and cold water properly. Another big indicator is a persistent drip or leak right from the showerhead, even when the handle is completely off. If you've got a leaky shower handle that drips down the wall or into the tub, that's also a major red flag that the internal components of the valve are worn out. You might also notice a decrease in water pressure specifically from your shower, while other faucets in your home are fine. Sometimes, people experience difficulty turning the shower handle, or it becomes stiff and hard to adjust, which points to internal corrosion or failing parts. Don't ignore these signals, because a minor valve issue can quickly escalate into a more significant plumbing problem, potentially leading to water damage in your walls. If you're noticing any of these symptoms in your home across Goodyear or the West Valley, it's a good idea to have a professional take a look. We're here to help protect your home with honest communication and quality workmanship. Reach out to Alpha-Plumbing Services, LLC at 623-734-7465 and we'll check it out for you.",
+  "datePublished": "2026-08-19"
+}

@@ -1,0 +1,84 @@
+{
+  "name": "How to Prepare for a Gas Line Inspection",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "Getting ready for a gas line inspection might seem daunting, but it's really about a few simple steps to ensure everything goes smoothly for the professionals. Doing a little prep work can make a big difference and help the inspection happen efficiently. First off, make sure the areas around your gas appliances are clear and accessible. This means moving any clutter, furniture, or storage items that might be blocking access to your water heater, furnace, stove, or any visible gas lines. The technicians will need clear pathways to do their job thoroughly. Next, if you have any specific concerns or have noticed any odd smells or appliance behaviors, make a note of them. This information can be really helpful for the inspector as they conduct their diagnosis. Don’t hold back any details, even if they seem minor! It's also a good idea to know where your main gas shut-off valve is located, just in case. While the professionals will handle everything, being aware of it can be useful in an emergency. Finally, ensure any pets are secured so they don't interfere with the inspection. Alpha-Plumbing Services is ready to coordinate your gas line inspection; just give us a call at 623-734-7465 to get started. We've been helping folks in Goodyear and the West Valley for over 25 years.",
+      "@type": "HowToStep",
+      "position": 1
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "description": "How to Prepare for a Gas Line Inspection"
+}

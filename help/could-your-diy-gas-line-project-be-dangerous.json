@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Could Your DIY Gas Line Project Be Dangerous?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's tempting to tackle home projects yourself to save a buck, but when it comes to natural gas lines, a DIY approach can be incredibly risky. We get it; plumbing often seems straightforward, but gas lines are in a league of their own. One common mistake is using the wrong materials; gas piping isn't a one-size-fits-all situation, and using incorrect pipes or fittings can lead to leaks. Another big no-no is improper sealing of connections. Gas leaks are not something you want to mess with – they're dangerous and can be life-threatening. People often underestimate the importance of proper ventilation and clearances, too, which are vital for safety. Forgetting to check local codes and regulations is another huge error; you might unknowingly be violating safety standards. And, honestly, most DIYers don't have the specialized tools needed for safe and accurate gas pressure testing. Skipping these crucial steps can leave your home vulnerable to serious hazards. When you're dealing with natural gas, safety should always be your number one priority. If you're considering any gas line work, it's really best to call in the pros. We ensure every aspect, from materials to installation, meets the strictest safety codes. Alpha-Plumbing Services, LLC is licensed and experienced in gas line installation with inspection.",
+  "datePublished": "2026-08-19"
+}

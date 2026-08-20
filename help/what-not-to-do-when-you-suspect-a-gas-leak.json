@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What Not to Do When You Suspect a Gas Leak",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Suspecting a gas leak can be really scary, and knowing what *not* to do is just as crucial as knowing the right steps. Making the wrong move can turn a dangerous situation into an absolute disaster. First and foremost, do NOT try to locate the leak yourself or attempt any repairs. Gas lines are complex and require specialized tools and expertise to handle safely. A major no-no is using anything that could create a spark – this includes light switches, phones, computers, or even your car ignition if it's near the suspected leak. Any spark could ignite accumulated gas, leading to an explosion. Don't assume the problem will just go away, or try to air out the house by opening windows and staying inside; the primary goal is to get everyone out to safety immediately. Another mistake is delaying calling for help. As soon as you suspect a leak, evacuate the premises and call emergency services and a professional plumber from a safe distance. Here at Alpha-Plumbing Services, we have over 25 years of experience dealing with gas-related issues, including emergency disconnections and capping of gas appliances. Our team prioritizes your safety and adheres to strict plumbing codes. We serve Goodyear and the wider West Valley, offering dependable residential and light-commercial plumbing services. If you suspect a gas leak, get out, stay out, and call Alpha-Plumbing Services at 623-734-7465.",
+  "datePublished": "2026-08-19"
+}

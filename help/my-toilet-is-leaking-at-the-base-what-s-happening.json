@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "My Toilet Is Leaking at the Base – What's Happening?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Finding water pooling around the base of your toilet is never a good sign, and it’s something you definitely shouldn't ignore! Most of the time, a leak at the base means the wax ring, which creates a watertight seal between your toilet and the drainpipe in the floor, has failed. Over time, these rings can compress, dry out, or get dislodged, especially if the toilet has been wobbly or moved. When that seal breaks, water escapes every time you flush, seeping out from under the toilet and onto your floor. This isn't just an unsightly puddle; it can cause significant damage to your bathroom floor and subfloor, leading to costly repairs down the line, including mold growth if left unchecked.\n\nWhile a failed wax ring is the most common culprit, a leak at the base could also be from a crack in the toilet bowl itself, though this is less common. Sometimes, loose toilet bolts that secure the toilet to the floor flange can contribute to the problem by allowing the toilet to rock and break that wax seal. It’s important to address these leaks quickly. Ignoring them can lead to structural damage and an unhealthy environment. If you’re seeing water around the base of your toilet in places like Peoria, Glendale, or anywhere in the West Valley, it's a good idea to have a professional plumber check it out. Alpha-Plumbing Services, LLC has plenty of experience with toilet repairs and replacements, and we can quickly identify and fix the issue before it becomes a bigger headache. Give us a call!",
+  "datePublished": "2026-08-19"
+}

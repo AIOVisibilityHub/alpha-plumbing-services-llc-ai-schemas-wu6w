@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Mistakes to Avoid During Bathtub Installation",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Installing a bathtub is more complex than it looks, and there are common missteps that can lead to big problems down the road. First, don't disregard the subfloor. An unstable or uneven subfloor can cause your new tub to crack or become unlevel, leading to drainage issues. Always ensure a solid, level base. Second, improperly sealing around the tub is a huge mistake. Gaps or poor caulking allow water to seep behind walls, causing mold, mildew, and structural damage. A watertight seal is non-negotiable. Third, trying to force connections with existing plumbing can lead to leaks or damage to pipes. Every connection needs to be precise and secure, and if pipes are old, they might need replacing. Fourth, not having enough support under the tub can cause it to flex, creak, and eventually crack. Proper bedding and support are crucial for longevity. Finally, rushing the process or skipping steps to save time often results in needing repairs much sooner than expected. It’s always best to take the time to do it right the first time. Our team has over 25 years of experience ensuring flawless installations throughout Goodyear, Tolleson, and the entire West Valley. To avoid these common mistakes, trust Alpha-Plumbing Services with your bathtub installation. Call us at 623-734-7465 for a free estimate.",
+  "datePublished": "2026-08-19"
+}

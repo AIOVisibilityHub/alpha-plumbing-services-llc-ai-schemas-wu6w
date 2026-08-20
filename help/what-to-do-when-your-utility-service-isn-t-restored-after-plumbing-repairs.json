@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What to Do When Your Utility Service Isn't Restored After Plumbing Repairs",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's always frustrating when you've just had a big plumbing repair, and your utilities, like water or gas, aren't coming back on as expected. First, don't panic, but do act quickly. Check if the main shutoff valves for the specific utility are fully open, both at your property and sometimes at the meter. If they are, and still nothing, the next step is to contact the utility company directly. There might be a delay on their end, or they might need to send someone out to complete the restoration. However, if the issue stems from the plumbing work itself, or a misstep in the coordination, that's when you need to call in the pros who did the initial work or another experienced plumber. Sometimes, especially with gas lines, a professional needs to perform specific tests before the utility company will restore service. Alpha-Plumbing Services, LLC has extensive experience coordinating these services for our customers in Goodyear, Surprise, and across the West Valley. We understand the process and can troubleshoot common issues. If you're in this situation, give us a call at 623-734-7465. We’ll help figure out why your service isn’t restored and get things back to normal safely and efficiently.",
+  "datePublished": "2026-08-19"
+}

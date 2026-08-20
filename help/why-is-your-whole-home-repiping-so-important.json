@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Why Is Your Whole Home Repiping So Important?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Thinking about repiping your entire home might seem like a huge undertaking, but it's often one of the smartest investments you can make, especially if your home is a bit older. Over time, your plumbing system can really start to show its age, leading to a host of problems that regular repairs just can't fix. Old pipes, especially those made from outdated materials, can corrode, leak frequently, and even contaminate your water supply with rust or other particles. This can result in low water pressure throughout your home, inconsistent water temperatures, and discolored water coming from your faucets. Beyond the obvious nuisances, these issues can lead to significant water damage, mold growth, and a decline in your home's overall value. Whole-home repiping means upgrading your entire system to modern, durable materials, giving you peace of mind with reliable water pressure, cleaner water, and a plumbing system that's built to last for decades. It's about protecting your home and your family's health for the long run. If you're in the Goodyear, Avondale, or Sun City areas and notice these kinds of recurring problems, it might be time to chat with a professional about whether whole-home repiping is right for you. Alpha-Plumbing Services, LLC has the expertise to provide practical solutions for your home's plumbing needs.",
+  "datePublished": "2026-08-19"
+}

@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "My Old Shower Is a Mess – Should I Repair or Replace It?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "If your shower is looking dated, performing poorly, or just feels beyond a quick fix, you're probably weighing your options: repair or full replacement. It's a common dilemma! Repairing specific issues like a leaky faucet or a clogged drain can definitely extend the life of your current setup, especially if the underlying structure is still solid. You might opt for a repair if the problem is isolated and parts are readily available. However, there are times when a full shower replacement makes a lot more sense. If you're dealing with extensive mold or mildew that keeps coming back, significant cracks in the shower pan or tiles, or a really outdated design that's impacting your home's value, a replacement could be the smarter long-term choice. Also, if you're constantly calling a plumber for various issues, the cumulative cost of repairs can quickly add up to the price of a new, more reliable installation. Think about energy efficiency too; newer shower systems can be more water-efficient. We’ve seen it all in our 25+ years serving areas like Goodyear and Glendale. At Alpha-Plumbing Services, LLC, we can help you evaluate the condition of your existing shower, discuss your budget, and provide a clear recommendation based on what makes the most sense for your home and needs. Don't stress over the decision; reach out to us at 623-734-7465 for an expert assessment!",
+  "datePublished": "2026-08-19"
+}

@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What Are the Mistakes to Avoid During a Repiping Project?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When you're thinking about a whole-house repiping project, you want it done right the first time, especially in your Goodyear home. There are a few common pitfalls we see folks make that you'll definitely want to avoid. First off, don't ignore the warning signs. Things like constant leaks, discolored water, or wildly fluctuating water temperatures are your plumbing system's way of crying for help. Putting off a repipe can lead to much bigger headaches, like severe water damage. Second, avoid focusing solely on the cheapest bid. While budget is important, repiping is a significant investment in your home's infrastructure. A super low price might mean cutting corners on materials or workmanship, which will cost you more in the long run. Third, don't forget to ask about warranties on both the materials and the installation. You want peace of mind knowing the work is guaranteed. Fourth, don't try to DIY it unless you're a seasoned pro. Repiping is complex and requires specialized skills to ensure everything meets international plumbing codes and standards. Lastly, don't hesitate to ask questions. A reputable plumber, like our team at Alpha-Plumbing Services, should be happy to explain the process, materials, and timeline. Making informed decisions will help ensure a smooth repipe and a reliable plumbing system for years to come.",
+  "datePublished": "2026-08-19"
+}

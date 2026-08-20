@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What to Do When Your Bathtub Won't Stop Dripping",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "A bathtub that won't stop dripping can be incredibly annoying, not to mention wasteful, and it can even lead to unsightly stains and higher water bills over time. It's one of those persistent little problems that homeowners often try to ignore, but it really does pay to address it promptly. Understanding the common culprits behind a constant drip can help you decide your next steps, whether it's a simple fix or a sign that you need expert help. The good news is, many drips are fixable, but sometimes they point to bigger issues lurking beneath the surface that need a seasoned plumber's touch.\n\nFirst, try to identify exactly where the drip is coming from. Is it the faucet spout, the handles, or perhaps the showerhead? Knowing the precise location helps narrow down the cause. Often, a persistent faucet drip is due to a worn-out washer or cartridge inside the faucet assembly. These parts wear down over time and lose their ability to create a tight seal. Replacing them can be a DIY task if you’re comfortable with basic plumbing tools and can find the right replacement parts for your specific faucet model. However, be cautious not to overtighten anything, as this can cause more damage. If you've replaced the washer or cartridge and the drip continues, or if the leak seems to be coming from behind the wall or underneath the tub, it's definitely time to pause your DIY efforts. These kinds of leaks can indicate issues like cracked pipes or faulty connections that require professional tools and expertise to properly diagnose and repair.\n\nDon't let a constant drip erode your peace of mind or your home. Alpha-Plumbing Services, LLC specializes in shower/tub repair and replacement, offering dependable solutions with over 25 years of experience. Give us a call at 623-734-7465 for quality service in the West Valley.",
+  "datePublished": "2026-08-19"
+}

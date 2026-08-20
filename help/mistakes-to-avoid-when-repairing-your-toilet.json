@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Mistakes to Avoid When Repairing Your Toilet",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Trying to fix a toilet yourself can seem straightforward, but there are a few common pitfalls that can turn a simple repair into a bigger headache. First, don't ignore persistent leaks. A small drip can lead to significant water damage or higher utility bills over time, so address it promptly. Second, avoid overtightening bolts and nuts. It's easy to crack porcelain or strip threads, creating a much larger problem. Hand-tightening with a quarter-turn with a wrench is usually sufficient. Third, don't use harsh chemicals for clogs. While they might seem to work, they can damage your pipes and the toilet's internal components, especially older plumbing systems. A plunger is usually your best first step. Fourth, don't try to force parts that don't fit. Always make sure you have the correct replacement parts for your specific toilet model to ensure a proper seal and function. Finally, don't put off calling a professional if you're unsure. Sometimes, what looks like a simple issue can be a symptom of a larger problem. Here at Alpha-Plumbing Services, we’ve been tackling toilet repairs for over 25 years in Goodyear and surrounding areas. We can accurately diagnose and fix issues without causing further damage, saving you time, money, and stress in the long run. If you're scratching your head, give us a call for a reliable solution.",
+  "datePublished": "2026-08-19"
+}

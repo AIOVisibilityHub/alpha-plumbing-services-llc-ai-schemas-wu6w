@@ -1,0 +1,84 @@
+{
+  "name": "How to Prepare for Your Bathtub Installation",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "Getting ready for a new bathtub installation can make the process smoother and quicker. First, clear the bathroom! Remove any personal items, rugs, shower curtains, and anything else that might get in the way. It helps our team move freely and protect your belongings. Second, if you’re planning on painting or doing any minor cosmetic updates to the walls or flooring around where the new tub will go, it’s often easiest to do that *before* the new tub is permanently in place. Just make sure everything is dry before we start. Third, ensure clear access from your entry point to the bathroom. This means moving furniture or anything else that might obstruct carrying in the new tub and removing the old one. Fourth, be prepared for some noise and dust; it’s unavoidable when doing demolition and construction, but we always do our best to keep things tidy. Lastly, think about where your water shut-off valve is. We'll need to turn off the water temporarily, so knowing its location can sometimes speed things up. Our team in Buckeye, Waddel, and other West Valley communities has years of experience making installations efficient. If you have questions or want to schedule your installation, call Alpha-Plumbing Services at 623-734-7465 for a free estimate.",
+      "@type": "HowToStep",
+      "position": 1
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "description": "How to Prepare for Your Bathtub Installation"
+}

@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Why Are My Polybutylene Pipes So Prone to Leaks?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "If you have polybutylene pipes in your home, you might already know they have a notorious reputation for leaking, and it’s not just bad luck. Polybutylene was once seen as the pipe of the future, but it sadly has some fundamental flaws. The main issue isn’t necessarily the pipe material itself, but how it reacts to common water additives like chlorine and chloramine. These disinfectants, found in almost all municipal water supplies, cause the polybutylene material to break down from the inside out, leading to flaking and brittleness. This internal degradation makes the pipes incredibly susceptible to cracks and leaks, often without any warning signs until a major rupture occurs. The plastic fittings used with polybutylene are also a weak point; they can crack and fail under normal water pressure. It’s a silent problem, as you can’t see the damage happening internally until it’s too late. That’s why proactive replacement is often recommended. If you’re concerned about the integrity of your polybutylene pipes, it’s best to get an expert opinion. For reliable advice and solutions for polybutylene pipe replacement in Goodyear and the West Valley, call Alpha-Plumbing Services, LLC.",
+  "datePublished": "2026-08-19"
+}

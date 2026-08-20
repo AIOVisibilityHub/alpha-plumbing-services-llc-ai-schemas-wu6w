@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Mistakes to Avoid When Dealing with a Gas Leak",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When you're faced with a suspected gas leak, it’s a high-stress situation where making the right moves is absolutely vital for safety. Unfortunately, there are a few common, yet very dangerous, mistakes people sometimes make. Let's make sure you avoid them. The biggest mistake is ignoring the signs. That rotten egg smell or subtle hissing sound isn't something to brush off – it demands immediate attention. Another critical error is trying to find the leak yourself or attempting to fix it. Gas lines and leaks require specialized training and equipment, and a DIY approach can be incredibly risky. Never try to seal a leak with tape or any other temporary solution! People also sometimes make the mistake of using electrical devices. Remember, anything that can create a spark, from flipping a light switch to using a cell phone indoors, is a huge no-go. Don't even think about turning your car on if it’s parked in an attached garage. And finally, don’t delay calling for help. Your priority is to get everyone out of the building safely, then immediately call 911 and a professional like Alpha-Plumbing Services. We’re seasoned experts in gas line leak inspection and diagnosis, serving Goodyear and the West Valley for over 25 years, and we're here to provide the precise, safe help you need.",
+  "datePublished": "2026-08-19"
+}

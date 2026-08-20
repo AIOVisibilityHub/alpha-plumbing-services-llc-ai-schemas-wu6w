@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What Are the Dangers of DIY Gas Line Repairs?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Thinking about fixing a gas line yourself? It’s a natural inclination to want to tackle home projects, but when it comes to gas lines, DIY can be incredibly dangerous. There are several serious risks involved that can easily turn a minor issue into a major emergency. First off, a gas leak, even a small one, can lead to carbon monoxide poisoning, which is colorless and odorless and can be fatal. Then there's the risk of explosion or fire if gas accumulates and ignites. Without the proper training and specialized tools, it's very difficult to ensure connections are leak-free and up to code. You also might use incorrect materials or methods that aren't compliant with international plumbing codes and standards, which Alpha-Plumbing Services guarantees in all our installations. This could not only be unsafe but also lead to problems with insurance or home inspections down the road. Plus, you could inadvertently damage the gas line further, making the problem worse and more costly to repair. Given these serious risks, it’s just not worth it to attempt gas line work yourself. It's always best to leave gas line repair or replacement to licensed and experienced professionals. If you're having any gas line concerns, reach out to Alpha-Plumbing Services. We're family-owned and operated with 25 years of experience, ready to provide quality workmanship and practical solutions.",
+  "datePublished": "2026-08-19"
+}

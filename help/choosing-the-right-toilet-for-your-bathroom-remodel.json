@@ -1,0 +1,120 @@
+{
+  "name": "Choosing the Right Toilet for Your Bathroom Remodel",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "Embarking on a bathroom remodel is exciting, and picking out a new toilet might seem straightforward, but there's actually a lot to consider! It's not just about aesthetics; you want something efficient, durable, and comfortable. With so many options available today, making the right choice for your Goodyear home can feel a bit overwhelming. Our team, with over 25 years of plumbing experience, can help ensure your new toilet is perfectly integrated into your updated space.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2",
+      "text": "Here’s what to think about when selecting a new toilet:",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3",
+      "text": "*   **Rough-In Measurement:** This is crucial! It's the distance from the finished wall behind the toilet to the center of the drainpipe (usually 10, 12, or 14 inches). Get this wrong, and your new toilet simply won't fit. Always measure accurately before you shop.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4",
+      "text": "*   **Bowl Shape and Height:** Elongated bowls are generally more comfortable but require more space. Round bowls are great for smaller bathrooms. Comfort-height toilets, which are a couple of inches taller than standard, are easier for many adults to use. Think about who will be using the bathroom most.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5",
+      "text": "*   **Flushing Power and Efficiency:** Look for WaterSense-labeled models, which use less water per flush without sacrificing performance. Different flush systems exist, like gravity-fed, pressure-assisted, or dual-flush. Dual-flush models are fantastic for water conservation.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6",
+      "text": "*   **Style and Aesthetics:** Your new toilet should complement the overall design of your remodeled bathroom. There are various styles, from classic two-piece designs to sleek, modern one-piece units, and even wall-mounted options for a minimalist look.",
+      "@type": "HowToStep",
+      "position": 6
+    },
+    {
+      "name": "Step 7",
+      "text": "Choosing the perfect toilet can enhance your remodel. If you need help with installation or guidance on the best models for your space, Alpha-Plumbing Services, LLC is here. We handle all aspects of remodel plumbing, ensuring your new toilet is installed correctly and efficiently. Give us a call; we'd love to help with your project!",
+      "@type": "HowToStep",
+      "position": 7
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "description": "Choosing the Right Toilet for Your Bathroom Remodel"
+}

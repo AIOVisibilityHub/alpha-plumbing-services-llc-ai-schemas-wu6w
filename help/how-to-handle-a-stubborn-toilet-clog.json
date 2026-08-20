@@ -1,0 +1,84 @@
+{
+  "name": "How to Handle a Stubborn Toilet Clog",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "A stubborn toilet clog can really throw a wrench in your day, but you've got a few options before needing to call for professional help. First, and most importantly, stop flushing! Repeated flushing will only increase the water level and risk an overflow. Your first line of defense should always be a good plunger. Make sure you have a flange plunger, which has an extension that fits snugly into the toilet drain hole, creating a much better seal than a standard cup plunger. Position the plunger over the drain opening to create a vacuum seal, then plunge vigorously with strong, even pushes and pulls. It might take several attempts, but this often dislodges common clogs. If plunging doesn't work, you might consider a toilet auger, also known as a snake. This tool is designed specifically for toilet drains and can reach deeper into the trap to break up or retrieve blockages. Just be careful not to scratch the porcelain! For really persistent clogs, especially if they're happening frequently or affecting other drains in your home, it's definitely time to bring in the experts. These types of clogs could indicate a more significant issue with your main sewer line that requires specialized equipment and expertise. Alpha-Plumbing Services, LLC has over 25 years of hands-on experience dealing with all kinds of clogs in Goodyear, Surprise, El Mirage, and throughout the West Valley. We're committed to practical solutions and quality workmanship, so don't hesitate to give us a call if you're facing a clog you can't conquer.",
+      "@type": "HowToStep",
+      "position": 1
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "description": "How to Handle a Stubborn Toilet Clog"
+}

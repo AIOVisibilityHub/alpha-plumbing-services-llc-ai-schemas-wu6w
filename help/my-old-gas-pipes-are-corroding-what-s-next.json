@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "My old gas pipes are corroding, what's next?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Finding corrosion on your natural gas pipes can be a bit alarming, and it's definitely something you shouldn't ignore. Corroding gas lines are a serious safety concern because they can weaken over time, leading to leaks. Natural gas leaks, as you know, pose significant risks like fires, explosions, and carbon monoxide poisoning. The first step if you spot corrosion is to schedule a professional inspection right away. An expert can assess the extent of the damage, determine if the corrosion is superficial or structural, and recommend the best course of action. This might involve repair, but often, for safety and longevity, a partial or full replacement of the affected natural gas line is the safest bet. Trying to patch corroded pipes yourself is incredibly risky and usually not a long-term solution. A professional will know the correct materials to use, ensure all connections are leak-free, and bring everything up to current safety codes. With over 25 years of experience in the West Valley, including areas like Goodyear, Tolleson, and Surprise, Alpha-Plumbing Services, LLC specializes in dependable natural gas line installation and repair. We can help ensure your home's gas system is safe and sound. Don't delay—your family's safety is paramount!",
+  "datePublished": "2026-08-19"
+}

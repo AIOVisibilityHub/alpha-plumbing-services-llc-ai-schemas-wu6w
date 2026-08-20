@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Unexpected Gas Smell Near Your Fire Pit? Here's What to Do",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Smelling gas near your outdoor fire pit is definitely a red flag, and it's not something you should ignore. Gas leaks can be dangerous, so acting quickly and safely is key. First off, if you detect that distinct sulfur-like odor of natural gas or propane, turn off the gas supply to your fire pit immediately. You usually do this at a shut-off valve located near the fire pit or at your main gas meter. Don't try to locate the leak yourself or use any ignition sources like lighters or electrical switches. After you’ve turned off the gas, make sure everyone, including pets, moves to a safe area away from the fire pit. It's smart to open up any nearby windows or doors if the smell has somehow drifted indoors, just to help ventilate the space. The next crucial step is to call in the professionals. Trying to fix a gas leak yourself, especially involving gas lines, is incredibly risky and can actually make things worse. A qualified plumbing service, like us at Alpha-Plumbing Services, LLC, has the right tools and expertise to pinpoint the leak, repair it safely, and ensure everything is up to code. This isn't a DIY job; your safety and that of your home are paramount. We've got over 25 years of experience in Goodyear and the West Valley handling these kinds of situations, so you can trust us to get it done right. Don’t hesitate; if you smell gas, get help.",
+  "datePublished": "2026-08-19"
+}

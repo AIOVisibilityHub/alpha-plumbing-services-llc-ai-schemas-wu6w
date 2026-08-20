@@ -1,0 +1,84 @@
+{
+  "name": "How do I know if my shower valve needs replacing?",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "Deciding if your shower valve needs a full replacement versus a simple repair can be a bit tricky, but there are definitely signs that point towards needing a whole new unit. If you're experiencing consistent issues like persistent leaks that return even after multiple repair attempts, or if the water temperature is constantly erratic despite replacing internal cartridges or washers, a replacement might be more cost-effective in the long run. Significant corrosion on the outside of the valve or inside the valve body, especially if it's impacting the metal structure, often means it's beyond a simple parts swap. If your valve is an older model and replacement parts are hard to find or no longer manufactured, then a complete valve replacement becomes your best option. Also, if you're undertaking a bathroom remodel, upgrading the shower valve is usually a smart move to ensure everything is up to code and functions perfectly with your new fixtures. Trying to salvage an old, heavily corroded, or obsolete valve can lead to endless headaches and potential water damage. Sometimes, the peace of mind that comes with a brand-new, reliable valve is worth the investment. Alpha-Plumbing Services, LLC can assess your current situation and give you an honest recommendation on whether repair or replacement is the best path forward for your home in Goodyear, Buckeye, or anywhere in the West Valley. With over 25 years of experience, we provide dependable residential plumbing services. Call us at 623-734-7465 to discuss your options and get expert advice.",
+      "@type": "HowToStep",
+      "position": 1
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "description": "How do I know if my shower valve needs replacing?"
+}

@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When Should You Consider a Full Toilet Replacement?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Sometimes, a simple repair just isn't enough, and it's smarter to consider replacing your whole toilet. How do you know when you've hit that point? Well, if your toilet is really old and constantly needing repairs – like multiple fixes for leaks, clogs, or running water in a short period – the cost of those repairs can quickly add up and often exceed the cost of a new, more efficient unit. Another big sign is visible cracks in the porcelain. While small hairline cracks might sometimes be patched, larger cracks, especially in the bowl or tank, compromise the toilet's structural integrity and can lead to serious leaks and water damage. High water usage is another strong indicator; older toilets use significantly more water per flush than modern, low-flow models. Replacing an inefficient toilet can drastically reduce your water bill, essentially paying for itself over time. If your toilet is constantly wobbling or feels unstable, even after tightening bolts, it could be a sign of floor damage or an improperly installed unit that's past its prime. And, of course, if you're remodeling your bathroom, a new toilet is a great way to update the look and functionality. At Alpha-Plumbing Services, we’ve got over 25 years of experience helping folks in Goodyear and the West Valley make these decisions. We can assess your current toilet, give you a free estimate, and guide you through the replacement process, ensuring a proper installation that meets international plumbing codes.",
+  "datePublished": "2026-08-19"
+}

@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Why Is My Pool Heater Gas Line Leaking?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Noticing a leak in your pool heater gas line can be pretty alarming, and for good reason—it's a serious safety concern. Gas lines can develop leaks for several reasons, often related to age, installation quality, or environmental factors. Over time, the materials can corrode or degrade, leading to small cracks or holes. Sometimes, improper installation techniques, like using the wrong fittings or not sealing connections correctly, can cause issues to crop up later. Even external damage, perhaps from landscaping work or shifting ground, can impact the integrity of the line. It's crucial to address any suspected gas leak immediately, as natural gas is highly flammable and inhaling it can be dangerous. Your pool heater relies on a steady, safe supply of gas, so keeping an eye on its condition is key for both functionality and safety. If you ever smell gas or suspect a leak, don't hesitate. Turn off the gas supply if you know how and get everyone out of the area right away. Then, it's time to call in the professionals. Alpha-Plumbing Services, LLC has over 25 years of experience in these sorts of situations, serving folks across Goodyear and the West Valley. We can quickly and safely diagnose the problem and get things fixed up properly. Don't take chances with gas lines; reach out to us for expert help.",
+  "datePublished": "2026-08-19"
+}

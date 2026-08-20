@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When to Call a Professional for Whole-House Repiping Concerns",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Knowing when to bring in the pros for your whole-house repiping needs can save you a lot of stress and expense down the road. You should definitely call a professional plumber like Alpha-Plumbing Services if you notice: \n\n*   **Consistent low water pressure:** This isn't just annoying; it often points to significant buildup or corrosion inside your pipes, restricting water flow throughout your Goodyear or West Valley home.\n*   **Discolored or foul-smelling water:** If your water often looks rusty, brown, or cloudy, or has a metallic taste, it’s a strong sign of pipe corrosion, especially in older homes.\n*   **Frequent leaks:** While a single leak can be repaired, multiple or recurring leaks throughout your home suggest that your piping system is failing and a repipe might be more cost-effective than endless patch jobs.\n*   **Unexplained spikes in water bills:** High water bills without a change in usage could indicate hidden leaks that are silently costing you money and potentially damaging your home.\n*   **Pipes over 50 years old:** Older homes, especially those with galvanized steel or polybutylene pipes, are prime candidates for repiping, even if major issues haven't surfaced yet, as these materials have a limited lifespan.\n\nCatching these issues early and getting a professional assessment can prevent minor problems from escalating into major home disasters. We're happy to provide free estimates and discuss the best approach for your home's specific needs.",
+  "datePublished": "2026-08-19"
+}

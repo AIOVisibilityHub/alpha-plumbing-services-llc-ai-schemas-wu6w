@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Why Are My Copper Pipes Leaking Again?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's super frustrating when your copper pipes spring a leak, especially if it feels like it just happened! While copper is generally a reliable material, it's not indestructible, and several factors can lead to recurring issues. Sometimes, it's about the age of your pipes; older copper can corrode over time, leading to pinhole leaks. Water quality plays a big role too. If your water is highly acidic or has high mineral content, it can accelerate corrosion. Even small dings or improper installations from years ago can weaken a pipe, and eventually, that weakness gives way. It’s not always obvious what’s causing the problem, but ignoring it usually leads to bigger headaches, like water damage or mold growth. Keeping an eye on your water pressure can also help, as excessively high pressure can stress even healthy pipes. Don’t wait until a small drip turns into a full-blown emergency. If you're seeing repeated leaks, it's a clear sign that something more significant is going on and that patching might not be enough. If you’re dealing with persistent copper pipe leaks, reach out to Alpha-Plumbing Services, LLC. We can help diagnose the underlying issue and provide a lasting solution to protect your home in Goodyear and the surrounding West Valley.",
+  "datePublished": "2026-08-19"
+}

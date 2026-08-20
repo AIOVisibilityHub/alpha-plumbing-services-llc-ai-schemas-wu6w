@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What Are the Common Reasons for a Running Toilet?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "That ceaseless sound of a running toilet can be incredibly irritating, but more importantly, it's a sign of wasted water and a potentially higher utility bill. It’s a common plumbing issue, and usually, the cause is one of a few usual suspects lurking inside your toilet tank. The most frequent culprit is often a worn-out or ill-fitting flapper. This little rubber seal at the bottom of your tank is supposed to create a watertight barrier. However, over time, it can degrade, become stiff, or get covered in mineral deposits, preventing it from sealing properly. When the flapper doesn't seal, water continuously leaks from the tank into the bowl, which then triggers the fill valve to turn on and refill the tank – hence the running. Another common reason is a fill valve that isn't shutting off correctly. This could be due to a float that's set too high, allowing water to continuously overflow into the overflow tube, or the fill valve mechanism itself might be faulty or worn. Sometimes, the problem is as simple as a flush chain that's either too long, getting caught under the flapper, or too short, preventing the flapper from closing all the way. Less common, but still possible, could be a faulty flush handle assembly or even a slow leak from a damaged overflow pipe within the tank. Catching these issues early saves water and prevents more significant problems down the line. If you're in Goodyear, Buckeye, or any of our service areas in the West Valley, and your toilet is giving you grief, Alpha-Plumbing Services, LLC is here to help with honest communication and quality workmanship. We can get that toilet running right again.",
+  "datePublished": "2026-08-19"
+}

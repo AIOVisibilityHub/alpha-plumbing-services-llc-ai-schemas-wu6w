@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When to Call a Professional for Your Gas Range Line",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Having a gas range is great for cooking, but the gas line supplying it needs to be in perfect working order for both efficiency and, more importantly, safety. It's not always obvious when you need professional help, so here are some clear indicators that it's time to call in the experts for your gas range line: \n*   **You detect any gas odor:** Even a slight whiff of gas means you should open windows, leave the premises, and call a professional from a safe location. This is non-negotiable. \n*   **Your range isn't heating consistently:** If burners are weak, irregular, or refuse to ignite, the gas flow might be restricted or faulty, often stemming from the supply line. \n*   **Installation of a new range:** Getting a new gas range? A professional needs to ensure the existing gas line is compatible, properly sized, and safely connected according to all codes. \n*   **Relocating your range:** Moving your gas range, even slightly, can stress the existing line. If it's a significant move, you'll definitely need professional gas line work. \n*   **Visible damage to the line:** Any signs of wear, corrosion, or kinks on the flexible or rigid gas line demand immediate professional attention. \nThese aren't DIY projects; gas line work requires specialized knowledge and tools. Alpha-Plumbing Services, LLC offers dependable residential plumbing, including expert gas line installation with inspection, for folks in Goodyear, Buckeye, Avondale, and throughout the West Valley. Your safety is our priority, so call us!",
+  "datePublished": "2026-08-19"
+}

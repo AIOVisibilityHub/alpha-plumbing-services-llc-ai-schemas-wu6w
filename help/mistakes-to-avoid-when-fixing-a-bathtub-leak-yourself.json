@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Mistakes to Avoid When Fixing a Bathtub Leak Yourself",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It’s totally understandable to want to jump in and fix a bathtub leak as soon as you spot it. Who wants a dripping tub, right? But sometimes, a quick fix can actually make things worse if you’re not careful. We’ve seen quite a few well-intentioned DIY attempts that end up needing more extensive repairs than if a professional had been called from the start. Avoiding these common mistakes can save you a lot of time, money, and hassle in the long run, and ensure your leak is truly resolved, not just temporarily patched.\n\nFirst, don’t assume the leak source is where the water appears. Water travels, so what looks like a faucet drip might actually be coming from the drain or overflow. Take time to thoroughly investigate. Second, never overtighten fittings. While it seems logical to crank down on a leaky nut, excessive force can strip threads or crack pipes, turning a small leak into a major rupture. Third, using the wrong sealant or too much sealant is a common misstep. A thin, even bead of the correct plumber’s putty or silicone is usually all you need; too much can prevent a proper seal. Fourth, ignoring safety measures is a big one. Always turn off the water supply to the tub before you start any work to prevent unexpected floods. Finally, if you’re unsure, don’t guess. Guesswork can lead to damaged components and more costly repairs. Sometimes, a leak indicates a deeper issue, like a corroded pipe, that only an experienced plumber can correctly diagnose and fix.\n\nIf your DIY efforts aren't cutting it, or you're facing a leak that feels beyond your skill set, it's always best to call in the pros. Alpha-Plumbing Services, LLC has over 25 years of experience and is ready to provide quality workmanship and practical solutions. Reach out to us at 623-734-7465 for dependable service in Goodyear and the surrounding West Valley.",
+  "datePublished": "2026-08-19"
+}

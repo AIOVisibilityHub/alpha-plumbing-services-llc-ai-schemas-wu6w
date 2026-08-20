@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Is Your Fire Pit Gas Line Ready for Action?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "A gas fire pit adds so much to your outdoor living space, but its proper function relies heavily on a well-maintained gas line. Knowing when to call in a professional for your gas line can prevent issues and keep your backyard gatherings safe and cozy. If you're noticing a decrease in flame size or inconsistent burning from your fire pit, it could be a sign that the gas pressure is off, or there's a partial blockage in the line. These aren't usually things you can fix yourself. Another clear signal is if you ever detect the distinct smell of natural gas around your fire pit or anywhere near the gas line itself. This is an immediate concern and means you should turn off the gas and call for help right away. If you've recently had landscaping work done or notice any ground disturbance around where your gas line runs, it's a smart move to have it inspected, even if you don't see an immediate problem. Damage could be hidden. Also, if your fire pit is older, or if you've never had the gas line checked, getting a professional inspection is a proactive step. Over time, even buried lines can experience wear and tear. Don't wait for a problem to escalate. For any concerns about your fire pit's gas line, especially if you're in Goodyear, Buckeye, or anywhere in the West Valley, reaching out to Alpha-Plumbing Services, LLC is a smart move. Our 25 years of experience means we can diagnose and resolve any gas line issue safely and efficiently, helping you protect your home.",
+  "datePublished": "2026-08-19"
+}

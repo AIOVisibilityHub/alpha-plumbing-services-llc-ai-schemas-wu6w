@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When Is It Time for Home Pipe Replacement?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Thinking about replacing your home's pipes isn't usually a homeowner's favorite topic, but sometimes it's necessary to maintain a healthy, functional plumbing system, especially in areas like Goodyear. Several signs can signal it’s time to consider pipe replacement. One major indicator is aging pipes; if your home is decades old and still has its original galvanized steel or polybutylene pipes, they're probably past their prime. These materials are prone to corrosion and deterioration, which can lead to a host of problems. Frequent leaks, even small ones, can indicate that your pipes are weakening throughout your system, not just in one isolated spot. Discolored or rusty water coming from your faucets is another strong sign of internal corrosion, meaning your water quality might be compromised. You might also notice a drop in water pressure, which occurs when mineral deposits and rust build up inside pipes, narrowing the pathway for water. High water bills, with no clear reason, could also hint at hidden leaks requiring a full assessment. Addressing these issues proactively with a pipe replacement can prevent future, more costly water damage and improve your home's overall water quality and pressure. It’s about protecting your biggest investment and ensuring reliable plumbing for your family.",
+  "datePublished": "2026-08-19"
+}

@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Why is My Gas Range Acting Up?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Having trouble with your gas range can be super frustrating, and sometimes it's more than just a minor inconvenience – it could be a gas line issue. If you're noticing things like a faint gas smell when the range isn't even on, or if the flames on your burners are weak, inconsistent, or yellow instead of blue, those are big red flags. Maybe you're having trouble getting the burner to light at all, or it takes a few tries. These symptoms point towards problems with the gas supply or the line itself, and you definitely don't want to ignore them. It's not just about cooking efficiently; it's about safety. Trying to fix complex gas line issues yourself can be really dangerous, so it's always best to call in someone who knows their stuff. Alpha-Plumbing Services, LLC has over 25 years of experience handling these kinds of sensitive repairs, ensuring your home stays safe and your range is back to cooking perfectly. Don't hesitate to reach out if you're experiencing any of these gas range woes.",
+  "datePublished": "2026-08-19"
+}

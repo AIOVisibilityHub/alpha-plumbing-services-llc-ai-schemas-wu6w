@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When to Call a Professional for Gas Line Repair",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Knowing when to pick up the phone for a gas line repair can literally save lives. It's not something to gamble with. Here are some clear signs that it's time to call in the experts at Alpha-Plumbing Services, LLC: \n\n*   **You smell gas:** That distinct rotten egg odor is mercaptan, and it means gas is escaping. Don't ignore it, even if it's faint. \n*   **You hear a hissing sound:** This often indicates a pressurized gas leak from a pipe or appliance. \n*   **Your gas bill suddenly spikes:** An unexplained increase can sometimes point to a leak that’s slowly bleeding gas. \n*   **Dead or dying plants near gas lines:** Gas leaks in the ground can affect vegetation around your property. \n*   **Damaged gas pipe visible:** If you see any physical damage to an exposed gas pipe, call immediately. \n*   **Pilot light keeps going out:** While sometimes a minor appliance issue, it can also indicate gas supply problems or a leak. \n\nIf you notice any of these, don't hesitate. Our team in Goodyear, with over 25 years of experience, is ready to provide honest communication and quality workmanship for all your gas line repair needs. Your safety is our top concern, and we service Goodyear, Buckeye, Avondale, and many other West Valley communities.",
+  "datePublished": "2026-08-19"
+}

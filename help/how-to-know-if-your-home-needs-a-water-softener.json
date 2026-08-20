@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "How to Know if Your Home Needs a Water Softener",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Ever notice that annoying film on your dishes even after they've been washed, or maybe your skin feels dry and itchy right after a shower? These are classic signs of hard water, and it's a super common issue in our area, like Goodyear and across the West Valley. Hard water means there's a high concentration of minerals like calcium and magnesium in your water supply. Over time, these minerals can really do a number on your plumbing, appliances, and even your personal comfort. Beyond the visible signs, hard water can lead to scale buildup in pipes, reducing water flow and efficiency. It can also decrease the lifespan of your water heater, dishwasher, and washing machine, costing you more in repairs and replacements down the line. If you're tired of scrubbing soap scum and dealing with dull laundry, it's probably time to consider a water softener. It’s an investment that pays off by protecting your home’s plumbing infrastructure and making daily life a lot more pleasant. For professional advice or to get a water test done, reach out to us at Alpha-Plumbing Services.",
+  "datePublished": "2026-08-19"
+}

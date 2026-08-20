@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Avoiding Common Gas Line Repair Mistakes",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When dealing with appliance gas lines, it’s really easy to make a mistake if you're not a seasoned pro. Knowing what *not* to do is just as important as knowing what to do! One common mistake homeowners make is ignoring small signs like a faint gas smell or an appliance that's not quite right. These little indicators can quickly become big problems, so don't brush them off. Another major misstep is trying to fix the issue yourself. Gas lines require specific knowledge, tools, and adherence to strict safety codes. A botched DIY repair can lead to dangerous leaks, fires, or even explosions. Always remember to turn off the main gas supply if you suspect a leak and get everyone out of the house. Don't use anything that could create a spark, like lights or electronics, if you smell gas. And please, don't delay calling for help. Time is of the essence when dealing with gas leaks, so a prompt professional assessment is crucial. At Alpha-Plumbing Services, we've got over 25 years of experience in safely handling gas line installations and repairs. We're committed to quality workmanship and getting the job done right the first time. If you suspect an issue with your gas line or appliance, give us a call right away at 623-734-7465. We serve Goodyear and the entire West Valley, ensuring your home's safety.",
+  "datePublished": "2026-08-19"
+}

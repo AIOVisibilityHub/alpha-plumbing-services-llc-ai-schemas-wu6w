@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When to Call a Plumber for a Leaky Toilet Tank",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's easy to dismiss a small drip from your toilet tank, but sometimes, a professional eye is exactly what you need. Knowing when to call in an expert can save you from bigger headaches and costly repairs down the road. While you might be able to handle a simple flapper replacement, some issues are better left to those with experience. After all, we've got over 25 years in the plumbing game, so we've seen it all!\n\nHere are some clear signs it's time to pick up the phone:\n\n*   **Visible Cracks:** If you see any cracks in your porcelain toilet tank, no matter how small, it's a major problem. These can quickly worsen and lead to significant water damage. This isn't a DIY fix; the tank will need to be replaced.\n*   **Constant Running Water:** You've tried adjusting the flapper and fill valve, but the toilet just won't stop running. This could indicate a more complex issue with the fill valve assembly or even the tank's internal components that might require specialized tools or knowledge to fix correctly.\n*   **Water on the Floor (Persistent or Unidentified Source):** If you can't figure out where the water is coming from, or if it keeps reappearing after you've tried to fix it, it's a sign that the problem is more serious. It could be a faulty tank-to-bowl gasket or a loose connection that needs proper sealing.\n*   **Aging Fixture:** Older toilets often develop issues due to worn-out parts that are hard to find or replace. Sometimes, the most economical solution is a full replacement rather than repeated repairs.\n\nDon't let a leaky toilet tank escalate into a major problem. When you notice these red flags, it's time to bring in Alpha-Plumbing Services, LLC. We specialize in toilet repairs and replacements, ensuring a proper, lasting solution. Give us a call!",
+  "datePublished": "2026-08-19"
+}

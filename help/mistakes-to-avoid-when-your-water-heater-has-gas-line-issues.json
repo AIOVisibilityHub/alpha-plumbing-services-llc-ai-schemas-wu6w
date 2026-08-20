@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Mistakes to Avoid When Your Water Heater Has Gas Line Issues",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When your water heater is acting up and you suspect a gas line problem, there are definitely some common mistakes you'll want to steer clear of. The biggest one? Trying to fix it yourself. Gas lines are incredibly dangerous, and even a small mistake can lead to serious hazards. Always, always call a professional plumber for anything related to gas lines. Another mistake is ignoring the smell of gas, even if it's faint. That's a huge red flag that indicates a leak, and it needs immediate attention. Don't delay! Also, don't just relight the pilot light repeatedly without investigating why it's going out; that could be masking a bigger problem. And if you're undertaking other plumbing work, don't neglect to have your gas line properly inspected afterward. We've seen it all, and our 25+ years of experience mean we know how to handle these situations safely and effectively. Alpha-Plumbing Services, LLC specializes in gas line installation and repairs for water heaters, serving the entire West Valley including Waddell, Sun City, and Tolleson. We're committed to practical solutions and quality workmanship. If you're concerned about your gas water heater, get in touch with us at 623-734-7465 – we're here to help.",
+  "datePublished": "2026-08-19"
+}

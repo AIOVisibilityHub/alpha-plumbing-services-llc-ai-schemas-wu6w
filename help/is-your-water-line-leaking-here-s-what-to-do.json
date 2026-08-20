@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Is Your Water Line Leaking? Here's What to Do",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Discovering a water line leak can be pretty stressful, but knowing the right steps to take can minimize damage and get things back to normal faster. First and foremost, if you notice a significant leak or standing water, your immediate priority is to shut off your main water supply. This prevents further flooding and potential damage to your home or yard. Knowing where your main shut-off valve is located is crucial for every homeowner – usually it's near the water meter or where the main water line enters your house. Once the water is off, try to identify the source of the leak, if it's visible. Is it near an appliance, under a sink, or bubbling up in your yard? This information helps the professionals diagnose the problem faster. After securing the water, it's time to call in the experts. Don't try to tackle a major water line repair yourself, as it often requires specialized tools and expertise to ensure a lasting fix. Getting a qualified plumber involved quickly is key to preventing more extensive and costly damage. Our team at Alpha-Plumbing Services, LLC has over 25 years of experience handling these exact issues throughout Goodyear and the West Valley. We're ready to provide honest communication and quality workmanship. Give us a call at 623-734-7465, and we'll help get your water line sorted out.",
+  "datePublished": "2026-08-19"
+}

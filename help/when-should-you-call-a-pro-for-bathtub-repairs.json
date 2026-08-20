@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When should you call a pro for bathtub repairs?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It’s easy to think a little bathtub issue is something you can tackle yourself, but sometimes, those small problems can hide bigger headaches. If you're dealing with a persistent leak, especially one that's causing visible water damage to your floor or ceiling below, it's definitely time to bring in the pros. A constant drip isn't just annoying; it can waste a lot of water and lead to mold growth if not addressed promptly. Also, if your tub isn't draining properly, even after trying a few home remedies, there could be a deeper clog in your plumbing system that needs expert attention. \n\nCracks in the tub surface, especially those that are deep or spiderwebbing, can lead to serious water infiltration and structural damage. While a tiny chip might be fixable with a DIY kit, larger cracks need a professional repair to prevent bigger issues. Any problems with the water temperature, like getting only cold water or scalding hot water, often indicate an issue with your water heater or mixing valve, which requires a plumber's expertise. Don't forget about issues with your tub's fixtures; if the faucet won't stop dripping or the handles are broken, a professional can often repair or replace them quickly. When in doubt, a quick call to Alpha-Plumbing Services, LLC can save you from a small problem turning into a costly disaster. We've got over 25 years of experience helping folks in Goodyear and the West Valley.",
+  "datePublished": "2026-08-19"
+}

@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "My Gas Dryer Isn't Working – What Should I Do?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When your gas dryer decides to stop working, it's definitely a hassle, and sometimes it's more than just a simple fix. Before you dive into diagnosing the problem yourself, it’s important to think about safety, especially when gas is involved. First, check the basics: is it plugged in? Is the circuit breaker tripped? Are the lint trap and vent clean? A clogged vent can cause the dryer to overheat and shut off. However, if you notice any unusual smells, particularly a sulfur or rotten egg smell (which indicates a gas leak), or if the dryer isn't heating at all, these are signs that you might have a gas line issue. Don't try to fix gas line problems yourself – it's incredibly dangerous. It's crucial to immediately turn off the gas supply to your home, if it's safe to do so, and call a professional. Alpha-Plumbing Services, LLC has a ton of experience, over 25 years, with gas line repairs for dryers in the West Valley, so we can quickly and safely get to the bottom of the issue for you. Just give us a call!",
+  "datePublished": "2026-08-19"
+}

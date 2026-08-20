@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When to Call a Professional for Gas Line Repairs on Your Water Heater",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "If you're noticing issues with your gas water heater, knowing when to call a professional for gas line repairs is absolutely crucial for safety. Don't ever try to fix a gas line yourself – that's a job for licensed pros only. You should definitely call us if you smell gas near your water heater; that's a serious indicator of a leak and needs immediate attention. Another sign is a visible crack or damage to the gas line itself. If your water heater isn't heating water properly, or the pilot light keeps going out, it could be a gas supply issue. Even strange noises coming from the water heater might point to a problem that’s affecting the gas flow. Since gas lines are incredibly dangerous if not handled correctly, it's always best to err on the side of caution. We’ve been providing dependable gas line installation and repair services for over 25 years across Goodyear, Buckeye, and the surrounding West Valley areas. We understand the complexities and dangers involved, ensuring your repair is done safely and up to code. If you're experiencing any of these signs, please call Alpha-Plumbing Services, LLC right away at 623-734-7465. Your safety is our top priority.",
+  "datePublished": "2026-08-19"
+}

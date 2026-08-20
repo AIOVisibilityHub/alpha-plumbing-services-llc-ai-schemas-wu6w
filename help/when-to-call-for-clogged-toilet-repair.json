@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When to Call for Clogged Toilet Repair",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Sometimes a simple plunger can fix a clogged toilet, but there are definitely times when you need to call in the pros. Knowing when to reach out can save you a lot of hassle and potential damage.\n\nIf you've tried plunging repeatedly and the water just isn't going down, or worse, it's threatening to overflow, that's a strong sign it's beyond a simple fix. Another red flag is if you're experiencing multiple clogged drains in your home – like your sink and shower are also backing up – this often points to a larger issue in your main sewer line, which definitely requires professional attention. Seeing sewage back up into other fixtures is an emergency and needs immediate expert help. Also, if you know a foreign object has been flushed down the toilet and is causing the clog, trying to retrieve it yourself without the right tools can often make things worse by pushing it further into the pipes. Recurring clogs, even if they seem minor, are also a sign that something deeper is amiss, perhaps a tree root intrusion or a collapsed pipe. When you notice these persistent problems or have a clog that just won't budge, it's smart to call us. We’ve been providing reliable drain cleaning and toilet repair for over 25 years in Goodyear, Buckeye, and throughout the West Valley. Get in touch with Alpha-Plumbing Services, LLC, and we’ll get your plumbing flowing freely again!",
+  "datePublished": "2026-08-19"
+}

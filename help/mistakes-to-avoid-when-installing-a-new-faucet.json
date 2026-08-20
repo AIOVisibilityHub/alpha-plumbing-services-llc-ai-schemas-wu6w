@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Mistakes to Avoid When Installing a New Faucet",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Thinking about tackling a faucet installation yourself? That's awesome! It can be a rewarding DIY project, but there are definitely some common pitfalls that can turn a simple task into a plumbing nightmare. Knowing what to watch out for can save you a lot of headaches, and potentially some water damage too. We see these issues pop up quite a bit, even from seasoned DIYers. \n\nOne big mistake is not turning off the main water supply completely. You might think you've got it, but a small drip can become a gush when you disconnect the old lines. Always double-check! \n\nAnother common one is overtightening fittings. It feels like you need to make them super tight to prevent leaks, but you can actually crack pipes or strip threads, leading to bigger leaks down the road. Just snug is usually enough. \n\nForgetting to use plumber's tape or pipe dope on threaded connections is also a frequent oversight. These are your friends when it comes to creating a watertight seal and preventing future drips. \n\nSkipping the test run is another no-no. After installation, always turn the water back on slowly and check for leaks immediately, before you put all your tools away. You want to catch any issues right then and there. \n\nFinally, not having the right tools for the job can make it much harder and increase the risk of damaging something. A basin wrench, for example, makes getting into tight spaces under the sink much easier. If you find yourself struggling, or if you just want peace of mind knowing it's done right, Alpha-Plumbing Services, LLC has been handling these kinds of installations for over 25 years in the Goodyear area. Don't hesitate to reach out if you hit a snag or just want us to handle it for you.",
+  "datePublished": "2026-08-19"
+}

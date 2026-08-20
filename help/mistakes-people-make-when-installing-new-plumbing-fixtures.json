@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Mistakes People Make When Installing New Plumbing Fixtures",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Installing new plumbing fixtures, whether it's a sleek kitchen faucet or a modern shower head, can dramatically update your home's look. But sometimes, people run into common snags that turn a simple upgrade into a frustrating ordeal. With our 25+ years in the plumbing game at Alpha-Plumbing Services, LLC, we’ve noticed a few recurring mistakes folks make, and we want to help you avoid them.\n\nFirst up, not shutting off the main water supply completely. This seems basic, but forgetting this step can lead to a surprise indoor fountain! Always double-check that the water is fully off before disconnecting old fixtures. Another common error is using the wrong tools or overtightening connections. You might think tighter is better, but this can strip threads, crack pipes, or damage the new fixture itself, leading to leaks. Conversely, not tightening enough is also a problem, causing drips that can escalate over time.\n\nThen there’s skipping the manufacturer's instructions. Each fixture can be a little different, and those instructions often contain crucial details about specific parts, sealants, or installation order. Don’t assume it’s all the same! Also, many people overlook replacing old shut-off valves when installing new fixtures, especially if they look corroded or don't turn easily. New fixtures are great, but old, faulty valves can cause leaks or make future repairs a nightmare.\n\nFinally, ignoring proper sealing and drainage. Not using plumber's putty or Teflon tape where recommended, or not ensuring proper slope for drains, can lead to persistent leaks or slow drainage. These issues might not be immediately obvious but can cause significant damage down the line. If you're tackling a new fixture installation and feel unsure, or just want the job done professionally, Alpha-Plumbing Services, LLC is here to help throughout Goodyear and the West Valley. Give us a ring at 623-734-7465, and we’ll ensure your new fixtures are installed perfectly.",
+  "datePublished": "2026-08-19"
+}

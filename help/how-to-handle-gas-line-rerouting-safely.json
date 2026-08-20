@@ -1,0 +1,84 @@
+{
+  "name": "How to Handle Gas Line Rerouting Safely",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "Gas line rerouting isn't a task for the faint of heart or the inexperienced DIYer. If you're dealing with a damaged or inaccessible gas line, safety has to be your absolute top priority. First things first, if you suspect a leak, turn off your gas supply at the main valve if it's safe to do so, open windows and doors, and evacuate your home. Then, call the professionals right away—like us! Don't try to use any electrical appliances or switches. When it comes to the actual rerouting, only qualified and licensed plumbers should undertake this work. They'll know the proper codes, materials, and techniques to ensure the new line is installed safely and efficiently. An expert will assess the situation, plan the best and safest route for your new line, and handle all the connections and testing. They’ll also make sure all the necessary permits are pulled and that the work passes municipal inspection, which is super important for your safety and future home value. We've got more than 25 years of hands-on experience and are committed to practical solutions for our neighbors in Goodyear and the surrounding areas.",
+      "@type": "HowToStep",
+      "position": 1
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "description": "How to Handle Gas Line Rerouting Safely"
+}

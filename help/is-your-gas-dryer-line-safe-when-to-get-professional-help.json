@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Is Your Gas Dryer Line Safe? When to Get Professional Help",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's super important to know when your gas dryer line might need a professional eye. Gas safety isn't something to take lightly, and recognizing the signs that something might be off can prevent big problems. First off, if you smell gas, even faintly, turn off your dryer and call a professional immediately. That's a major red flag that shouldn't be ignored. Second, if you notice any visible damage to the gas line itself, like kinks, cracks, or corrosion, it's time to get it checked out. These issues can compromise the integrity of the line. Third, if your dryer isn't heating properly, or if it's taking much longer to dry clothes than usual, it could indicate an issue with the gas supply or a partial blockage, which a plumber can diagnose. Fourth, hearing hissing sounds near the gas line is another serious indicator of a leak that needs immediate attention. Finally, if your gas line is old, or if it was installed by someone who wasn't a professional, it's a good idea to have a licensed plumber inspect it for safety and code compliance. We're committed to quality workmanship and honest communication, so don't hesitate to reach out to Alpha-Plumbing Services at 623-734-7465 for a professional inspection in the West Valley. We're ROC #345448 certified and have over 25 years of experience.",
+  "datePublished": "2026-08-19"
+}

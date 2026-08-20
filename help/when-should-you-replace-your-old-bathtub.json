@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When Should You Replace Your Old Bathtub?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's easy to just live with an old tub, but sometimes replacement is really the best option for your bathroom and your home's plumbing health. You might be surprised at how many little signs point to needing a fresh start! For instance, if you're constantly noticing persistent stains that no amount of scrubbing can touch, or if the surface feels rough, chipped, or has developed cracks, it's definitely time to consider a swap. These aren't just cosmetic issues; cracks and deep scratches can harbor mold and mildew, and they can also indicate structural weaknesses that might lead to leaks down the line. Beyond that, if your tub just isn't meeting your needs anymore—maybe it's too small, too difficult to get in and out of, or you're simply ready for a more modern look—a replacement can totally revitalize your space. We've seen countless homeowners in Goodyear and the West Valley benefit from upgrading their tubs, improving both aesthetics and functionality. Trust us, sometimes a new tub is exactly what your bathroom needs for a fresh lease on life, and it’s a wise investment in your home’s value and your daily comfort. If you're pondering a change, give us a call at 623-734-7465 to discuss your options; we're here to help!",
+  "datePublished": "2026-08-19"
+}

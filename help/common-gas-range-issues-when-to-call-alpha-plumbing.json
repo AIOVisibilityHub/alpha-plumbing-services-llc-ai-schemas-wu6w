@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Common Gas Range Issues: When to Call Alpha-Plumbing",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's super common for gas ranges to have hiccups, but knowing which ones need a professional touch is key for both performance and safety. You might notice your burners aren't igniting consistently, or maybe they're producing weak or unusually colored flames – like yellow or orange instead of a crisp blue. This often signals an issue with the gas flow or the burner itself, possibly due to a blocked gas port or a faulty igniter. Another big one is if you can smell gas when the range isn't in use, or if the smell is unusually strong when it is. This is a critical safety concern and you should address it immediately. If your oven isn't heating evenly or reaching the set temperature, it could point to a problem with the oven's gas valve or igniter. And, of course, any visible damage to the gas line connection behind the range means you need professional help pronto. Alpha-Plumbing Services, LLC, with our 25+ years of experience, specializes in diagnosing and repairing these types of gas line issues for ranges, ensuring everything is up to code and running safely in your Goodyear home. Give us a call!",
+  "datePublished": "2026-08-19"
+}

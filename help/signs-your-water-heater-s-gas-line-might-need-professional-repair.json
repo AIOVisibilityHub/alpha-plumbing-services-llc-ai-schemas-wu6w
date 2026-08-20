@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Signs Your Water Heater’s Gas Line Might Need Professional Repair",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Your water heater relies on a steady and safe gas supply, so knowing the signs of a gas line issue is super important. One of the most obvious red flags is a sulfur-like or rotten egg smell – that's a clear indicator of a gas leak and needs immediate attention. Don't ignore it! Another sign is if your water heater isn't producing hot water like it used to, or if the pilot light keeps extinguishing unexpectedly. These could signal an inconsistent gas supply. You might also notice visible damage to the gas line itself, like corrosion, kinks, or wear and tear, especially if your unit is older. Even unusually high gas bills could point to a leak you're not seeing. Any of these symptoms mean it's time to call in the experts. Attempting to fix gas lines yourself is incredibly dangerous and should never be done. Alpha-Plumbing Services, LLC has over 25 years of hands-on experience with gas line repairs and installation, ensuring safety and proper function. We serve homes and businesses throughout El Mirage, Litchfield, and the wider West Valley. If you're experiencing any of these signs, don't wait; contact us at 623-734-7465 for professional and dependable service.",
+  "datePublished": "2026-08-19"
+}

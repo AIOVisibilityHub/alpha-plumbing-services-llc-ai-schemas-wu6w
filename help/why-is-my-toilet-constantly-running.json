@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Why Is My Toilet Constantly Running?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "A toilet that just won't stop running is more than just annoying; it's a huge waste of water and money. That constant trickling sound means gallons are literally going down the drain, costing you extra on your water bill. Understanding why it's happening is the first step to getting it fixed. Most commonly, the culprit is a faulty flapper valve. This is the rubber or plastic disc at the bottom of your toilet tank that lifts when you flush and then seals to hold water in the tank. Over time, these can wear out, become warped, or get a buildup of mineral deposits, preventing a proper seal. If the flapper isn't sealing, water slowly leaks into the bowl, causing the fill valve to kick on intermittently to refill the tank, creating that endless running sound. Another frequent issue is an improperly adjusted or damaged fill valve (also known as the ballcock assembly). If the float cup or ball isn't set correctly, it might not signal the fill valve to shut off once the tank is full, leading to an overflow tube spill or continuous filling. Sometimes, the chain connecting the flush lever to the flapper can be too long or too short, causing the flapper to not seal completely or to get stuck open. Less common, but still possible, is a tiny crack in the overflow tube or a worn-out seal at the base of the tank. No matter the cause, a running toilet needs attention. If you're in Goodyear or the West Valley, Alpha-Plumbing Services, LLC has more than 25 years of experience and can quickly diagnose and fix your running toilet. Don't let that water (and your money!) keep flowing away.",
+  "datePublished": "2026-08-19"
+}

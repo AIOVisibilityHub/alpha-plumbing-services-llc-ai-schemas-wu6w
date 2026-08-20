@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Is My Gas Line Leak a Real Emergency?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "If you're wondering if a gas leak is a 'real emergency,' the answer is almost always yes. Gas leaks are incredibly serious and require immediate attention because they pose significant risks to your safety and your property. The most obvious sign of a gas leak is that distinctive rotten egg smell. This odor is added to natural gas specifically so you can detect it, and it's a clear signal that you need to act fast. Another indicator could be a hissing sound near a gas appliance or meter, which suggests gas is escaping. If you notice dead or discolored vegetation around your property's gas line outside, that could also signal an underground leak. Inside, symptoms like dizziness, nausea, or fatigue could point to carbon monoxide poisoning if gas is leaking and not burning properly. Should you encounter any of these signs, don't hesitate. You should immediately evacuate everyone from the building, and once you're safely outside, call the gas company and a professional plumber. Do not try to find the source of the leak yourself, turn lights on or off, or use any electronics or appliances. At Alpha-Plumbing Services, we understand the urgency of these situations. We offer emergency disconnection and capping services for gas appliances and have over 25 years of experience ensuring safety. Call us at 623-734-7465 from a safe location. We're here for residents and businesses in Goodyear, Buckeye, Avondale, and surrounding West Valley areas.",
+  "datePublished": "2026-08-19"
+}

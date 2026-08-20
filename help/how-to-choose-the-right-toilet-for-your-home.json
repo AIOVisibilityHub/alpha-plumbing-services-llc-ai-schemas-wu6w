@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "How to Choose the Right Toilet for Your Home",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Choosing a new toilet isn't just about picking one that looks good; it's about finding the right fit for your home's needs and your budget. One of the first things to consider is water efficiency. Modern toilets are designed to use significantly less water per flush than older models, which can save you a good bit on your water bill. Look for models with the WaterSense label if efficiency is a top priority. Next, think about flush performance. Some toilets are better at clearing the bowl effectively, which can reduce clogs. You might want to research different flush systems, like gravity-fed or pressure-assisted, though gravity-fed is common for residential. Also, consider the rough-in measurement – that's the distance from the wall behind the toilet to the center of the drainpipe. This is crucial for ensuring the new toilet fits properly. Standard rough-ins are 12 inches, but 10 and 14 inches are also available. Don't forget height! Comfort-height toilets are a few inches taller than standard ones, making them more comfortable for many people. Finally, think about style and features like one-piece vs. two-piece designs, skirted traps for easier cleaning, or even bidet attachments. It can feel like a lot, but don't worry! At Alpha-Plumbing Services, we've been helping folks in Goodyear and the West Valley with toilet replacements for over 25 years. We can offer free estimates and guide you through the options, ensuring you get a toilet that's perfect for your home.",
+  "datePublished": "2026-08-19"
+}

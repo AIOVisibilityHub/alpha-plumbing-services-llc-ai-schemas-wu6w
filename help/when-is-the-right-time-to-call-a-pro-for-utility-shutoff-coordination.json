@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When is the Right Time to Call a Pro for Utility Shutoff Coordination?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Dealing with a big plumbing repair often means temporarily shutting off utilities like water or gas. It sounds simple, but coordinating these shutoffs and then getting everything safely restored can be a real headache if you don't do it right. You definitely want to call in the pros when your repair involves anything beyond a basic fixture replacement. If you're looking at a major pipe repair, a slab leak fix, or even a whole-home repiping, coordinating the utility shutoff with the city or utility company is crucial. This isn't just about turning a valve; it's about making sure everything is done according to local codes and that services are restored safely and efficiently afterward. Trust me, you don't want to be stuck without water or gas longer than necessary because of a coordination mix-up. Alpha-Plumbing Services, LLC has been doing this for over 25 years, so we’ve got the experience to handle those tricky coordination steps for you. If you're facing a major repair and feeling overwhelmed by the utility logistics, don't hesitate to reach out. We serve Goodyear and the entire West Valley, from Avondale to Sun City West, making sure your plumbing repairs go smoothly from start to finish.",
+  "datePublished": "2026-08-19"
+}

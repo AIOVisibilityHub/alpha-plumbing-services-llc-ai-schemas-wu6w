@@ -1,0 +1,84 @@
+{
+  "name": "Not Sure if Your Plumbing Repair Holds?",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "It’s a common scenario: you’ve had a plumbing repair, and now you’re left wondering if it truly solved the problem. How can you really tell if that new fitting or pipe segment is leak-free? The most crucial step is having professional post-repair leak testing. For water lines, this often involves pressure testing to ensure there are no weak spots that could lead to future leaks. For drain lines, a simple visual inspection might not cut it; sometimes, a camera inspection can confirm proper flow and seal. If it was a gas line repair, specialized pressure testing is absolutely essential to confirm safety. Overlooking this vital step can lead to hidden water damage, mold growth, or, in the case of gas, dangerous leaks. It’s not enough for the repair to just *look* fine; it needs to be proven sound. If you've recently had plumbing work done in your Goodyear or West Valley home and have any doubts, don't hesitate to call for a professional post-repair leak test. Alpha-Plumbing Services, LLC provides peace of mind with thorough testing after every repair.",
+      "@type": "HowToStep",
+      "position": 1
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "description": "Not Sure if Your Plumbing Repair Holds?"
+}

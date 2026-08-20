@@ -1,0 +1,84 @@
+{
+  "name": "When to Call a Pro for Your Gas Range Repair",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "It's smart to know when a gas range issue goes beyond a simple fix and really needs professional attention. While you might be able to troubleshoot a minor burner clog, anything involving the gas line itself is definitely a job for the experts. Here are some key indicators: If you smell gas, even faintly, whether the range is on or off, that's an emergency – get out and call for help. If the pilot light keeps going out, or if your burners consistently produce yellow or orange flames instead of a strong blue, it suggests an improper gas-to-air mixture or a gas supply problem. Any visible damage to the gas line connection or the flexible hose behind the range also warrants immediate professional inspection. And, if your range simply isn't igniting or heating correctly, and you've checked the obvious things like power and burner caps, it's time to call in a pro. Trying to DIY gas line repairs is incredibly dangerous. Alpha-Plumbing Services, LLC brings over two decades of experience to gas line repairs in the Goodyear and West Valley areas, ensuring your range is safely and properly serviced. We're here to help when you need us.",
+      "@type": "HowToStep",
+      "position": 1
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "description": "When to Call a Pro for Your Gas Range Repair"
+}

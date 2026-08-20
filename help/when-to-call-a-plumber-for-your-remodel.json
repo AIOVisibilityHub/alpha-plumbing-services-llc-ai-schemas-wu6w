@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When to Call a Plumber for Your Remodel?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Embarking on a remodel, whether it’s a bathroom refresh or a whole-house overhaul, often brings excitement. But let’s be real, plumbing isn't usually the first thing that comes to mind until a problem pops up. Knowing when to loop in a professional like us at Alpha-Plumbing Services can save you a lot of headaches, and money, down the road.\n\nFirst off, if you're thinking about moving any fixtures – like relocating your shower, toilet, or sink – you absolutely need a plumber. Even a few inches can mean rerouting supply lines and drains, which isn't a DIY job if you want it done right and up to code. Second, if your current plumbing system is older or showing signs of wear, a remodel is the perfect time for an upgrade. We’re talking about things like corroded pipes, low water pressure, or outdated water heaters. Addressing these now means you won't have to tear into your beautiful new finishes later. Thirdly, for any major changes, especially in areas like kitchens or bathrooms, you'll likely need permits and inspections. A professional plumber will ensure everything meets International Plumbing Code standards, handling the technical stuff so you don't have to worry. Finally, if you're installing new, complex fixtures, like a tankless water heater or a multi-jet shower system, the specialized knowledge of an experienced plumber is crucial for proper installation and optimal performance. We've got over 25 years of experience, so we've seen it all.\n\nDon't let plumbing be an afterthought in your remodel. Get in touch with Alpha-Plumbing Services, LLC today for a free estimate and let's make sure your project flows smoothly.",
+  "datePublished": "2026-08-19"
+}

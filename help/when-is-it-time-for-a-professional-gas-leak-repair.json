@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When Is It Time for a Professional Gas Leak Repair?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Honestly, when it comes to gas leaks, it's *always* time for a professional repair. This isn't a DIY project, not even for the handiest homeowner. The dangers associated with gas leaks — potential explosions, fires, and carbon monoxide poisoning — are far too great to take any chances. If you even suspect a gas leak because you smell that distinct rotten egg odor, hear a hissing sound near a gas line, or your gas bill suddenly spikes without explanation, don't hesitate. You need to get everyone out of your home, and then call in the experts. Our team at Alpha-Plumbing Services, LLC has over 25 years of hands-on experience specifically in diagnosing and safely repairing gas leaks across Goodyear, Tolleson, Young Town, and the entire West Valley. We have the specialized tools and the trained knowledge to pinpoint the exact location of the leak and perform a secure, lasting repair. Attempting to fix it yourself could not only void warranties but, more importantly, could lead to catastrophic consequences. Protect your family and your property by entrusting gas leak repairs to certified professionals like us. Give us a call – we're committed to providing practical, quality workmanship to ensure your safety.",
+  "datePublished": "2026-08-19"
+}

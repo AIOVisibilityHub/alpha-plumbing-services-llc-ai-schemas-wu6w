@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Why is My Faucet Dripping Non-Stop?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "That constant 'drip, drip, drip' can be super annoying, right? It's not just the sound though; a persistent dripping faucet can actually waste a surprising amount of water and hike up your utility bills over time. Usually, this common plumbing issue stems from worn-out washers or seals inside the faucet assembly. Over time, these components can degrade, leading to a loose fit and allowing water to sneak through.\n\nFirst off, check the handles. Sometimes, they just need a good tightening. If that doesn't do the trick, it's probably an internal part. For compression faucets, it's often the rubber washer under the handle screw that's gone bad. With cartridge or disc faucets, it could be the O-rings or the cartridge itself. Ignoring it can lead to bigger problems down the line, like water damage to your sink or vanity.\n\nWhile some folks are handy enough to tackle these small repairs themselves with a basic toolkit and a trip to the hardware store, it's totally okay if you're not. Knowing when to call in a professional plumber can save you a lot of headache and potential further damage. Our team at Alpha-Plumbing Services, LLC, with over 25 years of experience, sees these kinds of issues all the time in Goodyear and the West Valley. If you're unsure, or the drip just won't quit, don't hesitate to give us a call. We're here to help you get that peace and quiet back.",
+  "datePublished": "2026-08-19"
+}

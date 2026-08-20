@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Mistakes to Avoid When Installing a New Toilet",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Replacing a toilet might seem like a manageable DIY project, but there are some common mistakes that can lead to big headaches. First off, don't skimp on quality. Trying to save a few bucks on a cheap toilet or low-grade components can mean more frequent repairs down the line. Investing in a good quality unit often pays off in durability and water efficiency. Secondly, don't forget the wax ring! This little component is critical for a watertight seal between the toilet and the floor drain. A poorly installed or incorrect wax ring is a surefire way to get a leaky toilet base. Thirdly, avoid overtightening the toilet bolts. It's really easy to crack the porcelain, which means you'll be buying another toilet before you've even used the first flush. Snug is good, but overtightening is a no-go. Fourth, ensure the subfloor is level and sturdy. If your floor isn't perfectly flat, the toilet won't sit right, leading to wobbling and potential leaks. This might require some subfloor repair before installation. Finally, don't neglect to turn off the water supply completely before starting! This seems obvious, but forgetting can lead to a messy flood. If you're feeling overwhelmed or just want the job done right, Alpha-Plumbing Services is here to help. We have 25+ years of experience in toilet replacement and guarantee proper installation up to international plumbing code standards for homes and businesses across Goodyear and the West Valley.",
+  "datePublished": "2026-08-19"
+}

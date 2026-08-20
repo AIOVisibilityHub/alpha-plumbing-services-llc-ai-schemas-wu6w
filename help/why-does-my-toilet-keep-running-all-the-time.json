@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Why Does My Toilet Keep Running All The Time?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's super annoying when your toilet just keeps running, right? That constant trickle can also waste a lot of water and drive up your utility bills. Often, it's something relatively simple, like a faulty flapper valve that isn't sealing correctly at the bottom of the tank. Sometimes the fill valve, which controls the water coming into the tank, can malfunction, causing it to overfill or constantly try to fill even when it's full. We see this a lot in Goodyear and the surrounding areas, and it's a common residential plumbing headache. You might also have an issue with the float mechanism not sitting right, which tells the fill valve when to stop. While some minor adjustments can sometimes help, these components wear out over time. If you've tried jiggling the handle and it's still running, it's probably time to dig a little deeper. Don't let that running toilet become a bigger problem or lead to unnecessary water waste. If you're tired of the constant sound and worry about your water bill, it’s a good idea to have a professional plumber take a look. We're happy to diagnose the exact issue and get your toilet running silently again.",
+  "datePublished": "2026-08-19"
+}

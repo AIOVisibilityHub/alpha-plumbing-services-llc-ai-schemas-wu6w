@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When to Call a Professional for Your Stove's Gas Line",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Your gas stove is a central part of your kitchen, and its gas line needs to be handled with care. Knowing when to call in a professional for gas line issues is super important for your home's safety. Here are some key signals it's time to pick up the phone: \n*   **You smell gas:** This is a major red flag. If you detect even a faint odor of gas, evacuate and call a professional immediately. \n*   **Visible damage or corrosion:** See any rust, kinks, or wear on the gas line itself? These can compromise its integrity. \n*   **New appliance installation:** If you're installing a new gas stove, especially if it requires a new line or relocation, a professional ensures it's done to code and safely. \n*   **Appliance underperformance:** If your stove isn't heating properly, has weak flames, or seems inconsistent, it could be a gas flow issue related to the line. \n*   **Audible hissing near the line:** This clearly indicates a leak and needs immediate attention. \nDon't take chances with gas lines; they demand expert handling. Alpha-Plumbing Services, LLC has over 25 years of experience in gas line installation and can help keep your home safe. We serve Goodyear, Buckeye, Avondale, and the entire West Valley. Contact us for dependable and professional service.",
+  "datePublished": "2026-08-19"
+}

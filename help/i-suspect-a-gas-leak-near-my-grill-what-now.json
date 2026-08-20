@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "I Suspect a Gas Leak Near My Grill – What Now?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Discovering you might have a gas leak near your grill can be pretty alarming, but staying calm and taking the right steps quickly is crucial for safety. The very first thing to do if you suspect a gas leak – usually identified by that unmistakable rotten egg smell – is to turn off the gas supply immediately. If it's a propane tank, turn the valve on the tank clockwise until it's tight. For natural gas, find the shut-off valve near the grill connection and turn it off. Once the gas is off, move everyone, including pets, away from the area and make sure there are no open flames or sparks nearby. Don't try to find the leak yourself or continue to use the grill. This is definitely a job for someone with the right tools and training. Our team at Alpha-Plumbing Services, LLC has plenty of experience with gas line repairs for grills in the West Valley. We'll safely locate the leak, repair it correctly, and ensure everything is secure so you can get back to grilling safely.",
+  "datePublished": "2026-08-19"
+}

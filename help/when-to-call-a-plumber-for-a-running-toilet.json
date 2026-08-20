@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When to Call a Plumber for a Running Toilet",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "You’ve got a running toilet and you're wondering if it's a DIY fix or if you should call in the pros. There are definitely some clear signs it's time to pick up the phone. If you've tried the usual jiggling of the handle and it makes no difference, that's a good first signal. If you notice visible cracks in the tank or bowl, especially if water is seeping out, that’s an immediate call. Cracks can quickly worsen and lead to significant water damage. Another big one is if you've already tried replacing the flapper or fill valve yourself and the problem persists – sometimes the issue is more complex, involving water pressure or internal tank components that require specialized knowledge. If the toilet flushes weakly before it starts running, this points to a deeper issue with the flushing mechanism itself. Finally, if you hear phantom flushing, where the toilet randomly refills even when no one has used it, that’s a sure sign of an internal leak that needs professional attention. Don't let a small issue turn into a flood! We're here to help Goodyear and West Valley residents with dependable residential plumbing services. Give Alpha-Plumbing Services a call.",
+  "datePublished": "2026-08-19"
+}

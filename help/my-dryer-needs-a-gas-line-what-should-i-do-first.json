@@ -1,0 +1,84 @@
+{
+  "name": "My Dryer Needs a Gas Line, What Should I Do First?",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "So, you're upgrading to a gas dryer, or maybe you're moving into a new place that just doesn't have the right hookup. It can feel like a big project, but getting a gas line installed for your dryer doesn't have to be a headache. First things first, safety is paramount with gas lines. You really don't want to mess around with this yourself if you're not absolutely sure what you're doing. A proper installation ensures your home and family are safe from leaks. It's also vital to make sure the installation meets international plumbing codes and standards. Sometimes folks think a DIY approach will save them money, but incorrect installation can lead to costly repairs down the line, or worse, dangerous situations. That's why reaching out to an experienced plumbing company, especially one with over 25 years in the business like Alpha-Plumbing Services, is a smart move. We've got the expertise to handle gas line installations with inspection, giving you peace of mind. Give us a call at 623-734-7465 to talk about your dryer gas line needs; we're here to help Goodyear and the West Valley.",
+      "@type": "HowToStep",
+      "position": 1
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "description": "My Dryer Needs a Gas Line, What Should I Do First?"
+}

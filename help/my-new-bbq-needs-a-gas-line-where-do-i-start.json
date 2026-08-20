@@ -1,0 +1,84 @@
+{
+  "name": "My New BBQ Needs a Gas Line, Where Do I Start?",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "So, you've got this awesome new barbecue grill, and it needs a gas line. That's a fantastic upgrade for any backyard! But before you fire it up, you need to make sure the gas line installation is done right and safely. It's not just about hooking up a hose; it involves proper planning and adherence to safety standards. First, you'll need to figure out the best and safest route for the gas line from your main supply to your grill location. This often involves trenching or running lines along the exterior of your home. Second, sizing is crucial; the line needs to be adequate for the BTU output of your grill so it functions efficiently and safely. Third, choosing the right materials is key for durability and preventing leaks, especially considering outdoor elements. You don't want to use just any piping for gas. This is definitely where professional help comes into play. With Alpha-Plumbing Services, you're getting a team with over 25 years of experience, ensuring your gas line installation with inspection is handled correctly and up to international plumbing codes. Give us a call at 623-734-7465 in Goodyear and the surrounding West Valley areas to get started on your perfect outdoor kitchen.",
+      "@type": "HowToStep",
+      "position": 1
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "description": "My New BBQ Needs a Gas Line, Where Do I Start?"
+}

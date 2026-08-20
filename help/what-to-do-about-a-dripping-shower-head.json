@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What to Do About a Dripping Shower Head",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "A dripping shower head isn't just an irritating noise; it's a steady waste of water and money that can escalate into bigger problems if ignored. At Alpha-Plumbing Services, we often get calls from homeowners in areas like Goodyear and Avondale dealing with this very issue. Usually, a consistent drip means there's a worn-out washer, O-ring, or cartridge inside the shower valve that needs replacing. While it might seem like a simple fix, getting to these components can be tricky, especially with different shower valve designs and older fixtures. Attempting a DIY repair without the right tools or know-how can lead to stripped screws, broken parts, or even a bigger leak. Sometimes, the problem might even stem from a deeper issue within your plumbing system, not just the showerhead itself. If the drip persists after a basic tightening, or if you're seeing signs of rust or corrosion, it's a good indicator that professional help is needed. Prolonged dripping can also lead to unsightly mineral stains in your tub or shower, making cleanup a constant chore. Don't let a small drip become a constant headache. For dependable shower repair and to stop that irritating drip for good, contact Alpha-Plumbing Services at 623-734-7465. We’re ready to help!",
+  "datePublished": "2026-08-19"
+}

@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Why is my shower leaking even after I tried to fix it?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's super frustrating when you've put in the effort to tackle a shower leak yourself, only to find it's still dripping or even worse. Most times, those persistent leaks happen because the root cause wasn't fully addressed. You might have temporarily patched a symptom, but the underlying issue, like a worn-out O-ring deep inside the valve or a hairline crack you missed, is still there. Another common scenario is using the wrong sealant or not applying it correctly, leading to the leak resurfacing pretty quickly. Sometimes, folks just tighten things a little too much or not enough, and that can actually exacerbate the problem or create new ones. Plus, getting to some of those internal components without the right tools or know-how can be tricky, and you risk damaging more than you fix. That's why even seemingly simple leaks can be stubborn if you're not seeing the whole picture. If you've given it your best shot and the leak is still making itself known, it's often a sign that it's time to bring in someone with more specialized experience. Alpha-Plumbing Services, LLC has over 25 years of hands-on experience and can pinpoint these tricky issues across Goodyear and the West Valley. We're committed to finding practical solutions, so you can stop worrying about that drip. Give us a call at 623-734-7465 – we're happy to help!",
+  "datePublished": "2026-08-19"
+}

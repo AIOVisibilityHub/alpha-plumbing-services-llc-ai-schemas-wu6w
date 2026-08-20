@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When Your Bathroom Faucet Won't Stop Leaking",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "A persistently dripping bathroom faucet can be more than just annoying; it can waste a lot of water and even lead to bigger problems down the line. We see it all the time here at Alpha-Plumbing Services. You might think it's just a small drip, but over time, that adds up to unnecessary utility bills and potential water damage to your vanity or flooring. Often, it's a worn-out washer or a corroded valve, which sounds simple enough, but getting to these components can be trickier than you'd expect, especially with newer, more complex faucet designs. If you’ve tried tightening things up and the drip persists, it’s probably time to dig a bit deeper. Ignoring it won't make it go away, and frankly, it'll just get worse. Plus, the constant dripping sound can be a real nuisance! When you’re dealing with an older faucet, sometimes a replacement is actually more cost-effective than trying to track down obscure parts for a repair. We've got over 25 years of experience in the Goodyear and West Valley areas, so we've seen every type of faucet leak imaginable. Don't let a small drip turn into a big headache. If you're tired of the drip, drip, drip, give Alpha-Plumbing Services a call at 623-734-7465. We'll get that faucet fixed or replaced so you can get back to a peaceful, dry bathroom.",
+  "datePublished": "2026-08-19"
+}

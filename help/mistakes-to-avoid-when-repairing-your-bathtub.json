@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Mistakes to avoid when repairing your bathtub",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Tackling bathtub repairs yourself can seem like a great way to save a few bucks, but there are definitely some common slip-ups that can turn a small fix into a much bigger problem. First, don't use harsh chemical drain cleaners excessively. While they might clear a clog in the short term, they can corrode your pipes over time, leading to more expensive repairs down the line. A plumbing snake or natural remedies are often better for simple clogs. Another common mistake is ignoring small cracks or chips. What seems like a minor cosmetic issue can allow water to seep underneath, causing unseen damage and mold growth. Always address these quickly! \n\nMany folks also try to fix leaks without properly identifying the source. A drip might seem straightforward, but it could be coming from the faucet, the drain, or even the overflow, and each requires a different solution. Guessing often leads to temporary fixes that don't last. Also, using the wrong type of caulk or sealant around your tub is a big no-no; it won't hold up to moisture and can quickly lead to leaks and mildew. Make sure you're using a mildew-resistant silicone caulk specifically designed for bathrooms. And finally, don't assume every repair is a DIY job. Complex plumbing issues, significant structural damage, or major leaks are best left to the professionals to prevent further damage and ensure the job is done right. Alpha-Plumbing Services, LLC has been providing quality workmanship in Goodyear and surrounding areas for over 25 years, so we're here to help when you need it.",
+  "datePublished": "2026-08-19"
+}

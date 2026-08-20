@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Mistakes to Avoid When Your Toilet Won't Flush",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When your toilet isn't flushing, it's easy to get stressed and make a few common mistakes that can worsen the situation. First off, don't continuously flush! If the water level is rising or not draining, hitting that handle again and again will only lead to an overflow, creating a messy situation and potentially water damage. Always wait to see if the water drains before attempting another flush or plunging. Second, avoid using chemical drain cleaners excessively. While some minor clogs might seem to respond, these harsh chemicals can be bad for your pipes over time, especially older ones, and they don't always fully clear the blockage. They can also be dangerous if they splash back. We often see damage from these in homes around Phoenix and Glendale. Third, don't use the wrong kind of plunger. A cup plunger is fine for sinks, but for toilets, you need a flange plunger that creates a tight seal around the drain opening. Without that seal, you're just splashing water, not creating pressure. Lastly, don't try to retrieve foreign objects with your bare hands or flimsy tools if you suspect something dropped in. You could injure yourself or push the object further, making it harder to remove. If the plunger isn't working or you suspect a more serious issue, it's best to call in a pro. Alpha-Plumbing Services has the right tools and expertise to handle stubborn toilet issues without causing further damage.",
+  "datePublished": "2026-08-19"
+}

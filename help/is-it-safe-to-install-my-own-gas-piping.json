@@ -1,0 +1,84 @@
+{
+  "name": "Is it safe to install my own gas piping?",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "It's tempting to tackle home projects yourself, but when it comes to gas piping, it's really best left to the pros. Installing gas lines isn't like putting together IKEA furniture; there are some serious risks involved if things aren't done exactly right. The biggest concern, of course, is gas leaks, which can lead to fire, explosions, or carbon monoxide poisoning – none of which you want in your home. You also need to know the correct pipe sizing for proper gas flow, how to securely join pipes without leaks, and the right methods for routing lines through walls or attics. Plus, there are local codes and regulations that govern gas line installations, and getting them wrong can mean fines, failed inspections, and having to redo all the work. Trying to save a few bucks on a DIY project isn't worth putting your home and family at risk. A qualified plumbing company, like Alpha-Plumbing Services, LLC, has the specialized tools, training, and experience to ensure your gas pipe installation is done safely and correctly the first time. We’ve got over 25 years of experience in the Goodyear and West Valley area, so we know what we’re doing. Don't hesitate to reach out if you're thinking about adding or modifying a gas line!",
+      "@type": "HowToStep",
+      "position": 1
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "description": "Is it safe to install my own gas piping?"
+}

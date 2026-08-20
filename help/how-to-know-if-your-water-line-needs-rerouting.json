@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "How to Know if Your Water Line Needs Rerouting",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Sometimes, a simple repair isn't enough, and you might need to consider a water line reroute to truly solve persistent plumbing problems. Knowing when to make that bigger decision can save you a lot of hassle and money in the long run. One big sign is frequent or recurring leaks in the same section of pipe. If you're constantly patching up the same spot or different areas of an old, deteriorating line, a reroute could be a more permanent and cost-effective solution. Another indicator is if your water line runs through an inaccessible or difficult-to-reach area, like under a slab foundation. Repeated repairs in such a spot can be incredibly disruptive and expensive. Instead of repeatedly breaking through concrete, rerouting the line to an easier-to-access location makes future maintenance much simpler. Also, if you're planning a major remodel or addition to your home or business, it might be the perfect time to reroute old or problematic lines to better suit the new layout and prevent future issues. Finally, persistent low water pressure or discolored water might suggest extensive corrosion or damage throughout your existing lines, making a full reroute a wise investment for better water quality and flow. For any of these concerns, Alpha-Plumbing Services is here to help. We specialize in water re-pipes and offer free estimates, so reach out at 623-734-7465 to discuss if a reroute is right for you in Goodyear or the West Valley.",
+  "datePublished": "2026-08-19"
+}

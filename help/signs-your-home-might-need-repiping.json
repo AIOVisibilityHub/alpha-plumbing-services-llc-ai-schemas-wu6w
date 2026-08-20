@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Signs Your Home Might Need Repiping",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's easy to overlook your home's plumbing until something goes wrong, but sometimes your pipes give you clear signals that a major upgrade, like whole-home repiping, is necessary. One of the most common signs is persistently low water pressure throughout your house, not just in one faucet. If you're struggling to take a decent shower or run the dishwasher and washing machine at the same time, aging pipes could be the culprit, restricting water flow. Another big indicator is discolored or rusty water coming out of your taps, which usually means your pipes are corroding from the inside out. Frequent leaks are also a huge red flag; if you're constantly calling a plumber for small fixes, it's likely a symptom of a systemic problem rather than isolated incidents. You might also notice a metallic taste in your water, or unusually high water bills without a change in usage, pointing to hidden leaks. Homes built before the 1970s, especially, might still have galvanized steel or polybutylene pipes that are well past their prime and prone to failure. If any of these sound familiar for your home in Goodyear, Waddel, or Tolleson, it's really worth getting a professional assessment. Our team at Alpha-Plumbing Services, LLC has over 25 years of experience and can help you understand if whole-home repiping is the right practical solution for your situation.",
+  "datePublished": "2026-08-19"
+}

@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When to Upgrade Your Kitchen Plumbing During a Remodel",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "You’re planning that fantastic kitchen remodel, right? It’s the perfect time to think about more than just new cabinets and countertops. Upgrading your kitchen plumbing during a renovation can prevent future headaches, boost efficiency, and even increase your home's value. With over 25 years in the field, Alpha-Plumbing Services, LLC knows exactly what to look for to ensure your kitchen's plumbing is top-notch.\n\nFirst, if your home is older, say 20+ years, and you’ve never had a plumbing overhaul, a remodel is an ideal opportunity to replace outdated pipes. Old galvanized or polybutylene pipes can corrode, restrict water flow, or even burst, causing significant damage down the line. Upgrading to modern PEX or copper piping during the remodel protects your investment. Second, consider upgrading your water heater if your current one is nearing its 10-15 year lifespan, or if you plan to add more hot water-hungry appliances like a larger sink, dishwasher, or even a hot water dispenser. This is the perfect time to explore options like a high-efficiency tankless water heater that saves space and energy. Third, if you're frequently dealing with low water pressure or slow drains in your kitchen, these are clear signals that an upgrade is overdue. A remodel allows us to diagnose and fix underlying issues, ensuring consistent flow and proper drainage. Fourth, integrating a water filtration system or a water softener makes a huge difference in water quality and appliance longevity, especially important in Arizona. This is much easier to install seamlessly during a remodel than as an afterthought. Finally, any time you're significantly changing the kitchen layout, such as moving the sink or adding an island with a prep sink, you'll need new plumbing lines. It's an ideal moment to not just relocate, but also upgrade, ensuring everything is installed to the highest International Plumbing Code standards.\n\nDon't miss the chance to upgrade your kitchen's essential systems. Contact Alpha-Plumbing Services, LLC for a free estimate on your kitchen remodel plumbing needs.",
+  "datePublished": "2026-08-19"
+}

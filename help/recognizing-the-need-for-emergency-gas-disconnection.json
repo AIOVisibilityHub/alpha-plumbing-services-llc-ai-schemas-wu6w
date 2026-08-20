@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Recognizing the Need for Emergency Gas Disconnection",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Knowing when to call for an emergency gas disconnection is really important for keeping your property and family safe. There are specific situations where you absolutely shouldn't wait, and getting that gas supply cut off quickly is essential. The most obvious sign is a strong, persistent smell of rotten eggs, which indicates a significant gas leak. If you hear a distinct hissing sound near your gas meter or any gas appliance, that's another clear signal of a leak that needs immediate attention. You might also need an emergency disconnection if a gas line has been visibly damaged, perhaps during a renovation or an accident. Even if there's no smell or sound, if an appliance is malfunctioning severely and you suspect it's gas-related – like a water heater that's not working and giving off unusual fumes – it's better to be safe than sorry. Remember, in any of these scenarios, your first step is to get everyone out of the building to a safe location. Once you're safe, don't hesitate to call for professional help. Alpha-Plumbing Services specializes in emergency disconnection and capping of gas appliances, with over 25 years of hands-on experience ensuring homes and businesses in Goodyear, Buckeye, and throughout the West Valley are safe. We're committed to quality workmanship and practical solutions. Don't take chances with gas; call us right away at 623-734-7465.",
+  "datePublished": "2026-08-19"
+}

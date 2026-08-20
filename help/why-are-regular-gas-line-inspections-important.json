@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Why Are Regular Gas Line Inspections Important?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Think of regular gas line inspections like a health check-up for your home's vital systems. It's easy to overlook them because gas lines are usually out of sight, but they play a critical role in powering your appliances safely. One big reason for routine checks is to catch wear and tear before it escalates. Over time, factors like soil movement, corrosion, or even small impacts can compromise a gas line's integrity. An inspection by a professional like Alpha-Plumbing Services, LLC can identify these subtle issues that aren't visible to the untrained eye. We've got over 25 years of experience in Goodyear and the West Valley, so we know the common culprits. Another crucial point is safety compliance; local codes and insurance providers might have specific requirements for gas line maintenance, especially for light-commercial properties. Plus, if you're buying or selling a home, a clean gas line inspection report can be a huge peace of mind for everyone involved. Don't wait for a crisis to realize the importance of your gas lines. A small investment in a regular inspection can save you a ton of headache and keep your home in places like Surprise, Waddel, or Sun City, safe and sound. When it's time for an inspection, give us a call; we'll coordinate everything for you.",
+  "datePublished": "2026-08-19"
+}

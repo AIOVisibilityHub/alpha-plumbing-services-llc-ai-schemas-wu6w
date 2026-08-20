@@ -1,0 +1,84 @@
+{
+  "name": "What to Do if You Suspect a Gas Leak",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "Discovering or even just suspecting a gas leak can be a really frightening experience, but knowing exactly what steps to take can make all the difference in keeping everyone safe. Your immediate actions are crucial here, so let's walk through them. First and foremost, if you smell gas or hear a hissing sound, do not, under any circumstances, turn on or off electrical switches, use your phone inside, light matches, or create any kind of spark. That includes turning on lights or operating appliances. The smallest spark could ignite escaping gas. The most important thing to do is to evacuate everyone from the building immediately. Get out into the fresh air as quickly and safely as possible. Once you are a safe distance away from the property, call 911 without delay. After you’ve contacted emergency services, then it's time to call a professional plumbing service experienced in gas line leak diagnosis. Our team at Alpha-Plumbing Services, with over 25 years of experience, is ready to respond to these urgent situations in Goodyear and throughout the West Valley. We understand the seriousness of a potential gas leak and are equipped to perform thorough leak detection and diagnosis to ensure your safety. Don't take chances; your safety is paramount.",
+      "@type": "HowToStep",
+      "position": 1
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "description": "What to Do if You Suspect a Gas Leak"
+}

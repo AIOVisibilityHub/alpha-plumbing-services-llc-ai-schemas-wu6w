@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What to Do After Gas Line Repair?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "You’ve just had a plumbing repair done, which is great, but how can you be absolutely sure that the fix was successful and you don't have a new leak? This is where post-repair leak testing comes in, and it's a step many homeowners unfortunately overlook. One mistake is assuming that just because the immediate problem is gone, everything is sealed tight. Often, the repair itself can cause minor shifts or create new, tiny leaks if not thoroughly checked afterward. Another common error is not understanding what a proper leak test entails; it's more than just a quick visual check. Trying to do your own leak test with soapy water on gas lines, for instance, isn't reliable enough for critical systems. You could also mistakenly think that only major repairs need follow-up testing, but even small fixes can benefit from verification. Finally, not keeping an eye out for subtle signs of leakage in the days or weeks following a repair is a big mistake. To avoid these issues, always ask your plumber about their post-repair leak testing process. Alpha-Plumbing Services, LLC always performs thorough post-repair leak testing to guarantee our work holds up. We want to make sure your home stays leak-free and safe after any service in Goodyear or the surrounding West Valley.",
+  "datePublished": "2026-08-19"
+}

@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Safety First: When to Call for Your Grill Gas Line",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When it comes to your barbecue grill's gas line, knowing when to call in the professionals is absolutely crucial for safety. It's not just about convenience; it's about protecting your home and loved ones. If you ever detect the distinct smell of natural gas near your grill or the gas line, that's your number one sign to immediately turn off the gas supply if safe to do so, and call a professional. Hissing sounds coming from the line are also a dead giveaway for a leak. Beyond active leaks, if you notice any visible damage to the gas line itself – like corrosion, cracks, or if it appears to be loose or improperly supported – it's time for an expert inspection. Perhaps your grill isn't lighting consistently, or the flame seems weak; this could indicate an issue with the gas pressure or the line's integrity. Also, if you're installing a new grill or relocating an existing one, and it requires extending or installing a new gas line, a professional plumber should always handle this to ensure it meets all safety standards and codes. Don't take chances with gas; for dependable gas line installation with inspection, Alpha-Plumbing Services is here to help Goodyear and the West Valley. We've got over 25 years of experience and are committed to honest communication and quality workmanship. Call us at 623-734-7465.",
+  "datePublished": "2026-08-19"
+}

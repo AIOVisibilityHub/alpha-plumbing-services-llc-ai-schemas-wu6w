@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When Should I Replace My Gas Shutoff Valve?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It’s easy to overlook your gas shutoff valve until you actually need it, but knowing when it might be time for a replacement can save you a lot of headache and keep your property safe. One key sign is if the valve is old or corroded. Over time, metal components can degrade, making the valve difficult to turn or even causing it to fail completely when you need it most. If you notice any rust, green discoloration, or obvious wear and tear, it’s definitely a good idea to have it checked out by a pro. Another indicator is if the valve is stiff or stuck. You should be able to turn your main gas shutoff valve easily in an emergency. If it’s frozen in place or takes a lot of effort to budge, it’s not reliable and needs attention. Any sign of a gas leak around the valve, like a distinct sulfur or rotten egg smell, is an immediate red flag. Don't mess around with that – evacuate and call for help right away. Lastly, if you’re upgrading gas appliances or doing any major gas line work, it's often a smart move to replace older valves to ensure compatibility and modern safety standards. Alpha-Plumbing Services, LLC has over 25 years of experience in gas line installation and valve replacement, making sure everything is up to international plumbing code. If you’re in Goodyear or the West Valley, give us a call at 623-734-7465 for a dependable solution.",
+  "datePublished": "2026-08-19"
+}

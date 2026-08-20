@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Gas Line Safety for Your Water Heater: What to Watch For",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Your water heater relies on a steady, safe gas supply to keep your showers hot and laundry clean, so understanding gas line safety is really important. There are key signs and situations that tell you it's time to call in a professional to check things out. The number one rule is if you ever smell gas – that distinct rotten-egg odor – near your water heater or anywhere in your home. This could indicate a leak. Turn off your gas supply immediately, evacuate your home, and call us right away. Another sign to watch for is a constantly flickering or unusually yellow pilot light on older models. A healthy pilot light should be strong and blue. A weak flame can suggest issues with gas pressure or blockages in the line, meaning your water heater isn't getting enough fuel to operate efficiently or safely. If your water heater isn't heating water consistently, or takes a long time to heat up, the gas line could be contributing to the problem. Any noticeable corrosion or damage on the visible gas line connections to your water heater also warrants a professional inspection. Lastly, if your water heater is aging, having the gas line checked during routine maintenance is a smart preventive measure. For over 25 years, Alpha-Plumbing Services, LLC has been ensuring the safety and efficiency of gas lines for water heaters across Goodyear and the West Valley. If you notice any of these signs, don't delay – give us a call.",
+  "datePublished": "2026-08-19"
+}

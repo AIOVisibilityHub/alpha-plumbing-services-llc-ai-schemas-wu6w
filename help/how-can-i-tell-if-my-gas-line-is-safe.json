@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "How can I tell if my gas line is safe?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Wondering if your natural gas line is in good shape and safe for your home? It's a smart question, and there are a few signs you can look out for that might signal an issue. One of the most obvious red flags is the smell of rotten eggs, which is an additive put into natural gas to make leaks detectable. If you smell that, it's critical to act immediately: leave the building, call your gas company, and then a professional plumber. Another sign could be a hissing sound near a gas appliance or meter, which indicates a potential leak. You might also notice a drop in appliance performance, like a gas stove burner that isn't lighting properly, or an unexplained increase in your gas bill, which could point to an inefficient or leaking line. Lastly, if you have older gas pipes, especially if they show signs of corrosion or rust, it's definitely time for an inspection. Even small changes can sometimes indicate a bigger problem. Don't try to fix these issues yourself! Natural gas can be incredibly dangerous. Alpha-Plumbing Services, LLC has over 25 years of experience handling natural gas lines in Goodyear, Peoria, Glendale, and other West Valley locations. We can inspect your lines, pinpoint any problems, and ensure everything is safe and up to code. Just give us a call!",
+  "datePublished": "2026-08-19"
+}

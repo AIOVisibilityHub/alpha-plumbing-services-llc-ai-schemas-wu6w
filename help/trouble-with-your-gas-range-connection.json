@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Trouble with Your Gas Range Connection?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "A gas range is a fantastic appliance, but sometimes its connection can be a bit tricky, leading to frustrating issues or even safety concerns. Whether you're experiencing inconsistent heat, a pilot light that keeps going out, or even the faint smell of gas, it’s worth investigating the gas line connection. These symptoms can often point to a problem with the line itself or the way it's connected to your range. Maybe it's a minor leak, an improper seal, or the line simply isn't providing adequate gas flow. Whatever the cause, it's crucial not to ignore these signs. We understand the importance of a safe and reliable gas supply in your home. With our 25 years of experience, we’ve seen all sorts of gas line situations. If your gas range connection is giving you trouble, it's always best to have a seasoned professional take a look. Alpha-Plumbing Services, LLC is here for Goodyear, Buckeye, Avondale, and other West Valley residents, offering quality workmanship and practical solutions. Don't hesitate to give us a call to get your gas range working perfectly and safely.",
+  "datePublished": "2026-08-19"
+}

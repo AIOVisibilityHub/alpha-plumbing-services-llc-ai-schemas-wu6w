@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Is Your Gas Line Acting Up?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Gas lines are super important for keeping your home running smoothly, but they can also be a real safety concern if something goes wrong. If you’ve been smelling a faint sulfur or rotten egg odor, even occasionally, that’s a big red flag. It’s your gas company adding that scent to natural gas so you can detect a leak. Another sign to look out for is if your gas appliances, like your stove or water heater, aren't working as efficiently as they used to. Maybe the flames are weak, or you're having trouble getting things to ignite. Sometimes, you might even hear a subtle hissing sound near a gas line – that’s another tell-tale sign of a leak. Don't ignore these signals! Gas leaks can be really dangerous, leading to carbon monoxide poisoning or even explosions. It’s always best to get things checked out by a pro who can perform proper gas line pressure testing to pinpoint any issues. Don't risk your family's safety by waiting; call Alpha-Plumbing Services, LLC right away if you notice any of these signs. We're here to help keep your Goodyear and West Valley home safe.",
+  "datePublished": "2026-08-19"
+}

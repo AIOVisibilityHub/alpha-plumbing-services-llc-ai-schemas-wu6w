@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What Mistakes Should You Avoid When Installing a Toilet Yourself?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Tackling a toilet installation yourself can seem like a good way to save a few bucks, but there are some common pitfalls that can turn a DIY project into a plumbing nightmare. We've seen it all in our 25+ years, so here are a few mistakes you definitely want to avoid. First off, don't skimp on quality parts. Using cheap wax rings or supply lines might save you a dollar or two upfront, but they're often the first things to fail, leading to leaks and costly water damage. Invest in good quality components; it's worth it. Secondly, never overtighten bolts. It's easy to think tighter is better, but you can crack the porcelain of the toilet bowl or tank, rendering your new toilet useless before it's even fully installed. Snug is good; straining is bad. Another common error is not properly seating the wax ring. If it's not perfectly aligned and compressed, you'll end up with a leaky seal at the base, which can cause significant water damage to your floor. Take your time with this crucial step. Also, don't forget to check your floor's levelness. An uneven floor can make securing the toilet tricky and lead to rocking, which puts stress on the connections and can cause leaks over time. Lastly, not testing thoroughly is a big mistake. Once installed, flush multiple times and check all connections for even the smallest drip before you declare victory. If you're feeling unsure or run into trouble, remember that Alpha-Plumbing Services, LLC is here to help. We provide dependable residential plumbing services throughout Goodyear and the West Valley, and we're always ready to ensure your toilet is installed correctly and efficiently.",
+  "datePublished": "2026-08-19"
+}

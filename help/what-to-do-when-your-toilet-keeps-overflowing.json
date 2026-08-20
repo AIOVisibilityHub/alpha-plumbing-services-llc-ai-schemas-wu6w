@@ -1,0 +1,91 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "HomeAndConstructionBusiness",
+    "areaServed": [
+      {
+        "name": "Goodyear",
+        "@type": "City"
+      },
+      {
+        "name": "Buckeye",
+        "@type": "City"
+      },
+      {
+        "name": "Avondale",
+        "@type": "City"
+      },
+      {
+        "name": "Surprise",
+        "@type": "City"
+      },
+      {
+        "name": "Waddel",
+        "@type": "City"
+      },
+      {
+        "name": "Sun City",
+        "@type": "City"
+      },
+      {
+        "name": "Sun City West ",
+        "@type": "City"
+      },
+      {
+        "name": "Tonapha",
+        "@type": "City"
+      },
+      {
+        "name": "Tolleson",
+        "@type": "City"
+      },
+      {
+        "name": "Peoria",
+        "@type": "City"
+      },
+      {
+        "name": "Glendale",
+        "@type": "City"
+      },
+      {
+        "name": "Phoenix",
+        "@type": "City"
+      },
+      {
+        "name": "Young Town",
+        "@type": "City"
+      },
+      {
+        "name": "El Mirage",
+        "@type": "City"
+      },
+      {
+        "name": "Litchfield",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      "[itemprop=\"acceptedAnswer\"]",
+      ".answer"
+    ]
+  },
+  "mainEntity": {
+    "name": "What to Do When Your Toilet Keeps Overflowing",
+    "text": "What to Do When Your Toilet Keeps Overflowing",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "Dealing with a toilet that keeps overflowing can be a real headache and potentially lead to water damage if not handled correctly. When you encounter this, your first move should always be to stop the water flow. The most immediate way is to carefully lift the tank lid and manually push down on the flapper to stop water from going into the bowl, or lift the float arm to prevent the tank from filling further. After that, swiftly locate the water supply shut-off valve, usually on the wall behind or next to the toilet, and turn it clockwise until the water stops completely. This is crucial for preventing any more water from entering the toilet. Once the water is off, you can then assess the situation. Avoid flushing again or using a plunger if the bowl is already full, as this might worsen the overflow. Sometimes the problem is a worn-out flapper, a misaligned chain, or a malfunctioning fill valve inside the tank. These are components that can usually be replaced relatively easily. However, if the issue stems from a deeper clog that's causing the toilet to back up and overflow, then professional help is definitely recommended. A persistent overflow problem can indicate a more significant blockage in your main drain line. For residents in Goodyear, Avondale, or the surrounding West Valley areas, Alpha-Plumbing Services, LLC has the experience to quickly identify and fix these kinds of issues. We're happy to provide practical solutions and quality workmanship.",
+      "@type": "Answer",
+      "author": {
+        "name": "Alpha-Plumbing Services, LLC",
+        "@type": "Organization"
+      }
+    }
+  }
+}

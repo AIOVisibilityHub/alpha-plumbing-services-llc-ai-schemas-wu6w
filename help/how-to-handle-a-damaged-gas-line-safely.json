@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "How to Handle a Damaged Gas Line Safely",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Dealing with a potentially damaged gas line can be really scary, and it's definitely not a job for a DIY enthusiast. There are a few common mistakes people make that can actually make the situation worse, so let's chat about how to avoid them. First off, never, ever try to find the leak yourself with a match or open flame. That's incredibly dangerous and could cause an explosion. Instead, if you smell gas, leave the area immediately. Another big mistake is not ventilating properly; don't just open a window and stick around. Get everyone out! Folks often forget to call the gas company first before contacting a plumber. Both are important steps to ensure safety and quick resolution. Then, don't delay calling a professional plumber like Alpha-Plumbing Services. With 25+ years of experience, we're experts in gas line installation and repairs, including isolating and capping damaged sections. Trying to temporarily 'fix' it with tape or sealant is also a huge no-no – these aren't permanent solutions and will fail. Finally, ignoring unusual signs like dead plants or a strange smell around your gas line, thinking it'll just go away, is a major oversight. These are often indicators of a problem. When it comes to gas, always err on the side of caution and call us at 623-734-7465 for reliable, code-compliant service in Goodyear and the West Valley.",
+  "datePublished": "2026-08-19"
+}

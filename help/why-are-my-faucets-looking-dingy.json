@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Why Are My Faucets Looking Dingy?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Ever notice those chalky white or greenish crusts forming around your faucets and showerheads? That's typically the tell-tale sign of hard water stains. It's not just an aesthetic issue; these mineral deposits, primarily calcium and magnesium, build up over time and can actually hinder the flow of water and even damage your fixtures if left untreated. Many homeowners try DIY remedies like vinegar and scrubbing, which can help temporarily, but the underlying problem often persists.\n\nOne common mistake is using harsh abrasive cleaners. While they might seem effective, they can scratch delicate finishes on your fixtures, making future staining even more prominent. Another error is neglecting the problem for too long. The longer these minerals sit, the harder they become to remove, sometimes even requiring fixture replacement.\n\nIf you're constantly battling these stains or noticing reduced water pressure, it might be time to think about a more comprehensive solution. Sometimes, a simple fixture repair can address a leaky seal causing concentrated mineral buildup. However, for widespread issues, professional hard water treatment might be the best route. Alpha-Plumbing Services, LLC has over 25 years of experience in the West Valley, including Goodyear, and can help you understand the severity of your hard water problem and recommend practical solutions to protect your home.",
+  "datePublished": "2026-08-19"
+}

@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When Should You Call a Plumber for a Bathtub Drain Issue?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "A clear, free-flowing bathtub drain is something we often take for granted, until it's not. Whether it's a slow drain or a complete blockage, a bathtub drain problem can disrupt your daily routine and cause unnecessary stress. While some minor clogs are perfect for a DIY approach, knowing when to bring in a professional plumber can save you from potential damage, frustration, and more costly repairs down the line. It’s about recognizing the limits of household tools and understanding when a problem indicates something more complex than just a simple hairball.\n\nYou should definitely consider calling Alpha-Plumbing Services, LLC if your drain is completely blocked and no water is going down at all. This often points to a significant obstruction that basic plungers or small snakes won’t handle. Another clear signal is if multiple drains in your home (like sinks, toilets, and the tub) are backing up or draining slowly at the same time. This is a strong indicator of a main sewer line issue, which is a serious problem requiring specialized equipment like drain cameras for inspection and hydro-jetting for clearing. Also, if you notice foul odors coming from the drain, even after cleaning, it could mean there's a buildup of organic matter deep in the pipes or a venting problem. And, of course, if you’ve tried several DIY methods without success, or if you're just not comfortable tackling the problem yourself, that’s a perfect reason to reach out. We've got the experience and tools to diagnose and resolve even the trickiest drain problems efficiently and effectively.\n\nDon’t let a stubborn drain issue escalate. For dependable residential plumbing services, including expert drain cleaning and repair in Goodyear and the entire West Valley, Alpha-Plumbing Services, LLC is here for you. Call us today at 623-734-7465 to schedule an appointment and get your bathtub flowing freely again.",
+  "datePublished": "2026-08-19"
+}

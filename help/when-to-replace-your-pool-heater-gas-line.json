@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When to Replace Your Pool Heater Gas Line",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Wondering if it's time to replace the gas line for your pool heater? It’s not always obvious, but there are some clear signals that indicate a replacement is needed to keep things safe and running smoothly. One major sign is visible corrosion or damage on the existing line. If you see rust, cracks, or dents, that's a red flag. Another indicator is persistent leaks, even after repairs; if you’re constantly patching up leaks, a full replacement is usually the safer and more cost-effective long-term solution. If your pool heater isn't performing as it should, like not heating the water effectively, it could sometimes be due to an improperly sized or compromised gas line, not just the heater itself. Also, if your gas line is very old, especially if it's made from materials that are no longer up to current safety standards, it might be a good idea to consider an upgrade even without visible issues. Any noticeable gas smell around the line is an immediate emergency and means you need a replacement right away. Don’t wait for a small problem to become a big, dangerous one. Proactively addressing these signs can prevent potential hazards and ensure your pool heater operates safely and efficiently for years to come. For dependable gas line replacement services, especially in areas like Phoenix, Peoria, and Sun City, Alpha-Plumbing Services, LLC is here to help. We can assess your current line and recommend the best course of action.",
+  "datePublished": "2026-08-19"
+}

@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Installing a Gas Line for Your Dryer: Common Pitfalls to Avoid",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Getting a new gas line for your dryer can seem straightforward, but there are definitely some common mistakes people make that you'll want to steer clear of. First, don't try to go fully DIY if you're not licensed and experienced. Gas lines aren't a job for guesswork, and improper connections can be really dangerous. Always ensure the installer is licensed, bonded, and insured, like Alpha-Plumbing Services, to guarantee a safe and compliant job. Second, never ignore the need for proper permits and inspections. A professional plumber will know the local codes and ensure everything is up to snuff, including the crucial inspection. Third, don't use old or incorrect materials; gas line components need to be specific and in good condition to prevent leaks. Fourth, thinking that any pipe will do for a gas line is a big no-no; there are specific requirements for gas piping. Finally, don't forget to test for leaks after installation. A professional will always perform thorough leak tests. Avoiding these mistakes will save you a lot of potential headaches and keep your home safe. For a worry-free gas line installation for your dryer, give us a call at Alpha-Plumbing Services; we've been doing this for over 25 years in the Goodyear area.",
+  "datePublished": "2026-08-19"
+}

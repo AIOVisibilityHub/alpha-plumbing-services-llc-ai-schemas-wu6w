@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Why Is My Kitchen Faucet So Hard to Turn?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's definitely annoying when your kitchen faucet becomes a struggle to operate. You just want to wash your hands or fill a pot, and suddenly you're wrestling with stiff handles or a spout that won't budge! This common problem isn't just an inconvenience; it often signals underlying issues that are worth looking into. Ignoring it might lead to a complete malfunction down the road, and who wants that during meal prep? \n\nOne primary culprit is mineral buildup. Over time, hard water deposits can accumulate inside the faucet's cartridge or valves, causing friction and making movement difficult. This is especially common in areas with hard water, which describes much of Arizona. \n\nAnother reason could be worn-out internal components. Faucets have various washers, O-rings, and cartridges that can simply degrade and wear down after years of use. When these parts lose their integrity, they create resistance and make the faucet hard to turn. \n\nSometimes, it's a simple matter of a loose or overtightened packing nut around the stem of the handle. This can usually be adjusted, but you need to know what you're doing to avoid creating a leak. \n\nIf you've got a single-handle faucet, the cartridge is likely the issue. These can get corroded or worn, leading to stiff operation. Replacing the cartridge often solves the problem, but it needs to be the correct part and installed properly. \n\nWhile you might try a DIY fix, if the issue persists or seems complex, it's a good idea to call in a professional. Alpha-Plumbing Services, LLC has over 25 years of hands-on experience dealing with all sorts of faucet troubles in Goodyear and the surrounding West Valley. We can quickly diagnose why your faucet is being stubborn and provide a reliable kitchen faucet replacement or repair. Give us a call!",
+  "datePublished": "2026-08-19"
+}
