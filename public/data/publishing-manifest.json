@@ -1,9 +1,9 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-08-20T22:30:32.134Z",
+  "generatedAt": "2026-08-21T22:10:26.390Z",
   "client": {
     "name": "Alpha-Plumbing Services, LLC",
-    "canonicalUrl": "www.alpha-plumbingservices.com",
+    "canonicalUrl": "https://alpha-plumbing.aiovisibility.net",
     "pagesUrl": "https://aiovisibilityhub.github.io/alpha-plumbing-services-llc-ai-schemas-wu6w",
     "phone": "623-734-7465",
     "email": "David@Alpha-Plumbingservices.com",
@@ -240,7 +240,7 @@
   },
   "package": {
     "totalFiles": 2929,
-    "totalBytes": 11163610,
+    "totalBytes": 11164601,
     "stats": {
       "qna": 0,
       "faqs": 1935,
@@ -14819,47 +14819,47 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 7641,
+        "bytes": 7723,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 32503,
+        "bytes": 32595,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 532580,
+        "bytes": 532671,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 18789,
+        "bytes": 18880,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 8321,
+        "bytes": 8432,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 1329622,
+        "bytes": 1329713,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 1052599,
+        "bytes": 1052690,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 29820,
+        "bytes": 29911,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "web-pages.html",
-        "bytes": 710300,
+        "bytes": 710391,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -14871,7 +14871,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 7199,
+        "bytes": 7219,
         "purpose": "LLM hint"
       },
       {
@@ -14891,32 +14891,32 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1763,
+        "bytes": 1783,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 1355576,
+        "bytes": 1355616,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 457213,
+        "bytes": 457233,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 457213,
+        "bytes": 457233,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 7021,
+        "bytes": 7041,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 421980,
+        "bytes": 422000,
         "purpose": "Repository README"
       },
       {
