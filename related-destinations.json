@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-08-20T22:30:32.102Z",
+  "generatedAt": "2026-08-21T22:10:26.356Z",
   "name": "Cross-Destination Index",
   "aliases": [
     "Authority Network",
@@ -11,14 +11,14 @@
   "notALinkWheel": true,
   "entity": {
     "name": "Alpha-Plumbing Services, LLC",
-    "canonicalUrl": "www.alpha-plumbingservices.com",
+    "canonicalUrl": "https://alpha-plumbing.aiovisibility.net",
     "aiDataHub": "https://aiovisibilityhub.github.io/alpha-plumbing-services-llc-ai-schemas-wu6w/ai-data.html"
   },
   "related": [
     {
       "role": "canonical",
       "label": "Alpha-Plumbing Services, LLC — canonical website",
-      "url": "www.alpha-plumbingservices.com"
+      "url": "https://alpha-plumbing.aiovisibility.net"
     },
     {
       "role": "ai-data-hub",
