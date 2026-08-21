@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-08-21T23:25:28.128Z",
+  "generatedAt": "2026-08-21T23:45:47.554Z",
   "client": {
     "name": "Alpha-Plumbing Services, LLC",
     "canonicalUrl": "https://alpha-plumbing.aiovisibility.net",
@@ -240,7 +240,7 @@
   },
   "package": {
     "totalFiles": 2929,
-    "totalBytes": 10675953,
+    "totalBytes": 10676213,
     "stats": {
       "qna": 0,
       "faqs": 1935,
@@ -14752,67 +14752,67 @@
     "reviews": [
       {
         "path": "reviews/anonymous-1-review.json",
-        "bytes": 489,
+        "bytes": 499,
         "purpose": "schema"
       },
       {
         "path": "reviews/anonymous-2-review.json",
-        "bytes": 516,
+        "bytes": 526,
         "purpose": "schema"
       },
       {
         "path": "reviews/anonymous-3-review.json",
-        "bytes": 449,
+        "bytes": 459,
         "purpose": "schema"
       },
       {
         "path": "reviews/anonymous-4-review.json",
-        "bytes": 510,
+        "bytes": 520,
         "purpose": "schema"
       },
       {
         "path": "reviews/anonymous-5-review.json",
-        "bytes": 481,
+        "bytes": 491,
         "purpose": "schema"
       },
       {
         "path": "reviews/anonymous-6-review.json",
-        "bytes": 693,
+        "bytes": 703,
         "purpose": "schema"
       },
       {
         "path": "reviews/anonymous-7-review.json",
-        "bytes": 562,
+        "bytes": 572,
         "purpose": "schema"
       },
       {
         "path": "reviews/anonymous-8-review.json",
-        "bytes": 543,
+        "bytes": 553,
         "purpose": "schema"
       },
       {
         "path": "reviews/anonymous-9-review.json",
-        "bytes": 619,
+        "bytes": 629,
         "purpose": "schema"
       },
       {
         "path": "reviews/anonymous-10-review.json",
-        "bytes": 611,
+        "bytes": 621,
         "purpose": "schema"
       },
       {
         "path": "reviews/anonymous-11-review.json",
-        "bytes": 517,
+        "bytes": 527,
         "purpose": "schema"
       },
       {
         "path": "reviews/anonymous-12-review.json",
-        "bytes": 494,
+        "bytes": 504,
         "purpose": "schema"
       },
       {
         "path": "reviews/aggregate-rating.json",
-        "bytes": 227,
+        "bytes": 237,
         "purpose": "schema"
       }
     ],
@@ -14834,7 +14834,7 @@
       },
       {
         "path": "reviews.html",
-        "bytes": 23480,
+        "bytes": 23610,
         "purpose": "LLM-optimized public page"
       },
       {
