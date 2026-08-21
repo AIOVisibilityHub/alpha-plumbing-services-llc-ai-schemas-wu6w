@@ -24,8 +24,8 @@ jobs:
           git diff --staged --quiet || (git commit -m '📅 Monthly refresh - Alpha-Plumbing Services, LLC' && git push)
       - name: Ping IndexNow (Bing, Copilot, Yandex, AI crawlers)
         run: |
-          SITE="https://aiovisibilityhub.github.io/alpha-plumbing-services-llc-ai-schemas-wu6w"
-          KEY="d211f0d6a64bd5c7470b81af8458999b"
+          SITE="https://alpha-plumbing.aiovisibility.net"
+          KEY="73ba0862e94b448f3f7c3085337ab570"
           HOST=$(echo "$SITE" | sed -E 's#https?://##; s#/.*##')
           if [ -f ai-sitemap.xml ]; then
             URLS=$(grep -o '<loc>[^<]*</loc>' ai-sitemap.xml | sed 's#</\?loc>##g' | grep "^$SITE" | head -9000 | jq -R . | jq -sc .)

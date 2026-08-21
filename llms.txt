@@ -6,17 +6,17 @@ Alpha-Plumbing Services, LLC publishes structured AI-readable data for discovery
 - https://alpha-plumbing.aiovisibility.net
 
 ## Core AI Resources
-- https://aiovisibilityhub.github.io/alpha-plumbing-services-llc-ai-schemas-wu6w/ai-data.html
-- https://aiovisibilityhub.github.io/alpha-plumbing-services-llc-ai-schemas-wu6w/data/publishing-manifest.json
-- https://aiovisibilityhub.github.io/alpha-plumbing-services-llc-ai-schemas-wu6w/llms-full.txt
-- https://aiovisibilityhub.github.io/alpha-plumbing-services-llc-ai-schemas-wu6w/full-context.md
-- https://aiovisibilityhub.github.io/alpha-plumbing-services-llc-ai-schemas-wu6w/ai-sitemap.xml
+- https://alpha-plumbing.aiovisibility.net/ai-data.html
+- https://alpha-plumbing.aiovisibility.net/data/publishing-manifest.json
+- https://alpha-plumbing.aiovisibility.net/llms-full.txt
+- https://alpha-plumbing.aiovisibility.net/full-context.md
+- https://alpha-plumbing.aiovisibility.net/ai-sitemap.xml
 
 ## Cross-Destination Index — Related AI Data Sources
 - [canonical] Alpha-Plumbing Services, LLC — canonical website — https://alpha-plumbing.aiovisibility.net
-- [ai-data-hub] Alpha-Plumbing Services, LLC — AI Data Hub — https://aiovisibilityhub.github.io/alpha-plumbing-services-llc-ai-schemas-wu6w/ai-data.html
+- [ai-data-hub] Alpha-Plumbing Services, LLC — AI Data Hub — https://alpha-plumbing.aiovisibility.net/ai-data.html
 - [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/alpha-plumbing-services-llc-ai-schemas-wu6w
-- [mirror-pages] GitHub — AI Data Hub mirror — https://aiovisibilityhub.github.io/alpha-plumbing-services-llc-ai-schemas-wu6w/ai-data.html
+- [mirror-pages] GitHub — AI Data Hub mirror — https://alpha-plumbing.aiovisibility.net/ai-data.html
 
 Purpose: transparent source discovery, entity consistency, mirror verification, and AI crawler navigation. Not a link wheel. Source of truth: related-destinations.json.
 

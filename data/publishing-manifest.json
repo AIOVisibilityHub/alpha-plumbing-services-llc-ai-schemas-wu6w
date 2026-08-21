@@ -1,10 +1,10 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-08-21T22:10:26.390Z",
+  "generatedAt": "2026-08-21T23:21:53.494Z",
   "client": {
     "name": "Alpha-Plumbing Services, LLC",
     "canonicalUrl": "https://alpha-plumbing.aiovisibility.net",
-    "pagesUrl": "https://aiovisibilityhub.github.io/alpha-plumbing-services-llc-ai-schemas-wu6w",
+    "pagesUrl": "https://alpha-plumbing.aiovisibility.net",
     "phone": "623-734-7465",
     "email": "David@Alpha-Plumbingservices.com",
     "locations": [
@@ -240,7 +240,7 @@
   },
   "package": {
     "totalFiles": 2929,
-    "totalBytes": 11164601,
+    "totalBytes": 10675953,
     "stats": {
       "qna": 0,
       "faqs": 1935,
@@ -14819,59 +14819,59 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 7723,
+        "bytes": 12386,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 32595,
+        "bytes": 37261,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 532671,
+        "bytes": 537751,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 18880,
+        "bytes": 23480,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 8432,
+        "bytes": 13107,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 1329713,
+        "bytes": 1334397,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 1052690,
+        "bytes": 1057317,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 29911,
+        "bytes": 34574,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "web-pages.html",
-        "bytes": 710391,
+        "bytes": 715018,
         "purpose": "LLM-optimized public page"
       }
     ],
     "root": [
       {
         "path": "robots.txt",
-        "bytes": 397,
+        "bytes": 321,
         "purpose": "Robots policy"
       },
       {
         "path": "llms.txt",
-        "bytes": 7219,
+        "bytes": 6953,
         "purpose": "LLM hint"
       },
       {
@@ -14881,7 +14881,7 @@
       },
       {
         "path": "index.html",
-        "bytes": 407,
+        "bytes": 369,
         "purpose": "Landing page (redirects to ai-data.html)"
       },
       {
@@ -14891,42 +14891,42 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1783,
+        "bytes": 1631,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 1355616,
+        "bytes": 1244428,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 457233,
+        "bytes": 346159,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 457233,
+        "bytes": 346159,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 7041,
+        "bytes": 6965,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 422000,
+        "bytes": 421924,
         "purpose": "Repository README"
       },
       {
         "path": "ai-sitemap.xml",
-        "bytes": 567325,
+        "bytes": 371216,
         "purpose": "AI sitemap"
       },
       {
         "path": "sitemap.xml",
-        "bytes": 1861,
+        "bytes": 1057,
         "purpose": "Standard sitemap"
       }
     ]
@@ -14934,7 +14934,7 @@
   "destinations": {
     "github": {
       "url": "https://github.com/AIOVisibilityHub/alpha-plumbing-services-llc-ai-schemas-wu6w",
-      "pagesUrl": "https://aiovisibilityhub.github.io/alpha-plumbing-services-llc-ai-schemas-wu6w/",
+      "pagesUrl": "https://alpha-plumbing.aiovisibility.net/",
       "repo": "AIOVisibilityHub/alpha-plumbing-services-llc-ai-schemas-wu6w"
     }
   }
