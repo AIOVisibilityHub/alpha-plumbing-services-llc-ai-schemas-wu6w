@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-08-23T17:22:21.522Z",
+  "generatedAt": "2026-08-23T17:22:45.407Z",
   "client": {
     "name": "Alpha-Plumbing Services, LLC",
     "canonicalUrl": "https://alpha-plumbing.aiovisibility.net",
@@ -240,7 +240,7 @@
   },
   "package": {
     "totalFiles": 2929,
-    "totalBytes": 10681687,
+    "totalBytes": 10639270,
     "stats": {
       "qna": 0,
       "faqs": 1935,
@@ -14819,47 +14819,47 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 12520,
+        "bytes": 7857,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 41683,
+        "bytes": 36885,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 537885,
+        "bytes": 532805,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 23744,
+        "bytes": 19144,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 13221,
+        "bytes": 8546,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 1334531,
+        "bytes": 1329847,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 1057451,
+        "bytes": 1052824,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 34708,
+        "bytes": 30045,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "web-pages.html",
-        "bytes": 715152,
+        "bytes": 710525,
         "purpose": "LLM-optimized public page"
       }
     ],
