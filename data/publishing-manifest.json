@@ -1,9 +1,10 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-08-23T17:23:11.621Z",
+  "generatedAt": "2026-08-23T18:26:13.480Z",
   "client": {
     "name": "Alpha-Plumbing Services, LLC",
     "canonicalUrl": "https://alpha-plumbing.aiovisibility.net",
+    "primaryWebsiteUrl": "www.alpha-plumbingservices.com",
     "pagesUrl": "https://alpha-plumbing.aiovisibility.net",
     "phone": "623-734-7465",
     "email": "David@Alpha-Plumbingservices.com",
@@ -240,7 +241,7 @@
   },
   "package": {
     "totalFiles": 2929,
-    "totalBytes": 10639270,
+    "totalBytes": 10686694,
     "stats": {
       "qna": 0,
       "faqs": 1935,
@@ -14819,47 +14820,47 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 7857,
+        "bytes": 17252,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 36885,
+        "bytes": 41710,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 532805,
+        "bytes": 537912,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 19144,
+        "bytes": 23771,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 8546,
+        "bytes": 13248,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 1329847,
+        "bytes": 1334558,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 1052824,
+        "bytes": 1057478,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 30045,
+        "bytes": 34735,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "web-pages.html",
-        "bytes": 710525,
+        "bytes": 715179,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -14891,7 +14892,7 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1631,
+        "bytes": 1690,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
