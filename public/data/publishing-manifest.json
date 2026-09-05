@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-09-05T21:56:11.092Z",
+  "generatedAt": "2026-09-05T21:56:49.316Z",
   "client": {
     "name": "Alpha-Plumbing Services, LLC",
     "canonicalUrl": "https://alpha-plumbing.aiovisibility.net",
@@ -241,7 +241,7 @@
   },
   "package": {
     "totalFiles": 3477,
-    "totalBytes": 19432367,
+    "totalBytes": 16337859,
     "stats": {
       "qna": 0,
       "faqs": 1935,
@@ -14820,2787 +14820,2787 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 17084,
+        "bytes": 12143,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 41698,
+        "bytes": 36885,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 537900,
+        "bytes": 532805,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 23759,
+        "bytes": 19144,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 13252,
+        "bytes": 8546,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 1334546,
+        "bytes": 1329847,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 434712,
+        "bytes": 430070,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 34723,
+        "bytes": 30045,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "web-pages.html",
-        "bytes": 715167,
+        "bytes": 710525,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/is-that-puddle-a-problem-how-to-spot-a-slab-leak-early.html",
-        "bytes": 15959,
+        "bytes": 10264,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-happens-if-i-ignore-a-slab-leak.html",
-        "bytes": 15656,
+        "bytes": 10102,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/unexpected-water-damage-could-it-be-a-hidden-leak.html",
-        "bytes": 16044,
+        "bytes": 10408,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-is-it-time-to-replace-your-home-s-plumbing.html",
-        "bytes": 15854,
+        "bytes": 10214,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/my-pipes-are-leaking-what-now.html",
-        "bytes": 15696,
+        "bytes": 10179,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-does-my-water-pressure-feel-so-low.html",
-        "bytes": 16114,
+        "bytes": 10531,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-is-my-drain-clogged-again-so-soon.html",
-        "bytes": 15138,
+        "bytes": 9571,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-diy-drain-cleaning-can-make-things-worse.html",
-        "bytes": 15566,
+        "bytes": 9944,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-can-i-tell-if-my-drain-needs-professional-cleaning.html",
-        "bytes": 15651,
+        "bytes": 9953,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/signs-you-might-have-a-sewer-line-problem.html",
-        "bytes": 15376,
+        "bytes": 9775,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-is-a-sewer-camera-inspection-really-necessary.html",
-        "bytes": 15550,
+        "bytes": 9880,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-avoid-costly-sewer-line-repairs.html",
-        "bytes": 15452,
+        "bytes": 9887,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-is-my-water-heater-acting-up.html",
-        "bytes": 15527,
+        "bytes": 9986,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-when-dealing-with-water-heater-issues.html",
-        "bytes": 16049,
+        "bytes": 10353,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-is-it-time-to-replace-your-old-water-heater.html",
-        "bytes": 15926,
+        "bytes": 10270,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-does-my-gas-line-smell.html",
-        "bytes": 15669,
+        "bytes": 10179,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-when-dealing-with-natural-gas-lines.html",
-        "bytes": 16347,
+        "bytes": 10668,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-is-it-time-for-a-natural-gas-line-installation-or-repair.html",
-        "bytes": 16493,
+        "bytes": 10740,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/my-faucet-is-dripping-constantly-what-should-i-do.html",
-        "bytes": 15469,
+        "bytes": 9812,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-should-i-call-a-plumber-for-my-business.html",
-        "bytes": 15638,
+        "bytes": 10028,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-can-i-avoid-common-water-heater-mistakes.html",
-        "bytes": 14244,
+        "bytes": 9387,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/is-a-free-estimate-truly-free.html",
-        "bytes": 15363,
+        "bytes": 9849,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-should-i-look-for-in-a-plumbing-estimate.html",
-        "bytes": 15596,
+        "bytes": 9982,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-when-getting-a-plumbing-estimate.html",
-        "bytes": 14475,
+        "bytes": 9564,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-your-water-pressure-might-be-dropping.html",
-        "bytes": 15349,
+        "bytes": 9769,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-when-dealing-with-leaky-pipes.html",
-        "bytes": 15435,
+        "bytes": 9807,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-call-about-pinhole-leaks.html",
-        "bytes": 15010,
+        "bytes": 9478,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-call-for-a-complete-home-repipe.html",
-        "bytes": 15236,
+        "bytes": 9673,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-during-a-complete-water-repipe.html",
-        "bytes": 15485,
+        "bytes": 9835,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/is-a-full-home-repipe-really-necessary.html",
-        "bytes": 15315,
+        "bytes": 9735,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-call-about-a-leaky-tub.html",
-        "bytes": 15237,
+        "bytes": 9710,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-avoid-tub-repair-headaches.html",
-        "bytes": 15807,
+        "bytes": 10277,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/is-your-tub-beyond-a-simple-fix.html",
-        "bytes": 15499,
+        "bytes": 9980,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-is-it-time-to-replace-your-shower.html",
-        "bytes": 15941,
+        "bytes": 10367,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-during-a-shower-replacement-project.html",
-        "bytes": 16752,
+        "bytes": 11067,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/signs-your-shower-needs-an-upgrade.html",
-        "bytes": 15911,
+        "bytes": 10365,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-should-you-consider-a-new-bathtub.html",
-        "bytes": 15403,
+        "bytes": 9823,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/common-tub-replacement-mistakes-to-avoid.html",
-        "bytes": 15549,
+        "bytes": 9964,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/is-your-bathtub-showing-its-age.html",
-        "bytes": 15261,
+        "bytes": 9727,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-is-a-professional-gas-line-inspection-crucial.html",
-        "bytes": 15535,
+        "bytes": 9878,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/signs-you-might-need-gas-line-work.html",
-        "bytes": 15308,
+        "bytes": 9768,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/avoiding-pitfalls-in-gas-line-installation.html",
-        "bytes": 15852,
+        "bytes": 10241,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-worry-about-a-slow-drain.html",
-        "bytes": 15568,
+        "bytes": 10021,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-when-dealing-with-sewer-issues.html",
-        "bytes": 16069,
+        "bytes": 10425,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-your-sewer-line-needs-professional-attention.html",
-        "bytes": 15775,
+        "bytes": 10121,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-call-for-suspected-slab-leaks.html",
-        "bytes": 15604,
+        "bytes": 10037,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-when-dealing-with-slab-leaks.html",
-        "bytes": 16065,
+        "bytes": 10438,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-your-concrete-slab-might-be-leaking.html",
-        "bytes": 15766,
+        "bytes": 10172,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-is-my-faucet-leaking-non-stop.html",
-        "bytes": 14922,
+        "bytes": 9383,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-about-low-water-pressure.html",
-        "bytes": 15079,
+        "bytes": 9517,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-avoid-common-plumbing-mishaps.html",
-        "bytes": 14948,
+        "bytes": 9379,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-should-i-worry-about-a-slow-drain.html",
-        "bytes": 15055,
+        "bytes": 9478,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/my-water-heater-isn-t-working-what-now.html",
-        "bytes": 15191,
+        "bytes": 9614,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-are-the-risks-of-diy-plumbing-repairs.html",
-        "bytes": 15429,
+        "bytes": 9815,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-should-i-call-a-plumber-for-my-leaky-faucet.html",
-        "bytes": 15223,
+        "bytes": 9591,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-when-your-drain-is-constantly-clogged.html",
-        "bytes": 14045,
+        "bytes": 9154,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-when-replacing-your-water-heater.html",
-        "bytes": 15558,
+        "bytes": 9891,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-are-the-red-flags-for-commercial-plumbing-issues.html",
-        "bytes": 15624,
+        "bytes": 9954,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-prevent-costly-plumbing-emergencies-in-your-business.html",
-        "bytes": 14419,
+        "bytes": 9418,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-is-it-time-to-upgrade-your-commercial-water-heater.html",
-        "bytes": 15836,
+        "bytes": 10128,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-should-you-call-a-pro-for-that-dripping-faucet.html",
-        "bytes": 15763,
+        "bytes": 10098,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-when-your-toilet-keeps-running.html",
-        "bytes": 15549,
+        "bytes": 9908,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-when-your-water-heater-stops-delivering-hot-water.html",
-        "bytes": 15806,
+        "bytes": 10078,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/identifying-the-subtle-signs-of-a-hidden-plumbing-leak.html",
-        "bytes": 15788,
+        "bytes": 10105,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-when-dealing-with-a-leaky-pipe.html",
-        "bytes": 15593,
+        "bytes": 9940,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-immediately-when-you-discover-a-major-water-leak.html",
-        "bytes": 15660,
+        "bytes": 9936,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-when-your-pipes-start-leaking.html",
-        "bytes": 15750,
+        "bytes": 10150,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-with-a-leaking-pipe.html",
-        "bytes": 15524,
+        "bytes": 9960,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-call-a-pro-for-your-leaking-pipes.html",
-        "bytes": 16118,
+        "bytes": 10526,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-when-a-pipe-bursts-in-your-home.html",
-        "bytes": 15805,
+        "bytes": 10206,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-with-a-burst-pipe-emergency.html",
-        "bytes": 15893,
+        "bytes": 10261,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-call-a-professional-for-a-burst-pipe.html",
-        "bytes": 16515,
+        "bytes": 10884,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/is-that-puddle-a-problem-how-to-tell-if-you-need-water-leak-detection.html",
-        "bytes": 16754,
+        "bytes": 10939,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-when-you-suspect-a-water-leak.html",
-        "bytes": 14608,
+        "bytes": 9797,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/can-a-small-leak-become-a-big-disaster.html",
-        "bytes": 16739,
+        "bytes": 11150,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-is-my-shower-trickling-solving-low-water-pressure.html",
-        "bytes": 16672,
+        "bytes": 10987,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-your-faucets-just-drip-identifying-low-water-pressure-causes.html",
-        "bytes": 15602,
+        "bytes": 10535,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/my-water-pressure-suddenly-dropped-what-now.html",
-        "bytes": 17037,
+        "bytes": 11431,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-is-my-shower-barely-dripping.html",
-        "bytes": 16539,
+        "bytes": 11007,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-when-your-home-has-low-water-pressure.html",
-        "bytes": 16759,
+        "bytes": 11054,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-your-whole-house-has-low-water-pressure.html",
-        "bytes": 16582,
+        "bytes": 10960,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/my-pipes-are-vibrating-because-of-high-water-pressure.html",
-        "bytes": 16817,
+        "bytes": 11135,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-when-your-home-has-high-water-pressure.html",
-        "bytes": 16737,
+        "bytes": 11031,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-causes-extremely-high-water-pressure.html",
-        "bytes": 16992,
+        "bytes": 11397,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-is-my-water-meter-constantly-running.html",
-        "bytes": 15723,
+        "bytes": 10126,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-should-i-do-if-my-water-meter-won-t-stop-spinning.html",
-        "bytes": 16258,
+        "bytes": 10581,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-can-i-tell-if-my-water-meter-is-running-unnecessarily.html",
-        "bytes": 16259,
+        "bytes": 10546,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-are-my-pipes-making-loud-banging-noises.html",
-        "bytes": 16042,
+        "bytes": 10424,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-causes-pipes-to-knock-when-water-is-on-or-off.html",
-        "bytes": 16149,
+        "bytes": 10491,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-should-i-be-concerned-about-noisy-pipes.html",
-        "bytes": 16040,
+        "bytes": 10415,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-is-that-pipe-noise-a-problem.html",
-        "bytes": 15777,
+        "bytes": 10229,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-are-my-pipes-banging-and-what-should-i-do.html",
-        "bytes": 15645,
+        "bytes": 10010,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-is-it-time-to-call-a-plumber-for-noisy-pipes.html",
-        "bytes": 16013,
+        "bytes": 10356,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/brown-water-from-your-faucet-here-s-what-to-do.html",
-        "bytes": 16068,
+        "bytes": 10420,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-when-you-see-brown-water-from-your-faucet.html",
-        "bytes": 16600,
+        "bytes": 10870,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/is-brown-water-from-your-tap-really-a-big-deal.html",
-        "bytes": 16358,
+        "bytes": 10707,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-call-what-to-do-when-your-faucet-water-looks-rusty.html",
-        "bytes": 16223,
+        "bytes": 10497,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-trying-to-ignore-persistent-rusty-water.html",
-        "bytes": 16005,
+        "bytes": 10292,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-call-persistent-bad-smells-from-your-faucets.html",
-        "bytes": 15995,
+        "bytes": 10317,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-ignoring-foul-water-odors-in-your-home.html",
-        "bytes": 16032,
+        "bytes": 10344,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-call-when-your-water-has-a-funky-odor.html",
-        "bytes": 15947,
+        "bytes": 10309,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-call-when-rusty-water-lingers-in-your-faucets.html",
-        "bytes": 16048,
+        "bytes": 10366,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/my-new-home-inspection-found-plumbing-issues-what-now.html",
-        "bytes": 16377,
+        "bytes": 10683,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-when-getting-a-plumbing-inspection-for-your-home-purchase.html",
-        "bytes": 16686,
+        "bytes": 10868,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-call-a-professional-for-a-home-inspection-plumbing-check-up.html",
-        "bytes": 16969,
+        "bytes": 11177,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/my-drain-is-always-clogged-what-gives.html",
-        "bytes": 16278,
+        "bytes": 10705,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-when-dealing-with-clogged-drains.html",
-        "bytes": 16585,
+        "bytes": 10921,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-call-a-professional-for-stubborn-drain-clogs.html",
-        "bytes": 16823,
+        "bytes": 11139,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-is-it-time-to-call-a-plumber-for-a-clogged-drain.html",
-        "bytes": 16224,
+        "bytes": 10524,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-can-i-stop-my-drains-from-clogging-so-often.html",
-        "bytes": 15629,
+        "bytes": 10742,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-are-the-first-steps-for-a-slow-or-clogged-drain.html",
-        "bytes": 15474,
+        "bytes": 10537,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-is-my-drain-making-gurgling-noises.html",
-        "bytes": 16268,
+        "bytes": 10694,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/do-i-need-professional-help-for-my-clogged-drain.html",
-        "bytes": 17116,
+        "bytes": 11469,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-your-laundry-drain-decides-to-act-up.html",
-        "bytes": 15846,
+        "bytes": 10248,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-when-your-laundry-drain-clogs.html",
-        "bytes": 16054,
+        "bytes": 10414,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-call-a-pro-for-your-laundry-drain.html",
-        "bytes": 15878,
+        "bytes": 10280,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-your-floor-drain-is-giving-you-grief.html",
-        "bytes": 15625,
+        "bytes": 10033,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-with-clogged-floor-drains.html",
-        "bytes": 16054,
+        "bytes": 10439,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-call-a-plumber-for-your-floor-drain.html",
-        "bytes": 16162,
+        "bytes": 10559,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-is-a-simple-plunge-not-enough.html",
-        "bytes": 15749,
+        "bytes": 10194,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-when-dealing-with-a-clogged-main-drain.html",
-        "bytes": 16007,
+        "bytes": 10301,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-is-it-time-to-call-about-main-drain-cleaning.html",
-        "bytes": 15944,
+        "bytes": 10287,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-is-water-backing-up-in-my-shower.html",
-        "bytes": 15701,
+        "bytes": 10141,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-when-you-suspect-a-main-sewer-line-clog.html",
-        "bytes": 16014,
+        "bytes": 10295,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-call-for-a-main-sewer-line-clog-expert.html",
-        "bytes": 15754,
+        "bytes": 10130,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-your-drain-keeps-clogging-and-what-to-do.html",
-        "bytes": 16425,
+        "bytes": 10803,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-call-for-recurring-drain-clogs.html",
-        "bytes": 17327,
+        "bytes": 11762,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/common-mistakes-when-dealing-with-clogged-drains.html",
-        "bytes": 17694,
+        "bytes": 12041,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-call-a-professional-for-drain-backup-repair.html",
-        "bytes": 17894,
+        "bytes": 12220,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-during-a-drain-backup.html",
-        "bytes": 17872,
+        "bytes": 12276,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/signs-your-drain-is-about-to-back-up.html",
-        "bytes": 17855,
+        "bytes": 12295,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-call-your-sink-or-tub-has-standing-water.html",
-        "bytes": 16322,
+        "bytes": 10672,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-when-dealing-with-standing-water.html",
-        "bytes": 16814,
+        "bytes": 11159,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-call-persistent-gurgling-from-your-drains.html",
-        "bytes": 16770,
+        "bytes": 11110,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-when-your-drains-gurgle.html",
-        "bytes": 17104,
+        "bytes": 11506,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-call-gurgling-drains-becoming-a-concern.html",
-        "bytes": 16950,
+        "bytes": 11310,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-when-your-sink-or-tub-won-t-drain.html",
-        "bytes": 16754,
+        "bytes": 11138,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-your-drain-has-a-funky-odor-you-can-t-get-rid-of.html",
-        "bytes": 16148,
+        "bytes": 10478,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-people-make-when-their-drain-smells-bad.html",
-        "bytes": 16475,
+        "bytes": 10840,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-tackle-a-stubborn-smelly-drain.html",
-        "bytes": 14701,
+        "bytes": 9920,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-the-sewage-smell-in-your-bathroom-won-t-go-away.html",
-        "bytes": 16498,
+        "bytes": 10817,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/common-errors-when-dealing-with-bathroom-sewage-smells.html",
-        "bytes": 16535,
+        "bytes": 10846,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/steps-to-take-for-a-persistent-bathroom-sewage-odor.html",
-        "bytes": 15180,
+        "bytes": 10259,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-your-sewer-starts-acting-up-a-guide-to-recognizing-trouble.html",
-        "bytes": 15934,
+        "bytes": 10173,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/caught-in-a-foul-mess-what-to-do-about-a-sewer-backup.html",
-        "bytes": 14538,
+        "bytes": 9591,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/think-you-can-diy-a-sewer-backup-why-that-s-a-bad-idea.html",
-        "bytes": 16020,
+        "bytes": 10310,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/is-your-drain-slowing-down-why-a-sewer-camera-can-help.html",
-        "bytes": 15954,
+        "bytes": 10256,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/unmasking-hidden-sewer-problems-signs-you-need-an-inspection.html",
-        "bytes": 16120,
+        "bytes": 10383,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-guessing-about-sewer-issues-can-cost-you-more.html",
-        "bytes": 15908,
+        "bytes": 10254,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-should-you-get-a-drain-camera-inspection.html",
-        "bytes": 15889,
+        "bytes": 10233,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-with-drain-problems.html",
-        "bytes": 15714,
+        "bytes": 10135,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-a-drain-camera-inspection-can-save-you-money.html",
-        "bytes": 15885,
+        "bytes": 10235,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-is-drain-locating-absolutely-necessary.html",
-        "bytes": 15715,
+        "bytes": 10106,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-when-dealing-with-underground-pipes.html",
-        "bytes": 16085,
+        "bytes": 10400,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-drain-locating-solves-mystery-leaks-and-blockages.html",
-        "bytes": 16000,
+        "bytes": 10306,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-is-my-drain-backing-up.html",
-        "bytes": 15523,
+        "bytes": 10018,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/my-yard-is-soggy-is-it-a-sewer-problem.html",
-        "bytes": 15705,
+        "bytes": 10116,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-should-i-suspect-a-sewer-line-break.html",
-        "bytes": 15970,
+        "bytes": 10370,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-avoid-sewer-line-damage.html",
-        "bytes": 14571,
+        "bytes": 9860,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-locate-a-hidden-sewer-line.html",
-        "bytes": 14334,
+        "bytes": 9593,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-when-dealing-with-a-possible-sewer-issue.html",
-        "bytes": 16801,
+        "bytes": 11087,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/signs-you-might-have-a-broken-sewer-line.html",
-        "bytes": 15983,
+        "bytes": 10386,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-when-dealing-with-a-broken-sewer-line.html",
-        "bytes": 16289,
+        "bytes": 10614,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-call-for-broken-sewer-line-repair.html",
-        "bytes": 16105,
+        "bytes": 10501,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-tell-if-your-sewer-pipe-is-cracked.html",
-        "bytes": 16273,
+        "bytes": 10666,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/the-dangers-of-ignoring-a-cracked-sewer-pipe.html",
-        "bytes": 16353,
+        "bytes": 10752,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-when-dealing-with-a-cracked-sewer-pipe.html",
-        "bytes": 16794,
+        "bytes": 11082,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-spot-the-early-signs-of-a-collapsing-sewer-line.html",
-        "bytes": 16725,
+        "bytes": 11051,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-when-your-sewer-line-collapses-unexpectedly.html",
-        "bytes": 15229,
+        "bytes": 10278,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-is-my-sewer-line-collapsing-and-what-can-i-do.html",
-        "bytes": 17334,
+        "bytes": 11628,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/my-sewer-line-needs-replacing-where-do-i-start.html",
-        "bytes": 15487,
+        "bytes": 10604,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-are-the-signs-i-need-a-full-sewer-line-replacement.html",
-        "bytes": 16884,
+        "bytes": 11185,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/avoiding-common-mistakes-in-sewer-line-replacement.html",
-        "bytes": 16886,
+        "bytes": 11240,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-is-it-time-to-call-a-pro-for-a-sewer-backup.html",
-        "bytes": 15659,
+        "bytes": 10009,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/common-mistakes-when-dealing-with-a-sewer-backup.html",
-        "bytes": 15917,
+        "bytes": 10282,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-should-you-call-for-main-line-backup-repair.html",
-        "bytes": 15857,
+        "bytes": 10210,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-when-your-main-line-is-backed-up.html",
-        "bytes": 15916,
+        "bytes": 10261,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-is-it-time-to-call-a-pro-for-a-main-line-backup.html",
-        "bytes": 15916,
+        "bytes": 10235,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-with-a-sewer-backup.html",
-        "bytes": 15785,
+        "bytes": 10212,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-is-my-shower-drain-overflowing-with-sewage.html",
-        "bytes": 15390,
+        "bytes": 9745,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-when-your-shower-is-backing-up-with-sewage.html",
-        "bytes": 15808,
+        "bytes": 10074,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-call-a-professional-for-shower-sewage-backup.html",
-        "bytes": 16066,
+        "bytes": 10376,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-is-sewage-coming-up-in-my-bathtub.html",
-        "bytes": 15482,
+        "bytes": 9912,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-avoid-when-sewage-backs-up-into-your-bathtub.html",
-        "bytes": 15973,
+        "bytes": 10289,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-is-a-bathtub-sewage-backup-an-emergency.html",
-        "bytes": 15790,
+        "bytes": 10171,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/my-toilet-keeps-backing-up-into-the-tub-what-do-i-do.html",
-        "bytes": 16483,
+        "bytes": 10787,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-when-your-toilet-backs-up-into-the-tub.html",
-        "bytes": 16425,
+        "bytes": 10713,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-call-a-plumber-for-a-backing-up-toilet.html",
-        "bytes": 16490,
+        "bytes": 10839,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/i-smell-sewer-gas-in-my-house-is-it-serious.html",
-        "bytes": 16102,
+        "bytes": 10475,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-when-you-smell-sewer-odor-indoors.html",
-        "bytes": 16500,
+        "bytes": 10820,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-call-a-plumber-for-a-sewer-odor-in-your-house.html",
-        "bytes": 16646,
+        "bytes": 10982,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-does-my-house-smell-like-sewer-gas.html",
-        "bytes": 15542,
+        "bytes": 9962,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-about-that-awful-sewer-smell.html",
-        "bytes": 16021,
+        "bytes": 10431,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-should-i-call-a-plumber-for-sewer-gas.html",
-        "bytes": 15853,
+        "bytes": 10248,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-are-tree-roots-getting-into-my-sewer-line.html",
-        "bytes": 15891,
+        "bytes": 10268,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/can-tree-roots-really-damage-my-pipes.html",
-        "bytes": 16299,
+        "bytes": 10723,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-is-professional-help-needed-for-tree-roots-in-pipes.html",
-        "bytes": 16219,
+        "bytes": 10519,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-are-all-my-drains-suddenly-slow.html",
-        "bytes": 16770,
+        "bytes": 11214,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/the-biggest-mistakes-people-make-with-widespread-slow-drains.html",
-        "bytes": 17461,
+        "bytes": 11739,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-a-diy-fix-for-slow-drains-just-isn-t-enough.html",
-        "bytes": 17354,
+        "bytes": 11716,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-your-yard-has-a-mystery-wet-spot.html",
-        "bytes": 17343,
+        "bytes": 11770,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-with-a-persistent-wet-spot-in-your-yard.html",
-        "bytes": 17743,
+        "bytes": 12027,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-know-if-your-wet-yard-needs-a-plumber.html",
-        "bytes": 17653,
+        "bytes": 12031,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-your-drains-just-won-t-clear-what-to-do.html",
-        "bytes": 17705,
+        "bytes": 12083,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/the-hidden-dangers-of-diy-sewer-repairs.html",
-        "bytes": 17674,
+        "bytes": 12078,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/spotting-the-signs-of-a-clogged-sewer-line.html",
-        "bytes": 17920,
+        "bytes": 12300,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-isn-t-my-hot-water-lasting.html",
-        "bytes": 17760,
+        "bytes": 12236,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/is-it-time-for-a-new-water-heater.html",
-        "bytes": 17744,
+        "bytes": 12202,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/the-costly-mistakes-of-delaying-water-heater-replacement.html",
-        "bytes": 18501,
+        "bytes": 12798,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-should-i-replace-my-water-heater.html",
-        "bytes": 16023,
+        "bytes": 10432,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-during-water-heater-replacement.html",
-        "bytes": 16216,
+        "bytes": 10565,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-is-my-hot-water-not-hot-enough.html",
-        "bytes": 16097,
+        "bytes": 10533,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/is-it-time-for-a-new-water-heater-installation.html",
-        "bytes": 16425,
+        "bytes": 10792,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/common-mistakes-in-water-heater-installation.html",
-        "bytes": 16388,
+        "bytes": 10763,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-ensure-a-smooth-water-heater-installation.html",
-        "bytes": 14981,
+        "bytes": 10090,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-should-you-replace-your-water-heater-instead-of-repairing-it.html",
-        "bytes": 16238,
+        "bytes": 10475,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/avoiding-common-water-heater-installation-mistakes.html",
-        "bytes": 16334,
+        "bytes": 10670,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-is-the-best-time-to-install-a-new-water-heater.html",
-        "bytes": 16303,
+        "bytes": 10626,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-are-the-signs-my-water-heater-needs-repair.html",
-        "bytes": 15833,
+        "bytes": 10184,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-is-my-hot-water-not-lasting-troubleshooting-tips.html",
-        "bytes": 15985,
+        "bytes": 10313,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/is-your-water-heater-leaking-what-to-do-next.html",
-        "bytes": 15925,
+        "bytes": 10306,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-am-i-running-out-of-hot-water-so-quickly.html",
-        "bytes": 16308,
+        "bytes": 10692,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-when-your-water-heater-stops-working.html",
-        "bytes": 16296,
+        "bytes": 10659,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/signs-your-water-heater-needs-repair.html",
-        "bytes": 16062,
+        "bytes": 10487,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/troubleshooting-common-water-heater-problems.html",
-        "bytes": 16406,
+        "bytes": 10781,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/is-your-water-heater-making-strange-noises.html",
-        "bytes": 16143,
+        "bytes": 10538,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-replace-your-old-water-heater.html",
-        "bytes": 16374,
+        "bytes": 10789,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/my-water-heater-is-leaking-what-do-i-do.html",
-        "bytes": 14478,
+        "bytes": 9665,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-know-if-your-water-heater-leak-is-serious.html",
-        "bytes": 16048,
+        "bytes": 10404,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-when-your-water-heater-is-leaking.html",
-        "bytes": 16189,
+        "bytes": 10518,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-is-my-water-heater-making-noise.html",
-        "bytes": 16480,
+        "bytes": 10924,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-does-a-noisy-water-heater-need-professional-help.html",
-        "bytes": 16123,
+        "bytes": 10423,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/common-mistakes-when-dealing-with-a-noisy-water-heater.html",
-        "bytes": 16398,
+        "bytes": 10706,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-call-for-tankless-water-heater-issues.html",
-        "bytes": 15420,
+        "bytes": 9806,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/tankless-water-heater-mistakes-you-don-t-want-to-make.html",
-        "bytes": 15940,
+        "bytes": 10261,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/slab-leak-mistakes-you-can-easily-avoid.html",
-        "bytes": 15901,
+        "bytes": 10311,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-is-my-tankless-water-heater-not-working-like-it-should.html",
-        "bytes": 16239,
+        "bytes": 10519,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/can-i-detect-a-slab-leak-myself-what-to-know.html",
-        "bytes": 16070,
+        "bytes": 10433,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-call-for-a-suspected-slab-leak.html",
-        "bytes": 15421,
+        "bytes": 9832,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-when-dealing-with-a-slab-leak.html",
-        "bytes": 15837,
+        "bytes": 10206,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-when-you-suspect-a-water-leak-under-concrete.html",
-        "bytes": 15948,
+        "bytes": 10258,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-call-for-a-water-leak-under-concrete.html",
-        "bytes": 15670,
+        "bytes": 10060,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-when-you-have-a-water-leak-under-concrete.html",
-        "bytes": 16056,
+        "bytes": 10326,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-happens-if-you-ignore-a-slab-leak.html",
-        "bytes": 15705,
+        "bytes": 10134,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-call-a-plumber-for-a-water-leak-under-your-house.html",
-        "bytes": 17051,
+        "bytes": 11348,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/common-mistakes-to-avoid-when-dealing-with-a-water-leak-under-your-house.html",
-        "bytes": 17255,
+        "bytes": 11446,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-call-for-hidden-water-leak-detection.html",
-        "bytes": 16892,
+        "bytes": 11267,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-when-dealing-with-potential-hidden-water-leaks.html",
-        "bytes": 17248,
+        "bytes": 11495,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-call-for-help-with-water-leaks-under-your-house.html",
-        "bytes": 16775,
+        "bytes": 11088,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-call-for-expert-hidden-water-leak-detection.html",
-        "bytes": 16861,
+        "bytes": 11199,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-is-my-water-bill-suddenly-so-high.html",
-        "bytes": 15420,
+        "bytes": 9841,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-when-you-suspect-an-underground-water-leak.html",
-        "bytes": 15734,
+        "bytes": 10055,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-with-underground-water-leaks.html",
-        "bytes": 15806,
+        "bytes": 10179,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-is-there-a-hot-spot-on-my-floor.html",
-        "bytes": 15228,
+        "bytes": 9693,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-call-for-a-hot-spot-on-your-floor.html",
-        "bytes": 15461,
+        "bytes": 9860,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-with-a-hot-spot-on-your-floor.html",
-        "bytes": 15628,
+        "bytes": 9988,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-is-my-concrete-floor-warm-in-one-spot.html",
-        "bytes": 15429,
+        "bytes": 9846,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-when-your-campaign-stops-converting.html",
-        "bytes": 16029,
+        "bytes": 10390,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/dealing-with-a-warm-floor-when-to-call-a-pro.html",
-        "bytes": 15892,
+        "bytes": 10258,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-is-my-carpet-wet-without-a-clear-source.html",
-        "bytes": 15747,
+        "bytes": 10123,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-when-you-find-an-unexplained-wet-carpet.html",
-        "bytes": 16084,
+        "bytes": 10368,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/unexpected-wet-carpet-what-does-it-mean.html",
-        "bytes": 15882,
+        "bytes": 10301,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-is-my-water-bill-so-high-all-of-a-sudden.html",
-        "bytes": 15675,
+        "bytes": 10065,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-if-your-water-bill-jumps-unexpectedly.html",
-        "bytes": 14208,
+        "bytes": 9317,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-when-your-water-bill-spikes.html",
-        "bytes": 15671,
+        "bytes": 10048,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/is-that-running-water-sound-normal-when-nothing-s-on.html",
-        "bytes": 15754,
+        "bytes": 10070,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-causes-the-sound-of-running-water-when-all-faucets-are-off.html",
-        "bytes": 14778,
+        "bytes": 9731,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-when-you-hear-phantom-running-water.html",
-        "bytes": 15942,
+        "bytes": 10272,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-is-my-water-meter-spinning-when-everything-is-off.html",
-        "bytes": 16426,
+        "bytes": 10756,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/is-a-running-water-meter-always-a-leak.html",
-        "bytes": 16322,
+        "bytes": 10733,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/my-water-meter-won-t-stop-moving-what-now.html",
-        "bytes": 16220,
+        "bytes": 10607,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-is-my-water-pressure-so-low-all-of-a-sudden.html",
-        "bytes": 16533,
+        "bytes": 10890,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/can-i-fix-low-water-pressure-myself.html",
-        "bytes": 14806,
+        "bytes": 10039,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-when-your-faucets-just-trickle.html",
-        "bytes": 16497,
+        "bytes": 10893,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-when-you-spot-a-puddle-under-your-sink.html",
-        "bytes": 15606,
+        "bytes": 9943,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/is-that-dripping-sound-normal.html",
-        "bytes": 15424,
+        "bytes": 9904,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-is-my-water-bill-so-high-suddenly.html",
-        "bytes": 15587,
+        "bytes": 10017,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-should-i-worry-about-a-slow-drip.html",
-        "bytes": 15474,
+        "bytes": 9901,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/the-dangers-of-ignoring-a-leaky-pipe.html",
-        "bytes": 15700,
+        "bytes": 10128,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/is-your-water-line-leaking-here-s-how-to-tell.html",
-        "bytes": 16369,
+        "bytes": 10743,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-is-a-water-line-repair-enough.html",
-        "bytes": 16084,
+        "bytes": 10538,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/dealing-with-a-sudden-drop-in-water-pressure.html",
-        "bytes": 16211,
+        "bytes": 10601,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/considering-a-full-water-line-replacement.html",
-        "bytes": 16603,
+        "bytes": 10993,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/signs-your-home-needs-a-water-line-upgrade.html",
-        "bytes": 16455,
+        "bytes": 10877,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/avoiding-costly-water-line-replacement-mistakes.html",
-        "bytes": 16674,
+        "bytes": 11043,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-when-your-water-bill-spikes-suddenly.html",
-        "bytes": 16134,
+        "bytes": 10485,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/can-i-fix-a-broken-water-line-myself.html",
-        "bytes": 16022,
+        "bytes": 10465,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-are-the-signs-of-a-hidden-water-leak.html",
-        "bytes": 15804,
+        "bytes": 10209,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-know-if-your-water-line-needs-rerouting.html",
-        "bytes": 16207,
+        "bytes": 10568,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-is-it-better-to-reroute-than-repair.html",
-        "bytes": 16206,
+        "bytes": 10609,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-is-my-foundation-cracking-due-to-water.html",
-        "bytes": 16441,
+        "bytes": 10821,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-should-you-consider-replacing-a-single-water-line.html",
-        "bytes": 15838,
+        "bytes": 10146,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-avoid-costly-single-water-line-repair-mistakes.html",
-        "bytes": 16079,
+        "bytes": 10397,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/is-your-water-line-leaking-here-s-what-to-do.html",
-        "bytes": 15970,
+        "bytes": 10348,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-is-your-whole-home-repiping-so-important.html",
-        "bytes": 15980,
+        "bytes": 10352,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/signs-your-home-might-need-repiping.html",
-        "bytes": 15857,
+        "bytes": 10310,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/common-missteps-to-dodge-during-a-whole-home-repipe.html",
-        "bytes": 16628,
+        "bytes": 10960,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-is-the-right-time-for-whole-house-repiping.html",
-        "bytes": 16031,
+        "bytes": 10391,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-are-the-mistakes-to-avoid-during-a-repiping-project.html",
-        "bytes": 16216,
+        "bytes": 10534,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-call-a-professional-for-whole-house-repiping-concerns.html",
-        "bytes": 16691,
+        "bytes": 10959,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-is-it-time-for-home-pipe-replacement.html",
-        "bytes": 15943,
+        "bytes": 10342,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-when-considering-home-pipe-replacement.html",
-        "bytes": 16334,
+        "bytes": 10634,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-call-a-professional-for-home-pipe-replacement.html",
-        "bytes": 16797,
+        "bytes": 11112,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-are-my-copper-pipes-leaking-again.html",
-        "bytes": 15752,
+        "bytes": 10176,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-tell-if-your-copper-pipes-need-replacing.html",
-        "bytes": 14328,
+        "bytes": 9447,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-call-a-plumber-for-copper-pipe-issues.html",
-        "bytes": 15786,
+        "bytes": 10157,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-are-my-polybutylene-pipes-so-prone-to-leaks.html",
-        "bytes": 15792,
+        "bytes": 10131,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-do-i-know-if-my-home-has-polybutylene-pipes.html",
-        "bytes": 14311,
+        "bytes": 9424,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-are-the-risks-of-having-polybutylene-pipes.html",
-        "bytes": 15831,
+        "bytes": 10188,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-is-my-toilet-running-constantly.html",
-        "bytes": 15563,
+        "bytes": 9992,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-when-repairing-your-toilet.html",
-        "bytes": 15990,
+        "bytes": 10380,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-is-it-time-to-call-a-professional-for-toilet-repair.html",
-        "bytes": 16153,
+        "bytes": 10456,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-should-you-consider-a-full-toilet-replacement.html",
-        "bytes": 16455,
+        "bytes": 10773,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-when-installing-a-new-toilet.html",
-        "bytes": 16318,
+        "bytes": 10685,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-choose-the-right-toilet-for-your-home.html",
-        "bytes": 16328,
+        "bytes": 10715,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-should-you-consider-a-new-toilet-installation.html",
-        "bytes": 16365,
+        "bytes": 10695,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-mistakes-should-you-avoid-when-installing-a-toilet-yourself.html",
-        "bytes": 16933,
+        "bytes": 11180,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-can-you-tell-if-your-toilet-needs-replacing.html",
-        "bytes": 16555,
+        "bytes": 10906,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-is-my-toilet-constantly-running.html",
-        "bytes": 16375,
+        "bytes": 10813,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-are-the-common-reasons-for-a-running-toilet.html",
-        "bytes": 16642,
+        "bytes": 10995,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-stop-your-toilet-from-running-non-stop.html",
-        "bytes": 15327,
+        "bytes": 10460,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-does-my-toilet-keep-running-all-the-time.html",
-        "bytes": 15602,
+        "bytes": 9977,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-call-a-plumber-for-a-running-toilet.html",
-        "bytes": 15645,
+        "bytes": 10024,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/my-toilet-won-t-flush-properly-what-s-wrong.html",
-        "bytes": 15960,
+        "bytes": 10330,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-call-a-plumber-for-a-non-flushing-toilet.html",
-        "bytes": 15733,
+        "bytes": 10083,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-when-your-toilet-won-t-flush.html",
-        "bytes": 16165,
+        "bytes": 10532,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/help-my-toilet-is-overflowing-what-do-i-do-first.html",
-        "bytes": 14615,
+        "bytes": 9688,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-does-my-toilet-keep-overflowing.html",
-        "bytes": 15581,
+        "bytes": 10013,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-when-your-toilet-keeps-overflowing.html",
-        "bytes": 16555,
+        "bytes": 10923,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-does-my-toilet-keep-clogging.html",
-        "bytes": 15869,
+        "bytes": 10343,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/my-toilet-is-clogged-mistakes-to-avoid.html",
-        "bytes": 15986,
+        "bytes": 10415,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-handle-a-stubborn-toilet-clog.html",
-        "bytes": 14627,
+        "bytes": 9856,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-when-dealing-with-a-clogged-toilet.html",
-        "bytes": 16430,
+        "bytes": 10749,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-call-for-clogged-toilet-repair.html",
-        "bytes": 15988,
+        "bytes": 10408,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/my-toilet-is-leaking-at-the-base-what-s-happening.html",
-        "bytes": 16467,
+        "bytes": 10795,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-when-your-toilet-leaks-at-the-base.html",
-        "bytes": 16512,
+        "bytes": 10834,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-call-a-professional-for-a-leaking-toilet-base.html",
-        "bytes": 16592,
+        "bytes": 10898,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/my-toilet-tank-is-leaking-what-should-i-do.html",
-        "bytes": 17032,
+        "bytes": 11445,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-call-a-plumber-for-a-leaky-toilet-tank.html",
-        "bytes": 17061,
+        "bytes": 11422,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-when-your-toilet-tank-is-leaking.html",
-        "bytes": 17195,
+        "bytes": 11543,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/choosing-the-right-toilet-for-your-bathroom-remodel.html",
-        "bytes": 16664,
+        "bytes": 11743,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-you-need-professional-help-for-toilet-replacement-during-a-remodel.html",
-        "bytes": 18547,
+        "bytes": 12740,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-when-replacing-your-toilet-during-a-remodel.html",
-        "bytes": 18467,
+        "bytes": 12723,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-is-my-faucet-dripping-constantly.html",
-        "bytes": 15460,
+        "bytes": 9888,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-about-a-leaky-faucet-handle.html",
-        "bytes": 15461,
+        "bytes": 9887,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-should-i-repair-or-replace-a-faucet.html",
-        "bytes": 15585,
+        "bytes": 9988,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-stop-a-faucet-from-leaking-under-the-sink.html",
-        "bytes": 15684,
+        "bytes": 10028,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-are-the-common-causes-of-faucet-leaks.html",
-        "bytes": 15396,
+        "bytes": 9785,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-when-dealing-with-leaky-faucets.html",
-        "bytes": 15889,
+        "bytes": 10226,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-is-my-faucet-dripping-non-stop.html",
-        "bytes": 15845,
+        "bytes": 10293,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-is-a-dripping-faucet-a-bigger-problem.html",
-        "bytes": 16839,
+        "bytes": 11234,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-when-fixing-a-dripping-faucet.html",
-        "bytes": 16466,
+        "bytes": 11585,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/is-it-time-to-replace-my-old-faucet.html",
-        "bytes": 17126,
+        "bytes": 11567,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-when-choosing-a-new-faucet.html",
-        "bytes": 16779,
+        "bytes": 11928,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-call-a-professional-for-faucet-replacement.html",
-        "bytes": 17880,
+        "bytes": 12213,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-your-new-faucet-leaks-unexpectedly.html",
-        "bytes": 16407,
+        "bytes": 10838,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-when-installing-a-new-faucet.html",
-        "bytes": 16773,
+        "bytes": 11140,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-call-for-professional-faucet-installation.html",
-        "bytes": 16879,
+        "bytes": 11219,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/signs-it-s-time-to-replace-your-old-kitchen-faucet.html",
-        "bytes": 17039,
+        "bytes": 11378,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-is-my-kitchen-faucet-so-hard-to-turn.html",
-        "bytes": 16873,
+        "bytes": 11273,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/preventing-future-faucet-problems-after-replacement.html",
-        "bytes": 16997,
+        "bytes": 11347,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-your-bathroom-faucet-won-t-stop-leaking.html",
-        "bytes": 15836,
+        "bytes": 10226,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-avoid-common-faucet-replacement-headaches.html",
-        "bytes": 16031,
+        "bytes": 10393,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/signs-you-need-a-new-bathroom-faucet.html",
-        "bytes": 15685,
+        "bytes": 10125,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-is-my-shower-water-pressure-so-low.html",
-        "bytes": 15679,
+        "bytes": 10093,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-about-a-dripping-shower-head.html",
-        "bytes": 15664,
+        "bytes": 10086,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/is-your-shower-leaking-behind-the-wall.html",
-        "bytes": 15803,
+        "bytes": 10244,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-is-my-shower-leaking-even-after-i-tried-to-fix-it.html",
-        "bytes": 16107,
+        "bytes": 10431,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-are-the-signs-my-shower-valve-is-failing.html",
-        "bytes": 16142,
+        "bytes": 10510,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-can-i-stop-my-shower-from-dripping-constantly.html",
-        "bytes": 14974,
+        "bytes": 10067,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-should-i-call-a-plumber-for-a-leaky-shower.html",
-        "bytes": 16144,
+        "bytes": 10510,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-causes-a-shower-valve-to-stop-working-properly.html",
-        "bytes": 16390,
+        "bytes": 10737,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-do-i-know-if-my-shower-valve-needs-replacing.html",
-        "bytes": 15019,
+        "bytes": 10122,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-is-my-shower-faucet-leaking-and-what-can-i-do.html",
-        "bytes": 16128,
+        "bytes": 10471,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/help-my-shower-faucet-is-dripping-non-stop.html",
-        "bytes": 14521,
+        "bytes": 9678,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-is-my-shower-faucet-beyond-repair.html",
-        "bytes": 15970,
+        "bytes": 10411,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/my-old-shower-is-a-mess-should-i-repair-or-replace-it.html",
-        "bytes": 16234,
+        "bytes": 10549,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/thinking-about-a-new-shower-what-to-consider-first.html",
-        "bytes": 15093,
+        "bytes": 10176,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-when-your-shower-just-isn-t-cutting-it-anymore.html",
-        "bytes": 16596,
+        "bytes": 10886,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-is-it-time-to-upgrade-your-shower.html",
-        "bytes": 16021,
+        "bytes": 10444,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-when-installing-a-new-shower.html",
-        "bytes": 16192,
+        "bytes": 10556,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-is-it-time-to-fix-or-replace-your-shower.html",
-        "bytes": 16134,
+        "bytes": 10508,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-should-you-call-a-pro-for-bathtub-repairs.html",
-        "bytes": 16202,
+        "bytes": 10560,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-when-repairing-your-bathtub.html",
-        "bytes": 16467,
+        "bytes": 10838,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-is-a-leaky-bathtub-more-than-just-an-annoyance.html",
-        "bytes": 16280,
+        "bytes": 10609,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-call-a-professional-for-your-bathtub-leak.html",
-        "bytes": 16635,
+        "bytes": 10981,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-when-fixing-a-bathtub-leak-yourself.html",
-        "bytes": 17236,
+        "bytes": 11542,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-when-your-bathtub-won-t-stop-dripping.html",
-        "bytes": 17037,
+        "bytes": 11408,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-is-my-bathtub-drain-so-slow.html",
-        "bytes": 17212,
+        "bytes": 11681,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-when-dealing-with-a-clogged-bathtub-drain.html",
-        "bytes": 17257,
+        "bytes": 11533,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-should-you-call-a-plumber-for-a-bathtub-drain-issue.html",
-        "bytes": 17342,
+        "bytes": 11636,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-should-you-replace-your-old-bathtub.html",
-        "bytes": 15820,
+        "bytes": 10220,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-when-planning-your-bathtub-replacement.html",
-        "bytes": 16080,
+        "bytes": 10392,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-call-for-bathtub-replacement-help.html",
-        "bytes": 15936,
+        "bytes": 10344,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/thinking-about-a-new-bathtub-here-s-what-to-know-about-installation.html",
-        "bytes": 16342,
+        "bytes": 10553,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-prepare-for-your-bathtub-installation.html",
-        "bytes": 14372,
+        "bytes": 9521,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-during-bathtub-installation.html",
-        "bytes": 15983,
+        "bytes": 10363,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-know-if-your-home-needs-a-water-softener.html",
-        "bytes": 15534,
+        "bytes": 9903,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-when-installing-a-water-softener.html",
-        "bytes": 15787,
+        "bytes": 10108,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-call-a-pro-for-your-water-softener-needs.html",
-        "bytes": 15702,
+        "bytes": 10058,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-are-the-hidden-costs-of-hard-water-without-a-whole-house-system.html",
-        "bytes": 16257,
+        "bytes": 10464,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-with-your-whole-house-water-softener-installation.html",
-        "bytes": 16226,
+        "bytes": 10446,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-upgrade-to-a-whole-house-water-softener-system.html",
-        "bytes": 15983,
+        "bytes": 10291,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-consider-replacing-your-water-softener.html",
-        "bytes": 15117,
+        "bytes": 9487,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-when-replacing-your-water-softener.html",
-        "bytes": 15459,
+        "bytes": 9784,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-should-i-get-my-water-softener-replaced.html",
-        "bytes": 15320,
+        "bytes": 9692,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-are-the-signs-of-hard-water-in-your-home.html",
-        "bytes": 15181,
+        "bytes": 9540,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-when-dealing-with-hard-water.html",
-        "bytes": 15324,
+        "bytes": 9691,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-happens-if-i-don-t-address-hard-water-issues.html",
-        "bytes": 15373,
+        "bytes": 9719,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-are-my-faucets-looking-dingy.html",
-        "bytes": 15899,
+        "bytes": 10358,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-should-i-call-for-help-with-stubborn-hard-water-stains.html",
-        "bytes": 16381,
+        "bytes": 10663,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-when-dealing-with-hard-water-stains.html",
-        "bytes": 16743,
+        "bytes": 11064,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/is-hard-water-harming-my-home-s-plumbing.html",
-        "bytes": 16486,
+        "bytes": 10898,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-is-it-time-to-invest-in-whole-home-hard-water-treatment.html",
-        "bytes": 16921,
+        "bytes": 11184,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-when-choosing-hard-water-treatment.html",
-        "bytes": 16220,
+        "bytes": 10539,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-call-a-plumber-for-your-remodel.html",
-        "bytes": 16637,
+        "bytes": 11035,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-when-planning-your-plumbing-remodel.html",
-        "bytes": 17263,
+        "bytes": 11581,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-your-remodel-plumbing-project-hits-a-snag.html",
-        "bytes": 17118,
+        "bytes": 11488,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-consider-before-starting-a-kitchen-plumbing-remodel.html",
-        "bytes": 17724,
+        "bytes": 11982,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-during-your-kitchen-plumbing-remodel.html",
-        "bytes": 17769,
+        "bytes": 12074,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-upgrade-your-kitchen-plumbing-during-a-remodel.html",
-        "bytes": 17763,
+        "bytes": 12056,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-should-i-update-my-bathroom-plumbing.html",
-        "bytes": 15798,
+        "bytes": 10191,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-avoid-plumbing-headaches-during-a-bathroom-remodel.html",
-        "bytes": 16691,
+        "bytes": 11002,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/my-bathroom-remodel-plumbing-isn-t-working-right.html",
-        "bytes": 16432,
+        "bytes": 10785,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-your-shower-renovation-goes-wrong.html",
-        "bytes": 16273,
+        "bytes": 10687,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/avoiding-common-shower-remodel-plumbing-problems.html",
-        "bytes": 16650,
+        "bytes": 11006,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/planning-for-plumbing-in-your-shower-remodel.html",
-        "bytes": 16512,
+        "bytes": 10899,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-call-a-pro-for-bathtub-remodel-plumbing.html",
-        "bytes": 17219,
+        "bytes": 11570,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-people-make-when-installing-new-plumbing-fixtures.html",
-        "bytes": 17541,
+        "bytes": 11839,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/signs-you-need-professional-help-for-bathtub-remodel-plumbing.html",
-        "bytes": 17376,
+        "bytes": 11620,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-if-your-new-fixture-isn-t-working-right.html",
-        "bytes": 17485,
+        "bytes": 11818,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-avoid-plumbing-headaches-when-remodeling-your-bathtub.html",
-        "bytes": 16436,
+        "bytes": 10705,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/planning-a-fixture-upgrade-don-t-forget-these-plumbing-details.html",
-        "bytes": 17903,
+        "bytes": 12182,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-call-a-pro-for-new-construction-plumbing.html",
-        "bytes": 16639,
+        "bytes": 10980,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-in-new-construction-plumbing.html",
-        "bytes": 16724,
+        "bytes": 11088,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-get-your-new-construction-plumbing-right-the-first-time.html",
-        "bytes": 15700,
+        "bytes": 10669,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-your-new-home-plumbing-needs-expert-attention.html",
-        "bytes": 16515,
+        "bytes": 10825,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-with-your-new-home-plumbing.html",
-        "bytes": 16685,
+        "bytes": 11059,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/planning-for-flawless-new-home-plumbing.html",
-        "bytes": 15118,
+        "bytes": 10317,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/my-new-gas-appliance-needs-a-connection-what-do-i-do.html",
-        "bytes": 15909,
+        "bytes": 10240,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/is-it-safe-to-install-my-own-gas-piping.html",
-        "bytes": 14147,
+        "bytes": 9340,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-are-the-risks-of-diy-gas-line-work.html",
-        "bytes": 15859,
+        "bytes": 10266,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-can-i-tell-if-my-gas-line-is-safe.html",
-        "bytes": 15681,
+        "bytes": 10123,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/planning-a-home-renovation-don-t-forget-about-gas-line-needs.html",
-        "bytes": 14711,
+        "bytes": 9688,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/my-old-gas-pipes-are-corroding-what-s-next.html",
-        "bytes": 15832,
+        "bytes": 10218,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/is-your-stove-gas-line-acting-up.html",
-        "bytes": 15418,
+        "bytes": 9874,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-when-installing-a-gas-line-for-your-stove.html",
-        "bytes": 15982,
+        "bytes": 10255,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-call-a-professional-for-your-stove-s-gas-line.html",
-        "bytes": 16095,
+        "bytes": 10410,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/trouble-with-your-gas-range-connection.html",
-        "bytes": 15435,
+        "bytes": 9855,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-call-a-professional-for-your-gas-range-line.html",
-        "bytes": 16595,
+        "bytes": 10930,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-when-dealing-with-your-gas-range-s-line.html",
-        "bytes": 16138,
+        "bytes": 10440,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/my-dryer-needs-a-gas-line-what-should-i-do-first.html",
-        "bytes": 14189,
+        "bytes": 9286,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/installing-a-gas-line-for-your-dryer-common-pitfalls-to-avoid.html",
-        "bytes": 16165,
+        "bytes": 10424,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/is-your-gas-dryer-line-safe-when-to-get-professional-help.html",
-        "bytes": 16190,
+        "bytes": 10483,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/my-new-bbq-needs-a-gas-line-where-do-i-start.html",
-        "bytes": 14336,
+        "bytes": 9473,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/outdoor-cooking-upgrade-mistakes-to-avoid-with-gas-lines.html",
-        "bytes": 16122,
+        "bytes": 10419,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/safety-first-when-to-call-for-your-grill-gas-line.html",
-        "bytes": 16108,
+        "bytes": 10448,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/unexpected-gas-smell-near-your-fire-pit-here-s-what-to-do.html",
-        "bytes": 16348,
+        "bytes": 10638,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/avoiding-common-gas-line-issues-for-your-outdoor-fire-pit.html",
-        "bytes": 16683,
+        "bytes": 10979,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/is-your-fire-pit-gas-line-ready-for-action.html",
-        "bytes": 16372,
+        "bytes": 10758,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/my-water-heater-isn-t-getting-hot-could-it-be-the-gas-line.html",
-        "bytes": 16698,
+        "bytes": 10969,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/upgrading-your-water-heater-common-gas-line-mistakes-to-avoid.html",
-        "bytes": 16758,
+        "bytes": 11014,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/gas-line-safety-for-your-water-heater-what-to-watch-for.html",
-        "bytes": 16420,
+        "bytes": 10718,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-should-i-get-my-gas-lines-inspected.html",
-        "bytes": 15866,
+        "bytes": 10272,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-with-gas-line-maintenance.html",
-        "bytes": 15839,
+        "bytes": 10233,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-are-regular-gas-line-inspections-important.html",
-        "bytes": 15852,
+        "bytes": 10213,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-if-you-suspect-a-gas-leak.html",
-        "bytes": 14076,
+        "bytes": 9305,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/is-that-smell-really-a-gas-leak.html",
-        "bytes": 15386,
+        "bytes": 9855,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-is-it-time-for-a-professional-gas-leak-repair.html",
-        "bytes": 15788,
+        "bytes": 10115,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-if-you-smell-gas-in-your-home.html",
-        "bytes": 15808,
+        "bytes": 10235,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-know-if-you-have-a-gas-leak.html",
-        "bytes": 15683,
+        "bytes": 10140,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-are-the-dangers-of-a-hidden-gas-leak.html",
-        "bytes": 15880,
+        "bytes": 10276,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-is-prompt-gas-leak-repair-so-crucial.html",
-        "bytes": 16109,
+        "bytes": 10536,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/can-i-fix-a-gas-leak-myself.html",
-        "bytes": 15794,
+        "bytes": 10300,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/steps-to-take-when-you-suspect-a-gas-leak.html",
-        "bytes": 15825,
+        "bytes": 10224,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-is-my-pool-heater-gas-line-leaking.html",
-        "bytes": 15828,
+        "bytes": 10239,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/common-mistakes-when-installing-a-pool-heater-gas-line.html",
-        "bytes": 16343,
+        "bytes": 10666,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-replace-your-pool-heater-gas-line.html",
-        "bytes": 16190,
+        "bytes": 10583,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/my-water-heater-gas-line-smells-like-gas-what-now.html",
-        "bytes": 16329,
+        "bytes": 10663,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/avoiding-problems-with-your-water-heater-gas-line-installation.html",
-        "bytes": 16481,
+        "bytes": 10739,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-replace-your-water-heater-gas-line.html",
-        "bytes": 16179,
+        "bytes": 10571,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/is-your-new-gas-appliance-setup-safe.html",
-        "bytes": 15533,
+        "bytes": 9955,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/could-your-diy-gas-line-project-be-dangerous.html",
-        "bytes": 15908,
+        "bytes": 10292,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-upgrade-your-home-s-gas-piping.html",
-        "bytes": 15750,
+        "bytes": 10173,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/unsure-about-the-right-gas-line-size-for-your-home.html",
-        "bytes": 15867,
+        "bytes": 10212,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-avoid-gas-line-installation-headaches.html",
-        "bytes": 15915,
+        "bytes": 10293,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/concerned-about-gas-leaks-after-an-installation.html",
-        "bytes": 15887,
+        "bytes": 10238,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-should-you-get-a-gas-line-inspection-coordinated.html",
-        "bytes": 15868,
+        "bytes": 10204,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-when-coordinating-a-gas-line-inspection.html",
-        "bytes": 15907,
+        "bytes": 10191,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-prepare-for-a-gas-line-inspection.html",
-        "bytes": 14256,
+        "bytes": 9445,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/signs-you-might-have-a-gas-line-leak.html",
-        "bytes": 15711,
+        "bytes": 10157,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-when-dealing-with-a-gas-leak.html",
-        "bytes": 15847,
+        "bytes": 10220,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/is-that-gas-smell-dangerous.html",
-        "bytes": 15208,
+        "bytes": 9711,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-call-a-professional-for-gas-line-repair.html",
-        "bytes": 15844,
+        "bytes": 10219,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/can-i-fix-a-damaged-gas-pipe-myself.html",
-        "bytes": 13691,
+        "bytes": 8924,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-with-damaged-gas-pipes.html",
-        "bytes": 15341,
+        "bytes": 9771,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-is-it-time-to-replace-a-damaged-gas-pipe.html",
-        "bytes": 15675,
+        "bytes": 10034,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/do-i-need-to-isolate-a-damaged-gas-line.html",
-        "bytes": 15686,
+        "bytes": 10099,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-handle-a-damaged-gas-line-safely.html",
-        "bytes": 15925,
+        "bytes": 10344,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-are-the-risks-of-an-unattended-damaged-gas-line.html",
-        "bytes": 16306,
+        "bytes": 10643,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-should-i-replace-my-gas-shutoff-valve.html",
-        "bytes": 15988,
+        "bytes": 10392,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-tell-if-your-gas-shutoff-valve-needs-attention.html",
-        "bytes": 16041,
+        "bytes": 10365,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/can-i-install-a-gas-shutoff-valve-myself.html",
-        "bytes": 16427,
+        "bytes": 10839,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-should-i-worry-about-my-appliance-gas-line.html",
-        "bytes": 16123,
+        "bytes": 10477,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-are-the-dangers-of-diy-gas-line-repairs.html",
-        "bytes": 16047,
+        "bytes": 10419,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/avoiding-common-gas-line-repair-mistakes.html",
-        "bytes": 15867,
+        "bytes": 10267,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/is-my-gas-line-leak-a-real-emergency.html",
-        "bytes": 16026,
+        "bytes": 10457,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-not-to-do-when-you-suspect-a-gas-leak.html",
-        "bytes": 15931,
+        "bytes": 10338,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/recognizing-the-need-for-emergency-gas-disconnection.html",
-        "bytes": 16072,
+        "bytes": 10394,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/is-your-gas-line-acting-up.html",
-        "bytes": 15088,
+        "bytes": 9577,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/suspect-a-gas-leak.html",
-        "bytes": 14976,
+        "bytes": 9524,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/worried-about-your-gas-line-s-safety.html",
-        "bytes": 15306,
+        "bytes": 9722,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-after-gas-line-repair.html",
-        "bytes": 15539,
+        "bytes": 9998,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/not-sure-if-your-plumbing-repair-holds.html",
-        "bytes": 13768,
+        "bytes": 8971,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/seeing-signs-of-a-leak-after-a-fix.html",
-        "bytes": 15543,
+        "bytes": 9979,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-call-a-professional-for-a-damaged-gas-line.html",
-        "bytes": 15461,
+        "bytes": 9806,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-when-dealing-with-gas-line-issues.html",
-        "bytes": 15585,
+        "bytes": 9917,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-handle-gas-line-rerouting-safely.html",
-        "bytes": 13947,
+        "bytes": 9146,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/understanding-the-permit-process-for-plumbing-work.html",
-        "bytes": 15525,
+        "bytes": 9876,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/avoiding-delays-in-municipal-inspection-coordination.html",
-        "bytes": 15617,
+        "bytes": 9963,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-do-i-need-a-permit-for-gas-line-rerouting.html",
-        "bytes": 15914,
+        "bytes": 10281,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-is-the-right-time-to-call-a-pro-for-utility-shutoff-coordination.html",
-        "bytes": 16263,
+        "bytes": 10478,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-when-dealing-with-utility-shutoffs-for-repairs.html",
-        "bytes": 16332,
+        "bytes": 10582,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-call-a-professional-for-gas-line-repairs-on-your-water-heater.html",
-        "bytes": 16307,
+        "bytes": 10513,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-when-your-water-heater-has-gas-line-issues.html",
-        "bytes": 16184,
+        "bytes": 10450,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-when-your-utility-service-isn-t-restored-after-plumbing-repairs.html",
-        "bytes": 16347,
+        "bytes": 10515,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/signs-your-water-heater-s-gas-line-might-need-professional-repair.html",
-        "bytes": 16111,
+        "bytes": 10333,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-is-my-gas-range-acting-up.html",
-        "bytes": 15140,
+        "bytes": 9626,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-if-you-suspect-a-gas-leak-from-your-dryer.html",
-        "bytes": 15506,
+        "bytes": 9828,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-call-a-pro-for-your-gas-range-repair.html",
-        "bytes": 14071,
+        "bytes": 9220,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-when-dealing-with-gas-dryer-problems.html",
-        "bytes": 15697,
+        "bytes": 10008,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/common-gas-range-issues-when-to-call-alpha-plumbing.html",
-        "bytes": 15677,
+        "bytes": 10006,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/my-gas-dryer-isn-t-working-what-should-i-do.html",
-        "bytes": 15391,
+        "bytes": 9770,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/my-fireplace-smells-like-gas-what-should-i-do.html",
-        "bytes": 15384,
+        "bytes": 9749,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-are-the-signs-of-a-faulty-gas-line-to-my-fireplace.html",
-        "bytes": 15527,
+        "bytes": 9828,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-can-i-prevent-gas-leaks-in-my-fireplace.html",
-        "bytes": 13806,
+        "bytes": 8959,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/i-suspect-a-gas-leak-near-my-grill-what-now.html",
-        "bytes": 15274,
+        "bytes": 9638,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-is-my-gas-grill-flame-weak-or-uneven.html",
-        "bytes": 15165,
+        "bytes": 9571,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/can-i-repair-a-gas-grill-line-myself.html",
-        "bytes": 13574,
+        "bytes": 8797,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-call-for-pool-heater-gas-line-repairs.html",
-        "bytes": 15448,
+        "bytes": 9801,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-with-pool-heater-gas-line-issues.html",
-        "bytes": 15775,
+        "bytes": 10117,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-deal-with-a-malfunctioning-pool-heater-gas-line.html",
-        "bytes": 14408,
+        "bytes": 9457,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-call-for-fire-pit-gas-line-repairs.html",
-        "bytes": 15545,
+        "bytes": 9934,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-with-fire-pit-gas-line-issues.html",
-        "bytes": 15725,
+        "bytes": 10094,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-deal-with-a-malfunctioning-fire-pit-gas-line.html",
-        "bytes": 14272,
+        "bytes": 9351,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-isn-t-my-pot-filler-working-right.html",
-        "bytes": 15979,
+        "bytes": 10427,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/considering-a-tankless-heater-avoid-these-pitfalls.html",
-        "bytes": 16157,
+        "bytes": 10484,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/my-automated-faucet-is-acting-up-what-now.html",
-        "bytes": 15721,
+        "bytes": 10105,
         "purpose": "LLM-optimized public page"
       }
     ],
