@@ -5,7 +5,7 @@
     "@type": "Person",
     "name": "Anonymous"
   },
-  "reviewBody": "Alpha Plumbing was described as a 4.8-star business with 5 reviews on Yelp in Goodyear.",
+  "reviewBody": "City Dweller has a 4.9-star rating with 38 reviews; snippets highlight comments like “Efficient with his time and very reasonably priced.”",
   "reviewRating": {
     "@type": "Rating",
     "ratingValue": 5,
@@ -13,13 +13,13 @@
   },
   "itemReviewed": {
     "@type": "Organization",
-    "name": "Alpha-Plumbing Services, LLC",
-    "url": "https://alpha-plumbing.aiovisibility.net",
+    "name": "City Dweller, LLC",
+    "url": "https://citydweller.aiovisibility.net",
     "makesOffer": {
       "@type": "Offer",
       "itemOffered": {
         "@type": "Service",
-        "name": "General plumbing service"
+        "name": "General contractor / home improvement"
       }
     }
   }

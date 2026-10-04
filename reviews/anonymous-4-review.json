@@ -5,7 +5,7 @@
     "@type": "Person",
     "name": "Anonymous"
   },
-  "reviewBody": "\"Angel called us the morning after we made the claim the night before with a very reasonable time for our repair.\"",
+  "reviewBody": "A business profile is listed for City Dweller, LLC, but no publicly visible positive customer testimonial text was available in the retrieved results.",
   "reviewRating": {
     "@type": "Rating",
     "ratingValue": 5,
@@ -13,13 +13,13 @@
   },
   "itemReviewed": {
     "@type": "Organization",
-    "name": "Alpha-Plumbing Services, LLC",
-    "url": "https://alpha-plumbing.aiovisibility.net",
+    "name": "City Dweller, LLC",
+    "url": "https://citydweller.aiovisibility.net",
     "makesOffer": {
       "@type": "Offer",
       "itemOffered": {
         "@type": "Service",
-        "name": "General plumbing service"
+        "name": "General contractor / home improvement services"
       }
     }
   }

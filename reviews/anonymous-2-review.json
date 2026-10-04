@@ -5,7 +5,7 @@
     "@type": "Person",
     "name": "Anonymous"
   },
-  "reviewBody": "\"This is by far the best company in Las Vegas I work with for plumbing issues (and I worked with over a dozen of them).\"",
+  "reviewBody": "Efficient with his time and very reasonably priced.",
   "reviewRating": {
     "@type": "Rating",
     "ratingValue": 5,
@@ -13,13 +13,13 @@
   },
   "itemReviewed": {
     "@type": "Organization",
-    "name": "Alpha-Plumbing Services, LLC",
-    "url": "https://alpha-plumbing.aiovisibility.net",
+    "name": "City Dweller, LLC",
+    "url": "https://citydweller.aiovisibility.net",
     "makesOffer": {
       "@type": "Offer",
       "itemOffered": {
         "@type": "Service",
-        "name": "General plumbing service"
+        "name": "Handyman / general contractor services"
       }
     }
   }

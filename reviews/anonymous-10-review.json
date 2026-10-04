@@ -5,22 +5,21 @@
     "@type": "Person",
     "name": "Anonymous"
   },
-  "reviewBody": "\"I am a Realtor ... hired Alpha Plumbing for a short notice heating inspection ... Alpha was prompt ... did the work immediately. Price was fair and I would happily refer them to any client!\"",
+  "reviewBody": "Specializing in exterior sidings, windows, doors, sliding glass doors, flooring, handyman services, and more.",
   "reviewRating": {
     "@type": "Rating",
     "ratingValue": 5,
     "bestRating": 5
   },
-  "datePublished": "2022-11-02",
   "itemReviewed": {
     "@type": "Organization",
-    "name": "Alpha-Plumbing Services, LLC",
-    "url": "https://alpha-plumbing.aiovisibility.net",
+    "name": "City Dweller, LLC",
+    "url": "https://citydweller.aiovisibility.net",
     "makesOffer": {
       "@type": "Offer",
       "itemOffered": {
         "@type": "Service",
-        "name": "Plumbing inspection"
+        "name": "Exterior siding"
       }
     }
   }

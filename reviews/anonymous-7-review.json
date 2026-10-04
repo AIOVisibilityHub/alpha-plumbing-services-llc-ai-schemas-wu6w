@@ -5,22 +5,21 @@
     "@type": "Person",
     "name": "Anonymous"
   },
-  "reviewBody": "\"Helped me replace a main sewer line. We were stuck in the middle of the night. Alpha responded quickly, with great work and a fair price.\"",
+  "reviewBody": "Another review snippet mentions, “David checked out the strapping of water heater and deemed it to be sufficient.”",
   "reviewRating": {
     "@type": "Rating",
     "ratingValue": 5,
     "bestRating": 5
   },
-  "datePublished": "2024-01-06",
   "itemReviewed": {
     "@type": "Organization",
-    "name": "Alpha-Plumbing Services, LLC",
-    "url": "https://alpha-plumbing.aiovisibility.net",
+    "name": "City Dweller, LLC",
+    "url": "https://citydweller.aiovisibility.net",
     "makesOffer": {
       "@type": "Offer",
       "itemOffered": {
         "@type": "Service",
-        "name": "Main sewer line repair"
+        "name": "General contractor / home improvement"
       }
     }
   }

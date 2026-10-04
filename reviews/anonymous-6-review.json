@@ -5,22 +5,21 @@
     "@type": "Person",
     "name": "Anonymous"
   },
-  "reviewBody": "\"I reached out to Alpha Plumbing for an emergency water line leak at our exterior shut off valve at 9pm on a Saturday night and Kosta showed up within 40 mins and had our line repaired and water back on soon after. What a great experience. Highly recommended!\"",
+  "reviewBody": "A featured review snippet says, “At the end of the day he noticed I had a mirror that needed hanging and he took pity on me and put it on the wall even though he had somewhere to be.”",
   "reviewRating": {
     "@type": "Rating",
     "ratingValue": 5,
     "bestRating": 5
   },
-  "datePublished": "2024-01-06",
   "itemReviewed": {
     "@type": "Organization",
-    "name": "Alpha-Plumbing Services, LLC",
-    "url": "https://alpha-plumbing.aiovisibility.net",
+    "name": "City Dweller, LLC",
+    "url": "https://citydweller.aiovisibility.net",
     "makesOffer": {
       "@type": "Offer",
       "itemOffered": {
         "@type": "Service",
-        "name": "Emergency water line leak repair"
+        "name": "General contractor / home improvement"
       }
     }
   }

@@ -5,22 +5,21 @@
     "@type": "Person",
     "name": "Anonymous"
   },
-  "reviewBody": "\"Alpha Plumbing did a great job on installing the outside faucet.\"",
+  "reviewBody": "We are based in Pacifica and serve communities across the Bay Area, including Daly City, San Bruno, San Francisco, Hillsborough, and nearby areas.",
   "reviewRating": {
     "@type": "Rating",
     "ratingValue": 5,
     "bestRating": 5
   },
-  "datePublished": "2022-11-02",
   "itemReviewed": {
     "@type": "Organization",
-    "name": "Alpha-Plumbing Services, LLC",
-    "url": "https://alpha-plumbing.aiovisibility.net",
+    "name": "City Dweller, LLC",
+    "url": "https://citydweller.aiovisibility.net",
     "makesOffer": {
       "@type": "Offer",
       "itemOffered": {
         "@type": "Service",
-        "name": "Outside faucet installation"
+        "name": "General contractor services"
       }
     }
   }

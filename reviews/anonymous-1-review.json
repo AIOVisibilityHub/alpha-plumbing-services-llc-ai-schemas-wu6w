@@ -5,22 +5,21 @@
     "@type": "Person",
     "name": "Anonymous"
   },
-  "reviewBody": "\"The Alpha Team are great at what they do! Honest and reliable!\"",
+  "reviewBody": "David checked out the strapping of water heater and deemed it to be sufficient.",
   "reviewRating": {
     "@type": "Rating",
     "ratingValue": 5,
     "bestRating": 5
   },
-  "datePublished": "2026-06-20",
   "itemReviewed": {
     "@type": "Organization",
-    "name": "Alpha-Plumbing Services, LLC",
-    "url": "https://alpha-plumbing.aiovisibility.net",
+    "name": "City Dweller, LLC",
+    "url": "https://citydweller.aiovisibility.net",
     "makesOffer": {
       "@type": "Offer",
       "itemOffered": {
         "@type": "Service",
-        "name": "General plumbing service"
+        "name": "Handyman / general contractor services"
       }
     }
   }
