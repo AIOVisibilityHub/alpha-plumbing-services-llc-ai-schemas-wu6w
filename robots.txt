@@ -16,5 +16,5 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-Sitemap: https://alpha-plumbing.aiovisibility.net/sitemap.xml
-Sitemap: https://alpha-plumbing.aiovisibility.net/ai-sitemap.xml
+Sitemap: https://citydweller.aiovisibility.net/sitemap.xml
+Sitemap: https://citydweller.aiovisibility.net/ai-sitemap.xml

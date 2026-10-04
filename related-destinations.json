@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-04T00:42:39.965Z",
+  "generatedAt": "2026-10-04T00:43:51.943Z",
   "name": "Cross-Destination Index",
   "aliases": [
     "Authority Network",
@@ -10,21 +10,21 @@
   "purpose": "Transparent source discovery, entity consistency, mirror verification, and AI crawler navigation across every published copy of this AI Data Package.",
   "notALinkWheel": true,
   "entity": {
-    "name": "Alpha-Plumbing Services, LLC",
-    "canonicalUrl": "https://alpha-plumbing.aiovisibility.net",
-    "primaryWebsiteUrl": "www.alpha-plumbingservices.com",
-    "aiDataHub": "https://alpha-plumbing.aiovisibility.net/ai-data.html"
+    "name": "City Dweller, LLC",
+    "canonicalUrl": "https://citydweller.aiovisibility.net",
+    "primaryWebsiteUrl": "http://bayareacitydweller.com",
+    "aiDataHub": "https://citydweller.aiovisibility.net/ai-data.html"
   },
   "related": [
     {
       "role": "canonical",
-      "label": "Alpha-Plumbing Services, LLC — canonical website",
-      "url": "https://alpha-plumbing.aiovisibility.net"
+      "label": "City Dweller, LLC — canonical website",
+      "url": "https://citydweller.aiovisibility.net"
     },
     {
       "role": "ai-data-hub",
-      "label": "Alpha-Plumbing Services, LLC — AI Data Hub",
-      "url": "https://alpha-plumbing.aiovisibility.net/ai-data.html"
+      "label": "City Dweller, LLC — AI Data Hub",
+      "url": "https://citydweller.aiovisibility.net/ai-data.html"
     },
     {
       "role": "mirror-repo",
@@ -37,54 +37,6 @@
       "platform": "github",
       "label": "GitHub — AI Data Hub mirror",
       "url": "https://alpha-plumbing.aiovisibility.net/ai-data.html"
-    },
-    {
-      "role": "mirror-repo",
-      "platform": "gitlab",
-      "label": "GitLab repository",
-      "url": "https://gitlab.com/aiovisibilityhub/alpha-plumbing-services-llc-ai-schemas-7dv4"
-    },
-    {
-      "role": "mirror-pages",
-      "platform": "gitlab",
-      "label": "GitLab — AI Data Hub mirror",
-      "url": "https://alpha-plumbing-services-llc-ai-schemas-7dv4-3dd06d.gitlab.io/ai-data.html"
-    },
-    {
-      "role": "mirror-repo",
-      "platform": "codeberg",
-      "label": "Codeberg repository",
-      "url": "https://codeberg.org/aiovisibilityhub/alpha-plumbing-services-llc-ai-schemas"
-    },
-    {
-      "role": "mirror-pages",
-      "platform": "codeberg",
-      "label": "Codeberg — AI Data Hub mirror",
-      "url": "https://aiovisibilityhub.codeberg.page/alpha-plumbing-services-llc-ai-schemas/ai-data.html"
-    },
-    {
-      "role": "mirror-repo",
-      "platform": "kaggle",
-      "label": "Kaggle repository",
-      "url": "https://www.kaggle.com/datasets/aiovisibilityhub/alpha-plumbing-services-llc-ai-schemas"
-    },
-    {
-      "role": "mirror-repo",
-      "platform": "sourcehut",
-      "label": "SourceHut repository",
-      "url": "https://aiovisibilityhub.srht.site/"
-    },
-    {
-      "role": "mirror-pages",
-      "platform": "sourcehut",
-      "label": "SourceHut — AI Data Hub mirror",
-      "url": "https://aiovisibilityhub.srht.site/ai-data.html"
-    },
-    {
-      "role": "mirror-repo",
-      "platform": "zenodo",
-      "label": "Zenodo repository",
-      "url": "https://zenodo.org/record/23129473"
     }
   ],
   "destinations": {
@@ -92,25 +44,6 @@
       "url": "https://github.com/AIOVisibilityHub/alpha-plumbing-services-llc-ai-schemas-wu6w",
       "pagesUrl": "https://alpha-plumbing.aiovisibility.net/",
       "repo": "AIOVisibilityHub/alpha-plumbing-services-llc-ai-schemas-wu6w"
-    },
-    "gitlab": {
-      "url": "https://gitlab.com/aiovisibilityhub/alpha-plumbing-services-llc-ai-schemas-7dv4",
-      "pagesUrl": "https://alpha-plumbing-services-llc-ai-schemas-7dv4-3dd06d.gitlab.io/"
-    },
-    "codeberg": {
-      "url": "https://codeberg.org/aiovisibilityhub/alpha-plumbing-services-llc-ai-schemas",
-      "pagesUrl": "https://aiovisibilityhub.codeberg.page/alpha-plumbing-services-llc-ai-schemas/",
-      "repo": "aiovisibilityhub/alpha-plumbing-services-llc-ai-schemas"
-    },
-    "kaggle": {
-      "url": "https://www.kaggle.com/datasets/aiovisibilityhub/alpha-plumbing-services-llc-ai-schemas"
-    },
-    "sourcehut": {
-      "url": "https://aiovisibilityhub.srht.site/",
-      "pagesUrl": "https://aiovisibilityhub.srht.site/"
-    },
-    "zenodo": {
-      "url": "https://zenodo.org/record/23129473"
     }
   }
 }
