@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-04T00:27:36.073Z",
+  "generatedAt": "2026-10-04T00:42:39.997Z",
   "client": {
     "name": "Alpha-Plumbing Services, LLC",
     "canonicalUrl": "https://alpha-plumbing.aiovisibility.net",
@@ -241,7 +241,7 @@
   },
   "package": {
     "totalFiles": 2740,
-    "totalBytes": 9896707,
+    "totalBytes": 9905532,
     "stats": {
       "qna": 0,
       "faqs": 1935,
@@ -13927,7 +13927,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 6953,
+        "bytes": 7843,
         "purpose": "LLM hint"
       },
       {
@@ -13947,32 +13947,32 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1690,
+        "bytes": 4086,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 1179180,
+        "bytes": 1181159,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 327692,
+        "bytes": 328582,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 327692,
+        "bytes": 328582,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 6946,
+        "bytes": 7836,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 401719,
+        "bytes": 402609,
         "purpose": "Repository README"
       },
       {
@@ -13992,6 +13992,25 @@
       "url": "https://github.com/AIOVisibilityHub/alpha-plumbing-services-llc-ai-schemas-wu6w",
       "pagesUrl": "https://alpha-plumbing.aiovisibility.net/",
       "repo": "AIOVisibilityHub/alpha-plumbing-services-llc-ai-schemas-wu6w"
+    },
+    "gitlab": {
+      "url": "https://gitlab.com/aiovisibilityhub/alpha-plumbing-services-llc-ai-schemas-7dv4",
+      "pagesUrl": "https://alpha-plumbing-services-llc-ai-schemas-7dv4-3dd06d.gitlab.io/"
+    },
+    "codeberg": {
+      "url": "https://codeberg.org/aiovisibilityhub/alpha-plumbing-services-llc-ai-schemas",
+      "pagesUrl": "https://aiovisibilityhub.codeberg.page/alpha-plumbing-services-llc-ai-schemas/",
+      "repo": "aiovisibilityhub/alpha-plumbing-services-llc-ai-schemas"
+    },
+    "kaggle": {
+      "url": "https://www.kaggle.com/datasets/aiovisibilityhub/alpha-plumbing-services-llc-ai-schemas"
+    },
+    "sourcehut": {
+      "url": "https://aiovisibilityhub.srht.site/",
+      "pagesUrl": "https://aiovisibilityhub.srht.site/"
+    },
+    "zenodo": {
+      "url": "https://zenodo.org/record/23129473"
     }
   }
 }
