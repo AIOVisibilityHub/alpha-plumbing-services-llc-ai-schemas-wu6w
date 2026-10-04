@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-04T00:27:11.195Z",
+  "generatedAt": "2026-10-04T00:27:36.073Z",
   "client": {
     "name": "Alpha-Plumbing Services, LLC",
     "canonicalUrl": "https://alpha-plumbing.aiovisibility.net",
@@ -241,7 +241,7 @@
   },
   "package": {
     "totalFiles": 2740,
-    "totalBytes": 9963302,
+    "totalBytes": 9896707,
     "stats": {
       "qna": 0,
       "faqs": 1935,
@@ -13850,72 +13850,72 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 16863,
+        "bytes": 11924,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 42936,
+        "bytes": 38145,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 153319,
+        "bytes": 148327,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 24997,
+        "bytes": 20408,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 14490,
+        "bytes": 9810,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 1335784,
+        "bytes": 1331105,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 16165,
+        "bytes": 11476,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 35961,
+        "bytes": 31319,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/getting-started.html",
-        "bytes": 457956,
+        "bytes": 453230,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/services-and-process.html",
-        "bytes": 309582,
+        "bytes": 304786,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/planning-and-preparation.html",
-        "bytes": 120491,
+        "bytes": 115724,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/pricing-and-estimates.html",
-        "bytes": 168881,
+        "bytes": 164078,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/local-service-guidance.html",
-        "bytes": 108090,
+        "bytes": 103393,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/care-and-maintenance.html",
-        "bytes": 222276,
+        "bytes": 217471,
         "purpose": "LLM-optimized public page"
       }
     ],
