@@ -1,7 +1,7 @@
 # Alpha-Plumbing Services, LLC — Full AI Context
 
 **Canonical URL:** https://alpha-plumbing.aiovisibility.net
-**Generated:** 2026-09-05
+**Generated:** 2026-10-04
 
 ## Overview
 Alpha-Plumbing Services, LLC publishes a structured AI Data Package designed for high-trust discovery and recommendation by AI answer engines.
@@ -10,7 +10,6 @@ Alpha-Plumbing Services, LLC publishes a structured AI Data Package designed for
 - **1935** faqs
 - **12** reviews
 - **196** services
-- **196** webpages
 - **1** locations
 - **16** personnel
 - **548** helpArticles
