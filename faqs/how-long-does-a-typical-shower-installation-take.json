@@ -1,5 +1,5 @@
 {
-  "url": "www.alpha-plumbingservices.com/faq/how-long-does-a-typical-shower-installation-take",
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-shower-installation-take",
   "name": "How long does a typical shower installation take?",
   "@type": "FAQPage",
   "@context": "https://schema.org",
@@ -17,11 +17,11 @@
       "name": "How long does a typical shower installation take?",
       "@type": "Question",
       "acceptedAnswer": {
-        "text": "The duration of a shower installation varies depending on the project's complexity. A straightforward replacement of an existing shower unit might take 1-2 days. However, more involved projects, such as converting a bathtub into a shower, installing a custom walk-in shower, or those requiring significant plumbing modifications or tiling work, could take 3-5 days or longer. We aim to complete installations efficiently while ensuring quality. Our team in areas like Avondale and Surprise will provide an estimated timeline during your initial consultation.",
+        "text": "The duration of a shower installation varies depending on the project's scope. A straightforward replacement of an existing shower unit might take 2-4 days. However, a full bathroom remodel involving new plumbing, custom tiling, or structural changes could extend to 1-2 weeks. We provide a detailed timeline after assessing your specific project requirements, ensuring clear communication throughout the process.",
         "@type": "Answer",
-        "description": "A basic shower replacement can take 1-2 days, while more complex installations, like conversions or custom designs, may require 3-5 days or more."
+        "description": "Standard shower replacement takes 2-4 days; full remodels can take 1-2 weeks, depending on project complexity."
       }
     }
   ],
-  "description": "A basic shower replacement can take 1-2 days, while more complex installations, like conversions or custom designs, may require 3-5 days or more."
+  "description": "Standard shower replacement takes 2-4 days; full remodels can take 1-2 weeks, depending on project complexity."
 }
