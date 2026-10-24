@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-it-take-to-clear-a-clogged-shower-drain",
+  "name": "How long does it take to clear a clogged shower drain?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to clear a clogged shower drain?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time it takes to clear a clogged shower drain can vary significantly. Simple clogs, such as those caused by hair and soap scum near the drain opening, can often be cleared in under an hour by a professional. More complex or deeply embedded clogs, those requiring camera inspection, or hydro-jetting for thorough cleaning, might take a few hours to complete. Factors like the age and condition of your plumbing system can also influence the duration. Alpha-Plumbing Services works efficiently to resolve the issue while ensuring a complete and lasting solution.",
+        "@type": "Answer",
+        "description": "Clearing a shower drain clog can take under an hour for simple issues, but more complex clogs or those requiring specialized tools might take a few hours."
+      }
+    }
+  ],
+  "description": "Clearing a shower drain clog can take under an hour for simple issues, but more complex clogs or those requiring specialized tools might take a few hours."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-can-i-do-to-prevent-future-drain-clogs",
+  "name": "What can I do to prevent future drain clogs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What can I do to prevent future drain clogs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preventing drain clogs involves consistent good practices. Avoid pouring grease, oils, or coffee grounds down drains. Use drain screens in sinks and showers to catch hair and food particles. Be mindful of what you flush down toilets, limiting it to human waste and toilet paper. Regularly flush drains with hot water, and for garbage disposals, run cold water while operating and for a few seconds afterward. Periodic professional maintenance, as recommended, also plays a crucial role in preventing buildup and ensuring your drains remain clear and functional.",
+        "@type": "Answer",
+        "description": "Prevent clogs by avoiding grease and coffee grounds, using drain screens, flushing only appropriate items, and running hot water regularly."
+      }
+    }
+  ],
+  "description": "Prevent clogs by avoiding grease and coffee grounds, using drain screens, flushing only appropriate items, and running hot water regularly."
+}

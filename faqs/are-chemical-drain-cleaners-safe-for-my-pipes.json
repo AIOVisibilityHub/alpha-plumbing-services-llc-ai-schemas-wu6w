@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/are-chemical-drain-cleaners-safe-for-my-pipes",
+  "name": "Are chemical drain cleaners safe for my pipes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are chemical drain cleaners safe for my pipes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Chemical drain cleaners can be harsh and are generally not recommended for frequent use. While they might temporarily clear a minor clog, their corrosive nature can damage pipes over time, especially older or PVC pipes, leading to leaks or premature pipe failure. They can also be dangerous if mixed with other chemicals or if they don't clear the clog and a plumber needs to intervene. Professional methods are safer and more effective.",
+        "@type": "Answer",
+        "description": "Chemical drain cleaners can damage pipes and are generally not recommended for frequent use. They are corrosive and less effective than professional methods."
+      }
+    }
+  ],
+  "description": "Chemical drain cleaners can damage pipes and are generally not recommended for frequent use. They are corrosive and less effective than professional methods."
+}

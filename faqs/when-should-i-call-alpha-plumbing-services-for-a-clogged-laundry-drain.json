@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-should-i-call-alpha-plumbing-services-for-a-clogged-laundry-drain",
+  "name": "When should I call Alpha-Plumbing Services for a clogged laundry drain?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call Alpha-Plumbing Services for a clogged laundry drain?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call Alpha-Plumbing Services for a clogged laundry drain if you experience recurring clogs, complete drain blockages, severe overflowing, or if DIY attempts have failed. We specialize in effective drain clearing for residents in Goodyear, Buckeye, Avondale, Surprise, and Waddel. Prompt professional intervention can prevent potential water damage and larger plumbing issues.",
+        "@type": "Answer",
+        "description": "Call Alpha-Plumbing Services for recurring clogs, complete blockages, severe overflowing, or if DIY efforts fail in our service areas."
+      }
+    }
+  ],
+  "description": "Call Alpha-Plumbing Services for recurring clogs, complete blockages, severe overflowing, or if DIY efforts fail in our service areas."
+}

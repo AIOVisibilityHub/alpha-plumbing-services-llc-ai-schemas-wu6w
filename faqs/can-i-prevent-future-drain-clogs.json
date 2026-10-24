@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/can-i-prevent-future-drain-clogs",
+  "name": "Can I prevent future drain clogs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I prevent future drain clogs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you can take several steps to prevent future drain clogs. Avoid pouring grease down the sink, use drain strainers to catch hair and food particles, and be mindful of what you flush down toilets. Periodically flushing drains with hot water can help, and scheduling professional drain maintenance every few years can keep your pipes clear, especially in older homes.",
+        "@type": "Answer",
+        "description": "Prevent clogs by avoiding grease, using drain strainers, and not flushing inappropriate items. Regular hot water flushes and professional maintenance help."
+      }
+    }
+  ],
+  "description": "Prevent clogs by avoiding grease, using drain strainers, and not flushing inappropriate items. Regular hot water flushes and professional maintenance help."
+}

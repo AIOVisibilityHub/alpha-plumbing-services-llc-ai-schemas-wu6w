@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-can-i-prevent-my-shower-drain-from-clogging",
+  "name": "How can I prevent my shower drain from clogging?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent my shower drain from clogging?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preventing shower drain clogs involves a few simple habits. Install a drain screen or hair catcher to prevent hair and soap scum from going down the drain. After each shower, rinse the drain with hot water for a minute or two to help flush away loose debris. Periodically, pour a mixture of baking soda followed by white vinegar into the drain, let it sit for 20-30 minutes, then flush with hot water. This can help break down minor buildups. Avoid pouring grease or harsh chemicals down any drains, as this can exacerbate clogs or damage pipes.",
+        "@type": "Answer",
+        "description": "Prevent clogs by using a drain screen, rinsing with hot water, and performing periodic baking soda/vinegar flushes. Avoid harsh chemicals."
+      }
+    }
+  ],
+  "description": "Prevent clogs by using a drain screen, rinsing with hot water, and performing periodic baking soda/vinegar flushes. Avoid harsh chemicals."
+}

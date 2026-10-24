@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-should-i-do-if-my-bathroom-sink-is-draining-slowly",
+  "name": "What should I do if my bathroom sink is draining slowly?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if my bathroom sink is draining slowly?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your bathroom sink is draining slowly, the most common culprit is hair, soap residue, and toothpaste accumulation. First, try removing the pop-up stopper and cleaning any visible debris. For deeper clogs, you can attempt using a plumbing snake or a mixture of baking soda and vinegar followed by hot water. Avoid harsh chemical drain cleaners, as they can damage pipes over time. If these methods don't work, it's best to call a professional plumber to diagnose and resolve the issue.",
+        "@type": "Answer",
+        "description": "Clean the pop-up stopper to remove hair and soap. Try baking soda and vinegar for deeper clogs. If issues persist, contact a plumber."
+      }
+    }
+  ],
+  "description": "Clean the pop-up stopper to remove hair and soap. Try baking soda and vinegar for deeper clogs. If issues persist, contact a plumber."
+}

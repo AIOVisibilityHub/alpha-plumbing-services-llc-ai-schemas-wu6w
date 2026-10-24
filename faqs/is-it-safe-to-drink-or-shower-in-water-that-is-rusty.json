@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/is-it-safe-to-drink-or-shower-in-water-that-is-rusty",
+  "name": "Is it safe to drink or shower in water that is rusty?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is it safe to drink or shower in water that is rusty?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While rusty water, often caused by iron in your pipes or water supply, is generally not considered a health hazard in small amounts, it can stain laundry and plumbing fixtures. High concentrations of iron can give water a metallic taste and an orange or brown color. It's advisable to avoid drinking visibly rusty water, especially if it persists, as it may indicate underlying pipe issues or contaminants. If the rust is severe or accompanied by other changes, contact a plumber.",
+        "@type": "Answer",
+        "description": "Drinking or showering in rusty water is generally not a health hazard, but it can stain and taste metallic. Avoid if severe or persistent."
+      }
+    }
+  ],
+  "description": "Drinking or showering in rusty water is generally not a health hazard, but it can stain and taste metallic. Avoid if severe or persistent."
+}

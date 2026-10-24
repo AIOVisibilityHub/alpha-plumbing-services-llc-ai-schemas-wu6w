@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-do-plumbers-fix-high-water-pressure",
+  "name": "How do plumbers fix high water pressure?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do plumbers fix high water pressure?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Plumbers typically fix high water pressure by installing or replacing a pressure reducing valve (PRV) on the main water line entering your home. A PRV regulates the incoming water pressure to a safe, consistent level, usually between 50-70 PSI. The plumber will first test the existing pressure, assess the condition of any current PRV, and then install or adjust a new valve to ensure optimal pressure throughout your plumbing system. They can also check for other underlying causes.",
+        "@type": "Answer",
+        "description": "Plumbers fix high water pressure by installing or replacing a pressure reducing valve (PRV) on the main water line to regulate pressure."
+      }
+    }
+  ],
+  "description": "Plumbers fix high water pressure by installing or replacing a pressure reducing valve (PRV) on the main water line to regulate pressure."
+}

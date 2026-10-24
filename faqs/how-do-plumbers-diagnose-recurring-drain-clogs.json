@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-do-plumbers-diagnose-recurring-drain-clogs",
+  "name": "How do plumbers diagnose recurring drain clogs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do plumbers diagnose recurring drain clogs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Plumbers diagnose recurring clogs using various methods. A common approach is a video pipe inspection, where a small camera is inserted into the drain line to visually identify blockages, pipe damage, or root intrusion. They may also use hydro-jetting to clear stubborn blockages and assess flow. These tools provide a clear understanding of the problem's exact location and nature, allowing for targeted repairs.",
+        "@type": "Answer",
+        "description": "Plumbers use video pipe inspections to visually identify blockages or pipe damage, and hydro-jetting to clear stubborn clogs and assess flow."
+      }
+    }
+  ],
+  "description": "Plumbers use video pipe inspections to visually identify blockages or pipe damage, and hydro-jetting to clear stubborn clogs and assess flow."
+}

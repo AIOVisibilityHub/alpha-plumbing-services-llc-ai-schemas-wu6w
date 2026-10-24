@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-typical-process-for-drain-backup-repair",
+  "name": "What is the typical process for drain backup repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for drain backup repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The drain backup repair process typically begins with a diagnosis to identify the cause and location of the blockage, often using a video pipe inspection. Once identified, technicians might use snaking tools, hydro-jetting (high-pressure water), or augers to clear the obstruction. For more severe issues like tree root intrusion or damaged pipes, excavation or trenchless repair methods may be required. Post-repair, the system is tested to ensure proper flow.",
+        "@type": "Answer",
+        "description": "The process involves diagnosing the cause, clearing the blockage with tools like snakes or hydro-jetting, and then testing the system."
+      }
+    }
+  ],
+  "description": "The process involves diagnosing the cause, clearing the blockage with tools like snakes or hydro-jetting, and then testing the system."
+}

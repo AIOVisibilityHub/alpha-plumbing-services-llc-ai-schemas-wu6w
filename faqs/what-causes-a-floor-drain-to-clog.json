@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-causes-a-floor-drain-to-clog",
+  "name": "What causes a floor drain to clog?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes a floor drain to clog?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Floor drains often clog due to a buildup of debris like hair, soap scum, dirt, grease, and small objects. In utility rooms or garages, sediment, lint from laundry, or even pet hair can accumulate. Over time, these materials combine to form blockages that restrict water flow. Occasionally, issues like pipe corrosion or tree root intrusion in older pipes can also contribute to recurrent clogging, requiring professional assessment.",
+        "@type": "Answer",
+        "description": "Floor drains typically clog due to accumulated hair, soap scum, dirt, grease, and other debris that restricts water flow."
+      }
+    }
+  ],
+  "description": "Floor drains typically clog due to accumulated hair, soap scum, dirt, grease, and other debris that restricts water flow."
+}

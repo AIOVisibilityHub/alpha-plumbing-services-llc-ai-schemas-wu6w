@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/why-is-my-faucet-water-brown",
+  "name": "Why is my faucet water brown?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is my faucet water brown?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Brown water from your faucet is typically caused by rust or sediment in the plumbing system. This can originate from various sources, including municipal water main breaks, fire hydrant flushing, or issues within your home's internal pipes, especially if they are older and made of galvanized steel or iron. It can also occur after periods of low water usage, allowing sediment to settle and then be stirred up when water flow resumes. While often harmless in small amounts, it's a good idea to identify the cause.",
+        "@type": "Answer",
+        "description": "Brown water is usually caused by rust or sediment from disturbed water mains, fire hydrant flushing, or older internal plumbing pipes."
+      }
+    }
+  ],
+  "description": "Brown water is usually caused by rust or sediment from disturbed water mains, fire hydrant flushing, or older internal plumbing pipes."
+}

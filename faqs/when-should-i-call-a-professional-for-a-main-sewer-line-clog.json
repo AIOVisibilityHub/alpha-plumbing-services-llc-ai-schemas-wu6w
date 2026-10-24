@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-should-i-call-a-professional-for-a-main-sewer-line-clog",
+  "name": "When should I call a professional for a main sewer line clog?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for a main sewer line clog?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional plumber for a main sewer line clog as soon as you notice widespread drainage issues, such as multiple fixtures backing up simultaneously, sewage odors, or wastewater returning through drains. Unlike a single clogged sink, a main line issue affects your entire plumbing system and can lead to significant water damage or health hazards if not addressed promptly. DIY attempts on a main line can often worsen the problem or cause damage to your pipes. Professionals have the right tools and expertise to diagnose and resolve the issue safely and efficiently.",
+        "@type": "Answer",
+        "description": "Call a professional for a main sewer line clog immediately if you notice widespread drainage issues, sewage odors, or wastewater backing up, as DIY attempts can worsen the problem."
+      }
+    }
+  ],
+  "description": "Call a professional for a main sewer line clog immediately if you notice widespread drainage issues, sewage odors, or wastewater backing up, as DIY attempts can"
+}

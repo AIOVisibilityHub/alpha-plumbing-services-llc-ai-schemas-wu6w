@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/why-are-my-pipes-making-a-hammering-noise",
+  "name": "Why are my pipes making a hammering noise?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why are my pipes making a hammering noise?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hammering noises, often called 'water hammer,' occur when water flowing through pipes is abruptly stopped or changes direction, causing a shockwave. This can be due to quickly closing faucets, malfunctioning shut-off valves, or loose pipes allowing movement. Over time, water hammer can damage pipes and connections, leading to leaks. It's advisable to have a professional plumber assess the cause and recommend a solution, which might include installing water hammer arrestors or securing loose piping.",
+        "@type": "Answer",
+        "description": "Pipes make hammering noises, known as water hammer, when water flow is abruptly stopped or changes direction. This can damage pipes over time."
+      }
+    }
+  ],
+  "description": "Pipes make hammering noises, known as water hammer, when water flow is abruptly stopped or changes direction. This can damage pipes over time."
+}

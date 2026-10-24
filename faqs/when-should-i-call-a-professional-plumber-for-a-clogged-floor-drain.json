@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-should-i-call-a-professional-plumber-for-a-clogged-floor-drain",
+  "name": "When should I call a professional plumber for a clogged floor drain?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional plumber for a clogged floor drain?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional plumber if chemical drain cleaners fail to clear the clog, or if the clog recurs frequently. If multiple drains in your home are slow or backed up, it could indicate a more significant issue in your main sewer line, which requires expert diagnosis. Additionally, if you suspect damage to your pipes or are dealing with a severe blockage you can't identify, professional intervention is recommended to prevent further problems.",
+        "@type": "Answer",
+        "description": "Call a plumber if drain cleaners fail, clogs recur often, multiple drains are affected, or if you suspect a main sewer line issue or pipe damage."
+      }
+    }
+  ],
+  "description": "Call a plumber if drain cleaners fail, clogs recur often, multiple drains are affected, or if you suspect a main sewer line issue or pipe damage."
+}

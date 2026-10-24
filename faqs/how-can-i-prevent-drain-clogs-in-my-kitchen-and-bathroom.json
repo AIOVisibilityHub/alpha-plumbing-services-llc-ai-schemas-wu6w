@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-can-i-prevent-drain-clogs-in-my-kitchen-and-bathroom",
+  "name": "How can I prevent drain clogs in my kitchen and bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent drain clogs in my kitchen and bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preventing drain clogs involves consistent habits. In the kitchen, avoid pouring grease, oil, or fat down the drain, and use drain screens to catch food particles. Scrape plates into the trash before rinsing. In the bathroom, install hair catchers in showers and tubs, and avoid flushing anything other than toilet paper. Periodically flush drains with hot water, and consider using enzyme-based drain cleaners for maintenance, which are less harmful than chemical ones. Regular professional drain cleaning can also help prevent major issues.",
+        "@type": "Answer",
+        "description": "Prevent clogs by avoiding grease and food debris in kitchen drains, using hair catchers in bathrooms, and only flushing toilet paper."
+      }
+    }
+  ],
+  "description": "Prevent clogs by avoiding grease and food debris in kitchen drains, using hair catchers in bathrooms, and only flushing toilet paper."
+}

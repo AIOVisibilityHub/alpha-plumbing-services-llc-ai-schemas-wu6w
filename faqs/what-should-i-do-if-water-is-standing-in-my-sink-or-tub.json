@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-should-i-do-if-water-is-standing-in-my-sink-or-tub",
+  "name": "What should I do if water is standing in my sink or tub?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if water is standing in my sink or tub?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "First, avoid using the affected fixture to prevent overflow. You can try a plunger to dislodge minor clogs. If plunging doesn't work, avoid using chemical drain cleaners, as they can damage pipes and aren't always effective. For persistent standing water, it's best to contact a professional plumber. They can diagnose the exact cause and safely remove the obstruction without harming your plumbing system.",
+        "@type": "Answer",
+        "description": "Stop using the fixture. Try a plunger, but avoid chemical drain cleaners. If the problem persists, call a professional plumber."
+      }
+    }
+  ],
+  "description": "Stop using the fixture. Try a plunger, but avoid chemical drain cleaners. If the problem persists, call a professional plumber."
+}

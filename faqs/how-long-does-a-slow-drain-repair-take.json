@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-a-slow-drain-repair-take",
+  "name": "How long does a slow drain repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a slow drain repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a slow drain repair can vary. Simple clogs addressed with snaking might take an hour or two. More complex issues requiring camera inspection, hydro-jetting, or main line work could take longer, potentially a few hours or, in rare cases, a full day for extensive repairs. We aim to complete repairs efficiently while ensuring the problem is resolved thoroughly, minimizing disruption to your home.",
+        "@type": "Answer",
+        "description": "Repair time varies; simple clogs take 1-2 hours, while complex issues like main line work can take several hours or longer."
+      }
+    }
+  ],
+  "description": "Repair time varies; simple clogs take 1-2 hours, while complex issues like main line work can take several hours or longer."
+}

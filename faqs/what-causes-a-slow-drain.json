@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-causes-a-slow-drain",
+  "name": "What causes a slow drain?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes a slow drain?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Slow drains are commonly caused by a buildup of hair, soap scum, grease, food particles, or mineral deposits within the pipes. Over time, these materials accumulate, narrowing the pipe's diameter and restricting water flow. In some cases, tree roots infiltrating outdoor pipes or structural damage to plumbing can also contribute to slow drainage issues. Identifying the specific cause is key to effective repair.",
+        "@type": "Answer",
+        "description": "Slow drains are typically caused by blockages like hair, soap scum, grease, or mineral deposits. Tree roots or pipe damage can also be factors."
+      }
+    }
+  ],
+  "description": "Slow drains are typically caused by blockages like hair, soap scum, grease, or mineral deposits. Tree roots or pipe damage can also be factors."
+}

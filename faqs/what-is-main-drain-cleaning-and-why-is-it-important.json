@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-main-drain-cleaning-and-why-is-it-important",
+  "name": "What is main drain cleaning and why is it important?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is main drain cleaning and why is it important?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Main drain cleaning addresses blockages in your home's primary sewer line, which connects all your household drains to the municipal sewer system or septic tank. Over time, debris like grease, hair, food particles, and tree roots can accumulate, leading to slow drains, gurgling noises, and ultimately, sewage backups. Regular cleaning prevents these issues, maintains proper wastewater flow, and protects your home from potentially costly and unsanitary flooding. It helps extend the life of your plumbing system by reducing strain on the pipes.",
+        "@type": "Answer",
+        "description": "Main drain cleaning clears blockages in your home's primary sewer line, preventing backups and maintaining proper wastewater flow."
+      }
+    }
+  ],
+  "description": "Main drain cleaning clears blockages in your home's primary sewer line, preventing backups and maintaining proper wastewater flow."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-should-i-call-a-professional-for-a-clogged-drain",
+  "name": "When should I call a professional for a clogged drain?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for a clogged drain?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional plumber if home remedies like plungers or store-bought drain cleaners don't resolve the clog. Recurring clogs, foul odors, or multiple slow-draining fixtures often indicate a deeper issue that requires specialized tools and expertise, such as hydro-jetting or snaking. Persistent problems suggest a professional assessment is needed to prevent further damage.",
+        "@type": "Answer",
+        "description": "Call a professional if home remedies fail, clogs are recurring, or multiple fixtures are affected. Persistent issues often indicate a deeper problem."
+      }
+    }
+  ],
+  "description": "Call a professional if home remedies fail, clogs are recurring, or multiple fixtures are affected. Persistent issues often indicate a deeper problem."
+}

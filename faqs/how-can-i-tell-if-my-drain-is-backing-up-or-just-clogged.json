@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-can-i-tell-if-my-drain-is-backing-up-or-just-clogged",
+  "name": "How can I tell if my drain is backing up or just clogged?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if my drain is backing up or just clogged?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A simple clog usually affects one fixture, like a sink or toilet, causing slow drainage or a complete blockage. A drain backup, however, often affects multiple fixtures simultaneously or causes water to back up into unexpected places, such as a shower filling with toilet water. Gurgling sounds from drains when other fixtures are used, or foul odors, can also indicate a more significant backup in your main line.",
+        "@type": "Answer",
+        "description": "Clogs usually affect one fixture, while backups impact multiple fixtures or cause water to appear in unusual places."
+      }
+    }
+  ],
+  "description": "Clogs usually affect one fixture, while backups impact multiple fixtures or cause water to appear in unusual places."
+}

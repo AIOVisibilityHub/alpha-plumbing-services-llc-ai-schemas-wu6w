@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-areas-do-you-serve-for-slow-drain-repair",
+  "name": "What areas do you serve for slow drain repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas do you serve for slow drain repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Alpha-Plumbing Services, LLC proudly serves several communities in Arizona for all slow drain repair needs. Our service areas include Goodyear, Buckeye, Avondale, Surprise, and Waddel. If you are experiencing slow drainage issues in these locations, our experienced team is ready to provide prompt and reliable plumbing solutions right to your door.",
+        "@type": "Answer",
+        "description": "We serve Goodyear, Buckeye, Avondale, Surprise, and Waddel for slow drain repair needs."
+      }
+    }
+  ],
+  "description": "We serve Goodyear, Buckeye, Avondale, Surprise, and Waddel for slow drain repair needs."
+}

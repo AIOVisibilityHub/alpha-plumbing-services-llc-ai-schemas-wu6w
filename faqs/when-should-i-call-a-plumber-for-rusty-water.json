@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-should-i-call-a-plumber-for-rusty-water",
+  "name": "When should I call a plumber for rusty water?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a plumber for rusty water?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a plumber for rusty water if the problem is persistent, only affects hot water, or if running your cold water faucets for 15-30 minutes doesn't clear it up. If the rusty water is accompanied by low water pressure, a metallic smell, or significant staining, it's also time to call. These signs can indicate serious issues like corroding pipes, a failing water heater, or problems with your main water supply line that require professional diagnosis and repair.",
+        "@type": "Answer",
+        "description": "Call a plumber if rusty water is persistent, only hot, doesn't clear after running faucets, or has low pressure, smell, or staining."
+      }
+    }
+  ],
+  "description": "Call a plumber if rusty water is persistent, only hot, doesn't clear after running faucets, or has low pressure, smell, or staining."
+}

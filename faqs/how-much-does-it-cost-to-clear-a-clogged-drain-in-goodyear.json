@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-much-does-it-cost-to-clear-a-clogged-drain-in-goodyear",
+  "name": "How much does it cost to clear a clogged drain in Goodyear?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to clear a clogged drain in Goodyear?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to clear a clogged drain in Goodyear varies depending on the severity and location of the clog. Simple clogs in an accessible sink are generally less expensive than main sewer line blockages, which require more extensive work and specialized equipment. We offer transparent pricing after assessing the situation. We provide estimates before starting any work.",
+        "@type": "Answer",
+        "description": "Drain cleaning costs in Goodyear depend on the clog's severity and location. Simple clogs are less expensive than main line issues. We provide estimates."
+      }
+    }
+  ],
+  "description": "Drain cleaning costs in Goodyear depend on the clog's severity and location. Simple clogs are less expensive than main line issues. We provide estimates."
+}

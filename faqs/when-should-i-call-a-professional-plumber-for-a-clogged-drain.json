@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-should-i-call-a-professional-plumber-for-a-clogged-drain",
+  "name": "When should I call a professional plumber for a clogged drain?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional plumber for a clogged drain?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional plumber if you have a persistent clog that DIY methods can't clear, or if multiple drains in your home are slow or backed up. Gurgling sounds from drains or toilets, unpleasant odors, or water backing up into other fixtures are also signs of a more significant issue, potentially deeper in your plumbing system or sewer line. Professionals have specialized tools like augers and hydro-jetting equipment to effectively clear stubborn blockages without damaging your pipes.",
+        "@type": "Answer",
+        "description": "Call a plumber for persistent clogs, multiple slow drains, gurgling noises, foul odors, or water backing up into other fixtures."
+      }
+    }
+  ],
+  "description": "Call a plumber for persistent clogs, multiple slow drains, gurgling noises, foul odors, or water backing up into other fixtures."
+}

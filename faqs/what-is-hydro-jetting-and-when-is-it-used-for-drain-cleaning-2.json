@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-hydro-jetting-and-when-is-it-used-for-drain-cleaning-2",
+  "name": "What is hydro jetting and when is it used for drain cleaning?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is hydro jetting and when is it used for drain cleaning?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hydro jetting is an advanced drain cleaning method that uses highly pressurized water streams to clear stubborn blockages and clean the interior walls of pipes. This technique can remove grease, mineral buildup, tree roots, and other debris that traditional snaking might not fully dislodge. Hydro jetting is typically used when clogs are severe, recurring, or when plumbers want to ensure the pipes are thoroughly cleaned to prevent future issues. It's particularly effective for main sewer lines but can be used for smaller drains after a thorough inspection to ensure the pipes can withstand the high pressure.",
+        "@type": "Answer",
+        "description": "Hydro jetting uses high-pressure water to clear severe clogs and clean pipe interiors, effective for grease, roots, and stubborn buildup."
+      }
+    }
+  ],
+  "description": "Hydro jetting uses high-pressure water to clear severe clogs and clean pipe interiors, effective for grease, roots, and stubborn buildup."
+}

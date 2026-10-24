@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/why-are-all-the-drains-in-my-house-slow",
+  "name": "Why are all the drains in my house slow?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why are all the drains in my house slow?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If all or most of the drains in your home are slow, it often indicates a problem with the main sewer line rather than isolated clogs. A main line blockage can be caused by tree root intrusion, significant debris accumulation, or structural issues within the pipe. This situation requires immediate professional attention as it can lead to backups and potential water damage if not addressed quickly.",
+        "@type": "Answer",
+        "description": "Multiple slow drains usually point to a main sewer line issue, possibly from tree roots or a large blockage. This requires immediate professional assessment."
+      }
+    }
+  ],
+  "description": "Multiple slow drains usually point to a main sewer line issue, possibly from tree roots or a large blockage. This requires immediate professional assessment."
+}

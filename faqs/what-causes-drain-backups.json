@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-causes-drain-backups",
+  "name": "What causes drain backups?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes drain backups?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Drain backups are commonly caused by a buildup of materials like grease, hair, food particles, and soap scum that restrict water flow. Other causes can include foreign objects accidentally flushed down drains, tree roots infiltrating pipes, or structural damage to your plumbing system. Older homes might experience backups due to corroded or collapsed pipes. Understanding the cause is the first step in effective repair and prevention.",
+        "@type": "Answer",
+        "description": "Drain backups are typically caused by grease, hair, food, or foreign objects, but can also be due to tree roots or damaged pipes."
+      }
+    }
+  ],
+  "description": "Drain backups are typically caused by grease, hair, food, or foreign objects, but can also be due to tree roots or damaged pipes."
+}

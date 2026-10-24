@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-areas-do-you-serve-for-plumbing-home-inspections",
+  "name": "What areas do you serve for plumbing home inspections?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas do you serve for plumbing home inspections?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Alpha-Plumbing Services, LLC proudly offers plumbing home inspection services in Goodyear, Buckeye, Avondale, and Surprise. We focus our local expertise in these communities to provide prompt and reliable service. If you are located in one of these areas and need a thorough plumbing inspection, please reach out to schedule an appointment with our experienced team.",
+        "@type": "Answer",
+        "description": "Alpha-Plumbing Services offers plumbing home inspections in Goodyear, Buckeye, Avondale, and Surprise."
+      }
+    }
+  ],
+  "description": "Alpha-Plumbing Services offers plumbing home inspections in Goodyear, Buckeye, Avondale, and Surprise."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-common-signs-of-a-serious-plumbing-problem-related-to-slow-drains",
+  "name": "What are common signs of a serious plumbing problem related to slow drains?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs of a serious plumbing problem related to slow drains?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While a single slow-draining sink can be a minor issue, several signs point to a more serious plumbing problem. These include multiple slow drains throughout your home, especially on lower floors, which often indicate a main sewer line blockage. Foul odors emanating from multiple drains, gurgling sounds from toilets or sinks when water drains elsewhere, and water backing up into other fixtures are also serious indicators. If you notice these, contact a professional plumber immediately to prevent further damage.",
+        "@type": "Answer",
+        "description": "Multiple slow drains, foul odors, gurgling sounds, or water backing up in other fixtures signal a serious plumbing problem, likely a main sewer line issue."
+      }
+    }
+  ],
+  "description": "Multiple slow drains, foul odors, gurgling sounds, or water backing up in other fixtures signal a serious plumbing problem, likely a main sewer line issue."
+}

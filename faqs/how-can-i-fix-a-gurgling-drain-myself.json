@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-can-i-fix-a-gurgling-drain-myself",
+  "name": "How can I fix a gurgling drain myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I fix a gurgling drain myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For minor gurgling caused by a simple clog, you can try a few DIY methods. First, pour a kettle of boiling water down the drain. If that doesn't work, a plunger might dislodge the blockage. Ensure you have enough water in the sink to create a seal. For bathtub or shower drains, you can try to remove any hair or debris visible near the drain opening. Avoid chemical drain cleaners, as they can damage pipes and often only provide a temporary solution. If these steps don't work, a professional plumber is recommended.",
+        "@type": "Answer",
+        "description": "For minor clogs, try boiling water or a plunger. Avoid chemical cleaners. If unsuccessful, contact a plumber."
+      }
+    }
+  ],
+  "description": "For minor clogs, try boiling water or a plunger. Avoid chemical cleaners. If unsuccessful, contact a plumber."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-can-i-get-rid-of-a-sewage-smell-coming-from-my-drains",
+  "name": "How can I get rid of a sewage smell coming from my drains?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I get rid of a sewage smell coming from my drains?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A sewage or sewer gas smell from your drains typically indicates a problem with your plumbing system. The most common causes include a dry P-trap (the U-shaped pipe under sinks), a clogged or improperly vented drain, or a crack in a drain pipe. The P-trap is designed to hold water and block sewer gases. If it dries out, gases can escape. Pouring water down unused drains can replenish dry P-traps. If the problem persists after this simple step, further investigation by a plumber is recommended to check for more serious issues like vent blockages or pipe damage.",
+        "@type": "Answer",
+        "description": "A sewage smell from drains often means a dry P-trap or a plumbing vent issue. Pour water down drains first; if it persists, call a plumber."
+      }
+    }
+  ],
+  "description": "A sewage smell from drains often means a dry P-trap or a plumbing vent issue. Pour water down drains first; if it persists, call a plumber."
+}

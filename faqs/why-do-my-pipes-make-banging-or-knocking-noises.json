@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/why-do-my-pipes-make-banging-or-knocking-noises",
+  "name": "Why do my pipes make banging or knocking noises?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why do my pipes make banging or knocking noises?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Banging or knocking noises from pipes often indicate 'water hammer.' This occurs when water flow suddenly stops or changes direction, creating a pressure wave that causes pipes to vibrate and strike against walls or other objects. It can also be caused by loose pipes, high water pressure, or issues with air chambers designed to absorb pressure changes. Addressing the cause promptly can prevent potential damage to your plumbing system.",
+        "@type": "Answer",
+        "description": "Pipes bang due to 'water hammer' from sudden water flow changes, loose pipes, or high water pressure. This can cause vibrations and potential damage."
+      }
+    }
+  ],
+  "description": "Pipes bang due to 'water hammer' from sudden water flow changes, loose pipes, or high water pressure. This can cause vibrations and potential damage."
+}

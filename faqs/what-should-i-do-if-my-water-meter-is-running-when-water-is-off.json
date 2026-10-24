@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-should-i-do-if-my-water-meter-is-running-when-water-is-off",
+  "name": "What should I do if my water meter is running when water is off?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if my water meter is running when water is off?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you detect a continuous flow on your water meter with all water off, the immediate next step is to investigate for visible leaks such as running toilets or dripping faucets. If no obvious leak is found, it's crucial to contact a professional plumber. They have specialized equipment to pinpoint hidden leaks in walls, under slabs, or within irrigation systems. Ignoring a leak can lead to high water bills, structural damage, and mold growth.",
+        "@type": "Answer",
+        "description": "First, check for obvious leaks like running toilets. If none are found, contact a professional plumber to locate the hidden leak."
+      }
+    }
+  ],
+  "description": "First, check for obvious leaks like running toilets. If none are found, contact a professional plumber to locate the hidden leak."
+}

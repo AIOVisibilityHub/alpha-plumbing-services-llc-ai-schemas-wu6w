@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-do-plumbers-clear-a-main-sewer-line-clog",
+  "name": "How do plumbers clear a main sewer line clog?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do plumbers clear a main sewer line clog?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Plumbers use several methods to clear main sewer line clogs. Initially, they might attempt to clear it with a professional-grade auger or snake, which can break through many common obstructions. If the clog is severe or its exact nature is unknown, a sewer camera inspection is often performed to identify the cause and location precisely. For stubborn blockages like tree roots or heavy grease, hydro jetting, which uses high-pressure water to scour the inside of the pipe, is very effective. In rare cases of collapsed or severely damaged pipes, excavation and repair or replacement may be necessary.",
+        "@type": "Answer",
+        "description": "Plumbers typically clear main sewer line clogs using professional augers, sewer camera inspections, or hydro jetting. Severe damage may require pipe repair."
+      }
+    }
+  ],
+  "description": "Plumbers typically clear main sewer line clogs using professional augers, sewer camera inspections, or hydro jetting. Severe damage may require pipe repair."
+}

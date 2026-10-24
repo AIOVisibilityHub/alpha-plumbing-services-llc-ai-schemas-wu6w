@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/why-is-my-faucet-dispensing-rusty-water",
+  "name": "Why is my faucet dispensing rusty water?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is my faucet dispensing rusty water?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Rusty water from your faucet is typically caused by corroded pipes, especially if your home has older galvanized iron pipes. It can also be due to sediment or rust in your water heater, or maintenance work on the main water supply lines by your municipal water provider. Less commonly, it could indicate issues with your well pump or water main if you're on a private well system. Identifying the source is key to determining the appropriate repair.",
+        "@type": "Answer",
+        "description": "Rusty water is usually caused by corroded pipes, sediment in your water heater, or municipal water main work."
+      }
+    }
+  ],
+  "description": "Rusty water is usually caused by corroded pipes, sediment in your water heater, or municipal water main work."
+}

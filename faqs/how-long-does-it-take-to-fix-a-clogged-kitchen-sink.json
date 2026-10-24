@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-it-take-to-fix-a-clogged-kitchen-sink",
+  "name": "How long does it take to fix a clogged kitchen sink?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to fix a clogged kitchen sink?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time it takes to fix a clogged kitchen sink can vary greatly depending on the cause and severity of the blockage. Simple clogs, easily cleared with a snake or auger, might take less than an hour. More complex issues, such as deep main line blockages or those requiring extensive troubleshooting, camera inspections, or hydro-jetting, could take several hours. Our plumbers will assess the situation upon arrival and provide an estimated timeframe for repair.",
+        "@type": "Answer",
+        "description": "Repair time varies; simple clogs may take less than an hour, while complex issues could take several hours."
+      }
+    }
+  ],
+  "description": "Repair time varies; simple clogs may take less than an hour, while complex issues could take several hours."
+}

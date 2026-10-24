@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/can-i-prevent-my-floor-drain-from-clogging",
+  "name": "Can I prevent my floor drain from clogging?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I prevent my floor drain from clogging?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, preventive measures can significantly reduce the risk of clogs. Regularly clean the drain grate to remove hair and debris. Avoid pouring grease down the drain; instead, dispose of it in the trash. In laundry areas, consider lint traps for your washing machine discharge hose. Periodically flush the drain with hot water. For drains in areas like garages, sweep or vacuum before using water to prevent dirt from entering the drain.",
+        "@type": "Answer",
+        "description": "Prevent clogs by regularly cleaning the drain grate, avoiding pouring grease, using lint traps for laundry, and flushing with hot water."
+      }
+    }
+  ],
+  "description": "Prevent clogs by regularly cleaning the drain grate, avoiding pouring grease, using lint traps for laundry, and flushing with hot water."
+}

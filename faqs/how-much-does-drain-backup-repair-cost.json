@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-much-does-drain-backup-repair-cost",
+  "name": "How much does drain backup repair cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does drain backup repair cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of drain backup repair varies based on the severity and cause of the blockage, the tools required, and the location of the problem. Simple clogs cleared with snaking may be less expensive than issues requiring hydro-jetting or video inspection. More complex problems like tree root removal or pipe repair can incur higher costs due to the labor and specialized equipment involved. An estimate is typically provided after an initial assessment.",
+        "@type": "Answer",
+        "description": "Repair costs depend on the blockage's severity, cause, and required tools; complex issues like root removal are more expensive."
+      }
+    }
+  ],
+  "description": "Repair costs depend on the blockage's severity, cause, and required tools; complex issues like root removal are more expensive."
+}

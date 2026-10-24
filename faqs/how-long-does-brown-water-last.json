@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-brown-water-last",
+  "name": "How long does brown water last?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does brown water last?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of brown water depends on its cause. If it's due to a localized event like fire hydrant flushing or a minor disturbance in the water main, it typically clears up within a few hours after running your faucets. If the issue stems from a significant water main break or work on the municipal system, it could take longer, sometimes up to 24-48 hours. If the problem is internal to your home, such as corroded pipes, the brown water may reoccur frequently until the underlying issue is addressed by a plumber.",
+        "@type": "Answer",
+        "description": "Brown water usually clears within a few hours to a day, but can persist longer if due to major utility work or internal pipe issues."
+      }
+    }
+  ],
+  "description": "Brown water usually clears within a few hours to a day, but can persist longer if due to major utility work or internal pipe issues."
+}

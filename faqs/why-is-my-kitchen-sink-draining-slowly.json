@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/why-is-my-kitchen-sink-draining-slowly",
+  "name": "Why is my kitchen sink draining slowly?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is my kitchen sink draining slowly?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A slow-draining kitchen sink is often caused by a buildup of grease, food particles, and soap scum. Over time, these materials can cling to the inside of your drain pipes, narrowing the passage and impeding water flow. Using a garbage disposal can also contribute to this issue if too much fibrous or starchy waste is sent down the drain. Occasionally, the vent pipe for your plumbing system might be clogged, which can also cause slow drainage.",
+        "@type": "Answer",
+        "description": "Slow kitchen sink drainage is typically due to grease, food particles, and soap scum buildup in the pipes, or a clogged vent pipe."
+      }
+    }
+  ],
+  "description": "Slow kitchen sink drainage is typically due to grease, food particles, and soap scum buildup in the pipes, or a clogged vent pipe."
+}

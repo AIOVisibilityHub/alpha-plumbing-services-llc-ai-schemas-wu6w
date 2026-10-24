@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-can-i-prevent-my-sink-from-draining-slowly",
+  "name": "How can I prevent my sink from draining slowly?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent my sink from draining slowly?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preventing slow drains involves adopting good habits. In the kitchen, avoid pouring grease down the drain and scrape food scraps into the trash before washing dishes. For bathroom sinks, install drain covers to catch hair and soap scum. Regularly flush your drains with hot water, and consider pouring a mixture of baking soda and white vinegar down the drain followed by hot water once a month. These practices help keep pipes clear and minimize buildup.",
+        "@type": "Answer",
+        "description": "Prevent slow drains by avoiding grease and food scraps in kitchen sinks, using drain covers for hair in bathrooms, and flushing drains regularly with hot water or baking soda and vinegar."
+      }
+    }
+  ],
+  "description": "Prevent slow drains by avoiding grease and food scraps in kitchen sinks, using drain covers for hair in bathrooms, and flushing drains regularly with hot water"
+}

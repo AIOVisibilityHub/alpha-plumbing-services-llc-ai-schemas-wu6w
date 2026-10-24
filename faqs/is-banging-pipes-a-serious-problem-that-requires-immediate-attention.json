@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/is-banging-pipes-a-serious-problem-that-requires-immediate-attention",
+  "name": "Is banging pipes a serious problem that requires immediate attention?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is banging pipes a serious problem that requires immediate attention?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While occasional knocking might not be an immediate emergency, persistent or loud banging pipes should be addressed. Over time, the repeated impact from water hammer can weaken pipe joints, fittings, and even cause pipes to burst, leading to costly water damage. It's best to have a professional inspect the issue to prevent minor inconveniences from escalating into major plumbing repairs. Early intervention can save you significant time and money.",
+        "@type": "Answer",
+        "description": "Persistent banging pipes can indicate serious issues like water hammer, which may damage joints and cause leaks over time. Professional inspection is recommended to prevent costly repairs."
+      }
+    }
+  ],
+  "description": "Persistent banging pipes can indicate serious issues like water hammer, which may damage joints and cause leaks over time. Professional inspection is recommende"
+}

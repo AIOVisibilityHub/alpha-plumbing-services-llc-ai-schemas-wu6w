@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-areas-do-alpha-plumbing-services-llc-cover-for-drain-repair",
+  "name": "What areas do Alpha-Plumbing Services, LLC cover for drain repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas do Alpha-Plumbing Services, LLC cover for drain repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Alpha-Plumbing Services, LLC provides expert clogged drain repair services in Goodyear, Buckeye, Avondale, Surprise, and Waddell. Our team is equipped to handle various drain issues in residential and commercial properties throughout these communities. If you're experiencing a plumbing problem in these areas, please contact us for prompt assistance.",
+        "@type": "Answer",
+        "description": "Alpha-Plumbing Services, LLC covers clogged drain repair in Goodyear, Buckeye, Avondale, Surprise, and Waddell."
+      }
+    }
+  ],
+  "description": "Alpha-Plumbing Services, LLC covers clogged drain repair in Goodyear, Buckeye, Avondale, Surprise, and Waddell."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-causes-a-main-sewer-line-clog",
+  "name": "What causes a main sewer line clog?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes a main sewer line clog?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Main sewer line clogs are commonly caused by a variety of factors. Tree roots are a frequent culprit, as they can grow into pipes through small cracks, expanding and obstructing flow. Flushing non-biodegradable items like wet wipes, feminine hygiene products, or excessive paper towels can also lead to blockages. Grease buildup from cooking oils and fats poured down drains solidifies and traps debris. Finally, older pipes can deteriorate, collapse, or corrode, creating areas where waste accumulates. Regular maintenance and careful disposal practices can help prevent these issues.",
+        "@type": "Answer",
+        "description": "Main sewer line clogs are typically caused by tree roots, flushing non-biodegradable items, grease buildup, or deteriorating pipes."
+      }
+    }
+  ],
+  "description": "Main sewer line clogs are typically caused by tree roots, flushing non-biodegradable items, grease buildup, or deteriorating pipes."
+}

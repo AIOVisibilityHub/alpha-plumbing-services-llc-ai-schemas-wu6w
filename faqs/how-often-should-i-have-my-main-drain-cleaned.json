@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-often-should-i-have-my-main-drain-cleaned",
+  "name": "How often should I have my main drain cleaned?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should I have my main drain cleaned?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The frequency of main drain cleaning depends on several factors, including the age of your plumbing system, the presence of large trees near your sewer lines, and your household's usage habits. For most homes, an annual inspection and cleaning can help prevent serious issues. However, if you experience frequent clogs, slow drainage in multiple fixtures, or notice foul odors coming from drains, it's advisable to schedule a cleaning sooner. Proactive maintenance can save you from unexpected emergencies.",
+        "@type": "Answer",
+        "description": "Frequency varies, but annual cleaning is often recommended. Clean sooner if you notice slow drains or frequent clogs."
+      }
+    }
+  ],
+  "description": "Frequency varies, but annual cleaning is often recommended. Clean sooner if you notice slow drains or frequent clogs."
+}

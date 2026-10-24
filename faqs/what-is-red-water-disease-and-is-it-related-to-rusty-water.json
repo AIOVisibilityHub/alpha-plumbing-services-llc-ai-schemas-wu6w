@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-red-water-disease-and-is-it-related-to-rusty-water",
+  "name": "What is 'red water disease' and is it related to rusty water?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is 'red water disease' and is it related to rusty water?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "'Red water disease' is an informal term used to describe water discolored by iron or rust particles. It's not a disease in the medical sense but refers to the aesthetic problem of reddish-brown water from faucets. This discoloration is primarily caused by the oxidation of iron in old pipes, water mains, or well water systems. While it can make water unappetizing and stain fixtures, consuming it is generally not harmful, but it indicates a need to address the source of the iron contamination.",
+        "@type": "Answer",
+        "description": "'Red water disease' refers to water discolored by iron or rust from pipes or water mains, not a medical disease. It indicates iron contamination."
+      }
+    }
+  ],
+  "description": "'Red water disease' refers to water discolored by iron or rust from pipes or water mains, not a medical disease. It indicates iron contamination."
+}

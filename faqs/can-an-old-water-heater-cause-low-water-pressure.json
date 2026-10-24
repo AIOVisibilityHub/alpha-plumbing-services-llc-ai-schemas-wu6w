@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/can-an-old-water-heater-cause-low-water-pressure",
+  "name": "Can an old water heater cause low water pressure?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can an old water heater cause low water pressure?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, an old water heater can indeed contribute to low water pressure, though it's typically limited to the hot water supply. As water heaters age, sediment and mineral deposits can accumulate at the bottom of the tank and within the inlet and outlet pipes. This buildup restricts water flow, reducing the pressure of hot water. If you notice that only your hot water has low pressure, or if the problem seems worse after running hot water for a while, your water heater might be the culprit. Flushing the tank or, in severe cases, replacing the water heater, can often resolve this issue.",
+        "@type": "Answer",
+        "description": "An old water heater can cause low hot water pressure due to sediment buildup in the tank and pipes."
+      }
+    }
+  ],
+  "description": "An old water heater can cause low hot water pressure due to sediment buildup in the tank and pipes."
+}

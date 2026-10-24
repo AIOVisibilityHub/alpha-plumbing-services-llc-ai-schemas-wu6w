@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-much-does-it-cost-to-fix-a-clogged-bathroom-sink",
+  "name": "How much does it cost to fix a clogged bathroom sink?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to fix a clogged bathroom sink?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to fix a clogged bathroom sink varies depending on the severity and complexity of the clog. Simple clogs that can be cleared with basic tools might be less expensive than those requiring advanced equipment, such as hydro-jetting or drain camera inspection. Factors like the time of day (emergency service vs. regular hours) and the specific cause of the blockage also influence the final price. Alpha-Plumbing Services, LLC provides transparent pricing after an assessment. We recommend getting a detailed estimate before any work begins.",
+        "@type": "Answer",
+        "description": "Cost varies based on clog severity and required tools. Simple clogs are less expensive than complex ones. Emergency service and specific causes also influence pricing."
+      }
+    }
+  ],
+  "description": "Cost varies based on clog severity and required tools. Simple clogs are less expensive than complex ones. Emergency service and specific causes also influence p"
+}

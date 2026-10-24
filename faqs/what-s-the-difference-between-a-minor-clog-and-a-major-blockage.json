@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-s-the-difference-between-a-minor-clog-and-a-major-blockage",
+  "name": "What's the difference between a minor clog and a major blockage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a minor clog and a major blockage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A minor clog typically affects a single fixture, like a slow-draining bathroom sink, and can often be resolved with basic DIY methods such as a plunger or a small drain snake. Water might drain slowly but eventually clears. A major blockage, on the other hand, usually involves multiple fixtures, causes water to back up significantly, or results in gurgling sounds from various drains. These often indicate a deeper issue within the main drain line or a more severe accumulation of debris, requiring professional tools and expertise to clear.",
+        "@type": "Answer",
+        "description": "A minor clog affects one fixture with slow draining, while a major blockage impacts multiple drains, causes backups, or gurgling, indicating a deeper issue."
+      }
+    }
+  ],
+  "description": "A minor clog affects one fixture with slow draining, while a major blockage impacts multiple drains, causes backups, or gurgling, indicating a deeper issue."
+}

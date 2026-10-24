@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-causes-a-bathroom-sink-to-clog",
+  "name": "What causes a bathroom sink to clog?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes a bathroom sink to clog?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Bathroom sink clogs are commonly caused by a buildup of hair, soap scum, toothpaste, and grease over time. Hair is particularly problematic as it binds with other substances, creating a sticky obstruction. Mineral deposits from hard water can also contribute to narrowing pipes, making clogs more frequent. Sometimes, small objects accidentally falling down the drain can also create blockages. Regular maintenance, such as flushing with hot water and baking soda, can help prevent these common issues, but persistent clogs often require professional intervention.",
+        "@type": "Answer",
+        "description": "Bathroom sink clogs are typically caused by accumulated hair, soap scum, toothpaste, and grease, which create obstructions in the drainpipe."
+      }
+    }
+  ],
+  "description": "Bathroom sink clogs are typically caused by accumulated hair, soap scum, toothpaste, and grease, which create obstructions in the drainpipe."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-should-i-call-a-professional-plumber-for-recurring-drain-clogs",
+  "name": "When should I call a professional plumber for recurring drain clogs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional plumber for recurring drain clogs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should contact a professional plumber if clogs return shortly after being cleared, if multiple drains are affected simultaneously, or if you notice foul odors or slow drainage throughout your property. These symptoms often point to a main line issue or significant pipe damage that DIY methods cannot address. Early intervention can prevent more extensive and costly repairs.",
+        "@type": "Answer",
+        "description": "Call a plumber if clogs return quickly, multiple drains are affected, or you notice foul odors. These indicate a main line or significant pipe issue."
+      }
+    }
+  ],
+  "description": "Call a plumber if clogs return quickly, multiple drains are affected, or you notice foul odors. These indicate a main line or significant pipe issue."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-much-does-it-cost-to-fix-rusty-water-from-pipes",
+  "name": "How much does it cost to fix rusty water from pipes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to fix rusty water from pipes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to fix rusty water varies significantly depending on the cause. If it's a minor issue like a water heater flush, it might be a few hundred dollars. If it's due to corroded galvanized pipes needing replacement, costs can range from a few thousand to over ten thousand dollars, depending on the size of your home and the extent of the repiping needed. For municipal supply issues, there may be no direct cost to you. A professional assessment is essential for an accurate estimate.",
+        "@type": "Answer",
+        "description": "The cost varies greatly, from a few hundred for a water heater flush to thousands for pipe replacement. A plumber can provide an estimate."
+      }
+    }
+  ],
+  "description": "The cost varies greatly, from a few hundred for a water heater flush to thousands for pipe replacement. A plumber can provide an estimate."
+}

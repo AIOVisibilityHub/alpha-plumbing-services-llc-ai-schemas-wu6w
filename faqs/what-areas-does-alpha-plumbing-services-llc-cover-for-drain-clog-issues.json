@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-areas-does-alpha-plumbing-services-llc-cover-for-drain-clog-issues",
+  "name": "What areas does Alpha-Plumbing Services, LLC cover for drain clog issues?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas does Alpha-Plumbing Services, LLC cover for drain clog issues?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Alpha-Plumbing Services, LLC proudly provides comprehensive drain clog services to residents and businesses in Goodyear, Buckeye, Avondale, and Surprise. Our experienced plumbers are equipped to handle all types of recurring drain issues in these communities, offering prompt and reliable service. If you are located in one of these areas and experiencing persistent drain problems, please contact us for assistance.",
+        "@type": "Answer",
+        "description": "Alpha-Plumbing Services, LLC covers drain clog issues in Goodyear, Buckeye, Avondale, and Surprise, providing prompt and reliable service."
+      }
+    }
+  ],
+  "description": "Alpha-Plumbing Services, LLC covers drain clog issues in Goodyear, Buckeye, Avondale, and Surprise, providing prompt and reliable service."
+}

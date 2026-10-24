@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-does-a-plumber-do-to-fix-banging-pipes",
+  "name": "What does a plumber do to fix banging pipes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does a plumber do to fix banging pipes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A plumber will first diagnose the cause of the banging. This may involve checking water pressure, inspecting pipe installation for looseness, and assessing the condition of air chambers or water hammer arrestors. Solutions can range from installing water hammer arrestors, securing pipes more effectively, adjusting water pressure regulators, or even rerouting pipes if necessary. The specific repair depends on the underlying problem identified during the inspection.",
+        "@type": "Answer",
+        "description": "A plumber diagnoses the cause, then may install water hammer arrestors, secure pipes, adjust water pressure, or reroute lines. The fix depends on the problem."
+      }
+    }
+  ],
+  "description": "A plumber diagnoses the cause, then may install water hammer arrestors, secure pipes, adjust water pressure, or reroute lines. The fix depends on the problem."
+}

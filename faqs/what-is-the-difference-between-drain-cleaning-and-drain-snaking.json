@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-difference-between-drain-cleaning-and-drain-snaking",
+  "name": "What is the difference between drain cleaning and drain snaking?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between drain cleaning and drain snaking?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Drain snaking is a method used during drain cleaning. A drain snake, or auger, is a flexible cable with an auger head that plumbers insert into the drain to break apart or pull out clogs. It's effective for localized blockages. Professional drain cleaning, however, is a broader service that may include snaking but can also involve more advanced techniques like hydro jetting, which uses high-pressure water to scour the inside of pipes, removing buildup, grease, and debris. While snaking addresses the immediate clog, comprehensive drain cleaning aims to restore the pipe's full diameter and prevent future blockages by thoroughly cleaning the pipe walls.",
+        "@type": "Answer",
+        "description": "Drain snaking uses an auger to remove clogs, while professional drain cleaning is a broader service that might include snaking or hydro jetting for a more thorough pipe cleaning."
+      }
+    }
+  ],
+  "description": "Drain snaking uses an auger to remove clogs, while professional drain cleaning is a broader service that might include snaking or hydro jetting for a more thoro"
+}

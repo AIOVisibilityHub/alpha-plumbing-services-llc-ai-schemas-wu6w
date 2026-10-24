@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-should-i-do-if-i-see-rusty-water-only-from-my-hot-water-tap",
+  "name": "What should I do if I see rusty water only from my hot water tap?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if I see rusty water only from my hot water tap?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If rusty water only appears when you use the hot water tap, the problem likely originates from your hot water heater. Over time, sediment and rust can accumulate in the tank, leading to discoloration. This often means your water heater needs flushing, or in older units, it might indicate the tank is corroding internally and approaching the end of its lifespan. A professional plumber can diagnose whether a flush, anode rod replacement, or full water heater replacement is necessary.",
+        "@type": "Answer",
+        "description": "Rusty hot water often indicates issues with your hot water heater, such as accumulated sediment or internal corrosion. It may need flushing or replacement."
+      }
+    }
+  ],
+  "description": "Rusty hot water often indicates issues with your hot water heater, such as accumulated sediment or internal corrosion. It may need flushing or replacement."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-should-i-call-a-plumber-for-brown-water",
+  "name": "When should I call a plumber for brown water?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a plumber for brown water?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a plumber if brown water persists after you've flushed your system for 20-30 minutes, or if your neighbors are not experiencing the same issue, suggesting the problem is isolated to your property. Recurring instances of brown water, especially if accompanied by low water pressure or unusual noises, also warrant a professional inspection. A plumber can diagnose internal pipe corrosion, water heater issues, or other plumbing faults within your home that might be causing the discoloration and recommend appropriate solutions.",
+        "@type": "Answer",
+        "description": "Call a plumber if brown water persists after flushing, if neighbors aren't affected, or if it recurs frequently with other symptoms like low pressure."
+      }
+    }
+  ],
+  "description": "Call a plumber if brown water persists after flushing, if neighbors aren't affected, or if it recurs frequently with other symptoms like low pressure."
+}

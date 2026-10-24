@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/why-is-my-bathtub-drain-clogged",
+  "name": "Why is my bathtub drain clogged?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is my bathtub drain clogged?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Bathtub drains commonly clog due to a buildup of hair, soap scum, and other debris. Hair traps soap, shampoo residue, and body oils, creating a sticky obstruction that narrows the drainpipe. Over time, this blockage can restrict water flow completely. Mineral deposits from hard water can also contribute to clogs by accumulating on pipe walls. Sometimes, foreign objects accidentally dropped into the drain can also cause an obstruction.",
+        "@type": "Answer",
+        "description": "Bathtub drains usually clog from accumulated hair, soap scum, and debris. Mineral deposits or foreign objects can also contribute to blockages."
+      }
+    }
+  ],
+  "description": "Bathtub drains usually clog from accumulated hair, soap scum, and debris. Mineral deposits or foreign objects can also contribute to blockages."
+}

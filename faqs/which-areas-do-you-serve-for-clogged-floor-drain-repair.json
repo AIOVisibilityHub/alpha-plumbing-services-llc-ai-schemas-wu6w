@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/which-areas-do-you-serve-for-clogged-floor-drain-repair",
+  "name": "Which areas do you serve for clogged floor drain repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Which areas do you serve for clogged floor drain repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Alpha-Plumbing Services, LLC proudly serves the communities of Goodyear, Buckeye, Avondale, Surprise, and Waddell for all clogged floor drain repair needs. Our local technicians are familiar with the common plumbing issues in these areas and are ready to provide prompt and reliable service to ensure your drains are flowing freely again.",
+        "@type": "Answer",
+        "description": "We serve Goodyear, Buckeye, Avondale, Surprise, and Waddell for clogged floor drain repair, offering prompt and reliable service."
+      }
+    }
+  ],
+  "description": "We serve Goodyear, Buckeye, Avondale, Surprise, and Waddell for clogged floor drain repair, offering prompt and reliable service."
+}

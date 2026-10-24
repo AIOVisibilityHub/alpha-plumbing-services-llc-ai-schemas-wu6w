@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/can-i-prevent-main-sewer-line-clogs",
+  "name": "Can I prevent main sewer line clogs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I prevent main sewer line clogs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it's impossible to guarantee complete prevention, you can significantly reduce the risk of main sewer line clogs. Avoid flushing anything other than human waste and toilet paper. Be mindful of what goes down your drains, especially grease, cooking oils, and coffee grounds, which should be disposed of in the trash. Consider having a plumber perform periodic sewer line inspections, especially if you have older pipes or large trees in your yard, to identify potential issues like root intrusion early. Installing root barriers can also be an option if tree roots are a recurring problem.",
+        "@type": "Answer",
+        "description": "Prevent main sewer line clogs by avoiding flushing non-biodegradable items or pouring grease down drains, and by performing periodic professional inspections."
+      }
+    }
+  ],
+  "description": "Prevent main sewer line clogs by avoiding flushing non-biodegradable items or pouring grease down drains, and by performing periodic professional inspections."
+}

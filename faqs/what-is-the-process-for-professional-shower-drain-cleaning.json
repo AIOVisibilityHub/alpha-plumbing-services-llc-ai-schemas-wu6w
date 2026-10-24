@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-process-for-professional-shower-drain-cleaning",
+  "name": "What is the process for professional shower drain cleaning?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for professional shower drain cleaning?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When Alpha-Plumbing Services addresses a clogged shower drain, our process typically begins with an inspection to determine the clog's location and cause. This might involve using a specialized camera if the issue is not immediately apparent. For common clogs, we often use professional-grade drain snakes or augers to physically break apart and retrieve the blockage. For more stubborn or extensive buildups, hydro-jetting may be employed, which uses high-pressure water to thoroughly clean the pipe's interior. We aim to clear the clog effectively and ensure proper drainage, minimizing disruption to your home.",
+        "@type": "Answer",
+        "description": "Professional drain cleaning involves inspecting the clog, then using tools like drain snakes or hydro-jetting to clear the blockage and restore drainage."
+      }
+    }
+  ],
+  "description": "Professional drain cleaning involves inspecting the clog, then using tools like drain snakes or hydro-jetting to clear the blockage and restore drainage."
+}

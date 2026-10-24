@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-much-does-it-cost-to-fix-a-standing-water-issue-in-goodyear-az",
+  "name": "How much does it cost to fix a standing water issue in Goodyear, AZ?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to fix a standing water issue in Goodyear, AZ?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to fix standing water varies depending on the severity and location of the clog. Simple clogs accessible with an auger might be less expensive than more complex main line blockages requiring specialized equipment like hydro-jetting. Alpha-Plumbing Services provides upfront pricing after a thorough diagnosis. Factors influencing cost include the depth of the clog, type of obstruction, and the need for pipe inspection or repair.",
+        "@type": "Answer",
+        "description": "Cost varies by clog severity and location. Alpha-Plumbing Services offers upfront pricing after diagnosis. Main line clogs are typically more involved."
+      }
+    }
+  ],
+  "description": "Cost varies by clog severity and location. Alpha-Plumbing Services offers upfront pricing after diagnosis. Main line clogs are typically more involved."
+}

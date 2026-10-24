@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-can-i-prevent-future-main-drain-clogs-after-cleaning",
+  "name": "How can I prevent future main drain clogs after cleaning?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent future main drain clogs after cleaning?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After a professional main drain cleaning, there are several steps you can take to prevent future clogs. Avoid pouring grease, oil, or food scraps down your drains; instead, dispose of them in the trash. Use drain screens to catch hair and soap scum in showers and tubs. Be mindful of what gets flushed down toilets, as only human waste and toilet paper should go there. Consider annual inspections, especially if you have older pipes or large trees nearby, to catch potential issues before they become major blockages.",
+        "@type": "Answer",
+        "description": "Prevent clogs by avoiding grease/food in drains, using drain screens, and not flushing improper items. Consider annual inspections."
+      }
+    }
+  ],
+  "description": "Prevent clogs by avoiding grease/food in drains, using drain screens, and not flushing improper items. Consider annual inspections."
+}

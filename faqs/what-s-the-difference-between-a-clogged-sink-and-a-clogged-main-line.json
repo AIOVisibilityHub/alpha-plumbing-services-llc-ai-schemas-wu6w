@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-s-the-difference-between-a-clogged-sink-and-a-clogged-main-line",
+  "name": "What's the difference between a clogged sink and a clogged main line?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a clogged sink and a clogged main line?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A clogged sink typically affects only that specific fixture, meaning water backs up only in that one sink or tub. This usually indicates a localized clog close to the drain opening. A clogged main line, however, affects multiple drains throughout your home, potentially causing toilets to gurgle, or water to back up in sinks or tubs when another fixture is used. Main line clogs are more serious and require professional intervention.",
+        "@type": "Answer",
+        "description": "A clogged sink affects one fixture; a main line clog impacts multiple drains across your home, indicating a larger issue."
+      }
+    }
+  ],
+  "description": "A clogged sink affects one fixture; a main line clog impacts multiple drains across your home, indicating a larger issue."
+}

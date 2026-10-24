@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-cost-to-fix-bad-smelling-water-in-goodyear",
+  "name": "What is the cost to fix bad-smelling water in Goodyear?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the cost to fix bad-smelling water in Goodyear?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to fix bad-smelling water in the Goodyear area varies widely depending on the cause. Simple fixes, such as flushing a water heater, might be less expensive. More complex issues like repairing corroded pipes, installing a new well water filtration system, or addressing significant plumbing system defects, will naturally incur higher costs. We recommend scheduling a diagnostic visit so our technicians can accurately assess the source of the odor and provide a precise, no-obligation estimate tailored to your specific situation.",
+        "@type": "Answer",
+        "description": "The cost to fix bad-smelling water in Goodyear varies greatly based on the cause, from simple fixes like water heater flushing to more complex system repairs."
+      }
+    }
+  ],
+  "description": "The cost to fix bad-smelling water in Goodyear varies greatly based on the cause, from simple fixes like water heater flushing to more complex system repairs."
+}

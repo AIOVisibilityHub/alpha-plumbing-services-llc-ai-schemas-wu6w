@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-considered-high-water-pressure",
+  "name": "What is considered high water pressure?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is considered high water pressure?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Normal household water pressure typically ranges between 40 and 80 PSI (pounds per square inch). If your home's water pressure consistently measures above 80 PSI, it is considered high. Excessively high pressure can cause damage to plumbing fixtures, appliances, and pipes, leading to leaks and costly repairs. A licensed plumber can accurately measure your home's water pressure and recommend solutions if it's too high.",
+        "@type": "Answer",
+        "description": "Water pressure consistently above 80 PSI is considered high and can damage your plumbing system."
+      }
+    }
+  ],
+  "description": "Water pressure consistently above 80 PSI is considered high and can damage your plumbing system."
+}

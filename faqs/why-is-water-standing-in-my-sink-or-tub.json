@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/why-is-water-standing-in-my-sink-or-tub",
+  "name": "Why is water standing in my sink or tub?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is water standing in my sink or tub?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Standing water in your sink or tub is typically caused by a clog in the drainpipe. Common culprits include hair, soap scum, grease, food particles, or mineral buildup. These materials accumulate over time, restricting water flow and eventually leading to a complete blockage. It's also possible that the issue is further down the main drain line if multiple fixtures are affected.",
+        "@type": "Answer",
+        "description": "Standing water is usually due to a clog in the drainpipe from hair, soap scum, grease, or other debris."
+      }
+    }
+  ],
+  "description": "Standing water is usually due to a clog in the drainpipe from hair, soap scum, grease, or other debris."
+}

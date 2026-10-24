@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-much-does-main-drain-cleaning-cost-in-the-goodyear-area",
+  "name": "How much does main drain cleaning cost in the Goodyear area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does main drain cleaning cost in the Goodyear area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of main drain cleaning in the Goodyear area can vary based on several factors. These include the severity and location of the clog, the method required (e.g., snaking vs. hydro jetting), and whether a camera inspection is needed to diagnose the issue. Simple clogs might be less expensive than extensive root removal. We provide upfront pricing after a thorough assessment. We recommend getting a detailed estimate, as specialized equipment or emergency services can influence the final price.",
+        "@type": "Answer",
+        "description": "Costs vary based on clog severity, method used (snaking vs. hydro jetting), and if a camera inspection is needed."
+      }
+    }
+  ],
+  "description": "Costs vary based on clog severity, method used (snaking vs. hydro jetting), and if a camera inspection is needed."
+}

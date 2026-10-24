@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-s-the-difference-between-a-drain-clog-and-a-main-sewer-line-clog",
+  "name": "What's the difference between a drain clog and a main sewer line clog?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a drain clog and a main sewer line clog?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The key difference lies in the scope of the problem. A drain clog typically affects a single fixture, like a slow-draining sink or a backed-up toilet. The blockage is usually located in the branch line serving that specific fixture. In contrast, a main sewer line clog impacts multiple drains and fixtures throughout your entire home because it affects the primary pipe that collects all wastewater before it exits your property. If you notice issues with more than one drain or toilet, especially on different levels of your home, it's very likely a main sewer line problem.",
+        "@type": "Answer",
+        "description": "A drain clog affects a single fixture, while a main sewer line clog impacts multiple drains and fixtures throughout the entire home."
+      }
+    }
+  ],
+  "description": "A drain clog affects a single fixture, while a main sewer line clog impacts multiple drains and fixtures throughout the entire home."
+}

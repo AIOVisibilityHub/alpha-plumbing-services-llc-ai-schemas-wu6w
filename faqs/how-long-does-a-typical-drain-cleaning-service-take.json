@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-a-typical-drain-cleaning-service-take",
+  "name": "How long does a typical drain cleaning service take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical drain cleaning service take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a drain cleaning service can vary significantly depending on the complexity and location of the clog. A simple blockage in a sink drain might be cleared in under an hour. However, more severe clogs, such as those in main sewer lines, or issues requiring advanced techniques like hydro jetting and camera inspections, could take several hours. Alpha-Plumbing Services, LLC aims to work efficiently while ensuring a thorough job. Our technicians will assess the situation upon arrival and provide you with an estimated timeframe for completion.",
+        "@type": "Answer",
+        "description": "Drain cleaning time varies from under an hour for simple clogs to several hours for complex main line issues. Technicians provide an estimate on arrival."
+      }
+    }
+  ],
+  "description": "Drain cleaning time varies from under an hour for simple clogs to several hours for complex main line issues. Technicians provide an estimate on arrival."
+}

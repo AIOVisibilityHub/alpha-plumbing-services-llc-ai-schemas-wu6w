@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-hydro-jetting-and-is-it-safe-for-my-pipes",
+  "name": "What is hydro-jetting and is it safe for my pipes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is hydro-jetting and is it safe for my pipes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hydro-jetting is a powerful drain cleaning method that uses high-pressure water to clear out blockages and clean the interior of your pipes. It's highly effective for removing stubborn clogs like grease buildup, mineral deposits, and tree roots. When performed by a skilled professional, hydro-jetting is safe for most modern plumbing systems and can significantly improve drain flow and pipe longevity. We assess pipe condition before use.",
+        "@type": "Answer",
+        "description": "Hydro-jetting uses high-pressure water to clear blockages and clean pipes. It's safe and effective for most modern plumbing when done by a professional."
+      }
+    }
+  ],
+  "description": "Hydro-jetting uses high-pressure water to clear blockages and clean pipes. It's safe and effective for most modern plumbing when done by a professional."
+}

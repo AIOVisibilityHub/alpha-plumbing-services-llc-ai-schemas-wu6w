@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-much-does-it-cost-to-clear-a-main-sewer-line-clog",
+  "name": "How much does it cost to clear a main sewer line clog?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to clear a main sewer line clog?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to clear a main sewer line clog can vary significantly depending on the severity of the blockage, its location, and the method required to resolve it. Simple clogs might be cleared with snaking, while more complex issues involving tree roots or collapsed pipes could require camera inspection, hydro jetting, or even excavation and pipe repair. Factors like accessibility to the cleanout and emergency service needs also influence the final price. We provide detailed estimates after an on-site assessment to ensure transparency.",
+        "@type": "Answer",
+        "description": "The cost to clear a main sewer line clog varies based on the clog's severity, location, and the necessary repair method. An assessment provides a detailed estimate."
+      }
+    }
+  ],
+  "description": "The cost to clear a main sewer line clog varies based on the clog's severity, location, and the necessary repair method. An assessment provides a detailed estim"
+}

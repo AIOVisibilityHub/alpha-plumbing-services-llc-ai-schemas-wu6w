@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-kind-of-preventative-maintenance-can-i-do-for-my-laundry-drain",
+  "name": "What kind of preventative maintenance can I do for my laundry drain?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of preventative maintenance can I do for my laundry drain?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prevent laundry drain clogs, regularly clean your washing machine's lint trap, avoid overloading the machine, and use high-efficiency detergents to reduce soap scum buildup. Occasionally running an empty hot water cycle with a cup of white vinegar can also help. For long-term prevention, consider scheduling periodic professional drain cleaning, especially if you have an older plumbing system.",
+        "@type": "Answer",
+        "description": "Prevent laundry clogs by cleaning the lint trap, using efficient detergents, and occasionally running a hot water cycle with vinegar."
+      }
+    }
+  ],
+  "description": "Prevent laundry clogs by cleaning the lint trap, using efficient detergents, and occasionally running a hot water cycle with vinegar."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/why-is-my-water-meter-still-running-when-all-water-is-off",
+  "name": "Why is my water meter still running when all water is off?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is my water meter still running when all water is off?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your water meter is moving even when no water fixtures are in use, it indicates a leak somewhere in your plumbing system. Common culprits include hidden slab leaks, running toilets, dripping faucets that are worse than they appear, or irrigation system leaks. The meter detects any water flow, no matter how small, so even a slow leak can cause it to register usage. Identifying the source quickly can prevent significant water waste and potential property damage.",
+        "@type": "Answer",
+        "description": "A running water meter when all water is off typically indicates a leak in your plumbing system, such as a slab leak, running toilet, or irrigation issue."
+      }
+    }
+  ],
+  "description": "A running water meter when all water is off typically indicates a leak in your plumbing system, such as a slab leak, running toilet, or irrigation issue."
+}

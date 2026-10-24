@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-the-signs-of-a-main-sewer-line-clog",
+  "name": "What are the signs of a main sewer line clog?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs of a main sewer line clog?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several signs indicate a potential main sewer line clog. The most common is multiple drains in your home backing up simultaneously, such as a toilet overflowing when the shower is running. Gurgling sounds from toilets or drains, especially when water is used elsewhere in the house, are also a strong indicator. Foul sewage odors emanating from drains can signal a blockage. If sewage is backing up into your shower, tub, or toilet, it's a clear sign of a significant obstruction in the main line. Slow draining from all fixtures can also point to a problem.",
+        "@type": "Answer",
+        "description": "Signs of a main sewer line clog include multiple drains backing up, gurgling sounds from drains, sewage odors, and sewage backing up into fixtures."
+      }
+    }
+  ],
+  "description": "Signs of a main sewer line clog include multiple drains backing up, gurgling sounds from drains, sewage odors, and sewage backing up into fixtures."
+}

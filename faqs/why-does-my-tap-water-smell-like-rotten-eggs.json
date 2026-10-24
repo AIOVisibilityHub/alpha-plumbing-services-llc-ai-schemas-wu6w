@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/why-does-my-tap-water-smell-like-rotten-eggs",
+  "name": "Why does my tap water smell like rotten eggs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why does my tap water smell like rotten eggs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A rotten egg smell in your tap water is typically caused by hydrogen sulfide gas. This gas can naturally occur in groundwater due to sulfur bacteria reacting with organic matter or certain minerals in the water heater. It's often more noticeable with hot water, as the heat accelerates the release of the gas. While usually not harmful in small amounts, it indicates a water quality issue that should be investigated to identify the source and determine the appropriate treatment. Common sources include your well, plumbing system, or water heater.",
+        "@type": "Answer",
+        "description": "A rotten egg smell in tap water is usually due to hydrogen sulfide gas, often from sulfur bacteria in groundwater or your water heater."
+      }
+    }
+  ],
+  "description": "A rotten egg smell in tap water is usually due to hydrogen sulfide gas, often from sulfur bacteria in groundwater or your water heater."
+}

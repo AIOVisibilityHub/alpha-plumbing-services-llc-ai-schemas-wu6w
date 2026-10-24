@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/why-is-my-shower-drain-clogged",
+  "name": "Why is my shower drain clogged?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is my shower drain clogged?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Shower drains commonly clog due to a buildup of hair, soap scum, and mineral deposits over time. Hair combines with soap and other debris, forming a sticky mass that adheres to the inside of pipes, restricting water flow. Other less common causes can include small objects accidentally falling down the drain or issues deeper within your plumbing system, such as tree root intrusion or pipe damage. Regular cleaning can prevent minor clogs, but persistent issues often require professional intervention to fully clear the blockage and identify underlying causes.",
+        "@type": "Answer",
+        "description": "Shower drains typically clog due to accumulated hair and soap scum. Less common causes include foreign objects or deeper pipe issues."
+      }
+    }
+  ],
+  "description": "Shower drains typically clog due to accumulated hair and soap scum. Less common causes include foreign objects or deeper pipe issues."
+}

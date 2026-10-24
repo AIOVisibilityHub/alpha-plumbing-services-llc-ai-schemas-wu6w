@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-hydro-jetting-and-how-does-it-relate-to-laundry-drain-clogs",
+  "name": "What is hydro-jetting and how does it relate to laundry drain clogs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is hydro-jetting and how does it relate to laundry drain clogs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hydro-jetting is a powerful drain cleaning method that uses high-pressure water to blast away stubborn clogs, including those caused by grease, soap scum, and lint buildup in laundry drains. It effectively cleans the entire diameter of the pipe, not just punching a hole through the clog, which provides a more thorough and longer-lasting solution compared to traditional snaking. This method is particularly effective for heavy-duty clogs.",
+        "@type": "Answer",
+        "description": "Hydro-jetting uses high-pressure water to thoroughly clear stubborn laundry drain clogs, offering a more complete and lasting solution than snaking."
+      }
+    }
+  ],
+  "description": "Hydro-jetting uses high-pressure water to thoroughly clear stubborn laundry drain clogs, offering a more complete and lasting solution than snaking."
+}

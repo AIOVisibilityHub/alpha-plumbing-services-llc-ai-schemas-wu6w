@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/why-is-my-drain-gurgling",
+  "name": "Why is my drain gurgling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is my drain gurgling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Gurgling drains are typically caused by a partial clog or a ventilation issue in your plumbing system. When water flows down a pipe, it pushes air. If there's a blockage, the air can get trapped and create a vacuum, causing the gurgling sound as it tries to escape. Vent pipes are designed to equalize air pressure in your plumbing, allowing wastewater to drain smoothly. If a vent pipe is blocked or improperly installed, it can also lead to air being drawn through the drain, resulting in gurgling.",
+        "@type": "Answer",
+        "description": "Gurgling drains often indicate a partial clog or a problem with your plumbing's vent system."
+      }
+    }
+  ],
+  "description": "Gurgling drains often indicate a partial clog or a problem with your plumbing's vent system."
+}

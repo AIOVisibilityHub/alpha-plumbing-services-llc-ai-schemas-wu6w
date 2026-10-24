@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-s-the-difference-between-a-drain-snake-and-hydro-jetting",
+  "name": "What's the difference between a drain snake and hydro-jetting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a drain snake and hydro-jetting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A drain snake (or auger) is a flexible cable with an attached cutter that plumbers insert into a drain to break up or retrieve a specific blockage. It's effective for localized clogs. Hydro-jetting uses a high-pressure stream of water to thoroughly clean the entire interior of a pipe, removing not just blockages but also accumulated grease, mineral deposits, and other residues, leaving pipes almost like new.",
+        "@type": "Answer",
+        "description": "A drain snake breaks up or retrieves specific clogs, while hydro-jetting uses high-pressure water to thoroughly clean the entire pipe, removing blockages and residue."
+      }
+    }
+  ],
+  "description": "A drain snake breaks up or retrieves specific clogs, while hydro-jetting uses high-pressure water to thoroughly clean the entire pipe, removing blockages and re"
+}

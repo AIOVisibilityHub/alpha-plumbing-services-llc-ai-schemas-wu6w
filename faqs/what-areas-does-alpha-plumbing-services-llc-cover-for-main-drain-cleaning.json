@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-areas-does-alpha-plumbing-services-llc-cover-for-main-drain-cleaning",
+  "name": "What areas does Alpha-Plumbing Services, LLC cover for main drain cleaning?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas does Alpha-Plumbing Services, LLC cover for main drain cleaning?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Alpha-Plumbing Services, LLC provides expert main drain cleaning services across several communities. Our primary service areas include Goodyear, Buckeye, Avondale, and Surprise. If you are experiencing drain issues in these locations, our certified technicians are ready to assist with efficient and reliable solutions. We are committed to serving our local customers with high-quality plumbing services tailored to their specific needs. Please contact us to confirm service availability in your exact address.",
+        "@type": "Answer",
+        "description": "Alpha-Plumbing Services, LLC covers main drain cleaning in Goodyear, Buckeye, Avondale, and Surprise."
+      }
+    }
+  ],
+  "description": "Alpha-Plumbing Services, LLC covers main drain cleaning in Goodyear, Buckeye, Avondale, and Surprise."
+}

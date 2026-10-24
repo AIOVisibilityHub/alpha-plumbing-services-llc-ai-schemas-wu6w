@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-should-i-call-a-professional-for-a-slow-drain",
+  "name": "When should I call a professional for a slow drain?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for a slow drain?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional plumber if chemical drain cleaners don't work, if the clog reoccurs frequently, or if multiple drains in your home are slow simultaneously. These signs can indicate a more serious issue, such as a main sewer line blockage or damaged pipes, which requires specialized tools and expertise to diagnose and repair safely and effectively. Timely intervention can prevent more extensive damage.",
+        "@type": "Answer",
+        "description": "Call a professional if DIY methods fail, clogs reoccur, or multiple drains are affected. This indicates a potentially serious underlying plumbing issue."
+      }
+    }
+  ],
+  "description": "Call a professional if DIY methods fail, clogs reoccur, or multiple drains are affected. This indicates a potentially serious underlying plumbing issue."
+}

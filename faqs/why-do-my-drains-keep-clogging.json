@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/why-do-my-drains-keep-clogging",
+  "name": "Why do my drains keep clogging?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why do my drains keep clogging?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Recurring drain clogs are often caused by a buildup of hair, grease, soap scum, or foreign objects. Persistent issues might indicate a deeper problem such as tree root intrusion into pipes, damaged or collapsed pipes, or improper pipe installation causing poor drainage. Identifying the root cause is essential for a lasting solution.",
+        "@type": "Answer",
+        "description": "Recurring clogs are usually due to buildup of hair, grease, or foreign objects. Deeper issues like tree roots or damaged pipes can also be the cause."
+      }
+    }
+  ],
+  "description": "Recurring clogs are usually due to buildup of hair, grease, or foreign objects. Deeper issues like tree roots or damaged pipes can also be the cause."
+}

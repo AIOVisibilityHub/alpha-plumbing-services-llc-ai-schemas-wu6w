@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/does-bad-smelling-water-mean-it-s-unsafe-to-drink",
+  "name": "Does bad-smelling water mean it's unsafe to drink?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does bad-smelling water mean it's unsafe to drink?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Not all bad-smelling water is unsafe to drink, but any unusual odor should be investigated. A chlorine smell, for instance, is typically from municipal disinfection and generally safe. However, a rotten egg (hydrogen sulfide) smell, while often not immediately harmful at low levels, indicates a water quality issue that might be accompanied by other contaminants. A sewage smell, on the other hand, strongly suggests bacterial contamination and is a serious health risk. If your water smells off, especially if it's accompanied by a strange taste or discoloration, it's best to avoid drinking it until its safety can be confirmed by testing or a professional plumber.",
+        "@type": "Answer",
+        "description": "Bad-smelling water isn't always unsafe, but any unusual odor warrants investigation. A sewage smell indicates a health risk; other odors might require testing to confirm safety."
+      }
+    }
+  ],
+  "description": "Bad-smelling water isn't always unsafe, but any unusual odor warrants investigation. A sewage smell indicates a health risk; other odors might require testing t"
+}
