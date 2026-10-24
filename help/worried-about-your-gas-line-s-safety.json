@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Worried About Your Gas Line’s Safety?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Keeping your home safe means paying attention to your gas lines, and sometimes, you might be wondering if everything’s okay. One of the biggest mistakes folks make is assuming a small, infrequent smell of gas will just go away. It won't, and even a tiny leak can build up over time. Don't try to fix it yourself with tape or sealant; gas line repairs are complex and require specialized tools and expertise. Another common misstep is relying on older appliances without regular checks. Over time, connections can loosen, or lines can corrode. Skipping annual inspections for your gas lines is also a mistake; proactive pressure testing can catch minor issues before they become major emergencies. Finally, ignoring professional advice after an inspection or a repair is risky business. Always follow up on recommended fixes. To avoid these pitfalls, always call a certified professional like Alpha-Plumbing Services, LLC for any gas line concerns, whether it's a new installation, a suspected leak, or just routine maintenance. We have over 25 years of experience ensuring gas lines in Goodyear and the West Valley are safe and sound.",
+  "datePublished": "2026-08-19"
+}

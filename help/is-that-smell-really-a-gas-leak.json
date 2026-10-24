@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Is That Smell Really a Gas Leak?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "That distinct 'rotten egg' smell is usually the tell-tale sign of a natural gas leak, and it's something you should never ignore. Gas companies actually add a chemical called mercaptan to natural gas precisely because it’s odorless on its own, making leaks easy to detect. So, if you're smelling something like that in your home or around your property, even faintly, it’s crucial to act fast. Don't assume it's just something outside or a passing whiff; your nose is your first and best detector here. Beyond the smell, sometimes you might hear a faint whistling or hissing sound near a gas line or appliance, which could also indicate a leak. Plants unexpectedly dying near outdoor gas lines can also be a subtle sign. If any of these rings true, get everyone out of the house immediately and once you're safe, call your gas company's emergency line and then give Alpha-Plumbing Services, LLC a call at 623-734-7465. Our team, with over two decades of hands-on experience in areas like Glendale, El Mirage, and Litchfield, specializes in gas leak repair and will respond quickly to diagnose and fix the problem, ensuring your home is safe once again. Your safety is our top priority.",
+  "datePublished": "2026-08-19"
+}

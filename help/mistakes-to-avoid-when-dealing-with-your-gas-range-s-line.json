@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Mistakes to Avoid When Dealing with Your Gas Range's Line",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Your gas range is a cornerstone of your kitchen, and its gas line is vital for safe and efficient operation. When you're dealing with anything connected to it, avoiding common mistakes can prevent serious issues. First off, never attempt to repair a gas leak yourself. Gas leaks are incredibly dangerous and require immediate professional attention; it's just not worth the risk. Second, don't ignore strange smells. If you smell gas, that's your cue to act fast – ventilate and call a professional, don't try to find the source yourself. A third mistake is using incorrect fittings or flexible connectors; gas lines need specific, code-compliant materials. Also, a big no-no is failing to properly secure the gas line connection to the range, which can lead to stress on the line and potential leaks. Lastly, assuming your existing gas line can handle a new, higher-BTU range without checking its capacity is a common error that can affect performance and safety. Professional installation and checks are essential for peace of mind. Alpha-Plumbing Services, LLC has over 25 years of experience ensuring gas lines are installed correctly and safely. We're proud to serve Goodyear, Buckeye, Avondale, and the entire West Valley. Let us handle your gas line needs with quality workmanship.",
+  "datePublished": "2026-08-19"
+}

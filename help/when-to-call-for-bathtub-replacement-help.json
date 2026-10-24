@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When to Call for Bathtub Replacement Help",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Knowing when to bring in the pros for a bathtub replacement can save you a lot of headaches and money in the long run. If you notice any of these signs, it's definitely time to pick up the phone. First, obvious and persistent leaks. If your tub is leaking, even a little, it's causing damage you might not even see yet, like rotting subflooring or mold growth behind walls. Second, significant surface damage like large cracks, deep chips, or extensive peeling. These aren't just ugly; they compromise the tub's integrity and sanitation. Third, constant clogs that don't respond to typical drain cleaners or plungers could indicate a bigger issue in the drain assembly that's best handled by an expert during replacement. Fourth, if you're undergoing a major bathroom remodel, it's the perfect time to coordinate a new tub installation with other changes for a seamless, efficient process. Finally, if your tub is just plain ancient and inefficient, perhaps even showing signs of rust, a replacement isn't just cosmetic; it's an upgrade to your home's value and functionality. Don't let a failing tub become a bigger problem. Our team serves areas like Goodyear, Avondale, and Sun City, and we're ready to provide reliable, professional service. Call Alpha-Plumbing Services at 623-734-7465 today for a free estimate and peace of mind.",
+  "datePublished": "2026-08-19"
+}

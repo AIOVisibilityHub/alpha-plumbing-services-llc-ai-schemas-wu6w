@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Is Hard Water Harming My Home's Plumbing?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's easy to just see hard water as an annoyance for cleaning, but it can actually be quite detrimental to your home's entire plumbing system. The high mineral content, primarily calcium and magnesium, isn't just making your glass shower doors cloudy; it's silently building up inside your pipes, water heater, and appliances, leading to a host of expensive problems over time.\n\nOne major issue is reduced water flow. As minerals accumulate on the inner surfaces of pipes, the diameter shrinks, leading to lower water pressure and inefficient delivery. Your water heater is also a prime target; mineral scale can coat the heating elements, forcing it to work harder and consume more energy to heat water, significantly shortening its lifespan and driving up your utility bills. Appliances like dishwashers and washing machines suffer too, as hard water scale can clog internal components and reduce their effectiveness. Beyond that, the mineral buildup can even corrode certain metals in your plumbing, leading to leaks.\n\nMany homeowners overlook these internal issues until a major problem arises. A common mistake is only addressing the symptoms, like cleaning external stains, without tackling the root cause. If you're noticing lower water pressure, increased energy bills, or frequent appliance repairs, it might be time to investigate a hard water treatment solution. Alpha-Plumbing Services, LLC, a family-owned business in Goodyear with over 25 years of experience, specializes in helping West Valley residents protect their homes from hard water damage with practical and dependable solutions.",
+  "datePublished": "2026-08-19"
+}

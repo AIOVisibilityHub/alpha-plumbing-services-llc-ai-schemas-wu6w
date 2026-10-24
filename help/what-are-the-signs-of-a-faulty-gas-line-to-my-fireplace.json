@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What Are the Signs of a Faulty Gas Line to My Fireplace?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Knowing the signs of a faulty gas line connected to your fireplace can be a real lifesaver, allowing you to address issues before they become bigger problems. The most obvious sign, of course, is that distinct sulfur-like, rotten egg smell of natural gas – if you smell that, act fast and call a pro! Beyond odor, you might notice hissing sounds near the gas line or appliance, which indicates gas escaping. Any visible damage to the gas line itself, like corrosion or kinks, is another red flag that needs immediate attention. If your pilot light struggles to stay lit or the flame looks weak and yellow instead of strong and blue, it could point to a gas supply problem or a leak affecting pressure. Even plants dying mysteriously near an outdoor gas line could be a subtle hint. It's always best to have a professional eye on things when you're dealing with gas. Alpha-Plumbing Services, LLC has the expertise to thoroughly inspect your gas lines and provide reliable repairs, ensuring your fireplace is both cozy and safe.",
+  "datePublished": "2026-08-19"
+}

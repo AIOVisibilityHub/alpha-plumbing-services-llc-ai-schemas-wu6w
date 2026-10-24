@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Mistakes to Avoid When Planning Your Plumbing Remodel",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Remodeling is exciting, but jumping in without a solid plumbing plan can lead to big regrets. At Alpha-Plumbing Services, we’ve seen pretty much everything in our 25+ years, and trust us, avoiding a few common pitfalls can make all the difference for your remodel in Goodyear or the West Valley.\n\nFirst, don’t underestimate the existing plumbing. Many people assume they can just move a sink or shower a few feet without issues. But older homes, or even newer ones, can have complex pipe layouts or outdated systems. Always assess the current situation first; a professional can tell you what’s feasible and what’s not without costly surprises. Second, trying to DIY complex plumbing work is a common mistake. While simple fixture swaps might be manageable for some, rerouting water lines, modifying drain systems, or installing gas lines for new appliances really requires a licensed pro. Improper installation can lead to leaks, water damage, or even safety hazards. Third, neglecting proper permits and inspections can cause major headaches down the line. Most significant plumbing remodels need to be up to code and inspected, especially if you’re altering the structure or adding new lines. We make sure everything is done right the first time. Fourth, skimping on quality materials might save a buck initially, but it often leads to premature failures and expensive repairs. Investing in good quality pipes and fixtures is always worth it. Lastly, not considering future needs is a big one. Think about how your family might grow or change. Do you plan to add another bathroom eventually? Would a water softener improve your daily life? Planning for these now can save you from another disruptive remodel later.\n\nPlanning your remodel? Alpha-Plumbing Services, LLC offers free estimates to help you avoid these mistakes and ensure your project’s success.",
+  "datePublished": "2026-08-19"
+}

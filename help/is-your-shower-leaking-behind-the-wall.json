@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Is Your Shower Leaking Behind the Wall?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "A leaking shower can cause significant damage to your home, and sometimes, the leak isn't immediately obvious. We often help homeowners across the West Valley, from Glendale to Litchfield, pinpoint these hidden issues at Alpha-Plumbing Services. One of the most insidious problems is a leak happening behind your shower wall. You might notice subtle signs like peeling paint, bubbling wallpaper, or stained drywall on the adjacent wall, or even water stains on the ceiling below the bathroom. A musty smell in the bathroom can also be a dead giveaway of hidden moisture and mold growth. Sometimes, you might even see a sudden increase in your water bill without a clear explanation. These leaks are serious because they can lead to extensive structural damage, wood rot, and hazardous mold growth if left unaddressed. Trying to find the source of a hidden leak can be incredibly challenging without specialized equipment and expertise, and attempting to open up walls without knowing exactly where to look can lead to unnecessary damage and expense. If you suspect your shower is leaking behind the wall, it’s crucial to act fast. For expert leak detection and reliable shower repair, don't hesitate to call Alpha-Plumbing Services at 623-734-7465. We'll find the problem and fix it right, protecting your home from further damage.",
+  "datePublished": "2026-08-19"
+}

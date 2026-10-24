@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Signs You Might Have a Gas Line Leak",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Worrying about a gas line leak is serious business, and knowing the signs is your first line of defense to keep your home and family safe. If you suspect a leak, acting quickly is absolutely critical. The most obvious sign, and often the easiest to detect, is a distinctive sulfur or rotten egg smell. This odor is added to natural gas specifically so you can smell it, as gas itself is odorless. If you catch a whiff of this inside or outside your home, don't dismiss it! Another red flag is a hissing or whistling sound near a gas line or appliance. This often indicates gas escaping from a pipe or connection. Visual cues can also pop up; look for a white cloud or dust cloud near a gas line, or even bubbles in standing water. If you see dying vegetation in an area where your outdoor gas line runs, that could also be a subtle indicator. Changes in your gas appliance's performance, like a yellow or orange flame instead of a crisp blue one, or pilot lights that frequently go out, are also signs not to ignore. If you notice any of these, exit your home immediately and then call 911 and Alpha-Plumbing Services. We’re experts in gas line leak inspection and diagnosis in Goodyear and the entire West Valley, with over 25 years of experience to quickly and safely address these critical situations.",
+  "datePublished": "2026-08-19"
+}

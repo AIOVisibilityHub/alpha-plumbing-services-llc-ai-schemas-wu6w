@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Upgrading Your Water Heater: Common Gas Line Mistakes to Avoid",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Upgrading to a new water heater is a smart home improvement, but overlooking the gas line aspect can lead to big problems and even safety hazards. Many homeowners make a few common mistakes that are easy to avoid with the right professional guidance. Firstly, never assume your existing gas line is automatically sufficient for a new, more powerful water heater. Newer, more efficient models often require a larger gas line to deliver adequate fuel. Trying to run a high-demand unit on an undersized line can lead to inefficient operation, reduced lifespan for the appliance, and even safety concerns. Secondly, attempting to connect or modify gas lines yourself is a significant mistake. Gas line work requires specialized tools, knowledge of local codes, and permits to ensure safety. A DIY job can result in dangerous leaks or improper venting. Another common error is not getting the gas line inspected when replacing an old unit. Corrosion, wear, or improper installation from years ago could be lurking. A professional inspection ensures the entire system is safe and up to current standards. Finally, some folks choose the cheapest installer who might cut corners on gas line work. Always choose a licensed and insured plumbing company with a solid reputation. For anyone in Goodyear, Buckeye, Avondale, or the surrounding West Valley areas, Alpha-Plumbing Services, LLC brings over 25 years of experience to ensure your new water heater's gas line is installed correctly, safely, and efficiently. Don't take chances with gas; call us for peace of mind.",
+  "datePublished": "2026-08-19"
+}

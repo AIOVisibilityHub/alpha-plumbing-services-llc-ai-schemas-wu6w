@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "My Fireplace Smells Like Gas – What Should I Do?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It’s definitely unsettling when you catch a whiff of gas around your fireplace, and your first step should always be safety! If you smell natural gas, which often has a rotten egg odor added for detection, don't hesitate. Turn off the gas supply to your fireplace immediately if you can safely locate the valve. Avoid using any electrical switches, lighting matches, or anything that could create a spark. This isn't the time to try and diagnose it yourself. Gas leaks are serious business, and you want to prevent any potential hazards. Once the gas is off, open windows and doors to ventilate the area and get everyone out of the house. From there, your best move is to call in the professionals. Alpha-Plumbing Services, LLC has over 25 years of experience handling these types of issues safely and efficiently. We’re equipped to pinpoint the leak, make the necessary repairs, and ensure your gas line is up to code. Don't risk it; a qualified technician can get your fireplace back in safe working order.",
+  "datePublished": "2026-08-19"
+}

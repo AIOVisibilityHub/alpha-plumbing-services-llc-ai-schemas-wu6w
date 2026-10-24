@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When to Replace Your Water Heater Gas Line",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Knowing when to replace your water heater's gas line can literally be a lifesaver, and it's definitely not something you want to guess about. While gas lines are built to last, they don't last forever, and certain signs point towards the need for a professional replacement. The most urgent sign is, of course, a gas leak – if you smell that 'rotten egg' odor, it's an immediate emergency that demands the gas be turned off and a professional called. Beyond leaks, visible damage like kinks, corrosion, or cracks on the line itself are huge red flags. Even if there's no active leak, a compromised line is a ticking time bomb. Another less obvious sign can be an old, inflexible gas connector, especially if it’s an aluminum or corrugated copper line, which are often not up to current safety codes and can fail over time. If you’re replacing an old water heater, it’s almost always a good idea to replace the gas line connector too, as the lifespan of the connector often mirrors that of the heater, and new heaters might have different requirements. Don't delay addressing these issues, as a failing gas line can lead to carbon monoxide poisoning, fire, or explosions. Alpha-Plumbing Services, LLC has been serving the communities of Tolleson, Tonopah, and beyond for over 25 years, specializing in safe and compliant gas line replacements. If you're seeing any of these signs, don't hesitate to reach out for an expert assessment and peace of mind.",
+  "datePublished": "2026-08-19"
+}

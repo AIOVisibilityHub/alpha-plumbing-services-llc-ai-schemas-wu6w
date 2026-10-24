@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When Your New Faucet Leaks Unexpectedly",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's super frustrating when you've just had a new faucet installed, and then you spot a leak! You expect everything to be perfect, right? While a minor drip might seem small, it can quickly escalate into a bigger issue if not addressed promptly. Sometimes it’s something simple like a loose connection, but other times it could point to a more complex problem with the installation itself. Ignoring it won't make it go away, and you definitely don't want water damage. \n\nFirst, gently check if the connections under the sink are snug. Sometimes a fitting can loosen slightly over time. If you can see where the water is coming from, that's a good first step. Don't overtighten anything, though, as that can cause more harm than good. \n\nNext, consider if the leak appeared right after installation. If so, it might be an alignment issue or a faulty seal that was missed. Even new parts can occasionally have manufacturing defects, though it's rare. \n\nIf you’ve tried a gentle check and the leak persists, or if you're not comfortable getting under the sink, it's definitely time to bring in the pros. We've got over 25 years of experience here at Alpha-Plumbing Services, LLC, and we’ve seen pretty much every kind of leak you can imagine. \n\nRemember, a small leak today can lead to significant water damage or even mold growth tomorrow. It's always better to be safe than sorry, especially when water is involved. If you’re in Goodyear, Buckeye, or any of our service areas and dealing with a leaky new faucet, give us a call. We’re happy to help you figure out what’s going on and get it sorted.",
+  "datePublished": "2026-08-19"
+}

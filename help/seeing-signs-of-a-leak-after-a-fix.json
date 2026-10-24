@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Seeing Signs of a Leak After a Fix?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "You've just had a plumbing repair, but now you're noticing some worrying signs. It’s totally normal to feel a bit uneasy, and it’s smart to get it checked out. When should you definitely call for post-repair leak testing? If you see any new damp spots on walls, ceilings, or floors near the repair, that’s a clear indication. Don't dismiss slight discoloration or peeling paint either; those are often early signs of water intrusion. A sudden musty smell, especially in areas that were dry before the repair, can also point to a hidden leak and potential mold growth. For gas lines, any lingering sulfur smell or unexplained dizziness are immediate red flags. You might also notice a decrease in water pressure or an increase in your utility bills if a new leak is present, even if it's small. These subtle indicators can mean the repair didn't fully seal, or it inadvertently caused another issue. Don't wait for the problem to escalate and cause more damage. If you spot any of these signals after a plumbing fix in Goodyear, Buckeye, Avondale, or anywhere in the West Valley, contact Alpha-Plumbing Services, LLC right away. We'll perform thorough post-repair leak testing to ensure your home is truly protected.",
+  "datePublished": "2026-08-19"
+}

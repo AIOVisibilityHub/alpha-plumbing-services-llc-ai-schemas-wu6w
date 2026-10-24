@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When is it Time to Call a Professional for Toilet Repair?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's easy to think of a toilet as a simple fixture, but sometimes it needs a little more than a quick plunger fix. So, when should you really pick up the phone and call us? If your toilet is constantly running, even after you've jiggled the handle, it's a sign something internal is off, like a faulty flapper or fill valve. Then there's the mystery leak – a puddle around the base or a drip from the tank. These can point to a compromised wax ring or a crack you can't easily spot. Or maybe your toilet isn't flushing with its usual power, or it's clogging way too often; that could indicate a more serious blockage further down the line or issues with the toilet's internal siphoning action. Unpleasant odors, even when the toilet is clean, could mean a dry trap or a sewer gas issue. And of course, visible cracks in the porcelain definitely mean it's time for an expert opinion, as they can quickly worsen and lead to major leaks. If any of these sound familiar, especially if you've tried basic troubleshooting and the problem persists, it's definitely time to get in touch with Alpha-Plumbing Services. With our 25+ years of experience, we can quickly diagnose and fix these issues, ensuring your bathroom is back to normal in no time. We serve Goodyear and the entire West Valley, offering dependable residential plumbing services.",
+  "datePublished": "2026-08-19"
+}

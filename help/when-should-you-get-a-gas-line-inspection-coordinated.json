@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When Should You Get a Gas Line Inspection Coordinated?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Knowing when to get a gas line inspection coordinated can feel a bit murky, but there are definitely key times when it’s super important to have things checked out. You don't want to just guess with something as crucial as your gas lines, right? First off, if you're undertaking any major renovations, especially in areas where gas lines are present like your kitchen or laundry room, it's a smart move to get an inspection coordinated before, during, and after. This helps catch any potential issues that might arise from moving walls or installing new appliances. Another critical time is if you’re purchasing an older home. Sometimes, gas lines can degrade over time, and an inspection can identify these hidden problems before they become a hazard. Even if a home inspector gives it a once-over, a dedicated gas line professional will provide a much more thorough assessment. And of course, if you've noticed any changes to your gas appliances' performance or suspect any issues, don't wait! Getting professional help to coordinate an inspection is always the safest bet. Our team at Alpha-Plumbing Services has decades of experience and can help ensure your gas system is up to snuff in Goodyear and across the West Valley.",
+  "datePublished": "2026-08-19"
+}

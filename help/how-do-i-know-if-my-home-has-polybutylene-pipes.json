@@ -1,0 +1,84 @@
+{
+  "name": "How Do I Know if My Home Has Polybutylene Pipes?",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "Discovering if your home has polybutylene pipes is a smart move, especially given their tendency to fail. The easiest way to check is to look at exposed plumbing, typically near your water heater, sink pipes, or where the main water line enters your house. Polybutylene pipes are usually gray, but can also be blue or black. They'll often have a dull, matte finish, unlike the shinier look of PVC or PEX. You might even see the letters 'PB' stamped on the pipe itself. Another key identifier is the fittings; polybutylene systems often use plastic or copper fittings, and the plastic ones are a particular concern for leaks. If your home was built between the late 1970s and mid-1990s, especially in the Goodyear or West Valley areas, there's a higher chance you might have this type of piping. Don't just assume everything's fine; a quick visual check can give you peace of mind or flag a potential issue. If you're unsure or can't locate any exposed pipes, a professional plumber can quickly identify your piping material. Need help identifying your home's plumbing? Alpha-Plumbing Services, LLC is here to assist homeowners in Goodyear and the surrounding West Valley areas with polybutylene pipe inspections and replacements.",
+      "@type": "HowToStep",
+      "position": 1
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "description": "How Do I Know if My Home Has Polybutylene Pipes?"
+}

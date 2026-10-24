@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Common Mistakes When Installing a Pool Heater Gas Line",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Installing a gas line for a pool heater isn't a DIY job you want to mess up. There are several common pitfalls folks often fall into that can lead to big problems down the road, and even immediate safety hazards. First off, many people use incorrect sizing for the gas line. If the line is too small, your pool heater won't get enough fuel to run efficiently, leading to poor performance. Another big mistake is not complying with local codes and regulations. Every area, including Goodyear, Buckeye, and Glendale, has specific requirements for gas line installations, and ignoring these can lead to failed inspections, fines, and unsafe conditions. Then there's the issue of improper material selection; using materials not rated for gas or for outdoor exposure can lead to corrosion and leaks. Skipping leak tests or performing them incorrectly is also a huge no-no; you absolutely must ensure every connection is sealed tight. Lastly, failing to secure the line properly can leave it vulnerable to damage. These aren't minor hiccups; they're serious issues that can put your home and family at risk. To avoid these headaches and ensure a safe, efficient gas line for your pool heater, it’s always best to bring in experienced professionals. Alpha-Plumbing Services, LLC knows the ins and outs of proper gas line installation, ensuring your pool heater is hooked up safely and correctly from the start. Give us a call, and we'll handle it.",
+  "datePublished": "2026-08-19"
+}

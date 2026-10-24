@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "How to Avoid Plumbing Headaches When Remodeling Your Bathtub",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "A bathtub remodel is a fantastic way to refresh your bathroom, but plumbing issues can quickly turn excitement into frustration. With over 25 years of hands-on experience, Alpha-Plumbing Services, LLC helps homeowners in Goodyear and the West Valley avoid those common headaches. Planning ahead is key, and knowing what to look out for can save you a lot of time and money.\n\nOne major way to prevent problems is to thoroughly inspect your existing plumbing before any demolition starts. Look for signs of corrosion, leaks, or slow drainage. If your pipes are old galvanized steel or constantly clogging, it's wise to consider replacing them during the remodel. This proactive approach prevents future issues from arising under your brand-new tub. Also, ensure your new tub and fixtures are compatible with your current water pressure and supply lines. A large, jetted tub might require different plumbing than a standard model, so it's good to clarify this early on.\n\nAnother crucial step is to think about accessibility. While a sleek, seamless look is desirable, make sure there’s still accessible plumbing for future maintenance or repairs. Sometimes, overly concealed plumbing can become a nightmare to service. Furthermore, always use high-quality materials for new pipes, fittings, and sealants. Skimping here can lead to leaks and expensive fixes down the road. It’s a classic case of ",
+  "datePublished": "2026-08-19"
+}

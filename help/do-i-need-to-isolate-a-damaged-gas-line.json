@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Do I Need to Isolate a Damaged Gas Line?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Finding out you might have a damaged gas line is definitely unnerving, and it’s one of those situations where quick, professional action is absolutely key. If you suspect a problem, like you smell gas, hear a hissing sound, or even just notice a patch of dead vegetation over an underground line, don't wait. These aren't minor issues you can just put off. The first thing to do is get everyone, including pets, out of the building immediately. Safety first, always! Then, from a safe distance, call your gas company and Alpha-Plumbing Services, LLC right away. We're based in Goodyear and have over 25 years of experience tackling these kinds of critical plumbing issues across the West Valley. We specialize in isolating damaged sections and capping them off to prevent further risk. Trying to ignore it or, worse, attempting a DIY fix could lead to much bigger, and potentially dangerous, problems down the road. You really want to ensure the job is done right, following all international plumbing codes and standards, which is what we guarantee. When it comes to gas lines, peace of mind comes from professional expertise, and we’re here to provide just that. Don't hesitate to reach out to us at 623-734-7465 to secure your home or business.",
+  "datePublished": "2026-08-19"
+}

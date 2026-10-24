@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What causes a shower valve to stop working properly?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's a common question, and several factors can cause a shower valve to act up, leading to those annoying drips, temperature swings, or pressure problems. One of the primary culprits is simply wear and tear over time. Inside your valve, there are components like rubber washers, O-rings, and cartridges that are designed to control water flow and temperature. With daily use, these parts can degrade, corrode, or become coated with mineral deposits from hard water. When they wear out, they lose their ability to create a tight seal or move smoothly, resulting in leaks or difficulty adjusting the water. Hard water, common in many areas including the West Valley, is a big contributor to this. The minerals in the water can build up on internal valve parts, causing blockages, sticking, and accelerating wear. Another issue can be improper installation or using low-quality parts when a repair was previously attempted. Sometimes, a sudden change in water pressure can even damage internal components. Over time, even the valve body itself can corrode or crack, though this is less common. If your shower valve isn't working right, it's usually not a quick fix for the untrained eye because you need to understand the internal mechanics. Alpha-Plumbing Services, LLC specializes in diagnosing and repairing these complex issues, ensuring your shower works perfectly again. We're here for you in Goodyear, Surprise, and surrounding areas. Give us a ring at 623-734-7465; we're happy to help!",
+  "datePublished": "2026-08-19"
+}

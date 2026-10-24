@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "My Water Heater Gas Line Smells Like Gas – What Now?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "If you ever catch a whiff of gas near your water heater, your first thought should be safety, and your second, immediate action. That distinctive 'rotten egg' smell is usually mercaptan, an additive that makes natural gas detectable, and it means there's a leak. This isn't something to ignore or try to fix yourself. Here’s what you need to do, fast: first, don't use anything that could create a spark—no lights, no cell phones, no appliances, and definitely don't turn switches on or off. Second, if you know how, turn off the main gas supply to your home. This is a critical step to stop the flow of gas. Third, get everyone, including pets, out of the house and to a safe distance immediately. Once you're safely outside, call the gas company from a neighbor's phone or your cell phone (once you're clear of the property) and then call a licensed plumbing professional. This situation demands expert attention because gas leaks are incredibly dangerous; they pose risks of explosion, fire, and carbon monoxide poisoning. Trying to locate or fix the leak without the right tools and training can put you in grave danger. Alpha-Plumbing Services, LLC has over two decades of experience handling gas line issues safely and effectively across the West Valley, including areas like Glendale and El Mirage. We're equipped to quickly diagnose and repair or replace faulty gas lines to ensure your home's safety. Don't risk it; call us right away.",
+  "datePublished": "2026-08-19"
+}

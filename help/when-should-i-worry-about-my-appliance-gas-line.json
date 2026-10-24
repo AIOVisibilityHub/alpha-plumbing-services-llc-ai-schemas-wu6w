@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When Should I Worry About My Appliance Gas Line?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's super important to know when an appliance gas line might be acting up. Gas isn't something you want to mess around with, so recognizing the signs of trouble can really help keep your home safe. One of the biggest red flags is that distinct rotten egg smell – that's often mercaptan, which is added to natural gas so you can detect a leak. If you smell that, it’s time to act fast. Also, keep an eye out for any visible damage to the gas line itself, like corrosion, kinks, or wear and tear around your appliance. Sometimes you might even hear a faint hissing sound near an appliance, which points to a gas leak. Another thing to consider is if your gas appliance just isn't performing like it should, maybe it’s not heating properly or the pilot light keeps going out. While this could be an appliance issue, it could also signal a problem with the gas supply to it. Don't try to troubleshoot these things yourself. For any of these concerns, especially that gas smell, you should immediately turn off the gas supply if you know how to do so safely, evacuate the area, and call a professional. Alpha-Plumbing Services has over 25 years of experience handling these kinds of issues in Goodyear and the West Valley, so we know how critical it is to get it right. Give us a call at 623-734-7465 if you're experiencing any of these signs. We're here to help keep your home and family safe.",
+  "datePublished": "2026-08-19"
+}

@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Mistakes to Avoid with Gas Line Maintenance",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When it comes to your home's gas lines, there are a few common slip-ups homeowners make that can put safety at risk. The good news is, they're all easily avoidable! Firstly, *ignoring strange smells* is a huge no-no. That 'rotten egg' smell is usually mercaptan, added to natural gas to make leaks detectable. Don't assume it's something else; always investigate. Secondly, *attempting DIY repairs*. Gas lines are complex and dangerous if mishandled. It's truly a job for trained professionals with the right tools and expertise. Third, *skipping regular inspections*. Just because you don't see a problem doesn't mean one isn't brewing. Older homes, especially those in Goodyear, Buckeye, or Glendale, should have their lines checked periodically for corrosion or wear. Fourth, *not securing appliances properly*. Loose connections on gas stoves or dryers can become a significant hazard over time. Lastly, *ignoring minor pressure drops or pilot light issues*. These could be early indicators of a larger problem. By avoiding these common mistakes, you're taking big steps to keep your home and family safe. If you're ever in doubt or notice any of these signs, don't hesitate to reach out to our team at Alpha-Plumbing Services, LLC. We're here to help with safe, practical solutions.",
+  "datePublished": "2026-08-19"
+}

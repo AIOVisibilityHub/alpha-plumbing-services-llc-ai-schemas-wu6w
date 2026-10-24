@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Steps To Take When You Suspect A Gas Leak",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Suspecting a gas leak can be a really alarming experience, but knowing the right steps to take can help you manage the situation safely and effectively. Your immediate actions are critical in minimizing danger and ensuring everyone's well-being. Panic can make things worse, so try to stay calm and follow these guidelines carefully.\n\nFirst, and this is super important, do not do anything that could create a spark. That means no light switches, no turning appliances on or off, no using cell phones inside, and definitely no matches or lighters. A spark could ignite the gas. Second, get everyone out of the house immediately, including pets. Don't waste time gathering belongings; just get to safety. Once you're a safe distance away from your home, and only then, call your local gas provider's emergency line or 911. They'll guide you on the next steps and dispatch emergency services. Finally, once the immediate danger is assessed, you'll need a professional plumber to locate and repair the leak. Here at Alpha-Plumbing Services, LLC, we specialize in emergency gas leak repair throughout Goodyear and the West Valley. With over 25 years of experience, our licensed team is committed to quality workmanship and practical solutions to get your home safe again. Give us a call, and we'll take care of it for you.",
+  "datePublished": "2026-08-19"
+}

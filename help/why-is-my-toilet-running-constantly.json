@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Why is My Toilet Running Constantly?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Hearing your toilet run non-stop can be super annoying, and it's also a big waste of water. Usually, when your toilet keeps running, it’s a sign that one of the internal components in the tank isn't quite doing its job right. Most often, it's a worn-out flapper that isn't sealing properly, allowing water to continuously trickle into the bowl. Sometimes, it could be a fill valve that's set too high, causing water to overflow into the toilet's overflow tube. These small issues can add up to a significant increase in your water bill over time, so it's definitely something you want to get checked out. Trying to fix it yourself might seem like a good idea, but getting it wrong can lead to more complex problems or even leaks. If you've tried the basic adjustments and it's still running, it's a good idea to call in a professional. We've got over 25 years of experience here at Alpha-Plumbing Services, dealing with all sorts of toilet quirks in Goodyear and the West Valley. We can quickly diagnose the exact issue and get your toilet running smoothly and efficiently again. Don't let that running water drain your wallet; reach out to us for a free estimate and reliable service.",
+  "datePublished": "2026-08-19"
+}

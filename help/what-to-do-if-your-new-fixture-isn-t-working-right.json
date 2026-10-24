@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What to Do If Your New Fixture Isn't Working Right",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "So, you’ve installed that beautiful new faucet or showerhead, and it's not quite working as expected. Don't panic! It's a pretty common scenario, and with our 25+ years of experience at Alpha-Plumbing Services, LLC, we've seen it all and can usually get things flowing smoothly again. First, let's go through a few troubleshooting steps, and then we’ll talk about when it’s definitely time to call in the pros.\n\nIf you're getting little to no water pressure, first check if the shut-off valves under the sink or in the shower are fully open. Sometimes they get partially closed during installation. Also, many new fixtures come with flow restrictors or aerators that can get clogged with debris from the pipes during the initial flush. Try carefully removing and cleaning these components. Another quick check: is your main water supply fully on? It sounds simple, but it happens! If the issue is a drip, make sure all connections are snug, but be careful not to overtighten, as that can cause more damage.\n\nIf you've tried these basic checks and your new fixture is still leaking, making strange noises, or just not performing correctly, it’s probably time to bring in professional help. There could be issues with the internal components of the fixture itself, an improper seal that requires a specific sealant, or even a problem with your existing water lines that the new fixture is exposing. We have the right tools and expertise to diagnose and fix these issues quickly and efficiently, ensuring your new investment works perfectly.\n\nTrying to force a repair on a new, possibly expensive, fixture without the right know-how can lead to bigger problems and void warranties. If you're in Goodyear, Waddell, Sun City, or anywhere in the West Valley and your new fixture is giving you grief, Alpha-Plumbing Services, LLC is ready to help. Just dial 623-734-7465, and we'll make sure your new plumbing works exactly as it should, with quality workmanship you can trust.",
+  "datePublished": "2026-08-19"
+}

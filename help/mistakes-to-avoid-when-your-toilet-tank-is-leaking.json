@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Mistakes to Avoid When Your Toilet Tank is Leaking",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Dealing with a leaky toilet tank can be frustrating, but rushing into the wrong solutions can often make things worse. We've seen homeowners in Goodyear and the West Valley try all sorts of fixes that end up costing more in the long run. With our 25+ years of experience, we're here to help you sidestep those common pitfalls and get your toilet functioning perfectly again.\n\nHere are some common mistakes to avoid:\n\n*   **Ignoring a Small Drip:** Thinking a small leak isn't a big deal is a huge mistake. Even a slow drip can waste hundreds of gallons of water annually, increasing your water bill and potentially causing hidden damage to your floor or ceiling below. Address leaks promptly!\n*   **Over-tightening Bolts/Connections:** When you see a leak from tank bolts, your first instinct might be to tighten them as much as possible. However, over-tightening can crack the porcelain tank or strip threads, turning a minor issue into a major replacement project. Always use appropriate torque.\n*   **Using the Wrong Replacement Parts:** Not all toilet parts are universal. Using an ill-fitting flapper, fill valve, or tank-to-bowl gasket can lead to continued leaks or inefficient flushing. Always ensure you're using parts that match your toilet's make and model for optimal performance.\n*   **Applying Sealants to Cracks:** If your toilet tank has a crack, no amount of sealant or epoxy will be a permanent or safe fix. These temporary solutions invariably fail, leading to bigger leaks. A cracked tank means it's time for a replacement.\n\nWhen faced with a stubborn or complex toilet tank leak, don't risk further damage or unnecessary expenses. It's often best to call a professional. Alpha-Plumbing Services, LLC offers reliable, expert service for toilet repairs and replacements. Contact us today; we're here to help!",
+  "datePublished": "2026-08-19"
+}

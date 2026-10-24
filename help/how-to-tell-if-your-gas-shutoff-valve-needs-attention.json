@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "How to Tell if Your Gas Shutoff Valve Needs Attention",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Your gas shutoff valve is a critical safety component, but it's often out of sight, out of mind. Knowing the signs that it needs professional attention can prevent bigger problems down the line. One of the clearest indicators is any visible damage or corrosion on the valve itself. Look for rust, pitting, or any green or bluish discoloration, which can suggest a leak or deterioration. If the valve looks like it's seen better days, it probably has. Another major sign is if the valve is difficult to turn. It should operate smoothly, so if it's stiff, stuck, or requires excessive force, its internal mechanisms might be compromised, meaning it won't work when you truly need it. A subtle, yet vital, red flag is any faint smell of sulfur or rotten eggs near the valve – that’s the distinctive odor added to natural gas, signaling a leak. Even a small whiff means immediate action is needed. Finally, if your home or business is older and the valve hasn't been inspected or replaced in many years, it's wise to have Alpha-Plumbing Services, LLC take a look. With our 25+ years of experience in Goodyear and the West Valley, we're experts in evaluating and replacing gas shutoff valves, ensuring they meet current international plumbing codes. Don't put off this vital check; call us at 623-734-7465.",
+  "datePublished": "2026-08-19"
+}

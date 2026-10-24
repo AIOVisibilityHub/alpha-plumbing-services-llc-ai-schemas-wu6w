@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When to Call a Professional for Home Pipe Replacement",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Knowing when to reach out to a professional for home pipe replacement can be crucial for the health of your home and your wallet. You should definitely consider calling a trusted plumber like Alpha-Plumbing Services if you observe any of these critical signs in your Goodyear residence or elsewhere in the West Valley: \n\n*   **Persistent plumbing leaks:** If you're constantly patching leaks in different areas, it's a strong indication that your entire piping system is failing due to age or material degradation.\n*   **Rusty or discolored water:** This is a clear signal of internal pipe corrosion, which can not only affect water quality but also reduce water flow and pressure.\n*   **Significantly reduced water pressure:** A noticeable drop in water pressure throughout your home, not just in one fixture, often means mineral buildup or corrosion is constricting your pipes.\n*   **Visible pipe deterioration:** Look for signs like flaking, dimpling, or staining on exposed pipes; these are clear indicators that the pipe material is breaking down.\n*   **High water bills without increased usage:** An unexplained surge in your water bill could be due to hidden leaks that are wasting water and causing silent damage.\n*   **Old, outdated pipe materials:** Homes with galvanized steel, lead, or polybutylene pipes should be evaluated by a professional, as these materials are known for their issues and limited lifespan.\n\nAddressing these concerns early with an expert assessment from our team can prevent minor issues from turning into costly emergencies. We're here to offer practical solutions and free estimates.",
+  "datePublished": "2026-08-19"
+}

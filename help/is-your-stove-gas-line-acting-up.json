@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Is Your Stove Gas Line Acting Up?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Having issues with your gas stove? It's easy to overlook the gas line itself, but it’s a critical component that needs to be in tip-top shape for both performance and safety. Sometimes, problems can be subtle, like a slightly weaker flame or an odd odor that you can't quite place. Other times, it might be more obvious, such as a visible connection problem or a pilot light that just won't stay lit. Don't brush these things off! Ignoring potential gas line issues can lead to bigger, more dangerous problems down the road. You should always trust your instincts if something feels off; it's better to be safe than sorry. We've got over 25 years of hands-on experience, and we're committed to giving you practical solutions. If you suspect something is amiss with your gas stove or its line, reach out to a professional. A quick check can save you a lot of headache and ensure your home stays safe. We're here to help folks in Goodyear, Buckeye, Avondale, and the surrounding West Valley areas with dependable residential plumbing services. Give Alpha-Plumbing Services, LLC a call to have your gas line inspected and get peace of mind.",
+  "datePublished": "2026-08-19"
+}

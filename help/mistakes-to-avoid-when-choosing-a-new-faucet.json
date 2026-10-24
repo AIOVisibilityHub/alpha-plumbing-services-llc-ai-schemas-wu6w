@@ -1,0 +1,126 @@
+{
+  "name": "Mistakes to Avoid When Choosing a New Faucet",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "Picking out a new faucet might seem straightforward, but there are definitely a few common blunders people make that can lead to regret later on. You want your new faucet to look great and function perfectly, so let's make sure you avoid these pitfalls!",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2",
+      "text": "Here are some mistakes to steer clear of:",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3",
+      "text": "*   **Ignoring Compatibility:** Not all faucets fit all sinks! Check the number of mounting holes on your sink or countertop (typically 1, 2, 3, or 4) and measure the distance between them. A widespread faucet won't work on a single-hole sink, and vice-versa. Also, consider the reach of the spout and the height – you don't want it splashing outside the sink or being too short.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4",
+      "text": "*   **Overlooking Water Pressure Requirements:** Some fancy faucets with intricate designs or built-in filters can actually restrict water flow, impacting your water pressure. If you already have low pressure, choosing one of these could worsen the issue. Read the specs carefully.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5",
+      "text": "*   **Prioritizing Style Over Durability:** It's tempting to go for the trendiest look, but a cheap, stylish faucet might not hold up. Opt for quality materials like brass, stainless steel, or zinc alloy from reputable brands. Plastic components, especially for internal parts, tend to fail sooner.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6",
+      "text": "*   **Forgetting About Your Lifestyle:** Do you cook a lot? Have kids? A touchless faucet might be great for hygiene, or a pull-down sprayer could be a lifesaver for cleaning large pots. Think about how you actually use your sink daily and choose features that match.",
+      "@type": "HowToStep",
+      "position": 6
+    },
+    {
+      "name": "Step 7",
+      "text": "*   **Skipping Professional Installation:** While some DIYers can manage, faucet installation can get tricky with old connections, tight spaces, or if you're upgrading to a more complex system. A professional plumber ensures everything is sealed correctly, preventing leaks and ensuring optimal function.",
+      "@type": "HowToStep",
+      "position": 7
+    },
+    {
+      "name": "Step 8",
+      "text": "If you're unsure about which faucet is right for your home or need expert installation, Alpha-Plumbing Services, LLC is here to help. We've been installing faucets for over 25 years in Goodyear, Tolleson, and throughout the West Valley. Get in touch with us at 623-734-7465.",
+      "@type": "HowToStep",
+      "position": 8
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "description": "Mistakes to Avoid When Choosing a New Faucet"
+}

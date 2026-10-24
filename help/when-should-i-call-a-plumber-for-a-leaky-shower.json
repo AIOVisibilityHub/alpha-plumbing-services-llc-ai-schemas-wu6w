@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When should I call a plumber for a leaky shower?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Figuring out when to call a plumber for a leaky shower is key to preventing bigger headaches and costly damage. Here are some clear signs it's time to bring in a professional like Alpha-Plumbing Services, LLC: You've noticed a significant increase in your water bill without any change in usage, which often indicates a hidden leak. You see water stains on your ceiling or walls below the bathroom, or dampness around the base of the shower; these are critical signs of a leak that's already causing damage. If you've already tried to fix the leak yourself and it's still dripping, or if it seems to be getting worse, that's a strong signal that professional expertise is needed. When your shower handle is stiff, hard to turn, or won't completely shut off the water, it often means the internal valve components are seriously degraded and need expert attention. If you're hearing sounds of running water when the shower isn't in use, especially within the walls, it could point to a more serious hidden pipe leak. Anytime you're dealing with issues that require specialized tools or knowledge to access internal plumbing, it's best to leave it to the pros. We serve areas like Goodyear, Buckeye, Avondale, and Phoenix, offering practical solutions. Don't let a small leak turn into a major repair. Call Alpha-Plumbing Services, LLC at 623-734-7465, and we'll ensure your shower is leak-free.",
+  "datePublished": "2026-08-19"
+}

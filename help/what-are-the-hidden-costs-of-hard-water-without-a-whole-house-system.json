@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What Are the Hidden Costs of Hard Water Without a Whole-House System?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "You might think hard water is just an inconvenience, but for homeowners in places like Sun City and Peoria, those minerals can really add up in unexpected ways. Without a whole-house water softener, you're looking at more than just spotty dishes and dry skin. First, your appliances – think water heater, dishwasher, washing machine – are working harder and wearing out faster due to mineral buildup. This means earlier replacements and higher energy bills, as scale reduces their efficiency. Second, you're using more soap, shampoo, and detergents to get things clean because hard water diminishes their effectiveness. This isn't just a waste of product; it’s money literally going down the drain. Third, your plumbing pipes can suffer. Mineral deposits can narrow pipes, reduce water pressure, and even contribute to clogs and expensive repairs. Over time, these small issues compound into significant financial burdens. Investing in a whole-house water softener upfront can save you a bundle on energy costs, appliance longevity, and plumbing maintenance. If you're in Goodyear or surrounding West Valley communities, let Alpha-Plumbing Services help you understand the benefits and options for a whole-house solution.",
+  "datePublished": "2026-08-19"
+}

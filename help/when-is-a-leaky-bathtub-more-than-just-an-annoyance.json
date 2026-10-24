@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When is a leaky bathtub more than just an annoyance?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "A dripping bathtub faucet or a slow leak around the drain can feel like a minor nuisance, but sometimes these seemingly small issues are screaming for attention. If you're noticing an increase in your water bill without a change in usage, that constant drip could be the culprit, silently draining your wallet. Beyond the financial aspect, persistent moisture from a leak is an open invitation for mold and mildew to set up shop, which can affect air quality and even damage your home's structure over time. \n\nPay close attention if you see water stains on the ceiling below your bathroom, or if the floor around your tub feels soft or spongy. These are major red flags indicating that water is getting where it shouldn't be, potentially causing rot and costly structural damage. If the leak seems to be coming from behind the walls, or if you can't pinpoint the source, it's definitely time to call in the pros. Trying to fix a hidden leak yourself can lead to bigger problems if not done correctly. Also, if you've already attempted a repair and the leak has returned, it's likely a more complex issue. While a little caulk can seal a small gap, anything involving constant dripping, significant water pooling, or visible damage warrants professional intervention to ensure your home stays protected. Alpha-Plumbing Services, LLC has over 25 years of experience in the West Valley and can handle these tough repairs.",
+  "datePublished": "2026-08-19"
+}

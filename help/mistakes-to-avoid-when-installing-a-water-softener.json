@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Mistakes to Avoid When Installing a Water Softener",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Thinking about a new water softener for your home? That’s a smart move, especially with the hard water we often see in places like Buckeye and Avondale. But hold on a second – there are a few common slip-ups people make during installation that you’ll want to dodge. First, don't just guess at the right size; an undersized unit won't keep up, and an oversized one is just a waste. Second, skipping the bypass valve installation is a big no-no; you’ll regret it if you ever need to service the unit. Third, ignoring proper drain line installation can lead to messy backups and potential health hazards. Also, don't forget to consider future maintenance access – you'll need to refill salt, so make sure it's easily reachable. Finally, trying to DIY a complex installation without the right plumbing know-how can lead to leaks, damage, and voided warranties. While some simple fixes are fine, when it comes to something as crucial as your home’s water system, it’s often best to let pros like Alpha-Plumbing Services handle the setup. We serve all around Goodyear and the West Valley and can make sure it’s done right.",
+  "datePublished": "2026-08-19"
+}

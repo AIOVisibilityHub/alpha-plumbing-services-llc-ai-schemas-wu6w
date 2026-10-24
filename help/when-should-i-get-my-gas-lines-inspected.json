@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When Should I Get My Gas Lines Inspected?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's super important to keep an eye on your home's gas lines, even if everything seems fine. Gas lines aren't a 'set it and forget it' kind of thing. You really should consider a professional inspection if you're buying an older home, doing any major renovations that involve moving appliances, or if it's just been a long time since your last check-up. We often see issues in homes that are 10+ years old that haven't had their gas lines looked at in ages. Another big one is after any significant weather events, like an earthquake or even just some really intense ground shifting that can sometimes happen here in the West Valley. Even though gas lines are pretty durable, age and external factors can lead to wear and tear you can't see. Regular inspections can catch small problems before they turn into big, dangerous ones. Our team, with over 25 years of experience serving Goodyear and the surrounding areas like Buckeye and Avondale, knows exactly what to look for to ensure your gas lines are safe and sound. Don't wait until you smell something; proactive checks are always best. If you're unsure about the last time your gas lines were inspected, or if you're noticing anything out of the ordinary, it's definitely time to give us a call. We're here to help coordinate those essential inspections.",
+  "datePublished": "2026-08-19"
+}

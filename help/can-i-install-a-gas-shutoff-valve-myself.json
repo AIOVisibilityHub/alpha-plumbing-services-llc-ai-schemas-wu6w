@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Can I Install a Gas Shutoff Valve Myself?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When it comes to installing or replacing a gas shutoff valve, it's one of those tasks that really needs to be left to the professionals. There are a few big reasons why trying to do it yourself is a mistake and can lead to serious hazards. First, you're dealing with natural gas, which is highly flammable and explosive. Any misstep, even a tiny leak, can have catastrophic consequences like fires or explosions, risking lives and property. Second, gas line work requires specialized tools, knowledge, and adherence to strict international plumbing codes and local regulations. A DIY installation might not meet these standards, leading to fines, failed inspections, or even more dangerously, an unsafe system. Third, without proper training, you might not be able to correctly identify the right type of valve for your specific gas line or ensure a leak-proof connection. Even a small, undetected leak can accumulate over time, creating a dangerous environment. Fourth, you could accidentally damage other parts of your gas system while attempting the installation, turning a simple valve replacement into a much larger, more expensive problem. Finally, many insurance policies may not cover damages resulting from unpermitted or DIY gas work. Alpha-Plumbing Services, LLC has over 25 years of hands-on experience in gas line installation and valve replacement throughout Goodyear and the West Valley. We're licensed, bonded, and insured, guaranteeing proper installation up to international plumbing code. For your safety and peace of mind, always call a pro like us at 623-734-7465 for any gas line work.",
+  "datePublished": "2026-08-19"
+}

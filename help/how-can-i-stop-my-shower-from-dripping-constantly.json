@@ -1,0 +1,84 @@
+{
+  "name": "How can I stop my shower from dripping constantly?",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "A constantly dripping shower can be incredibly annoying and a real water-waster. Usually, that persistent drip points to an issue with your shower valve, often involving worn-out internal components like washers, O-rings, or cartridges. Here's how you can try to approach it, keeping in mind that sometimes a pro is truly needed. First, try to identify the type of faucet you have – cartridge, compression, ball, or ceramic disc – as this will dictate the repair process. For many, simply replacing a worn-out rubber washer or an old O-ring can do the trick, especially in compression faucets. You'll need to turn off the water supply to the shower, disassemble the handle, and then carefully remove and replace the faulty part. If you have a cartridge faucet, replacing the entire cartridge is often the solution. However, sometimes the problem isn't just a simple washer. It could be corrosion, a damaged valve seat, or even issues with water pressure. If you've tried these basic steps and the drip is still happening, or if you're unsure about tackling a more complex repair, it's definitely time to call in the experts. Attempting to force parts or use incorrect tools can cause bigger, more expensive problems. Alpha-Plumbing Services, LLC has over 25 years of experience handling these exact issues for residential clients throughout Goodyear and the West Valley. We can diagnose and fix your dripping shower quickly and effectively. Get in touch with us at 623-734-7465 for dependable service.",
+      "@type": "HowToStep",
+      "position": 1
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "description": "How can I stop my shower from dripping constantly?"
+}

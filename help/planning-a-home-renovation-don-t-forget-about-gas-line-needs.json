@@ -1,0 +1,84 @@
+{
+  "name": "Planning a home renovation? Don't forget about gas line needs.",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "Home renovations are exciting, bringing fresh life and new functionality to your space. But if your plans involve moving gas appliances, adding a new gas fireplace, or even installing an outdoor kitchen, you absolutely can't overlook your natural gas line needs. Planning for gas line modifications or new installations early in the renovation process can save you a ton of headaches and money later on. Trying to add or move a gas line after walls are closed up or floors are laid can lead to costly demolition and delays. You'll need to consider things like proper sizing for new appliances to ensure adequate gas flow, the safest and most efficient routing of new lines, and making sure all work complies with local codes and safety standards. This is definitely a job for experienced professionals who understand the complexities of natural gas systems. They can help you design the best solution, handle the installation safely, and ensure your new setup operates perfectly. Here at Alpha-Plumbing Services, LLC, we've got more than 25 years of experience helping folks in Goodyear, Avondale, and the surrounding areas with their natural gas line installation needs, including those tricky renovation projects. Let's make sure your renovation is beautiful and safe!",
+      "@type": "HowToStep",
+      "position": 1
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "description": "Planning a home renovation? Don't forget about gas line needs."
+}

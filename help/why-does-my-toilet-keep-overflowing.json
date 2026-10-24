@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Why Does My Toilet Keep Overflowing?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It’s frustrating when your toilet seems to have a mind of its own and keeps overflowing, isn't it? This usually points to a few common culprits that prevent the toilet from flushing correctly or stopping its fill cycle. Sometimes, it’s a simple issue like a faulty fill valve inside the tank that isn't shutting off the water. This can cause the tank to overfill, leading to water spilling into the overflow tube and eventually into the bowl. Another common cause is a blockage in the drain line. Even if water goes down slowly, a partial clog can cause the bowl to fill too high and overflow, especially if you try to flush again before the water has completely drained. It could also be a problem with the flapper not sealing properly, leading to a 'ghost flush' where the tank slowly empties and then refills, potentially overfilling. For persistent overflows, it’s always a good idea to have a professional take a look. We can accurately pinpoint the exact cause, whether it's a simple repair or something that requires drain cleaning, and make sure your plumbing is working correctly. If you're dealing with a frequently overflowing toilet in the West Valley, give Alpha-Plumbing Services, LLC a call. We're here to help.",
+  "datePublished": "2026-08-19"
+}

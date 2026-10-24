@@ -1,0 +1,84 @@
+{
+  "name": "Help! My Toilet Is Overflowing – What Do I Do First?",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "An overflowing toilet is definitely a stressful situation, but don't panic! The good news is that most of the time, you can stop the overflow pretty quickly if you know what to do. The very first thing is to lift the tank lid and push the flapper down to stop water from entering the bowl. If that doesn't work, reach for the fill valve float. Lifting the float arm can often temporarily stop the water flow. Once you've got the immediate flood under control, turn off the water supply valve usually located behind or near the base of the toilet. This will prevent any more water from coming into the tank or bowl. These steps are super important for minimizing water damage to your home, especially if it's happening rapidly. You might think about plunging next, but if it's already overflowing, adding more force could make it worse. If these initial steps don't resolve the issue and the toilet still seems like it wants to overflow, it's really best to call in a professional. We've seen it all with overflowing toilets and can quickly diagnose whether it's a simple flapper problem, a faulty fill valve, or something more serious deeper in your drain lines. Don't hesitate to reach out to Alpha-Plumbing Services, LLC if you're in Goodyear, Buckeye, Avondale, or any of our other service areas, and we can help get things under control.",
+      "@type": "HowToStep",
+      "position": 1
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "description": "Help! My Toilet Is Overflowing – What Do I Do First?"
+}

@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Why Is My Shower Faucet Leaking and What Can I Do?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "A leaking shower faucet can be super annoying, not to mention a waste of water and money! Most of the time, those drips are a sign that something inside your faucet isn't sealing properly anymore. It could be worn-out washers, O-rings, or even corrosion on internal parts. Ignoring it usually just makes things worse, potentially leading to higher water bills or even water damage behind your shower walls. It's smart to tackle it sooner rather than later. First, try to identify exactly where the leak is coming from – is it the handle, the spout, or the showerhead? Knowing this can give you a clue about the underlying issue. Sometimes, a quick fix might involve tightening a loose packing nut, but often, the internal components are simply worn out and need to be replaced. If you're comfortable with basic DIY, you might be able to find a replacement cartridge or washer at your local hardware store. However, if the leak persists or you're unsure about getting into the plumbing, it’s definitely time to call in the pros. We've got over 25 years of experience fixing all sorts of faucet issues in the Goodyear area and throughout the West Valley. We can quickly diagnose the problem and get your shower running perfectly again, saving you hassle and potential headaches. Give Alpha-Plumbing Services, LLC a call at 623-734-7465 and let us take a look!",
+  "datePublished": "2026-08-19"
+}

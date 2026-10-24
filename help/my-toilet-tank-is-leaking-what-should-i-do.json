@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "My toilet tank is leaking, what should I do?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "A leaking toilet tank can be a real headache, not to mention a water-waster! If you're noticing water on the floor around your toilet, or hearing a constant running sound, chances are your tank has a leak. Often, it's something relatively simple like a worn-out flapper, a loose fill valve connection, or a cracked overflow tube. You might also have a faulty seal between the tank and the bowl. It's smart to tackle these issues quickly to prevent bigger problems like water damage to your flooring or subfloor. A little vigilance can save you a lot of trouble down the line. We see these kinds of leaks all the time and know exactly how to diagnose and fix them properly.\n\nFirst, try to pinpoint where the water is coming from. Is it dripping from underneath the tank, or is it overflowing? If it's a constant running sound, the flapper might not be sealing correctly, or the fill valve could be set too high, causing water to constantly run into the overflow tube. For external drips, check the tank bolts, which can sometimes loosen and allow water to seep out. You can also try adding a few drops of food coloring to the tank water; if you see the color appear in the bowl without flushing, your flapper isn't sealing. Don't ignore a persistent leak; even a small drip can waste gallons of water over time.\n\nWhile some minor issues can be a quick DIY fix, things like a cracked tank or a complex fill valve replacement usually require professional attention. If you're unsure, or if the leak persists after your attempts, it's definitely time to call in the pros. We've got over 25 years of experience handling all sorts of toilet repairs, from simple fixes to complete replacements. We're happy to assess the situation and give you an honest opinion on the best course of action. Reach out to Alpha-Plumbing Services, LLC, and we'll get your toilet back in tip-top shape!",
+  "datePublished": "2026-08-19"
+}

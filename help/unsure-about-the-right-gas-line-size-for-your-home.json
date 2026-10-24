@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Unsure About the Right Gas Line Size for Your Home?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Choosing the correct size for your home's gas pipes might seem like a small detail, but it’s actually a really big deal for safety and appliance performance. Many homeowners overlook this, thinking all gas lines are the same, but that's a common mistake. If your gas lines are too small, your appliances might not get enough fuel, leading to inefficient operation or even outright failure. Imagine your new gas range taking forever to heat up or your water heater struggling to keep up because the gas flow is restricted! On the flip side, lines that are too large aren't necessarily a problem for performance, but they can be a waste of materials and space, and they still need to be properly installed to prevent leaks. The proper sizing depends on several factors: the BTU load of all your gas appliances, the length of the piping runs, and the type of gas being used. It really takes a professional to calculate these things accurately and ensure everything meets local codes and safety standards. Don't guess when it comes to gas lines; let someone with experience make sure your system is perfectly matched to your needs. Alpha-Plumbing Services, LLC specializes in gas line installation with inspection, ensuring the right fit every time.",
+  "datePublished": "2026-08-19"
+}

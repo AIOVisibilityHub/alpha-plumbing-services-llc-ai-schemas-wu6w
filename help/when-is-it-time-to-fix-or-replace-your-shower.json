@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When is it time to fix or replace your shower?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Knowing when to simply repair your shower versus opting for a full replacement can be a tough call, but there are some clear signals. If you're constantly battling leaks, drips, or issues with water pressure that just won't go away, it might be more than a quick fix. Minor cosmetic issues like a cracked tile or a slightly worn faucet might just need a repair. However, if the problem lies deeper, like extensive mold behind the walls, consistent structural damage, or an aging plumbing system that's causing repeated headaches, a replacement could be the smarter long-term solution. \n\nThink about the age of your shower, too. If it's decades old and parts are hard to find, patching it up might be a temporary band-aid. Also, consider the cost of repairs versus replacement. If repairs are piling up and approaching the cost of a new installation, a replacement offers better value and peace of mind. And don't overlook your lifestyle needs! If your current shower doesn't meet accessibility requirements, or you dream of a more spacious, modern design, it might be time for an upgrade. While some minor issues are perfect for a DIY weekend, for anything involving major leaks, structural concerns, or a full overhaul, bringing in a seasoned pro is definitely the way to go. Alpha-Plumbing Services, LLC serves Goodyear, Buckeye, and surrounding areas, and we're ready to help you decide what's best for your home.",
+  "datePublished": "2026-08-19"
+}

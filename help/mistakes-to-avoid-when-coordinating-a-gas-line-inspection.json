@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Mistakes to Avoid When Coordinating a Gas Line Inspection",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When you’re trying to coordinate a gas line inspection, it’s easy to stumble into a few common pitfalls that can make the process tougher or less effective. Let’s chat about how to steer clear of those. One big mistake is waiting too long to schedule. Gas issues, even minor ones, can escalate quickly, so don't procrastinate. As soon as you have a concern or know you need an inspection, reach out to us! Another common error is trying to DIY the coordination process. Gas lines are complex and require specific expertise, so relying on a qualified plumbing service to handle the coordination for you ensures all bases are covered. You also want to avoid ignoring minor signs. Sometimes a faint odor or a slightly yellowish flame might seem insignificant, but these are often early warnings that need prompt attention. Don't dismiss them! And finally, not asking enough questions about the process or what to expect can leave you unprepared. A good service provider, like Alpha-Plumbing Services, will walk you through everything. We're here to help you get your gas lines inspected safely and efficiently, drawing on our 25+ years of experience in Goodyear and the surrounding areas.",
+  "datePublished": "2026-08-19"
+}

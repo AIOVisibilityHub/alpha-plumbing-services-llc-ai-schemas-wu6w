@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Understanding the Permit Process for Plumbing Work",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Dealing with permits and municipal inspections for plumbing work can sometimes feel like navigating a maze, but it's a super important step that you shouldn't overlook. Basically, a permit is official permission from your local city or county that says your project meets specific building and safety codes. For things like gas line rerouting or significant plumbing installations, you almost always need one. The process usually involves submitting an application, providing plans for the work, and then having an inspector review it once the work is done. It sounds like a lot, but it's all about ensuring the work is safe, up to code, and protects your property's value. Skipping permits can lead to fines, having to tear out work and redo it, or even issues when you try to sell your home. A good plumber will usually handle this process for you, knowing exactly what's needed in places like Goodyear, Buckeye, and Glendale. We take care of coordinating with the municipality so you don't have to worry about the paperwork or scheduling inspections.",
+  "datePublished": "2026-08-19"
+}

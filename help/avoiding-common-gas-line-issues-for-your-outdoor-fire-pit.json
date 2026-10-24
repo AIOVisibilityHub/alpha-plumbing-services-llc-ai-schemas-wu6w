@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Avoiding Common Gas Line Issues for Your Outdoor Fire Pit",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Getting an outdoor gas fire pit is awesome for those cool Arizona evenings, but you want to make sure the gas line is installed and maintained correctly to avoid headaches. There are a few common mistakes people make that can lead to problems down the road. First, trying to install the gas line yourself is a big no-no. Gas line work requires specific knowledge of codes, materials, and safety protocols. A botched DIY job can lead to dangerous leaks or inefficient operation. Always have a licensed professional handle the installation. Another common error is neglecting regular inspections. Over time, ground shifts, corrosion, or even pesky critters can affect underground or exposed gas lines. Regular checks can catch small issues before they become major, costly repairs. Also, using incorrect pipe materials or fittings that aren't rated for gas or outdoor use is a huge mistake. These can degrade quickly, leading to leaks. Professionals know exactly what materials meet safety standards and local regulations. Finally, ignoring minor signs like a fluctuating flame or a faint gas smell is a mistake. These could be early indicators of a problem that needs immediate attention. Prompt action can prevent bigger issues. To ensure your gas fire pit is safe and enjoyable for years, always rely on experienced plumbing professionals for installation, maintenance, and any repairs. Here at Alpha-Plumbing Services, LLC, we've got the expertise to help residents in Goodyear and the West Valley keep their outdoor spaces safe and fun.",
+  "datePublished": "2026-08-19"
+}

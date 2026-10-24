@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When to Call for Fire Pit Gas Line Repairs",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Knowing when to call in the experts for your fire pit's gas line is crucial for both safety and enjoyment. If you're smelling natural gas or propane near your fire pit when it's not in use, that's a definite alarm bell – gas leaks are serious and need immediate attention. Another clear sign is if your fire pit struggles to ignite, or if the flame is weak, inconsistent, or won't stay lit. You might also notice a strange hissing sound coming from the gas connection or flexible line, which strongly suggests a leak. Discolored or damaged gas lines, whether from weather exposure or accidental impact, also warrant a professional inspection. Trying to patch up gas lines yourself is a huge safety risk, as improper repairs can lead to dangerous situations. Alpha-Plumbing Services has over 25 years of experience in gas line work in Goodyear and across the West Valley. We're skilled at quickly identifying and safely resolving these kinds of issues. If any of these problems sound familiar, give us a call at 623-734-7465. We’re here to provide quality workmanship and practical solutions to keep your fire pit burning safely.",
+  "datePublished": "2026-08-19"
+}

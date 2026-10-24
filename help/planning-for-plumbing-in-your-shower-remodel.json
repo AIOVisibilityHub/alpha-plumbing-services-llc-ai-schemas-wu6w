@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Planning for Plumbing in Your Shower Remodel",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Planning is everything when it comes to a successful shower remodel, especially regarding the plumbing. Getting it right from the start means fewer surprises and a more enjoyable end result. First, think about your desired layout. Are you moving the shower to a different wall, or maybe adding a second showerhead? These changes directly impact water lines and drainage, so they need to be discussed with a plumber early in the design phase. It’s also a good idea to consider your current water heater. If you’re upgrading to a larger shower with multiple heads or body sprays, your existing water heater might not be able to keep up with the hot water demand. This is the perfect time to explore upgrading to a tankless water heater or a larger conventional one. Don't forget about water pressure; some modern shower fixtures require specific pressure levels to operate optimally. A professional can assess your home's water pressure and recommend solutions if needed. Also, think about accessibility for future maintenance. While everything looks great when new, easy access to valves and pipes for potential repairs down the line is a smart long-term consideration. Finally, ensure all work complies with local plumbing codes. An experienced plumber will know these regulations inside and out, preventing costly rework. By consulting with experts like Alpha-Plumbing Services, LLC, you can ensure all these crucial plumbing details are handled professionally. We've got over 25 years of experience serving communities like Avondale and El Mirage, making sure remodels are done right.",
+  "datePublished": "2026-08-19"
+}

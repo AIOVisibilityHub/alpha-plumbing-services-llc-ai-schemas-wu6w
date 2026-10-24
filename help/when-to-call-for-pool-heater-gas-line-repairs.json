@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When to Call for Pool Heater Gas Line Repairs",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It’s super important to know when to bring in the pros for your pool heater’s gas line. If you notice any strange smells, like sulfur or rotten eggs, around your pool heater, that's a huge red flag – gas leaks are serious business! Another big sign is if your pool heater isn't firing up at all, or if it's struggling to maintain a consistent flame. Sometimes, you might even hear a hissing sound near the unit, which could indicate a leak. Don't brush these off; a professional like us at Alpha-Plumbing Services has the right tools and expertise to safely diagnose and fix these issues. Trying to tackle gas line problems yourself can be really dangerous, so it's always best to play it safe. We’ve got over 25 years of experience handling these kinds of situations in Goodyear and the West Valley. We're committed to practical solutions that keep your home safe and your pool warm. If you’re experiencing any of these issues, give us a call at 623-734-7465. We’re here to help get your pool heater back in tip-top shape safely and efficiently.",
+  "datePublished": "2026-08-19"
+}

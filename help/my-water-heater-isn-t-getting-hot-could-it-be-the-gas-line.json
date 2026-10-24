@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "My Water Heater Isn't Getting Hot – Could it be the Gas Line?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When your water heater isn't performing like it should, especially if you're getting cold or lukewarm water when you expect hot, the gas line is definitely a potential culprit. It's frustrating, but recognizing the signs that point to a gas line issue can save you a lot of grief. One of the most obvious indicators is if your water heater isn't firing up at all, or if the pilot light keeps going out. This could mean the gas isn't flowing correctly or consistently to the unit. If you also notice a distinct sulfur-like smell of gas near your water heater, that’s a serious red flag, indicating a leak in the line. Turn off the gas immediately and call for professional help. Another sign might be if other gas appliances in your home are also experiencing issues, like a weak flame on your stove. This could point to a broader gas pressure problem affecting multiple lines, including the one to your water heater. Also, if you've recently had any construction or renovations that involved digging near your home, or if the water heater itself is quite old, the gas line could be compromised or corroded. Don't try to troubleshoot gas lines yourself; it's genuinely dangerous. For any of these issues, it's crucial to call a qualified and experienced plumbing professional. Alpha-Plumbing Services, LLC has been serving Goodyear and the West Valley for over 25 years, and we're experts in safely diagnosing and repairing gas line issues for water heaters. Get in touch with us to ensure your hot water is back on track safely.",
+  "datePublished": "2026-08-19"
+}

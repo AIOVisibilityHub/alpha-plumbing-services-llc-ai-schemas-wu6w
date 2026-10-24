@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When to Upgrade Your Home's Gas Piping",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Your home's gas piping is one of those 'out of sight, out of mind' things, but there are definitely times when it needs a closer look, or even an upgrade. Knowing when to call a professional for this can really help keep your home safe. If you're noticing any persistent gas odors, even faint ones, that's a massive red flag. Don't ignore it—call for help immediately! Another signal is if your appliances aren't performing well, like a stove burner that's not getting enough flame, which could indicate a flow issue in your gas lines. Age is a big factor, too; older homes often have outdated piping that might not meet current safety standards or could be deteriorating. Planning a major remodel that involves moving gas appliances or adding new ones, like an outdoor kitchen or a gas dryer where you didn't have one before? You'll definitely need an inspection and likely new piping. Visible corrosion or damage to exposed gas lines is another clear sign it’s time to call. Ignoring these signs can put your property and loved ones at risk. A professional can assess your current system and recommend the safest, most efficient solutions. Alpha-Plumbing Services, LLC has over 25 years of experience handling gas line installations and inspections in the Goodyear and West Valley areas.",
+  "datePublished": "2026-08-19"
+}

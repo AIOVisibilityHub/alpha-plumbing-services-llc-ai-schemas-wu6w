@@ -1,0 +1,84 @@
+{
+  "name": "How to Tell if Your Copper Pipes Need Replacing",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "Wondering if your home's copper plumbing might be reaching the end of its lifespan? It’s a common question, and thankfully, there are some pretty clear signs to look out for. First, keep an eye out for visible corrosion, especially greenish-blue stains around joints or on the pipes themselves. This often indicates oxidation and potential weakening. Another big red flag is frequent leaks, even small ones. If you're constantly patching pinholes or dealing with drips, your system is trying to tell you something. Low water pressure can also be a symptom, as internal corrosion or mineral buildup can narrow the pipes. Pay attention to your water quality too; discolored water, especially reddish or brownish tints, can point to internal pipe degradation. Finally, consider the age of your home. If your house was built over 50 years ago and still has its original copper pipes, they're definitely due for an inspection. It’s always best to be proactive before a small problem becomes a major flood. Not sure what to look for? Let the experienced team at Alpha-Plumbing Services, LLC take a look. We're here to help homeowners in Goodyear and the West Valley assess their copper piping and recommend the best course of action.",
+      "@type": "HowToStep",
+      "position": 1
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "description": "How to Tell if Your Copper Pipes Need Replacing"
+}

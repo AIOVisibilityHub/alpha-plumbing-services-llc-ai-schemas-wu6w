@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "My Toilet Won't Flush Properly – What's Wrong?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "There's nothing quite as frustrating as a toilet that just won't flush, or only flushes weakly. It’s a common plumbing issue we see in homes and businesses across Goodyear and the West Valley. Often, the culprit is a low water level in the tank; if there isn't enough water, there won't be enough force for a full flush. This could be due to an improperly adjusted float or a faulty fill valve. Another frequent problem is a blocked rim jet or siphon jet, which are small holes under the toilet rim that direct water into the bowl to create the siphoning action needed for a good flush. Mineral deposits can build up in these jets, restricting water flow. Sometimes, the flapper valve might not be lifting completely or staying open long enough, meaning the water isn't released into the bowl efficiently. Of course, a partial or full clog in the drain line or trap is also a prime suspect, especially if you notice the water level rising significantly after a weak flush. Don't just keep flushing and hoping for the best! This can quickly lead to an overflow. Getting to the root of the problem promptly can save you a lot of hassle. If you're dealing with a toilet that's giving you grief, Alpha-Plumbing Services has over 25 years of experience diagnosing and fixing these kinds of issues quickly and effectively.",
+  "datePublished": "2026-08-19"
+}

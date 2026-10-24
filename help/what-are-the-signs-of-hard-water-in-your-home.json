@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What Are the Signs of Hard Water in Your Home?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Ever wonder if your home has hard water? It's a common issue in areas like Goodyear and the West Valley, and it often shows up in ways you might not even realize. One of the most obvious signs is that familiar white, chalky buildup you see on your faucets, showerheads, and even inside your kettle – that's limescale, a direct result of mineral deposits. You might also notice your dishes coming out of the dishwasher with spots and film, even after a fresh wash. If your skin feels dry, itchy, or your hair seems dull and lifeless after a shower, hard water could be stripping away natural oils. Plus, your laundry might feel stiff or look dingy, and you'll find yourself using more soap and detergent to get things clean. These aren't just minor inconveniences; hard water can also shorten the lifespan of your appliances. If you're experiencing any of these, Alpha-Plumbing Services, LLC can help you with practical solutions.",
+  "datePublished": "2026-08-19"
+}

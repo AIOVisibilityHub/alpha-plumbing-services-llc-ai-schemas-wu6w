@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When to Call a Pro for New Construction Plumbing?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Building a new home is super exciting, and getting the plumbing right from the start is non-negotiable for future comfort and peace of mind. But how do you know when it’s truly time to bring in the professional plumbing team for your new construction project? It’s more than just hooking up pipes; it’s about a robust, code-compliant system designed for longevity.\n\nFirst off, if you’re past the initial design phase and moving into structural planning, that’s your cue. A professional plumber needs to be involved early to plan the layout, sizing, and placement of all water supply and drainage lines. Waiting until the walls are going up could lead to costly rework or compromised system integrity. Secondly, when it comes to permits and inspections, a seasoned expert understands the local regulations in areas like Goodyear, Buckeye, or Surprise. They can ensure your plumbing system meets all the necessary codes, avoiding delays and future headaches with the city. If you’re unsure about the best materials for your specific needs – like PEX vs. copper – a pro can guide you, offering practical solutions that fit your budget and long-term goals. Finally, any time you're dealing with complex installations, such as gas lines or specialized fixtures, having someone with over 25 years of hands-on experience, like Alpha-Plumbing Services, LLC, is essential. Don’t gamble on something so critical to your new home.\n\nReady to ensure your new construction plumbing is handled expertly? Give Alpha-Plumbing Services, LLC a call today for a consultation.",
+  "datePublished": "2026-08-19"
+}

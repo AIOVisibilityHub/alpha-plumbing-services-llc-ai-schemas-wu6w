@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Mistakes to avoid when installing a new shower",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Embarking on a new shower installation project can be exciting, but there are definitely some common pitfalls you'll want to steer clear of. First up, don't underestimate the importance of proper ventilation. A poorly ventilated bathroom is an open invitation for mold and mildew, which can quickly turn your shiny new shower into a headache. Make sure you've got a good fan and use it! Another big one is neglecting the subfloor and waterproofing. Skipping this crucial step can lead to costly water damage down the road, so always ensure everything is sealed up tight and properly prepped before tiles go on. \n\nThen there's the trap of cutting corners on materials. Going for the cheapest option might save you a few bucks upfront, but low-quality fixtures and tiling often mean shorter lifespans and more repairs. Invest in quality where it counts! Also, trying to DIY complex plumbing or electrical work without experience is a recipe for disaster. This is where professional help becomes super important; incorrect plumbing can lead to leaks, low pressure, or even safety hazards. And finally, don't forget about future maintenance access. Think about how you'll reach valves or pipes if they ever need servicing. Planning ahead can save you a lot of trouble. Alpha-Plumbing Services, LLC has been doing this for over 25 years, so we’ve seen it all and can help you avoid these mistakes in Goodyear and the West Valley.",
+  "datePublished": "2026-08-19"
+}

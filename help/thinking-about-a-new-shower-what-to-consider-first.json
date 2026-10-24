@@ -1,0 +1,84 @@
+{
+  "name": "Thinking About a New Shower? What to Consider First",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "Deciding on a new shower replacement is a pretty big step, and you want to make sure you're thinking through all the right things before diving in. First off, consider your budget – not just for the unit itself, but for installation and any potential demolition or tiling work. It's smart to get a clear picture of all costs upfront. Next, think about the functionality you need. Do you want a simple, efficient shower, or are you dreaming of features like multiple spray heads, thermostatic controls, or even a built-in bench? The style and aesthetic are important too; make sure your new shower complements your bathroom's overall design. You'll also need to consider the type of shower – stand-alone, tub/shower combo, or a walk-in design, keeping in mind the space you have available and any accessibility needs. Don't forget about water pressure and plumbing compatibility; some newer fixtures might require updates to your existing pipes. Finally, think about durability and ease of cleaning; you want something that will last and won't be a nightmare to maintain. It might seem like a lot, but a well-planned shower replacement can really transform your bathroom and add value to your home. If you're in Goodyear, Peoria, or surrounding West Valley communities, and you're pondering a shower upgrade, Alpha-Plumbing Services, LLC can help guide you through the process. With over 25 years of experience, we ensure your new shower is installed correctly and to international plumbing code standards. Call us at 623-734-7465 to talk through your options!",
+      "@type": "HowToStep",
+      "position": 1
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "description": "Thinking About a New Shower? What to Consider First"
+}

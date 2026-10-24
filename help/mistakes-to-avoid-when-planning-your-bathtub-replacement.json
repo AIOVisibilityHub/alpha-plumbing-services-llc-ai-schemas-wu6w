@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Mistakes to Avoid When Planning Your Bathtub Replacement",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Replacing a bathtub might seem straightforward, but there are a few common pitfalls we see homeowners in areas like Peoria and Surprise stumble into. First, don't rush the measurement process. An ill-fitting tub can lead to costly adjustments or even damage to your bathroom structure. Always double-check, or better yet, let a professional measure for you. Second, avoid overlooking the condition of your existing plumbing. Sometimes an old tub is just a symptom of deeper issues, like aging pipes. A new tub on old, corroded plumbing is a recipe for future leaks. Third, don't skimp on quality. While a cheaper tub might save you money upfront, it often means lower durability and a shorter lifespan, leading to another replacement sooner than you'd like. Fourth, make sure you're considering proper ventilation. A new tub can exacerbate moisture problems if your bathroom isn't properly ventilated, encouraging mold. Lastly, don't try to DIY complex plumbing connections. Improper installation can void warranties and cause serious water damage. Getting professional input ensures everything is up to code and installed correctly. We’re here to help you navigate these choices wisely; reach out to Alpha-Plumbing Services at 623-734-7465 for a free estimate and expert advice.",
+  "datePublished": "2026-08-19"
+}

@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What are the risks of DIY gas line work?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Thinking about tackling gas line work yourself? While a DIY spirit is great for many home projects, there are some pretty serious risks involved when you're dealing with natural gas. First and foremost, safety is a huge concern. Incorrectly installed or sealed gas lines can lead to leaks, which are incredibly dangerous. Gas leaks can cause explosions, fires, and even carbon monoxide poisoning, putting everyone in your home at risk. Beyond safety, there's also the risk of not complying with local building codes. Gas line installations are heavily regulated, and if your DIY job doesn't meet these standards, it could lead to failed inspections, insurance problems, or even legal issues down the road. You might also end up using the wrong materials or improper connections, which could lead to efficiency problems or future breakdowns. Professionals have specialized tools and knowledge to ensure proper sizing, secure connections, and adherence to all safety standards. With more than 25 years of experience, our team at Alpha-Plumbing Services, LLC understands the intricacies of natural gas line installation in areas like Goodyear, Avondale, and Surprise. It’s always better to trust these jobs to experts who can guarantee a safe and reliable outcome. Give us a ring at 623-734-7465 to discuss your needs.",
+  "datePublished": "2026-08-19"
+}

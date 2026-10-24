@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When Should You Consider a New Toilet Installation?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Thinking about a new toilet installation? It's a bigger decision than you might think, and there are several clear signals that it's time for an upgrade. Often, people wait until there's a complete breakdown, but being proactive can save you a lot of hassle and money in the long run. If your toilet is constantly clogging, even after minor use, or if you're frequently calling for repairs because it's not flushing properly, those are big red flags. You shouldn't have to plunge your toilet daily or jiggle the handle every time you flush just to make it work. Another major sign is an excessive amount of water use. Older toilets can be real water guzzlers, and a new, high-efficiency model could significantly lower your water bill. Cracks in the porcelain, especially in the bowl or tank, are also serious indicators. These can lead to leaks and water damage, which are much more expensive problems to fix than a simple replacement. If you're remodeling your bathroom, that's the perfect opportunity to update your fixtures, including your toilet, for a fresh look and improved functionality. Lastly, if your toilet is just plain old and starting to look worn, it might be time for a fresh start. Don't let a failing toilet become a bigger problem; reach out to us at Alpha-Plumbing Services, LLC. We've got more than 25 years of experience helping homeowners in Goodyear and the West Valley find the right solutions, and we'd be happy to discuss your options.",
+  "datePublished": "2026-08-19"
+}

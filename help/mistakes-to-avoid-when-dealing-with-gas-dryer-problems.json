@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Mistakes to Avoid When Dealing with Gas Dryer Problems",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Dealing with a malfunctioning gas dryer can be tricky, and it's easy to make some common mistakes that could actually worsen the problem or, more importantly, create a safety hazard. First off, never ignore the smell of gas; it's a huge red flag that requires immediate action, like evacuating and calling a professional. Another common mistake is trying to DIY a gas line repair. Gas lines are complex and delicate; tinkering with them without proper training and tools can lead to dangerous leaks or improper connections. Don't use your dryer if you suspect a gas line issue or if it's not heating properly; continuing to run it could exacerbate the problem. Also, avoid delaying professional help. While it might seem like a minor issue now, gas line problems can escalate quickly. Lastly, don't forget that a professional can quickly diagnose and safely repair the issue. Alpha-Plumbing Services, LLC has over 25 years of experience handling these sensitive repairs, guaranteeing proper installation up to international plumbing code. Reach out to us if you're noticing any issues with your gas dryer.",
+  "datePublished": "2026-08-19"
+}

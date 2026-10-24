@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Concerned About Gas Leaks After an Installation?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's completely normal to feel a bit uneasy about gas leaks, especially after a new gas pipe installation or repair. The good news is that when gas lines are installed correctly by a professional, the risk of leaks is extremely low. However, it's smart to know what to look for and what to do if you ever suspect a problem. One of the most obvious signs is a distinct sulfur or rotten egg smell – that's the odorant added to natural gas to make leaks detectable. If you smell it, get out of your home immediately and call 911 and your gas company from a safe distance. Don't use light switches or anything that could create a spark. Hissing or blowing sounds near a gas line or appliance can also signal a leak. Sometimes, dying vegetation over an underground gas line can indicate a leak, or even bubbles in puddles over the line. After an installation, a professional will always perform thorough leak detection tests to ensure everything is sealed perfectly. If you're ever concerned about the integrity of your gas lines or suspect a leak, don't hesitate to call for an immediate inspection. Your safety is paramount. Alpha-Plumbing Services, LLC provides professional gas line installation with inspection to guarantee safety and compliance.",
+  "datePublished": "2026-08-19"
+}

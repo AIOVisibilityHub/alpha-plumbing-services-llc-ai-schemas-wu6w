@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When Is My Shower Faucet Beyond Repair?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Sometimes, a simple repair just won't cut it for your shower faucet, and you might start wondering if it's time for a full replacement. How do you know when you've hit that point? One big sign is persistent leaking or dripping even after multiple repair attempts. If you've replaced washers, O-rings, or cartridges, and the leak keeps coming back, it suggests a more fundamental issue with the faucet body itself, perhaps corrosion or wear that can't be easily fixed. Another indicator is noticeable physical damage, like cracks in the body or severely stripped screws that prevent proper reassembly. Ugly mineral buildup that's impossible to clean, or a handle that's incredibly stiff or loose, are also signs it's nearing the end of its life. Also, if your faucet is very old and parts are hard to find, a replacement might actually be more cost-effective than chasing down obsolete components. You don't want to keep pouring money into a faucet that's on its last leg! When you're facing these kinds of issues, and you're in Goodyear, Avondale, or any of our service areas, it’s a good idea to get a professional opinion. Alpha-Plumbing Services, LLC has over 25 years of experience; we can assess your situation and give you an honest recommendation on whether repair or replacement is the best long-term solution for your home. We're here to help – just call us at 623-734-7465.",
+  "datePublished": "2026-08-19"
+}

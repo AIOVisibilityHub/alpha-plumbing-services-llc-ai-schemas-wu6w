@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What Are the Risks of Having Polybutylene Pipes?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Living with polybutylene pipes can feel like you’re sitting on a ticking time bomb, and honestly, the risks are pretty significant. The biggest concern is their well-documented tendency to fail suddenly and without warning, leading to catastrophic water damage. This isn't just about small leaks; we're talking about pipes bursting and flooding entire sections of your home. The internal degradation caused by chlorine in the water supply weakens the plastic over time, making it brittle and prone to cracking. This means you could be looking at costly repairs for drywall, flooring, furniture, and potential mold remediation. Beyond the immediate damage, having polybutylene pipes can also make your home harder to insure or sell, as many insurers and buyers are wary of the known risks. It can also significantly decrease your home's value. Proactive replacement is often the most cost-effective solution in the long run, saving you from much bigger headaches and expenses down the line. Don’t let the uncertainty hang over your head. If you suspect you have polybutylene pipes, Alpha-Plumbing Services, LLC offers expert assessment and reliable polybutylene pipe replacement services to protect homes in Goodyear and the West Valley.",
+  "datePublished": "2026-08-19"
+}

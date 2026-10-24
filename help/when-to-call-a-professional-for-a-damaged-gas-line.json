@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When to Call a Professional for a Damaged Gas Line",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Noticing an issue with your gas line can be pretty unsettling, and honestly, it's not something you should try to fix yourself. If you've got a damaged or inaccessible gas line, knowing when to bring in the pros is absolutely critical for your safety and your home's integrity. Seriously, even a small leak can escalate quickly. You should definitely call a professional plumber if you detect a distinct rotten egg smell – that's often mercaptan, intentionally added to natural gas to make leaks detectable. Also, if you hear a hissing sound near a gas appliance or pipe, that's a red flag for a gas leak. Visible damage to the gas line itself, like corrosion or a bent pipe, means it's time to call us. Even if your gas appliance isn't working correctly, it could stem from a gas line issue. Don't ever hesitate to reach out if you suspect a problem; getting expert help quickly can prevent serious hazards and ensure your family's safety. We've got over 25 years of experience safely handling gas line rerouting and repairs in Goodyear and the West Valley.",
+  "datePublished": "2026-08-19"
+}

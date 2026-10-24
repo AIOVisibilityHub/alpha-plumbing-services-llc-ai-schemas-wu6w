@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Outdoor Cooking Upgrade: Mistakes to Avoid with Gas Lines",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Upgrading your outdoor cooking setup with a new gas line for your barbecue grill is exciting, but there are some common slip-ups you'll want to avoid to ensure safety and functionality. First, never attempt to install a gas line without the proper knowledge or licensing. Gas leaks are incredibly dangerous, and this isn't a DIY project for novices. Always hire a licensed, bonded, and insured professional like Alpha-Plumbing Services to ensure it's done correctly and safely. Second, don't overlook the importance of local codes and permits. A professional plumber will handle all necessary inspections to ensure your installation is compliant. Third, using the wrong type of piping or connectors for outdoor conditions is a big mistake. Outdoor gas lines need to withstand weather and elements, requiring specific, durable materials. Fourth, failing to properly secure and protect the gas line from damage (like from gardening tools or pets) can lead to leaks. Lastly, ignoring proper ventilation for built-in grills can create hazardous situations. By avoiding these common errors, you'll enjoy your outdoor cooking safely for years to come. For expert gas line installation, contact Alpha-Plumbing Services, your trusted plumbers in the West Valley for over 25 years.",
+  "datePublished": "2026-08-19"
+}

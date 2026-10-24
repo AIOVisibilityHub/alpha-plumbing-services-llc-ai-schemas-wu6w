@@ -1,0 +1,96 @@
+{
+  "name": "How to Get Your New Construction Plumbing Right the First Time",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "Building a new home means you've got a blank canvas for your plumbing system, which is an incredible opportunity to get it perfectly right from day one! You want a system that's efficient, reliable, and won't give you headaches down the line. Here’s how you can nail your new construction plumbing project.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2",
+      "text": "Start with early and thorough planning. Don't wait until framing is complete; involve your plumbing professionals during the design phase. This allows for optimal layout, proper pipe sizing, and considering future needs like appliance placement or water treatment systems. Next, prioritize quality materials. While it might seem tempting to cut costs, opting for durable, high-grade pipes, fittings, and fixtures will pay off immensely in the long run by preventing leaks and costly repairs. Third, ensure your chosen plumber is licensed, experienced, and familiar with local codes in your area, whether that's Buckeye, Avondale, or Sun City. A seasoned professional, like Alpha-Plumbing Services, LLC with over 25 years of experience, understands the nuances of new builds and can guarantee compliance. Also, don't skimp on proper venting and drainage; these are critical for system efficiency and preventing issues like foul odors or slow drains. Finally, schedule comprehensive inspections at key stages – rough-in and final – to catch any potential problems before they become big, expensive fixes. Getting this right from the start means a worry-free plumbing system for your brand new home.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3",
+      "text": "Ready to build with confidence? Contact Alpha-Plumbing Services, LLC to discuss your new construction plumbing needs.",
+      "@type": "HowToStep",
+      "position": 3
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "description": "How to Get Your New Construction Plumbing Right the First Time"
+}

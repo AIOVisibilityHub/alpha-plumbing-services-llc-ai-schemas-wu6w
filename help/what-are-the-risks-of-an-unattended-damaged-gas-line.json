@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What Are the Risks of an Unattended Damaged Gas Line?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Leaving a damaged gas line unattended is a gamble you really don't want to take. The risks involved are serious, and knowing them can help you understand why immediate, professional intervention is so crucial. Firstly, and most obviously, there's the risk of a gas leak. Natural gas is highly flammable, and even a small leak can lead to a fire or explosion if it encounters an ignition source. This puts your home, business, and everyone in it in extreme danger. Secondly, gas leaks can cause health issues. Inhaling natural gas can lead to symptoms like dizziness, nausea, headaches, and fatigue. In enclosed spaces, prolonged exposure can even be fatal due to oxygen displacement. Thirdly, there's the potential for significant property damage. Beyond fires, a damaged gas line can also lead to structural issues if the leak goes unnoticed and causes damage to foundations or other parts of your property. Finally, there's the legal and financial liability. If an incident occurs due to an unaddressed gas line issue, you could face hefty repair costs, insurance complications, and legal consequences. Don't ever try to tackle these problems yourself. When you suspect a damaged gas line, contact Alpha-Plumbing Services, LLC right away. Our team has over 25 years of experience in safely isolating and capping damaged gas lines, ensuring your system meets international plumbing codes. Give us a call at 623-734-7465 – your safety is our top priority.",
+  "datePublished": "2026-08-19"
+}

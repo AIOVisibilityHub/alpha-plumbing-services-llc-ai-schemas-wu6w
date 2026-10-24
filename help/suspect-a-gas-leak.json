@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Suspect a Gas Leak?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When it comes to gas lines, safety is absolutely paramount, and knowing when to call a professional for a pressure test can literally save lives. If you ever catch a whiff of that distinctive sulfur or rotten egg smell, which is added to natural gas to make leaks detectable, don't hesitate – that's your number one signal. Beyond the smell, keep an eye out for visual cues like dead or discolored vegetation over an underground gas line, or a dust cloud near a gas line outside your property. Indoors, listen for any unexplained hissing sounds coming from gas appliances or pipes. Also, if your gas bill suddenly spikes without a change in usage, it could point to a slow leak that's letting gas escape. If you're experiencing any of these signs, it's crucial to act fast. Turn off any open flames, don't operate light switches, and evacuate your property. Then, from a safe distance, call Alpha-Plumbing Services, LLC. We're experts in gas line pressure testing for residential and light-commercial properties across Goodyear and the West Valley, and we'll ensure your gas lines are secure and up to code.",
+  "datePublished": "2026-08-19"
+}

@@ -1,0 +1,84 @@
+{
+  "name": "How to Deal with a Malfunctioning Fire Pit Gas Line",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "Experiencing issues with your fire pit's gas line can definitely put a damper on your outdoor evenings. Your first and most important step should always be safety. If you detect any odor of gas, or hear a distinct hissing sound near the fire pit, immediately turn off the gas supply to the unit at the source if it's safe to do so. Then, keep everyone away from the area and contact a professional immediately. Do not attempt to light the fire pit or use any electrical devices nearby. If there's no immediate danger like a strong gas smell, but your fire pit isn't lighting, you can check the gas valve to ensure it's fully open. Sometimes, it’s just a simple oversight. However, beyond checking obvious things like the gas valve, any deeper issues with the gas line itself, like a suspected leak, damage, or burner problems, absolutely require expert attention. Alpha-Plumbing Services has more than 25 years of hands-on experience dealing with gas lines in Goodyear and throughout the West Valley. We're equipped to safely diagnose and fix these problems, providing practical solutions. For dependable service and peace of mind, reach out to us at 623-734-7465.",
+      "@type": "HowToStep",
+      "position": 1
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "description": "How to Deal with a Malfunctioning Fire Pit Gas Line"
+}

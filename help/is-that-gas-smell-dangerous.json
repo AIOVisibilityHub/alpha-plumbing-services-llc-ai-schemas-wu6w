@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Is That Gas Smell Dangerous?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Hearing a strange hissing sound or catching a whiff of rotten eggs near your gas appliances or lines can be pretty unsettling. It's usually the first sign something's not right. Don't brush it off! Gas leaks are serious business and definitely not something you want to DIY. If you suspect a gas leak, your safety and the safety of everyone around you is the absolute priority. The tell-tale rotten egg smell (that's mercaptan, by the way, added for safety) means natural gas is escaping, and that can lead to hazardous situations. It's best to evacuate immediately and then call for help. Once you're safely away, you'll need a professional to locate the leak, assess the damage, and perform the necessary repairs. Alpha-Plumbing Services, LLC has over 25 years of experience handling these kinds of emergencies in Goodyear and the surrounding West Valley communities. We've got the expertise to get your gas lines back in safe working order, whether it's a small repair or a more involved replacement. Don't hesitate to reach out if you're concerned about a gas smell; it’s always better to be safe than sorry when it comes to gas lines.",
+  "datePublished": "2026-08-19"
+}

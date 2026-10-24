@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What Are The Dangers Of A Hidden Gas Leak?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Hidden gas leaks are particularly scary because they can go undetected for a while, quietly posing serious risks to your home and your health. Unlike an obvious leak with that strong rotten-egg smell, these can be subtle, making it even more important to be aware of the less obvious warning signs. It's not just about the smell; the dangers extend much further.\n\nThe most immediate and severe danger is the risk of explosion or fire. Natural gas is highly flammable, and even a small spark can ignite a significant buildup. Beyond that, gas leaks can lead to carbon monoxide poisoning if the gas isn't burning properly, which is extremely dangerous and often deadly because it's odorless and colorless. Even without combustion, direct exposure to natural gas can cause health issues like headaches, dizziness, nausea, fatigue, and even loss of consciousness. It displaces oxygen, meaning you're not getting enough fresh air. That's why it's so critical to get a professional diagnosis if you suspect anything at all, even if you can't pinpoint the source. If you're in Goodyear or the surrounding West Valley areas like Surprise, Glendale, or Phoenix, and are worried about a potential gas leak, Alpha-Plumbing Services, LLC is here to help. We offer emergency gas leak diagnosis with over 25 years of experience to quickly and safely identify any hidden issues.",
+  "datePublished": "2026-08-19"
+}

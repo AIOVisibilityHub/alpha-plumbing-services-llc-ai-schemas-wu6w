@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Is Your New Gas Appliance Setup Safe?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Bringing in a new gas appliance is exciting, whether it’s a new stove, dryer, or an outdoor grill. But ensuring the gas line installation is done correctly and safely is absolutely crucial for your peace of mind and the well-being of your home and family. It’s not just about getting the appliance hooked up; it’s about making sure everything meets the proper safety codes. You really don't want to cut corners here, as gas leaks can be incredibly dangerous. We’ve seen installations that looked fine on the surface but had hidden issues. If you're not an experienced professional, it’s easy to miss critical details like proper sizing, venting, or the right type of piping. Even a small error can lead to big problems down the line. That's why having a professional check everything is so important. They can ensure all connections are secure, pressure is correct, and everything is up to the latest standards. Don't hesitate to reach out if you're unsure about your gas line setup; getting it right the first time saves a lot of worry later on. Alpha-Plumbing Services, LLC offers professional gas line installation with inspection to give you that confidence.",
+  "datePublished": "2026-08-19"
+}

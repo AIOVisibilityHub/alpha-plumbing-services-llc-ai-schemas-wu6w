@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Thinking About a New Bathtub? Here's What to Know About Installation",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Deciding on a new bathtub is exciting, but understanding the installation process helps you set proper expectations. First off, material matters! Different tubs, whether acrylic, cast iron, or fiberglass, have unique installation requirements regarding weight and support. A heavy cast iron tub, for example, needs a very sturdy floor. Second, accessibility is key. Will the new tub fit through your doorways and hallways without causing damage? It's something we always check during our initial assessment. Third, don't forget about your plumbing connections. A new tub often means adjusting drain and water lines, which is definitely a job for experienced hands to ensure everything is leak-free and up to International Plumbing Code standards. Fourth, the surrounding area, like tiling or wall surrounds, needs consideration. A good installation often involves some work on adjacent surfaces to ensure a watertight seal and a polished finish. Lastly, proper disposal of your old tub is part of the process, and we handle that too. We're committed to quality workmanship, ensuring your new tub in Phoenix, Glendale, or anywhere in our service area is installed perfectly. For dependable bathtub installation, reach out to Alpha-Plumbing Services at 623-734-7465; we’re happy to offer a free estimate.",
+  "datePublished": "2026-08-19"
+}

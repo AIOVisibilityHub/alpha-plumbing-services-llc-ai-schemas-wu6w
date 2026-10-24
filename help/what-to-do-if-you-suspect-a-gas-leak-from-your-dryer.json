@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What to Do If You Suspect a Gas Leak from Your Dryer",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Suspecting a gas leak from your dryer is a serious situation that requires immediate attention. Your safety is the absolute priority here. The first and most crucial step is to shut off the gas supply to your home if you know how to do it safely. If not, evacuate everyone from the house and get to a safe distance. Don't use any electrical appliances, switches, or your phone inside the house, as even a small spark could ignite leaked gas. Next, call your gas company's emergency line from a safe location, and then call a professional plumbing service right away. Don't try to locate the leak yourself or attempt any repairs. Gas lines are complex and need specialized knowledge and tools to fix properly and safely. Ignoring a potential gas leak is incredibly risky. Alpha-Plumbing Services, LLC has the expertise, with over 25 years of experience, to diagnose and safely repair gas line issues for dryers, ensuring your peace of mind. Give us a call from a safe place so we can get your dryer's gas line sorted out.",
+  "datePublished": "2026-08-19"
+}

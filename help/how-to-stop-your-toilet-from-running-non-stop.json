@@ -1,0 +1,84 @@
+{
+  "name": "How to Stop Your Toilet from Running Non-Stop?",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "A constantly running toilet is more than just a nuisance; it's literally money going down the drain. If you're hearing that tell-tale trickling, there are a few simple things you can check yourself before calling in the pros. First, take the lid off your tank and examine the flapper. This rubber or plastic seal at the bottom of the tank is often the problem. Check if it's sitting correctly, or if it looks worn, cracked, or stiff. If it seems off, try to gently adjust it. Sometimes, the chain connecting the flapper to the flush handle can be the issue. Make sure it's not too tight, holding the flapper slightly open, or too loose, getting caught underneath it. You want just a little bit of slack. Next, look at the fill valve assembly and the float. The float controls when the tank stops filling. If it's set too high, water might be continuously flowing into the overflow tube. Try gently bending the float arm down a bit or adjusting the float cup if it's that style. If you see water continuously spilling into the overflow tube even after adjusting the float, the fill valve itself might be faulty and need replacement. You can also try a simple dye test: put a few drops of food coloring in the tank and wait 15-20 minutes without flushing. If the color appears in the bowl, you definitely have a leak from the tank into the bowl, likely a flapper issue. While these steps can help you diagnose and sometimes fix minor issues, if the problem persists or you're not comfortable with DIY repairs, don't hesitate to call a professional. Alpha-Plumbing Services, LLC offers dependable residential plumbing services throughout Goodyear and the West Valley. We're happy to provide practical solutions and get your toilet running efficiently again.",
+      "@type": "HowToStep",
+      "position": 1
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "description": "How to Stop Your Toilet from Running Non-Stop?"
+}

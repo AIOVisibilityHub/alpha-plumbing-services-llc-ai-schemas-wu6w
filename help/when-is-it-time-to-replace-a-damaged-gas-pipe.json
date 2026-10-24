@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When is it Time to Replace a Damaged Gas Pipe?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Sometimes a repair is enough, but often with damaged gas pipes, replacement is the safer and more durable solution. It's a big decision, but here’s when you should seriously consider full replacement instead of just a patch job. If the damage is extensive, such as significant corrosion over a large section, multiple punctures, or a pipe that has been bent or crushed, a full replacement is almost always recommended. Also, if your gas pipes are very old and made from materials prone to degradation, or if they've been subject to repeated repairs, it might be more cost-effective and safer in the long run to replace them entirely. Frequent leaks, even small ones, can indicate systemic issues that a simple repair won't solve. Environmental factors, like shifting ground or aggressive soil conditions, can also weaken pipes over time, making replacement a wise choice. Alpha-Plumbing Services, LLC can thoroughly inspect your gas lines and provide an expert assessment. We’ll offer honest communication about whether a repair or a full replacement is the best practical solution for your home in Goodyear or the West Valley, ensuring your gas system is safe and reliable for years to come.",
+  "datePublished": "2026-08-19"
+}

@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Avoiding Problems with Your Water Heater Gas Line Installation",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Installing a gas line for your water heater isn't a task to be taken lightly; a faulty installation can lead to serious safety hazards. To ensure everything goes smoothly and safely, there are several key mistakes you absolutely want to steer clear of. A common misstep is using the wrong type or size of pipe for the gas line. Gas lines require specific materials and proper sizing to ensure adequate fuel flow and prevent issues, so don't just grab any old pipe. Another frequent error is neglecting to properly seal all connections. Every joint and fitting needs to be airtight to prevent dangerous leaks, and this often requires specific tools and techniques that a DIYer might miss. Skipping necessary permits or inspections is also a big mistake; local regulations, such as those in Avondale or Surprise, are in place to ensure safety standards are met. Failing to adequately secure the gas line can also lead to problems, making it vulnerable to damage over time. Lastly, never, ever skip the leak test; it's a non-negotiable step to confirm the integrity of the entire system before operation. By avoiding these common pitfalls, you can ensure your water heater's gas line is installed correctly, safely, and to code. For peace of mind and expert installation, Alpha-Plumbing Services, LLC has the experience to get it right the first time. We serve numerous communities, including Waddel and Young Town, so give us a call for professional help.",
+  "datePublished": "2026-08-19"
+}

@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What To Do If You Smell Gas In Your Home",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Smelling gas is never a good sign and something you should act on immediately. That distinct rotten-egg odor is an additive, mercaptan, put into natural gas so you can detect leaks quickly. Your safety, and the safety of everyone around you, is the top priority here. Don't take chances with potential gas leaks, as they can quickly become dangerous.\n\nFirst off, don't ignore it! Even a faint smell could indicate a serious issue. Open windows and doors to ventilate the area as much as possible, if it's safe to do so. Secondly, resist the urge to use anything that could create a spark. That means no light switches, no operating appliances, no using your phone indoors, and definitely no lighting candles or smoking. Just get out of the house as quickly and calmly as you can. Once you're in a safe location away from the building, call your gas company's emergency line or 911 right away. They'll advise you on the next steps, which will almost certainly include calling a licensed professional. Here in Goodyear and across the West Valley, our team at Alpha-Plumbing Services, LLC, is ready to help with emergency gas leak diagnosis. We've got over 25 years of experience handling these kinds of emergencies safely and effectively, ensuring proper installation up to international plumbing code. Don't hesitate; your safety depends on it.",
+  "datePublished": "2026-08-19"
+}

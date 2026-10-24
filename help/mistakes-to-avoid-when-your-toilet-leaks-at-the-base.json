@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Mistakes to Avoid When Your Toilet Leaks at the Base",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "A toilet leaking at the base is a pretty clear signal that something’s wrong, and while you might be tempted to ignore it or try a quick fix, there are definitely some mistakes you’ll want to avoid. Ignoring the leak altogether is probably the biggest one; that seemingly small puddle can cause serious water damage to your subfloor, leading to mold, rot, and much more expensive repairs down the road. It’s not just an aesthetic issue; it’s structural.\n\nAnother common mistake is trying to simply caulk around the base to stop the leak. While caulking can be useful for aesthetics, it won't fix the underlying problem, which is usually a faulty wax ring or a loose toilet. In fact, it can trap water under the toilet, making the damage worse and harder to detect. Overtightening the toilet bolts is another one to avoid; this can crack the toilet bowl or the floor flange, creating even more leaks and requiring a full toilet replacement. And if you’re trying to replace the wax ring yourself, not properly cleaning the old wax or ensuring the new ring is perfectly seated can lead to the leak persisting, or even making it worse. It’s also crucial to make sure the toilet is stable after reinstallation. When it comes to leaks at the base, it’s often best to call a professional. Alpha-Plumbing Services, LLC has more than 25 years of experience with toilet repairs in areas like Sun City and Tolleson, and we can get it done right the first time, ensuring a proper, leak-free seal. Reach out to us for reliable service!",
+  "datePublished": "2026-08-19"
+}

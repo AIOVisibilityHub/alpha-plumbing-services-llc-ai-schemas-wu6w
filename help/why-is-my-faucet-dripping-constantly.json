@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Why is My Faucet Dripping Constantly?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's super frustrating when your faucet just won't quit dripping, right? That constant 'drip, drip, drip' isn't just annoying; it's also a big waste of water and can even drive up your utility bill over time. Usually, a persistent drip points to an issue with internal components that have worn out. Things like rubber washers, O-rings, or cartridges inside the faucet can degrade from daily use and hard water, losing their ability to seal properly. If your faucet has seen better days, or if you've noticed the drip getting worse, it's probably time to have a professional take a look. We've been fixing faucets for over 25 years in places like Goodyear and Buckeye, so we've seen it all. Don't let a small drip turn into a bigger problem. Sometimes, what seems like a minor issue can actually be a sign of deeper wear, and ignoring it might lead to more extensive repairs down the line or even water damage. It's smart to address these things early. If you're tired of the drip and want to get it sorted out efficiently, just give us a call at Alpha-Plumbing Services, LLC. We’re here to help you protect your home.",
+  "datePublished": "2026-08-19"
+}

@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "How To Know If You Have A Gas Leak",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Think you might have a gas leak but aren't totally sure? It's a serious concern, and knowing the signs can help you respond quickly and keep everyone safe. While the most obvious indicator is that distinctive sulfur or rotten-egg smell, there are other clues to watch out for that might signal a problem, even a hidden one.\n\nOne common sign is an unusual increase in your gas bill without a change in usage. If you're paying more than usual and haven't cranked up the heat or used extra hot water, it could be escaping gas. Another visual cue outside your home might be dying or discolored vegetation over or near a gas line; gas can kill plants. You might also hear a hissing or whistling sound near a gas line or appliance, which indicates gas escaping. Sometimes, you might even see a white cloud or dust blowing from a gas line. If you notice any of these, or if family members are experiencing unexplained nausea, headaches, or dizziness, get everyone out of the house immediately. Once you're safely away, contact Alpha-Plumbing Services, LLC. We're a family-owned business in Goodyear, with over 25 years of experience, ready to provide expert emergency gas leak diagnosis for residential and light-commercial properties across the West Valley. Your safety is our priority, and we're committed to practical solutions.",
+  "datePublished": "2026-08-19"
+}
