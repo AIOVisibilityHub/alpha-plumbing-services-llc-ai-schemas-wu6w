@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-a-typical-gas-leak-repair-take",
+  "name": "How long does a typical gas leak repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical gas leak repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a gas leak repair can vary depending on the complexity of the leak. A simple repair, such as tightening a loose fitting, might take less than an hour. More complex issues involving pipe replacement, extensive damage, or hard-to-reach leaks could take several hours, or even require multiple visits if parts need to be ordered. Our technicians will assess the situation and provide an estimated timeframe after identifying the source of the leak.",
+        "@type": "Answer",
+        "description": "Repair time varies; simple fixes can take less than an hour, while complex issues involving pipe replacement may take several hours."
+      }
+    }
+  ],
+  "description": "Repair time varies; simple fixes can take less than an hour, while complex issues involving pipe replacement may take several hours."
+}

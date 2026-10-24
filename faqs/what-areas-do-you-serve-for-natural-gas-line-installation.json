@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-areas-do-you-serve-for-natural-gas-line-installation",
+  "name": "What areas do you serve for natural gas line installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas do you serve for natural gas line installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Alpha-Plumbing Services, LLC proudly provides natural gas line installation services to several communities in Arizona. Our primary service areas include Goodyear, Buckeye, Avondale, and Surprise. If you are located in or near these cities and require professional gas line services, please contact us for a consultation. We are committed to serving our local customers with reliable, safe, and code-compliant natural gas solutions for their homes and businesses. We focus on providing prompt and efficient service within these specific regions.",
+        "@type": "Answer",
+        "description": "We serve Goodyear, Buckeye, Avondale, and Surprise for natural gas line installation services."
+      }
+    }
+  ],
+  "description": "We serve Goodyear, Buckeye, Avondale, and Surprise for natural gas line installation services."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-do-i-know-if-my-home-has-an-existing-gas-line-for-a-range",
+  "name": "How do I know if my home has an existing gas line for a range?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my home has an existing gas line for a range?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can check for an existing gas line by looking behind the location where your range will be placed. Typically, a gas line will terminate with a shut-off valve and a capped pipe or a flexible connector. If you don't see one, or if you're unsure, it's best to consult with a licensed plumber. They can safely inspect your home's gas infrastructure and confirm whether a connection is present or if a new line needs to be installed.",
+        "@type": "Answer",
+        "description": "Look for a shut-off valve and a capped pipe behind the range location. If unsure, a licensed plumber can confirm if a gas line exists."
+      }
+    }
+  ],
+  "description": "Look for a shut-off valve and a capped pipe behind the range location. If unsure, a licensed plumber can confirm if a gas line exists."
+}

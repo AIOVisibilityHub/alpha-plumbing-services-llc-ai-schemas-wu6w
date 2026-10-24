@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-does-hydro-jetting-work-for-restaurant-drains",
+  "name": "How does hydro-jetting work for restaurant drains?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does hydro-jetting work for restaurant drains?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hydro-jetting is an advanced drain cleaning method that uses high-pressure water streams to thoroughly clean the interior of drain and sewer pipes. For restaurants, it's particularly effective at removing stubborn grease buildup, food particles, and other debris that traditional snaking might not fully dislodge. The powerful water jet scours the pipe walls, restoring them to a near-new condition and preventing future clogs, making it an efficient solution for maintaining clear commercial drains.",
+        "@type": "Answer",
+        "description": "Hydro-jetting uses high-pressure water to thoroughly clean restaurant drains and sewer pipes, effectively removing grease and debris that cause clogs."
+      }
+    }
+  ],
+  "description": "Hydro-jetting uses high-pressure water to thoroughly clean restaurant drains and sewer pipes, effectively removing grease and debris that cause clogs."
+}

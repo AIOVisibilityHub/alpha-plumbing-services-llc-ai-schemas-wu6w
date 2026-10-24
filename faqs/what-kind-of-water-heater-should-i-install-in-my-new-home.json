@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-kind-of-water-heater-should-i-install-in-my-new-home",
+  "name": "What kind of water heater should I install in my new home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of water heater should I install in my new home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing a water heater for your new home depends on your household's hot water demand, energy efficiency preferences, and budget. Traditional tank-style water heaters are less expensive upfront and provide a reservoir of hot water. Tankless water heaters, while having a higher initial cost, heat water on demand, offering endless hot water and significant energy savings over time. Hybrid heat pump water heaters combine aspects of both, using ambient air to heat water efficiently. We can help you assess your needs and recommend the most suitable and energy-efficient water heater option for your new home in the Goodyear, Buckeye, or Avondale area.",
+        "@type": "Answer",
+        "description": "Consider tank, tankless, or hybrid water heaters based on hot water demand, budget, and energy efficiency for your new home."
+      }
+    }
+  ],
+  "description": "Consider tank, tankless, or hybrid water heaters based on hot water demand, budget, and energy efficiency for your new home."
+}

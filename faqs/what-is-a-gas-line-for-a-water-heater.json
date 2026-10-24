@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-a-gas-line-for-a-water-heater",
+  "name": "What is a gas line for a water heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a gas line for a water heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A gas line for a water heater is a dedicated pipe that delivers natural gas or propane from your home's main supply to the water heater unit. This gas is used as fuel to heat the water inside the tank or for on-demand tankless units. Proper installation ensures safe and efficient operation, providing hot water throughout your home. Gas lines must adhere to strict safety codes to prevent leaks and ensure reliable fuel delivery.",
+        "@type": "Answer",
+        "description": "A gas line supplies natural gas or propane to your water heater for heating water. Proper installation is crucial for safety and efficiency."
+      }
+    }
+  ],
+  "description": "A gas line supplies natural gas or propane to your water heater for heating water. Proper installation is crucial for safety and efficiency."
+}

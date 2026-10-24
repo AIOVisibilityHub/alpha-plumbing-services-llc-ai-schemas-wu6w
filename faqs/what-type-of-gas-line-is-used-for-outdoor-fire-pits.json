@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-type-of-gas-line-is-used-for-outdoor-fire-pits",
+  "name": "What type of gas line is used for outdoor fire pits?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What type of gas line is used for outdoor fire pits?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For outdoor fire pits, gas lines are typically made from either black iron pipe or corrugated stainless steel tubing (CSST). Black iron pipe is durable and traditionally used for gas distribution. CSST is more flexible, which can simplify installation, especially around obstacles. The choice between them depends on local codes, installation requirements, and cost-effectiveness for your specific project. Both options are designed to safely deliver natural gas or propane to your fire pit, and our experts can advise on the best material for your setup.",
+        "@type": "Answer",
+        "description": "Outdoor fire pits use gas lines made from black iron pipe or corrugated stainless steel tubing (CSST). The choice depends on local codes, installation needs, and cost efficiency for safe gas delivery."
+      }
+    }
+  ],
+  "description": "Outdoor fire pits use gas lines made from black iron pipe or corrugated stainless steel tubing (CSST). The choice depends on local codes, installation needs, an"
+}

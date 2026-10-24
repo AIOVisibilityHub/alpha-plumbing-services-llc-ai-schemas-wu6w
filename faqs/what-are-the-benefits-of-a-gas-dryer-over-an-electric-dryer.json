@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-the-benefits-of-a-gas-dryer-over-an-electric-dryer",
+  "name": "What are the benefits of a gas dryer over an electric dryer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of a gas dryer over an electric dryer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Gas dryers often offer several advantages over electric models. They typically dry clothes faster due to higher heat output and can be more energy-efficient, potentially leading to lower utility bills over time, depending on local gas and electricity rates. Gas dryers also tend to be gentler on clothes, as they often use moist heat, which can reduce static and wear. While the initial installation cost for a gas line might be higher, many homeowners find the long-term operational savings and performance benefits worthwhile.",
+        "@type": "Answer",
+        "description": "Gas dryers often dry faster, can be more energy-efficient, potentially lowering utility bills, and are gentler on clothes, reducing static and wear."
+      }
+    }
+  ],
+  "description": "Gas dryers often dry faster, can be more energy-efficient, potentially lowering utility bills, and are gentler on clothes, reducing static and wear."
+}

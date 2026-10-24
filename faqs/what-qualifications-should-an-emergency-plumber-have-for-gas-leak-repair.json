@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-qualifications-should-an-emergency-plumber-have-for-gas-leak-repair",
+  "name": "What qualifications should an emergency plumber have for gas leak repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What qualifications should an emergency plumber have for gas leak repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing an emergency plumber for gas leak repair, ensure they are licensed and certified to work with gas lines and appliances. In Arizona, plumbers must hold specific licenses that cover gas piping. They should also have experience in gas leak detection and repair, using specialized equipment. A reputable company will also carry appropriate insurance. Alpha-Plumbing Services technicians are fully licensed, insured, and experienced in handling all types of gas line issues safely and efficiently.",
+        "@type": "Answer",
+        "description": "An emergency plumber for gas leaks should be licensed, certified for gas work, experienced in detection and repair, and fully insured."
+      }
+    }
+  ],
+  "description": "An emergency plumber for gas leaks should be licensed, certified for gas work, experienced in detection and repair, and fully insured."
+}

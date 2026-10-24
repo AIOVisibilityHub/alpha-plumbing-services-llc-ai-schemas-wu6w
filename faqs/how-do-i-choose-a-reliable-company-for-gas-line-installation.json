@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-do-i-choose-a-reliable-company-for-gas-line-installation",
+  "name": "How do I choose a reliable company for gas line installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a reliable company for gas line installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a company for gas line installation, look for licensed and insured professionals with a strong track record. Verify their experience, particularly with projects similar to yours. Check for positive customer reviews and ensure they are familiar with local codes and permitting requirements in your area, such as Goodyear or Buckeye. A reputable company will provide clear, detailed estimates and explain the entire process, including safety measures. Alpha-Plumbing Services, LLC meets these criteria.",
+        "@type": "Answer",
+        "description": "Choose a licensed, insured company with good reviews, relevant experience, and knowledge of local codes. Ensure they provide clear estimates and explain safety measures."
+      }
+    }
+  ],
+  "description": "Choose a licensed, insured company with good reviews, relevant experience, and knowledge of local codes. Ensure they provide clear estimates and explain safety"
+}

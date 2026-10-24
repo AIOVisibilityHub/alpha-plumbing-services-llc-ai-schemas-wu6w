@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-it-take-to-install-a-natural-gas-line",
+  "name": "How long does it take to install a natural gas line?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install a natural gas line?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a natural gas line installation can vary, but most standard residential projects are completed within one to two days. Factors influencing the timeline include the length of the new line, accessibility of the installation area, and whether any existing structures need modification. More complex installations, such as those requiring extensive trenching or multiple appliance connections, may take longer. Our technicians work efficiently while strictly adhering to safety protocols and local codes. During your initial consultation, we can provide a more precise timeline based on your specific project details.",
+        "@type": "Answer",
+        "description": "Most standard natural gas line installations take one to two days, but the exact time depends on the project's complexity and length."
+      }
+    }
+  ],
+  "description": "Most standard natural gas line installations take one to two days, but the exact time depends on the project's complexity and length."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/can-i-extend-my-existing-gas-line-to-move-my-water-heater-to-a-new-location",
+  "name": "Can I extend my existing gas line to move my water heater to a new location?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I extend my existing gas line to move my water heater to a new location?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Extending your existing gas line to move a water heater is possible, but it requires careful planning and professional installation. The existing gas line's capacity must be sufficient for the additional length and the water heater's BTU requirements. The extension must also comply with all local building codes and safety regulations. A qualified plumber can assess your current setup, determine feasibility, and ensure the extension is installed safely and correctly.",
+        "@type": "Answer",
+        "description": "Yes, you can extend a gas line to move a water heater, but it requires professional assessment to ensure capacity, safety, and compliance with local codes."
+      }
+    }
+  ],
+  "description": "Yes, you can extend a gas line to move a water heater, but it requires professional assessment to ensure capacity, safety, and compliance with local codes."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-much-does-it-cost-to-install-a-gas-line-for-a-dryer-in-goodyear-az",
+  "name": "How much does it cost to install a gas line for a dryer in Goodyear, AZ?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to install a gas line for a dryer in Goodyear, AZ?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to install a gas line for a dryer in Goodyear, AZ, can vary depending on several factors. These include the distance from the main gas supply to the dryer, the complexity of the installation (e.g., needing to run lines through walls or floors), and the specific materials required. It's best to get a personalized quote, as each home's setup is unique. Alpha-Plumbing Services offers free estimates to provide an accurate cost based on your specific needs and property layout.",
+        "@type": "Answer",
+        "description": "The cost varies based on line distance, installation complexity, and materials. We offer free estimates to provide an accurate cost for your home in Goodyear, AZ."
+      }
+    }
+  ],
+  "description": "The cost varies based on line distance, installation complexity, and materials. We offer free estimates to provide an accurate cost for your home in Goodyear, A"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-involved-in-the-gas-line-inspection-process",
+  "name": "What is involved in the gas line inspection process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the gas line inspection process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical gas line inspection involves a visual examination of exposed lines, testing for leaks using specialized equipment, checking connections, and verifying proper ventilation and appliance hookups. The inspector will look for corrosion, damage, improper installations, and any signs of gas leaks. Our coordination service ensures a qualified inspector performs these steps thoroughly, helping homeowners in areas like Buckeye, Avondale, and Surprise understand the findings and any necessary next steps.",
+        "@type": "Answer",
+        "description": "The process includes visual checks, leak testing, connection verification, and ventilation assessment. A qualified inspector identifies corrosion, damage, and improper installations."
+      }
+    }
+  ],
+  "description": "The process includes visual checks, leak testing, connection verification, and ventilation assessment. A qualified inspector identifies corrosion, damage, and i"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-safety-precautions-are-taken-during-gas-line-installation",
+  "name": "What safety precautions are taken during gas line installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What safety precautions are taken during gas line installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During gas line installation, several critical safety precautions are taken. These include turning off the main gas supply to the property, verifying there are no existing gas leaks, and using appropriate tools and materials that meet industry standards. After the new line is installed, a thorough pressure test is conducted to check for any leaks. Additionally, a shut-off valve is installed at the dryer's connection point for easy and safe gas control. All work adheres to local building codes to ensure the safety of your home and its occupants.",
+        "@type": "Answer",
+        "description": "Safety precautions include turning off the main gas supply, leak testing, using approved materials, installing a shut-off valve, and adhering to all local building codes for safety."
+      }
+    }
+  ],
+  "description": "Safety precautions include turning off the main gas supply, leak testing, using approved materials, installing a shut-off valve, and adhering to all local build"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-difference-between-repairing-and-replacing-a-plumbing-fixture",
+  "name": "What is the difference between repairing and replacing a plumbing fixture?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between repairing and replacing a plumbing fixture?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing a plumbing fixture involves fixing a specific problem, such as replacing a washer in a leaky faucet or clearing a clog in a toilet. Replacement means removing the old fixture entirely and installing a brand new one. Repair is often cost-effective for minor issues or newer fixtures, while replacement is advisable for extensive damage, outdated models, or chronic problems. Alpha-Plumbing Services can help you determine whether repair or replacement is the more economical and practical solution for your situation.",
+        "@type": "Answer",
+        "description": "Repairing fixes a specific issue, while replacing involves installing a new fixture. Choose based on problem severity, fixture age, and cost-effectiveness."
+      }
+    }
+  ],
+  "description": "Repairing fixes a specific issue, while replacing involves installing a new fixture. Choose based on problem severity, fixture age, and cost-effectiveness."
+}

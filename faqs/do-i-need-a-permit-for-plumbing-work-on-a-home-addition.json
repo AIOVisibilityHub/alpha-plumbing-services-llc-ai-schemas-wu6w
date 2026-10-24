@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/do-i-need-a-permit-for-plumbing-work-on-a-home-addition",
+  "name": "Do I need a permit for plumbing work on a home addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for plumbing work on a home addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, plumbing work for a home addition almost always requires permits from your local municipality. These permits ensure that the work meets safety standards and local building codes. Alpha-Plumbing Services can guide you through the permit process, ensuring all plumbing installations comply with regulations in areas like Goodyear, Buckeye, Avondale, and Surprise, avoiding potential issues during inspection.",
+        "@type": "Answer",
+        "description": "Yes, plumbing work for home additions typically requires local permits to ensure safety and code compliance."
+      }
+    }
+  ],
+  "description": "Yes, plumbing work for home additions typically requires local permits to ensure safety and code compliance."
+}

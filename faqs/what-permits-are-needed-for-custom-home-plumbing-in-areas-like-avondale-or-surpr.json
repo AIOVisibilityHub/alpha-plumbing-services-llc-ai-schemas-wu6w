@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-permits-are-needed-for-custom-home-plumbing-in-areas-like-avondale-or-surpr",
+  "name": "What permits are needed for custom home plumbing in areas like Avondale or Surprise?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are needed for custom home plumbing in areas like Avondale or Surprise?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For custom home plumbing projects in Avondale, Surprise, Goodyear, or Buckeye, specific permits are required by the local municipality to ensure compliance with plumbing and building codes. These permits typically cover new plumbing installations, alterations, and connections to the public water and sewer systems. Your plumbing contractor will be responsible for identifying, obtaining, and coordinating the necessary permits before starting any work, ensuring all installations meet safety and quality standards.",
+        "@type": "Answer",
+        "description": "Custom home plumbing in Avondale, Surprise, Goodyear, or Buckeye requires municipal permits for installations, alterations, and connections. Your plumber obtains these."
+      }
+    }
+  ],
+  "description": "Custom home plumbing in Avondale, Surprise, Goodyear, or Buckeye requires municipal permits for installations, alterations, and connections. Your plumber obtain"
+}

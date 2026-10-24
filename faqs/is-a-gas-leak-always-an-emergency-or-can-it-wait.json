@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/is-a-gas-leak-always-an-emergency-or-can-it-wait",
+  "name": "Is a gas leak always an emergency, or can it wait?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is a gas leak always an emergency, or can it wait?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Any suspected gas leak should be treated as an immediate emergency. Natural gas is highly flammable and explosive, and even small, undetected leaks can pose serious health risks and safety hazards. It is crucial to contact professionals right away. Never attempt to locate or repair a gas leak yourself. Waiting could lead to dangerous accumulation of gas, increasing the risk of fire, explosion, or carbon monoxide poisoning. Always prioritize safety and call for emergency assistance.",
+        "@type": "Answer",
+        "description": "Any suspected gas leak is an immediate emergency due to flammability and health risks. Never wait or attempt self-repair; always call professionals."
+      }
+    }
+  ],
+  "description": "Any suspected gas leak is an immediate emergency due to flammability and health risks. Never wait or attempt self-repair; always call professionals."
+}

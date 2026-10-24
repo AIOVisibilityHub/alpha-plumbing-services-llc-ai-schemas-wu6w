@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-much-does-it-cost-to-install-a-new-gas-line-for-a-water-heater",
+  "name": "How much does it cost to install a new gas line for a water heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to install a new gas line for a water heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to install a new gas line for a water heater can vary significantly based on several factors. These include the length of the gas line needed, the complexity of the installation (e.g., routing through walls or ceilings), the type of material used (black iron or CSST), and any required permits or inspections. It's best to get a detailed quote from a local, licensed plumber after they assess your specific home and project requirements.",
+        "@type": "Answer",
+        "description": "Installation costs vary based on line length, complexity, materials, and permit requirements. Get a detailed quote from a licensed plumber."
+      }
+    }
+  ],
+  "description": "Installation costs vary based on line length, complexity, materials, and permit requirements. Get a detailed quote from a licensed plumber."
+}

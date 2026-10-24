@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-tenant-improvement-plumbing-take",
+  "name": "How long does tenant improvement plumbing take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does tenant improvement plumbing take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of tenant improvement plumbing depends on the project's size and complexity. Simple fixture relocations might take a few days, while extensive rough-ins for new restrooms or commercial kitchens can extend over several weeks, especially when coordinating with other trades. Factors like permit approval times and material availability also influence the schedule. We work to provide realistic timelines and coordinate efficiently to minimize disruption to your overall project schedule.",
+        "@type": "Answer",
+        "description": "Duration varies by project size and complexity, from a few days for simple changes to several weeks for extensive work. Permit times and material availability also affect the schedule."
+      }
+    }
+  ],
+  "description": "Duration varies by project size and complexity, from a few days for simple changes to several weeks for extensive work. Permit times and material availability a"
+}

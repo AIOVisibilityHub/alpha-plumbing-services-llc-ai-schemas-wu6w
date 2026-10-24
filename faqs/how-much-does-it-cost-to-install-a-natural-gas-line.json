@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-much-does-it-cost-to-install-a-natural-gas-line",
+  "name": "How much does it cost to install a natural gas line?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to install a natural gas line?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of installing a natural gas line varies depending on several factors, such as the length of the line needed, the complexity of the installation, whether trenching is required, and the specific appliances being connected. It also includes permit fees and labor. For an accurate estimate, we recommend a site visit by a qualified technician. Alpha-Plumbing Services provides detailed, transparent quotes after assessing your specific project requirements in areas like Goodyear and Avondale.",
+        "@type": "Answer",
+        "description": "Costs vary based on line length, complexity, trenching needs, appliances, permits, and labor. A site visit is needed for an accurate estimate."
+      }
+    }
+  ],
+  "description": "Costs vary based on line length, complexity, trenching needs, appliances, permits, and labor. A site visit is needed for an accurate estimate."
+}

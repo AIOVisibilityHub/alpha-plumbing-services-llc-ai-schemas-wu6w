@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-safety-precautions-should-be-taken-with-a-gas-fire-pit",
+  "name": "What safety precautions should be taken with a gas fire pit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What safety precautions should be taken with a gas fire pit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several safety precautions are essential for gas fire pits. Always ensure the area around the fire pit is clear of flammable materials. Never leave a lit fire pit unattended, especially around children or pets. Know how to shut off the gas supply in an emergency. Regularly inspect the gas lines and connections for any signs of leaks or damage; a sulfur-like smell indicates a potential leak. Ensure proper ventilation, especially for built-in units. Professional installation and regular maintenance help ensure safe operation, preventing potential hazards.",
+        "@type": "Answer",
+        "description": "Ensure the area is clear of flammables, never leave it unattended, and know how to shut off the gas. Regularly inspect for leaks and ensure proper ventilation. Professional installation enhances safety."
+      }
+    }
+  ],
+  "description": "Ensure the area is clear of flammables, never leave it unattended, and know how to shut off the gas. Regularly inspect for leaks and ensure proper ventilation."
+}

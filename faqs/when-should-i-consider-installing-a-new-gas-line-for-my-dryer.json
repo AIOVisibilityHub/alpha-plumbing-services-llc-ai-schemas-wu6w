@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-should-i-consider-installing-a-new-gas-line-for-my-dryer",
+  "name": "When should I consider installing a new gas line for my dryer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider installing a new gas line for my dryer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider installing a new gas line if you are upgrading from an electric dryer to a gas model and don't have an existing gas connection in your laundry area. Other reasons include if your current gas line is old, damaged, or not up to current safety codes, or if you're relocating your laundry room and need to extend the gas supply. A professional inspection can help determine if your existing setup is adequate or if a new installation is recommended for safety and efficiency.",
+        "@type": "Answer",
+        "description": "Consider a new gas line when switching from an electric to a gas dryer, if your current line is old or damaged, or when relocating your laundry room."
+      }
+    }
+  ],
+  "description": "Consider a new gas line when switching from an electric to a gas dryer, if your current line is old or damaged, or when relocating your laundry room."
+}

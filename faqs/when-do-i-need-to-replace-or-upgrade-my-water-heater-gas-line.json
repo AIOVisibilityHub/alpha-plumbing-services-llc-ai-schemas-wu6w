@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-do-i-need-to-replace-or-upgrade-my-water-heater-gas-line",
+  "name": "When do I need to replace or upgrade my water heater gas line?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need to replace or upgrade my water heater gas line?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You may need to replace or upgrade your water heater gas line if you notice signs of corrosion, leaks, or if the existing line is not adequately sized for a new, more powerful water heater. Older lines, especially those made of materials like black iron pipe that show rust, should be inspected. Upgrading might also be necessary when converting from an electric water heater to a gas model. It's crucial for safety and efficiency to ensure the gas line is in good condition and properly matched to your appliance.",
+        "@type": "Answer",
+        "description": "Replace or upgrade a gas line if there's corrosion, leaks, or if it's undersized for a new water heater. Also consider it when converting from electric to gas."
+      }
+    }
+  ],
+  "description": "Replace or upgrade a gas line if there's corrosion, leaks, or if it's undersized for a new water heater. Also consider it when converting from electric to gas."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-kind-of-pipes-are-used-for-water-heater-gas-lines",
+  "name": "What kind of pipes are used for water heater gas lines?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of pipes are used for water heater gas lines?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common materials for water heater gas lines include black iron pipe, corrugated stainless steel tubing (CSST), and sometimes copper tubing in specific applications or jurisdictions. Black iron pipe is durable but can be prone to corrosion over time. CSST is flexible, easier to install, and designed for safety, making it a popular choice for residential applications. The choice of material often depends on local codes, installation requirements, and the specific gas being supplied (natural gas or propane).",
+        "@type": "Answer",
+        "description": "Gas lines commonly use black iron pipe, corrugated stainless steel tubing (CSST), or copper. Material choice depends on codes and gas type."
+      }
+    }
+  ],
+  "description": "Gas lines commonly use black iron pipe, corrugated stainless steel tubing (CSST), or copper. Material choice depends on codes and gas type."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-involved-in-a-professional-gas-leak-diagnosis",
+  "name": "What is involved in a professional gas leak diagnosis?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in a professional gas leak diagnosis?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A professional gas leak diagnosis involves a systematic approach to identify the source and severity of the leak. Our technicians begin by using specialized electronic gas leak detectors to pinpoint the exact location of escaping gas. They will inspect all gas lines, connections, and appliances, including furnaces, water heaters, and stoves. This may also include performing a pressure test on your gas system to confirm integrity. Once the leak is found, the technician will explain the necessary repairs and provide an estimate. Safety is the primary concern throughout the diagnostic process.",
+        "@type": "Answer",
+        "description": "Professional diagnosis involves using electronic detectors, inspecting all gas lines and appliances, and pressure testing the system to locate the leak."
+      }
+    }
+  ],
+  "description": "Professional diagnosis involves using electronic detectors, inspecting all gas lines and appliances, and pressure testing the system to locate the leak."
+}

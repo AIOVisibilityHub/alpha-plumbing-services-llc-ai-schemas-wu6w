@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-it-take-to-install-a-gas-line-for-a-stove",
+  "name": "How long does it take to install a gas line for a stove?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install a gas line for a stove?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation time for a gas line to a stove can vary depending on the complexity of the job. Factors such as the distance from the main gas supply, the need to route through walls or ceilings, and the specific requirements of your home can influence the duration. Most standard installations for an existing home without major structural modifications typically take between 3 to 6 hours. Alpha-Plumbing Services, LLC will provide a more accurate estimate after an initial assessment of your specific installation needs in Goodyear, Buckeye, Avondale, Surprise, or Waddel.",
+        "@type": "Answer",
+        "description": "Installation time for a gas line to a stove typically ranges from 3 to 6 hours, depending on complexity. Alpha-Plumbing Services, LLC can provide a precise estimate after an assessment."
+      }
+    }
+  ],
+  "description": "Installation time for a gas line to a stove typically ranges from 3 to 6 hours, depending on complexity. Alpha-Plumbing Services, LLC can provide a precise esti"
+}

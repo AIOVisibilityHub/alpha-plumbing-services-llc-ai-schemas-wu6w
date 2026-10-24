@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/do-i-need-a-permit-to-install-a-gas-line-for-a-dryer",
+  "name": "Do I need a permit to install a gas line for a dryer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit to install a gas line for a dryer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, in most areas, including Goodyear, Buckeye, and Avondale, a permit is required for the installation of a new gas line or modifications to an existing gas system. This is to ensure that the work complies with local building codes and safety standards. A qualified plumbing service will typically handle the permit application process on your behalf. Obtaining the necessary permits protects your home and ensures the installation is performed safely and legally.",
+        "@type": "Answer",
+        "description": "Yes, a permit is generally required in most areas, including our service locations, for new gas line installations to ensure compliance with local building codes and safety standards."
+      }
+    }
+  ],
+  "description": "Yes, a permit is generally required in most areas, including our service locations, for new gas line installations to ensure compliance with local building code"
+}

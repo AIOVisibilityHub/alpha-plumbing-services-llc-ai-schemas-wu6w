@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-should-i-consider-converting-to-natural-gas-or-installing-new-gas-appliance",
+  "name": "When should I consider converting to natural gas or installing new gas appliances?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider converting to natural gas or installing new gas appliances?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You might consider converting to natural gas or installing new gas appliances if you are looking for potentially lower energy costs, consistent heating, or the specific cooking performance that gas ranges offer. It's also a good option if you're upgrading older electric appliances, building a new home, or extending gas service to outdoor living areas. Consider your long-term energy needs and local availability. We can assess your property's readiness for a new gas line connection.",
+        "@type": "Answer",
+        "description": "Consider converting for lower energy costs, consistent heating, specific cooking needs, or when upgrading appliances or building a new home."
+      }
+    }
+  ],
+  "description": "Consider converting for lower energy costs, consistent heating, specific cooking needs, or when upgrading appliances or building a new home."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-do-i-need-to-consider-new-plumbing-for-a-home-addition",
+  "name": "When do I need to consider new plumbing for a home addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need to consider new plumbing for a home addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You need to consider new plumbing whenever your home addition includes fixtures that require water supply or drainage. This applies to new bathrooms, kitchens, laundry rooms, wet bars, or even outdoor utility sinks. Planning for plumbing early in the design phase is crucial to ensure efficient layout, proper pipe sizing, and smooth installation without costly modifications later in the construction process.",
+        "@type": "Answer",
+        "description": "New plumbing is needed for any home addition that includes fixtures requiring water supply or drainage, such as bathrooms or kitchens."
+      }
+    }
+  ],
+  "description": "New plumbing is needed for any home addition that includes fixtures requiring water supply or drainage, such as bathrooms or kitchens."
+}

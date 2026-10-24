@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-new-home-plumbing-installation-take",
+  "name": "How long does new home plumbing installation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does new home plumbing installation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of new home plumbing installation varies depending on the size and complexity of the house, as well as coordination with other construction phases. The 'rough-in' phase, where main supply lines and drainage systems are installed before walls are closed, can take several days to a couple of weeks for an average home. The 'finish' phase, involving the installation of fixtures, appliances, and final connections, also takes several days. Overall, the plumbing portion of a new home build can span several weeks, interspersed with other construction activities. We work efficiently to stay on schedule without compromising quality.",
+        "@type": "Answer",
+        "description": "New home plumbing installation can take several weeks, including rough-in and finish phases, depending on home size and coordination."
+      }
+    }
+  ],
+  "description": "New home plumbing installation can take several weeks, including rough-in and finish phases, depending on home size and coordination."
+}

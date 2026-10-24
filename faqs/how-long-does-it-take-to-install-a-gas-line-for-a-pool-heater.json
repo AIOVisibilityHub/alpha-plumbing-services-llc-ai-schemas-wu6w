@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-it-take-to-install-a-gas-line-for-a-pool-heater",
+  "name": "How long does it take to install a gas line for a pool heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install a gas line for a pool heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration for installing a gas line for a pool heater can vary. A straightforward installation might take a single day, especially if the run is short and easily accessible. However, more complex projects involving extensive trenching, navigating difficult terrain, or requiring multiple connections can extend the timeframe to two or more days. Weather conditions and the need for inspections can also influence the overall schedule. We always aim for efficient and timely completion.",
+        "@type": "Answer",
+        "description": "Installation typically takes one to two days, depending on complexity, distance, and access. Factors like weather or inspections can affect the timeline."
+      }
+    }
+  ],
+  "description": "Installation typically takes one to two days, depending on complexity, distance, and access. Factors like weather or inspections can affect the timeline."
+}

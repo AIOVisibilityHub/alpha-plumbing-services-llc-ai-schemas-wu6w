@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-types-of-gas-pipes-are-used-for-installation",
+  "name": "What types of gas pipes are used for installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of gas pipes are used for installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The most common types of gas pipes used are black iron pipe and corrugated stainless steel tubing (CSST). Black iron pipe is a traditional, rigid material known for its durability. CSST is a more flexible, newer option that can be installed faster in some situations. The choice depends on local codes, installation requirements, and specific application. Our technicians select the appropriate material to ensure a safe and reliable gas supply for your appliances.",
+        "@type": "Answer",
+        "description": "Common types include rigid black iron pipe and flexible corrugated stainless steel tubing (CSST), chosen based on codes and application."
+      }
+    }
+  ],
+  "description": "Common types include rigid black iron pipe and flexible corrugated stainless steel tubing (CSST), chosen based on codes and application."
+}

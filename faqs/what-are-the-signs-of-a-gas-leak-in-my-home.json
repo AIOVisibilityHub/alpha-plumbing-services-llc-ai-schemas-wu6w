@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-the-signs-of-a-gas-leak-in-my-home",
+  "name": "What are the signs of a gas leak in my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs of a gas leak in my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Recognizing the signs of a gas leak is crucial for safety. Common indicators include a distinctive sulfur or rotten egg smell, which is added to natural gas for detection. You might also hear a hissing or whistling sound near a gas line or appliance. Other signs can be visual, such as a damaged gas pipe or a white cloud near a gas line. If plants indoors or outdoors suddenly die or appear unhealthy near a gas line, this could also indicate a leak. Any of these signs warrant immediate attention.",
+        "@type": "Answer",
+        "description": "Look for a rotten egg smell, hissing sounds, damaged pipes, or unexplained dying plants near gas lines."
+      }
+    }
+  ],
+  "description": "Look for a rotten egg smell, hissing sounds, damaged pipes, or unexplained dying plants near gas lines."
+}

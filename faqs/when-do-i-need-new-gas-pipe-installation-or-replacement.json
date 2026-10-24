@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-do-i-need-new-gas-pipe-installation-or-replacement",
+  "name": "When do I need new gas pipe installation or replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need new gas pipe installation or replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "New gas pipe installation is typically needed when converting appliances from electric to gas, adding new gas appliances like a range, dryer, or outdoor grill, or extending gas lines to a new area of your property. Replacement becomes necessary if existing pipes are old, corroded, leaking, or no longer meet current safety codes. Visible damage, a persistent rotten egg smell, or unexpectedly high gas bills can also indicate a need for professional inspection and potential replacement. Always consult a qualified plumber for an assessment.",
+        "@type": "Answer",
+        "description": "New gas pipe installation is needed for new gas appliances or system expansion. Replacement is necessary for old, damaged, or leaking pipes."
+      }
+    }
+  ],
+  "description": "New gas pipe installation is needed for new gas appliances or system expansion. Replacement is necessary for old, damaged, or leaking pipes."
+}

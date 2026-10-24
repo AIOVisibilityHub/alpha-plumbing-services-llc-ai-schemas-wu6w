@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-home-addition-plumbing",
+  "name": "What is home addition plumbing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is home addition plumbing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Home addition plumbing involves extending your existing plumbing system to serve new areas of your house, such as a new bathroom, kitchen, or laundry room. This typically includes connecting new water supply lines, drain lines, and vent pipes to the main plumbing system. It requires careful planning to ensure proper water pressure, drainage, and compliance with local building codes, integrating seamlessly with your current infrastructure.",
+        "@type": "Answer",
+        "description": "Home addition plumbing extends your existing plumbing system to serve new areas of your house, like bathrooms or kitchens."
+      }
+    }
+  ],
+  "description": "Home addition plumbing extends your existing plumbing system to serve new areas of your house, like bathrooms or kitchens."
+}

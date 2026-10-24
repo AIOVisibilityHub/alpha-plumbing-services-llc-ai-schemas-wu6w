@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-common-plumbing-issues-do-restaurants-face",
+  "name": "What common plumbing issues do restaurants face?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What common plumbing issues do restaurants face?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Restaurants frequently encounter unique plumbing challenges due to high usage and the type of waste generated. Common issues include grease trap blockages, clogged floor drains from food debris, issues with commercial dishwashers and ice machines, leaky faucets and pipes from constant use, and water heater malfunctions. These problems can lead to significant operational disruptions and potential health code violations if not addressed promptly by a professional plumber experienced in commercial kitchens.",
+        "@type": "Answer",
+        "description": "Restaurants often face issues like grease trap blockages, clogged drains, appliance malfunctions, leaks, and water heater problems due to high usage and specific waste types."
+      }
+    }
+  ],
+  "description": "Restaurants often face issues like grease trap blockages, clogged drains, appliance malfunctions, leaks, and water heater problems due to high usage and specifi"
+}

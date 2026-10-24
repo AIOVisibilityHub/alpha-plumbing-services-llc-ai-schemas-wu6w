@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-the-benefits-of-pex-piping-over-copper-for-new-homes",
+  "name": "What are the benefits of PEX piping over copper for new homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of PEX piping over copper for new homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "PEX (cross-linked polyethylene) piping offers several advantages for new home plumbing compared to traditional copper. PEX is more flexible, which reduces the number of fittings needed and makes installation quicker and often less expensive. It is also resistant to corrosion, chlorine, and scale buildup, leading to a longer lifespan and better water quality. Unlike copper, PEX does not burst as easily if water freezes, as it can expand. While copper has historically been favored for its durability and rigidity, PEX's cost-effectiveness, ease of installation, and resilience make it a popular choice for modern new home constructions.",
+        "@type": "Answer",
+        "description": "PEX piping is more flexible, resistant to corrosion and freezing, and often more cost-effective to install than copper for new homes."
+      }
+    }
+  ],
+  "description": "PEX piping is more flexible, resistant to corrosion and freezing, and often more cost-effective to install than copper for new homes."
+}

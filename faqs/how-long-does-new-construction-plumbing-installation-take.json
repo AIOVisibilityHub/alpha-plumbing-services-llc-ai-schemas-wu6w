@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-new-construction-plumbing-installation-take",
+  "name": "How long does new construction plumbing installation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does new construction plumbing installation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of new construction plumbing installation varies greatly depending on the project's scale and complexity. For an average single-family home, the rough-in phase might take 1-3 weeks, while the finish plumbing phase could take an additional 3-7 days. Larger or more complex homes, or commercial projects, will naturally require more time. Coordination with other construction trades and timely inspections also impact the overall timeline. We provide a detailed schedule with each project proposal.",
+        "@type": "Answer",
+        "description": "Installation time varies by project size; rough-in typically takes 1-3 weeks, and finish plumbing adds 3-7 days for an average home."
+      }
+    }
+  ],
+  "description": "Installation time varies by project size; rough-in typically takes 1-3 weeks, and finish plumbing adds 3-7 days for an average home."
+}

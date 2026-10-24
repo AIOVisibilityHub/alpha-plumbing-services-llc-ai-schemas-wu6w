@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-typical-cost-to-install-a-gas-line-for-a-fire-pit",
+  "name": "What is the typical cost to install a gas line for a fire pit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost to install a gas line for a fire pit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to install a gas line for a fire pit varies widely based on factors such as the length of the gas line needed, the type of gas line material, and the complexity of the excavation. It also depends on whether your property has an existing gas supply line nearby that can be tapped into. Costs can range from a few hundred dollars for simple connections to over a thousand for longer runs or difficult terrain. We offer free estimates to give you a clear understanding of the project cost tailored to your specific property and needs.",
+        "@type": "Answer",
+        "description": "Installation cost varies based on line length, material, and excavation complexity, typically ranging from a few hundred to over a thousand dollars. Free estimates are available to determine your specific project cost."
+      }
+    }
+  ],
+  "description": "Installation cost varies based on line length, material, and excavation complexity, typically ranging from a few hundred to over a thousand dollars. Free estima"
+}

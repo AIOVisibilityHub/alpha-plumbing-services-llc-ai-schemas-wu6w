@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-it-typically-take-to-install-a-new-gas-line-for-a-water-heater",
+  "name": "How long does it typically take to install a new gas line for a water heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to install a new gas line for a water heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation time for a new gas line for a water heater can vary depending on several factors, such as the complexity of the job, the distance from the main gas supply, and whether any permits or inspections are required. A straightforward installation might take a few hours, while more complex projects could extend to a full day. Your plumber will be able to provide a more accurate estimate after assessing your specific needs.",
+        "@type": "Answer",
+        "description": "Installation time varies, but a new gas line for a water heater can take a few hours to a full day depending on job complexity and distance from the main supply."
+      }
+    }
+  ],
+  "description": "Installation time varies, but a new gas line for a water heater can take a few hours to a full day depending on job complexity and distance from the main supply"
+}

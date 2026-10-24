@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-difference-between-a-natural-gas-line-and-a-propane-line-for-a-pool",
+  "name": "What is the difference between a natural gas line and a propane line for a pool heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a natural gas line and a propane line for a pool heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The primary difference lies in the fuel source and delivery. Natural gas is supplied via an underground utility line from a municipal provider, offering a continuous supply without needing refills. Propane, on the other hand, is stored in a tank on your property and requires periodic refilling by a supplier. Both require specific piping and heater configurations. While natural gas is often more cost-effective if available, propane offers flexibility for properties without natural gas access. The choice depends on your utility availability and personal preference.",
+        "@type": "Answer",
+        "description": "Natural gas is piped from a utility, offering continuous supply. Propane is stored in a tank and refilled. Choice depends on availability and preference."
+      }
+    }
+  ],
+  "description": "Natural gas is piped from a utility, offering continuous supply. Propane is stored in a tank and refilled. Choice depends on availability and preference."
+}

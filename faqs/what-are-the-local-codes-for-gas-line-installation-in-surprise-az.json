@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-the-local-codes-for-gas-line-installation-in-surprise-az",
+  "name": "What are the local codes for gas line installation in Surprise, AZ?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the local codes for gas line installation in Surprise, AZ?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Gas line installation in Surprise, AZ, like other municipalities, adheres to specific building and plumbing codes to ensure safety and proper function. These codes typically dictate requirements for pipe materials, sizing, pressure testing, shut-off valve locations, and proper ventilation. Additionally, permits are generally required for any new gas line installations or significant modifications. Alpha-Plumbing Services is familiar with Surprise's local regulations and ensures all installations meet or exceed these safety standards to pass inspection.",
+        "@type": "Answer",
+        "description": "Local codes in Surprise, AZ cover pipe materials, sizing, testing, and permits for gas line installations. Alpha-Plumbing Services ensures compliance."
+      }
+    }
+  ],
+  "description": "Local codes in Surprise, AZ cover pipe materials, sizing, testing, and permits for gas line installations. Alpha-Plumbing Services ensures compliance."
+}

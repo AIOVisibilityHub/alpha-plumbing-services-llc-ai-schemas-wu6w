@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-custom-home-plumbing",
+  "name": "What is custom home plumbing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is custom home plumbing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Custom home plumbing involves designing and installing a unique plumbing system tailored to a new home's specific layout, features, and owner preferences. Unlike standard installations, it allows for specialized fixtures, water efficiency systems, and pipe routing that might not be found in tract homes. This can include considerations for spa bathrooms, gourmet kitchens, outdoor living spaces, or advanced water filtration, ensuring the plumbing perfectly integrates with the custom design of the house.",
+        "@type": "Answer",
+        "description": "Custom home plumbing is a unique system designed and installed specifically for a new home's individual layout and owner preferences."
+      }
+    }
+  ],
+  "description": "Custom home plumbing is a unique system designed and installed specifically for a new home's individual layout and owner preferences."
+}

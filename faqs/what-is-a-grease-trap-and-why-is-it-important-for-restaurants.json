@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-a-grease-trap-and-why-is-it-important-for-restaurants",
+  "name": "What is a grease trap and why is it important for restaurants?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a grease trap and why is it important for restaurants?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A grease trap, or grease interceptor, is a plumbing device designed to intercept most greases and solids before they enter a wastewater disposal system. It's critical for restaurants because it prevents fats, oils, and grease (FOG) from solidifying in the sewer pipes, which can cause significant blockages and backups. Proper functioning and regular cleaning of your grease trap are essential for environmental protection, preventing sewer line damage, and complying with local wastewater regulations.",
+        "@type": "Answer",
+        "description": "A grease trap is a device that captures fats, oils, and grease from restaurant wastewater, preventing sewer blockages and ensuring compliance with regulations."
+      }
+    }
+  ],
+  "description": "A grease trap is a device that captures fats, oils, and grease from restaurant wastewater, preventing sewer blockages and ensuring compliance with regulations."
+}

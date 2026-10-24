@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-light-commercial-plumbing-and-how-does-it-differ-from-residential-plumbi",
+  "name": "What is light-commercial plumbing and how does it differ from residential plumbing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is light-commercial plumbing and how does it differ from residential plumbing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Light-commercial plumbing involves systems for businesses like offices, restaurants, or small retail spaces. It differs from residential plumbing in several key ways. Commercial systems often handle higher volumes of water and waste, requiring larger pipes and more robust fixtures. Code requirements are also stricter for commercial properties, focusing on public health and safety standards that residential codes typically don't cover. Additionally, commercial plumbing projects may involve more complex installations, such as grease traps for kitchens or specialized backflow prevention devices, to meet industry-specific regulations.",
+        "@type": "Answer",
+        "description": "Light-commercial plumbing serves businesses with higher-volume systems and stricter code requirements than residential plumbing."
+      }
+    }
+  ],
+  "description": "Light-commercial plumbing serves businesses with higher-volume systems and stricter code requirements than residential plumbing."
+}

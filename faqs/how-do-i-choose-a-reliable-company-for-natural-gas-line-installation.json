@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-do-i-choose-a-reliable-company-for-natural-gas-line-installation",
+  "name": "How do I choose a reliable company for natural gas line installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a reliable company for natural gas line installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a company for natural gas line installation, look for licensed, insured, and experienced professionals. Check for good reviews and testimonials, and ensure they are familiar with local codes and permitting requirements in areas like Goodyear or Avondale. A reliable company will provide transparent pricing, a clear project plan, and a commitment to safety. Ask about their certifications and warranty on their work. Alpha-Plumbing Services meets these criteria, offering trusted services in your community.",
+        "@type": "Answer",
+        "description": "Choose a licensed, insured, experienced company with good reviews, transparent pricing, and knowledge of local codes and permitting."
+      }
+    }
+  ],
+  "description": "Choose a licensed, insured, experienced company with good reviews, transparent pricing, and knowledge of local codes and permitting."
+}

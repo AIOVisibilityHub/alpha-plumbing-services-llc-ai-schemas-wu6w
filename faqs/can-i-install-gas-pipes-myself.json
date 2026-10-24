@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/can-i-install-gas-pipes-myself",
+  "name": "Can I install gas pipes myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install gas pipes myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Gas pipe installation is a complex process that carries significant safety risks if not performed correctly. It involves working with flammable gas and requires specialized tools, knowledge of local codes, and proper testing procedures. Attempting DIY gas line installation can lead to leaks, carbon monoxide poisoning, explosions, and property damage. It is strongly recommended to hire a licensed and certified professional for all gas line work to ensure safety and compliance.",
+        "@type": "Answer",
+        "description": "No, gas pipe installation is complex and dangerous, requiring licensed professionals for safety and compliance with local codes."
+      }
+    }
+  ],
+  "description": "No, gas pipe installation is complex and dangerous, requiring licensed professionals for safety and compliance with local codes."
+}

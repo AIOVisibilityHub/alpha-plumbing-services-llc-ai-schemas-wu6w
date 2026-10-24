@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-if-a-gas-leak-is-found-during-the-inspection",
+  "name": "What if a gas leak is found during the inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What if a gas leak is found during the inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If a gas leak is detected during the inspection, the inspector will immediately notify you and advise on the next steps, which typically involve shutting off the gas supply for safety. Alpha-Plumbing Services can then provide prompt, professional repair services to fix the leak and ensure your gas lines are safe and compliant with all local codes. Our team is equipped to handle emergency repairs efficiently for properties in areas like Buckeye, Avondale, and Surprise.",
+        "@type": "Answer",
+        "description": "If a gas leak is found, the gas supply will be shut off. Alpha-Plumbing Services can then provide prompt, professional repair services to fix the leak and restore safety."
+      }
+    }
+  ],
+  "description": "If a gas leak is found, the gas supply will be shut off. Alpha-Plumbing Services can then provide prompt, professional repair services to fix the leak and resto"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/why-should-i-choose-a-professional-for-gas-leak-repair",
+  "name": "Why should I choose a professional for gas leak repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why should I choose a professional for gas leak repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Gas leak repair is a hazardous job that requires specialized skills and equipment. Attempting a DIY repair can be extremely dangerous and can worsen the situation, posing risks of fire, explosion, or carbon monoxide poisoning. Professional plumbers like Alpha-Plumbing Services are trained, certified, and equipped to safely locate, diagnose, and repair gas leaks in compliance with all safety regulations and local codes. We ensure the repair is done correctly, protecting your property and family.",
+        "@type": "Answer",
+        "description": "Professional gas leak repair is crucial due to safety risks. Certified plumbers have the training and equipment to safely repair leaks according to codes, protecting your property and family."
+      }
+    }
+  ],
+  "description": "Professional gas leak repair is crucial due to safety risks. Certified plumbers have the training and equipment to safely repair leaks according to codes, prote"
+}

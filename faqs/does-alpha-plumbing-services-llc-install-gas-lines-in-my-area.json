@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/does-alpha-plumbing-services-llc-install-gas-lines-in-my-area",
+  "name": "Does Alpha-Plumbing Services, LLC install gas lines in my area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does Alpha-Plumbing Services, LLC install gas lines in my area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Alpha-Plumbing Services, LLC proudly provides professional gas line installation services for stoves and other appliances in our primary service areas. We serve residential and commercial customers in Goodyear, Buckeye, Avondale, Surprise, and Waddel. Our experienced technicians are familiar with the local codes and regulations in these communities, ensuring that your gas line installation is performed safely, efficiently, and in full compliance with all requirements. Contact us to schedule an assessment for your home in these locations.",
+        "@type": "Answer",
+        "description": "Yes, Alpha-Plumbing Services, LLC installs gas lines for stoves in Goodyear, Buckeye, Avondale, Surprise, and Waddel, complying with local codes."
+      }
+    }
+  ],
+  "description": "Yes, Alpha-Plumbing Services, LLC installs gas lines for stoves in Goodyear, Buckeye, Avondale, Surprise, and Waddel, complying with local codes."
+}

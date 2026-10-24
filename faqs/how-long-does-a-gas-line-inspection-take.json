@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-a-gas-line-inspection-take",
+  "name": "How long does a gas line inspection take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a gas line inspection take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a gas line inspection can vary based on the size of your property, the complexity of your gas system, and the number of gas-powered appliances. Most residential inspections take between 1 to 3 hours. Our coordination services aim to schedule inspections at your convenience and ensure the inspector has all necessary access to complete the job efficiently across our service areas, including Waddell and Goodyear.",
+        "@type": "Answer",
+        "description": "A typical gas line inspection usually takes between 1 to 3 hours, depending on property size and system complexity."
+      }
+    }
+  ],
+  "description": "A typical gas line inspection usually takes between 1 to 3 hours, depending on property size and system complexity."
+}

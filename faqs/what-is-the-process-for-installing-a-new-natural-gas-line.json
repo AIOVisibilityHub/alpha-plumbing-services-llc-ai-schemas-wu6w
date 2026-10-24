@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-process-for-installing-a-new-natural-gas-line",
+  "name": "What is the process for installing a new natural gas line?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for installing a new natural gas line?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The natural gas line installation process typically begins with a consultation to assess your needs and property. Next, our technicians design the most efficient and safest route for the new line. Before installation, we secure all necessary permits from local authorities. The installation involves trenching (if applicable), laying the gas line, connecting it to the meter and appliances, and thoroughly testing for leaks to ensure safety and compliance. Finally, a final inspection by the local utility company or building department is often required.",
+        "@type": "Answer",
+        "description": "The process involves consultation, design, permitting, installation (laying and connecting lines, leak testing), and final inspection."
+      }
+    }
+  ],
+  "description": "The process involves consultation, design, permitting, installation (laying and connecting lines, leak testing), and final inspection."
+}

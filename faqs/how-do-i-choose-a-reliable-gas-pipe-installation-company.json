@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-do-i-choose-a-reliable-gas-pipe-installation-company",
+  "name": "How do I choose a reliable gas pipe installation company?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a reliable gas pipe installation company?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a gas pipe installation company, look for several key indicators of reliability. Ensure they are fully licensed, insured, and bonded in Arizona. Check their experience specifically with gas line work and ask for references or reviews. A reputable company will provide a clear, written estimate, explain the process thoroughly, and guarantee their work. They should also be knowledgeable about local permitting requirements and safety codes. Alpha-Plumbing Services meets these criteria, offering experienced and certified technicians for safe and compliant installations.",
+        "@type": "Answer",
+        "description": "Choose a company that is licensed, insured, experienced in gas line work, provides clear estimates, and adheres to local codes and safety standards."
+      }
+    }
+  ],
+  "description": "Choose a company that is licensed, insured, experienced in gas line work, provides clear estimates, and adheres to local codes and safety standards."
+}

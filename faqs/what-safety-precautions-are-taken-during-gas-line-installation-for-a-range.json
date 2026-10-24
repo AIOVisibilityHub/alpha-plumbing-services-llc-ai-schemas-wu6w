@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-safety-precautions-are-taken-during-gas-line-installation-for-a-range",
+  "name": "What safety precautions are taken during gas line installation for a range?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What safety precautions are taken during gas line installation for a range?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During gas line installation, safety is the top priority. A professional plumber will shut off the main gas supply to the property before beginning any work. They use specialized tools and techniques to ensure all connections are tight and leak-free. After installation, the line is thoroughly tested for leaks using appropriate equipment, often with a soap solution or an electronic leak detector, before the gas supply is restored. All work adheres strictly to local building codes and safety regulations.",
+        "@type": "Answer",
+        "description": "Safety precautions include shutting off the main gas supply, using specialized tools for secure connections, and thorough leak testing after installation."
+      }
+    }
+  ],
+  "description": "Safety precautions include shutting off the main gas supply, using specialized tools for secure connections, and thorough leak testing after installation."
+}

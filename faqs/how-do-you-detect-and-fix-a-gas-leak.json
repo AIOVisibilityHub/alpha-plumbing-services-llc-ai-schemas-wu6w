@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-do-you-detect-and-fix-a-gas-leak",
+  "name": "How do you detect and fix a gas leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you detect and fix a gas leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our licensed technicians use specialized equipment, such as gas leak detectors, to accurately pinpoint the source of the leak. This often involves checking all gas lines, connections, and appliances. Once the leak is found, the repair process typically involves isolating the affected section of the gas line, replacing damaged pipes or fittings, or tightening loose connections. After the repair, the system is thoroughly tested to ensure there are no further leaks and that it is safe for operation, adhering to all safety standards and codes.",
+        "@type": "Answer",
+        "description": "Technicians use specialized detectors to find the leak, then repair it by replacing damaged parts or tightening connections. The system is then tested for safety."
+      }
+    }
+  ],
+  "description": "Technicians use specialized detectors to find the leak, then repair it by replacing damaged parts or tightening connections. The system is then tested for safet"
+}

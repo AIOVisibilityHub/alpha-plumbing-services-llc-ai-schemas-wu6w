@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-often-should-a-restaurant-s-plumbing-system-be-inspected",
+  "name": "How often should a restaurant's plumbing system be inspected?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should a restaurant's plumbing system be inspected?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Regular plumbing inspections are crucial for restaurants to prevent unexpected breakdowns and costly repairs. We recommend a professional inspection at least once a year. For high-volume restaurants or those with older plumbing systems, bi-annual inspections might be more beneficial. These inspections help identify potential issues like minor leaks, early signs of corrosion, or impending clogs before they escalate, ensuring your establishment maintains smooth operation and compliance with health regulations.",
+        "@type": "Answer",
+        "description": "Restaurants should have their plumbing system inspected at least once a year, or bi-annually for high-volume establishments, to prevent issues and maintain compliance."
+      }
+    }
+  ],
+  "description": "Restaurants should have their plumbing system inspected at least once a year, or bi-annually for high-volume establishments, to prevent issues and maintain comp"
+}

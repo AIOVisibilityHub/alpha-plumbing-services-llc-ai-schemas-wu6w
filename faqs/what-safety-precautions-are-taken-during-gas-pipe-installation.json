@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-safety-precautions-are-taken-during-gas-pipe-installation",
+  "name": "What safety precautions are taken during gas pipe installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What safety precautions are taken during gas pipe installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During gas pipe installation, our technicians prioritize safety by strictly adhering to all local and national safety codes. This includes turning off the main gas supply, proper ventilation, using specialized tools, and meticulously sealing all connections. After installation, the new lines are thoroughly leak-tested using a manometer to detect even the smallest leaks. All work is inspected to confirm integrity before the gas supply is restored, ensuring a safe system for your home or business.",
+        "@type": "Answer",
+        "description": "Safety precautions include turning off gas, ventilation, sealing connections, thorough leak testing, and inspections to meet codes."
+      }
+    }
+  ],
+  "description": "Safety precautions include turning off gas, ventilation, sealing connections, thorough leak testing, and inspections to meet codes."
+}

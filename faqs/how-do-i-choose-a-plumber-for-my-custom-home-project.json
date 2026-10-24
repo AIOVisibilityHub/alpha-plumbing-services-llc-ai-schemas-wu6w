@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-do-i-choose-a-plumber-for-my-custom-home-project",
+  "name": "How do I choose a plumber for my custom home project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a plumber for my custom home project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a plumber for your custom home project, look for licensed and insured professionals with specific experience in new construction and custom plumbing. Verify their local reputation, review portfolios of similar projects, and ensure they are familiar with local building codes in areas like Goodyear, Buckeye, or Avondale. Request detailed bids that outline the scope of work and materials. Effective communication and a clear understanding of your vision are also crucial for a successful partnership.",
+        "@type": "Answer",
+        "description": "Choose a licensed, insured plumber with custom home experience, a strong local reputation, and familiarity with local building codes. Request detailed bids and ensure clear communication."
+      }
+    }
+  ],
+  "description": "Choose a licensed, insured plumber with custom home experience, a strong local reputation, and familiarity with local building codes. Request detailed bids and"
+}

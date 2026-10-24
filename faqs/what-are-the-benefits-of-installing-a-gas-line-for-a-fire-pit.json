@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-the-benefits-of-installing-a-gas-line-for-a-fire-pit",
+  "name": "What are the benefits of installing a gas line for a fire pit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of installing a gas line for a fire pit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Installing a gas line for a fire pit provides convenience and safety. You get instant on/off control, eliminating the need to haul firewood, deal with ash, or manage smoke. Gas fire pits offer a consistent flame and heat, making them ideal for entertaining. They also produce less air pollution compared to wood-burning alternatives, and there's no risk of flying embers. This makes them a clean and low-maintenance option for backyard enjoyment. Our team ensures a safe and compliant installation, allowing you to enjoy your outdoor space worry-free.",
+        "@type": "Answer",
+        "description": "A gas line for a fire pit offers instant on/off convenience, consistent heat, and eliminates the need for firewood and ash cleanup. It's a cleaner, safer, and low-maintenance outdoor heating option."
+      }
+    }
+  ],
+  "description": "A gas line for a fire pit offers instant on/off convenience, consistent heat, and eliminates the need for firewood and ash cleanup. It's a cleaner, safer, and l"
+}

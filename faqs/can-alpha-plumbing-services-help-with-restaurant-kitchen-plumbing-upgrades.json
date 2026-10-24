@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/can-alpha-plumbing-services-help-with-restaurant-kitchen-plumbing-upgrades",
+  "name": "Can Alpha-Plumbing Services help with restaurant kitchen plumbing upgrades?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can Alpha-Plumbing Services help with restaurant kitchen plumbing upgrades?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Alpha-Plumbing Services specializes in commercial kitchen plumbing upgrades for restaurants as part of tenant improvements. We handle everything from installing grease traps, commercial sinks, and dishwashers to setting up new water and drain lines for specialized cooking equipment. Our team understands the unique demands and strict health code requirements of commercial kitchens and can design and install a plumbing system that is efficient, compliant, and supports your restaurant's operations.",
+        "@type": "Answer",
+        "description": "Yes, Alpha-Plumbing Services specializes in restaurant kitchen plumbing upgrades, including grease traps, commercial sinks, and specialized equipment lines, ensuring code compliance."
+      }
+    }
+  ],
+  "description": "Yes, Alpha-Plumbing Services specializes in restaurant kitchen plumbing upgrades, including grease traps, commercial sinks, and specialized equipment lines, ens"
+}

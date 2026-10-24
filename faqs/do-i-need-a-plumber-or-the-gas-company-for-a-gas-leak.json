@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/do-i-need-a-plumber-or-the-gas-company-for-a-gas-leak",
+  "name": "Do I need a plumber or the gas company for a gas leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a plumber or the gas company for a gas leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For an active gas leak, your first call should always be to your local gas utility company or 911. The gas company's primary role is to shut off the gas supply and ensure public safety, preventing further hazard. Once the gas has been safely shut off and the immediate danger is neutralized, you will then need a licensed plumber, like Alpha-Plumbing Services, to perform the actual repairs to your gas lines or appliances. Plumbers have the expertise and tools to fix the leak, replace faulty components, and ensure your system is safe before the gas supply can be restored.",
+        "@type": "Answer",
+        "description": "Call the gas company first for safety and shut-off. After the danger is neutralized, a licensed plumber is needed for repairs."
+      }
+    }
+  ],
+  "description": "Call the gas company first for safety and shut-off. After the danger is neutralized, a licensed plumber is needed for repairs."
+}

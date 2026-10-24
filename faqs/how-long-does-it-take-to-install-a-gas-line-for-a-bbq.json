@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-it-take-to-install-a-gas-line-for-a-bbq",
+  "name": "How long does it take to install a gas line for a BBQ?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install a gas line for a BBQ?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration for installing a gas line for a BBQ grill can vary. A straightforward installation for a residential property might take anywhere from half a day to a full day, depending on the complexity. Factors such as the length of the run, whether concrete needs to be cut, or if extensive trenching is required can extend this timeline. Our plumbers prioritize efficiency while ensuring all safety standards and local codes are met. We can provide a more precise time estimate after an on-site consultation.",
+        "@type": "Answer",
+        "description": "Installation typically takes half a day to a full day, but can vary based on complexity like line length or trenching. A consultation provides a more precise estimate."
+      }
+    }
+  ],
+  "description": "Installation typically takes half a day to a full day, but can vary based on complexity like line length or trenching. A consultation provides a more precise es"
+}

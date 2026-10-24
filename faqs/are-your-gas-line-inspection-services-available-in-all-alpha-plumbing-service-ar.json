@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/are-your-gas-line-inspection-services-available-in-all-alpha-plumbing-service-ar",
+  "name": "Are your gas line inspection services available in all Alpha-Plumbing service areas like Litchfield and Peoria?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are your gas line inspection services available in all Alpha-Plumbing service areas like Litchfield and Peoria?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Alpha-Plumbing Services, LLC primarily focuses its gas line inspection coordination services on Goodyear, Buckeye, Avondale, Surprise, and Waddel. While we are Alpha-Plumbing Services, LLC and have a broader reach for some plumbing needs, specialized services like gas line inspection coordination require specific local certifications and immediate response capabilities. Our dedicated teams for gas line services are strategically located to serve these primary areas efficiently and effectively. If you are outside these specific zones, please contact us to confirm service availability or for a referral.",
+        "@type": "Answer",
+        "description": "Our gas line inspection coordination services are primarily available in Goodyear, Buckeye, Avondale, Surprise, and Waddel. Contact us to confirm service outside these areas."
+      }
+    }
+  ],
+  "description": "Our gas line inspection coordination services are primarily available in Goodyear, Buckeye, Avondale, Surprise, and Waddel. Contact us to confirm service outsid"
+}

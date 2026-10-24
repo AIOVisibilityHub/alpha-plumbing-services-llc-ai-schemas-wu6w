@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-should-i-hire-a-plumber-during-new-home-construction",
+  "name": "When should I hire a plumber during new home construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I hire a plumber during new home construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is best to engage a plumber early in the new home construction process, typically during the planning and framing stages. Early involvement allows for optimal planning of pipe routing, fixture placement, and drainage systems, which can prevent costly rework later. Our team can collaborate with your builder and other contractors to integrate plumbing seamlessly into the overall design. This proactive approach ensures that rough-ins are completed before walls are closed up, and final fixture installations can proceed smoothly as the home approaches completion. Early consultation also allows for discussion of any specific plumbing needs or upgrades you might consider.",
+        "@type": "Answer",
+        "description": "Hire a plumber early in new home construction, ideally during planning and framing, to ensure proper pipe routing and system integration."
+      }
+    }
+  ],
+  "description": "Hire a plumber early in new home construction, ideally during planning and framing, to ensure proper pipe routing and system integration."
+}

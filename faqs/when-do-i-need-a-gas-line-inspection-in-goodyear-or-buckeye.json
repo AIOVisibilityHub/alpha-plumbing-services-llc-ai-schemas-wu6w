@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-do-i-need-a-gas-line-inspection-in-goodyear-or-buckeye",
+  "name": "When do I need a gas line inspection in Goodyear or Buckeye?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need a gas line inspection in Goodyear or Buckeye?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You generally need a gas line inspection if you suspect a leak, are installing new gas appliances, undertaking a major renovation, or buying a new home. Some local regulations or insurance policies may also require periodic inspections. Even without a specific trigger, it's wise to have inspections done every few years to ensure continued safety and functionality, especially in areas like Goodyear, Buckeye, Avondale, Surprise, and Waddel where gas appliances are common. If you notice a sulfur-like odor or hear a hissing sound, evacuate immediately and call emergency services and then a professional.",
+        "@type": "Answer",
+        "description": "You need a gas line inspection if you suspect a leak, are installing new appliances, renovating, buying a new home, or if local regulations require it."
+      }
+    }
+  ],
+  "description": "You need a gas line inspection if you suspect a leak, are installing new appliances, renovating, buying a new home, or if local regulations require it."
+}

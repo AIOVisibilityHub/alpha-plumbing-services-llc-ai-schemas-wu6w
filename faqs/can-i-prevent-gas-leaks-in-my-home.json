@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/can-i-prevent-gas-leaks-in-my-home",
+  "name": "Can I prevent gas leaks in my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I prevent gas leaks in my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it's impossible to guarantee complete prevention, you can significantly reduce the risk of gas leaks. Regularly maintain your gas appliances and have them inspected by a professional. Ensure that gas lines are not accidentally damaged during home renovations or landscaping. Consider installing carbon monoxide detectors, which can alert you to incomplete combustion issues that might be related to gas appliance problems. Promptly address any minor issues or concerns with your gas system.",
+        "@type": "Answer",
+        "description": "You can reduce gas leak risks through regular appliance maintenance, avoiding damage to gas lines, and installing carbon monoxide detectors."
+      }
+    }
+  ],
+  "description": "You can reduce gas leak risks through regular appliance maintenance, avoiding damage to gas lines, and installing carbon monoxide detectors."
+}

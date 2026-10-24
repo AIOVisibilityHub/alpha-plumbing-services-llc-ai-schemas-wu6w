@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-do-i-need-to-hire-a-professional-for-gas-line-installation-or-repair",
+  "name": "When do I need to hire a professional for gas line installation or repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need to hire a professional for gas line installation or repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should always hire a licensed and experienced professional for any natural gas line installation, repair, or modification. Working with natural gas is extremely dangerous and requires specialized knowledge, tools, and adherence to strict safety codes. Attempting DIY gas line work can lead to leaks, explosions, carbon monoxide poisoning, and severe legal liabilities. If you smell gas, suspect a leak, or need a new line for an appliance, contact Alpha-Plumbing Services immediately. Our certified technicians ensure safe, compliant, and efficient service, protecting your home and family.",
+        "@type": "Answer",
+        "description": "Always hire a licensed professional for natural gas line installation or repair due to safety risks. DIY work is dangerous and non-compliant."
+      }
+    }
+  ],
+  "description": "Always hire a licensed professional for natural gas line installation or repair due to safety risks. DIY work is dangerous and non-compliant."
+}

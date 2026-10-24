@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-type-of-plumbing-pipes-are-best-for-new-construction",
+  "name": "What type of plumbing pipes are best for new construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What type of plumbing pipes are best for new construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The choice of plumbing pipes for new construction often comes down to PEX (cross-linked polyethylene) or copper. PEX is flexible, corrosion-resistant, less expensive, and easier to install, often resulting in lower labor costs. Copper is durable, long-lasting, and recyclable but more expensive and prone to corrosion in certain water conditions. Your specific project needs, budget, and local water quality can influence the best choice. Our team can discuss the pros and cons of each for your home.",
+        "@type": "Answer",
+        "description": "PEX and copper are common choices. PEX is flexible and cost-effective; copper is durable but more expensive. The best choice depends on project needs."
+      }
+    }
+  ],
+  "description": "PEX and copper are common choices. PEX is flexible and cost-effective; copper is durable but more expensive. The best choice depends on project needs."
+}

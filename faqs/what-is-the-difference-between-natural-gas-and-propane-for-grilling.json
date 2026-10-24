@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-difference-between-natural-gas-and-propane-for-grilling",
+  "name": "What is the difference between natural gas and propane for grilling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between natural gas and propane for grilling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Natural gas and propane are both fossil fuels used for grilling, but they have distinct differences. Natural gas is lighter than air, delivered through pipelines, and often more cost-effective and convenient as it requires no tanks. Propane is stored under pressure as a liquid in portable tanks, is heavier than air, and offers higher BTU output per cubic foot, meaning it burns hotter. However, propane tanks need refilling, which can be inconvenient. The choice often comes down to convenience, cost, and desired portability for your grilling setup.",
+        "@type": "Answer",
+        "description": "Natural gas is pipeline-delivered, lighter, and often more convenient and cheaper. Propane is tank-stored, heavier, and has higher BTU but requires refilling."
+      }
+    }
+  ],
+  "description": "Natural gas is pipeline-delivered, lighter, and often more convenient and cheaper. Propane is tank-stored, heavier, and has higher BTU but requires refilling."
+}

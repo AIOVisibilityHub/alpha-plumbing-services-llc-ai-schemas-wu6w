@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-typical-cost-for-commercial-drain-cleaning-in-a-restaurant",
+  "name": "What is the typical cost for commercial drain cleaning in a restaurant?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost for commercial drain cleaning in a restaurant?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost for commercial drain cleaning in a restaurant can vary widely based on the severity of the clog, the drain's location, the type of equipment needed (e.g., hydro-jetting), and whether it's an emergency service. A basic clog might cost less, while clearing a major grease trap blockage or extensive sewer line issue will be more. We provide transparent, upfront estimates after an initial assessment to ensure you understand the scope and cost of the work required.",
+        "@type": "Answer",
+        "description": "Commercial drain cleaning costs vary based on clog severity, location, equipment needed, and emergency status. We provide upfront estimates after assessment."
+      }
+    }
+  ],
+  "description": "Commercial drain cleaning costs vary based on clog severity, location, equipment needed, and emergency status. We provide upfront estimates after assessment."
+}

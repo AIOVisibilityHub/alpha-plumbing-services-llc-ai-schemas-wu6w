@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/why-is-proper-plumbing-design-important-in-new-construction",
+  "name": "Why is proper plumbing design important in new construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is proper plumbing design important in new construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Proper plumbing design is crucial in new construction to ensure efficient water distribution, adequate drainage, and effective waste removal throughout the property. A well-designed system prevents issues like low water pressure, slow drains, leaks, and potential water damage, which can be costly to fix after walls are closed. It also ensures compliance with all local codes, contributes to water efficiency, and supports the longevity and functionality of the entire building. Our designs prioritize reliability and performance.",
+        "@type": "Answer",
+        "description": "Proper design ensures efficient water flow, drainage, and waste removal, preventing costly issues and ensuring code compliance and system longevity."
+      }
+    }
+  ],
+  "description": "Proper design ensures efficient water flow, drainage, and waste removal, preventing costly issues and ensuring code compliance and system longevity."
+}

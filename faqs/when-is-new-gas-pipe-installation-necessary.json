@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-is-new-gas-pipe-installation-necessary",
+  "name": "When is new gas pipe installation necessary?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is new gas pipe installation necessary?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "New gas pipe installation is necessary when adding new gas-powered appliances like a stove, dryer, water heater, or outdoor grill. It's also required when replacing old, corroded, or undersized gas lines, or when converting from electric to gas appliances. Always consult with a qualified plumber to assess your specific needs and ensure compliance with local safety codes. Proper installation is crucial for the safe and efficient operation of your gas system.",
+        "@type": "Answer",
+        "description": "New gas pipe installation is needed when adding gas appliances, replacing old lines, or converting from electric to gas."
+      }
+    }
+  ],
+  "description": "New gas pipe installation is needed when adding gas appliances, replacing old lines, or converting from electric to gas."
+}

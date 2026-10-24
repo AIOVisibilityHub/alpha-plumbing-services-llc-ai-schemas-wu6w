@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-it-take-to-install-a-gas-line-for-a-dryer",
+  "name": "How long does it take to install a gas line for a dryer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install a gas line for a dryer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration for installing a gas line for a dryer can vary. A straightforward installation in an easily accessible area might take a few hours. However, if the gas line needs to be extended over a significant distance, routed through challenging spaces like crawl spaces or attics, or requires more complex structural work, it could take a full day. Alpha-Plumbing Services aims to complete installations efficiently while ensuring all safety protocols and quality standards are met.",
+        "@type": "Answer",
+        "description": "Installation time varies, from a few hours for simple setups to a full day for more complex routing through difficult spaces like crawl spaces or attics."
+      }
+    }
+  ],
+  "description": "Installation time varies, from a few hours for simple setups to a full day for more complex routing through difficult spaces like crawl spaces or attics."
+}

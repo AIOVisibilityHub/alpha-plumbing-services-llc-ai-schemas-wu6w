@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-common-signs-of-a-gas-line-leak",
+  "name": "What are common signs of a gas line leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs of a gas line leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Recognizing the signs of a gas leak is crucial for safety. Common indicators include a distinctive rotten egg smell, which is added to natural gas for detection. You might also hear a hissing or whistling sound near a gas line, feel dizzy, or experience headaches. If you notice dead or discolored vegetation near an outdoor gas line, this could also signal a leak. Never ignore these signs, as gas leaks pose serious health and safety risks.",
+        "@type": "Answer",
+        "description": "A rotten egg smell, hissing sounds, dizziness, or dead vegetation near gas lines are common signs of a leak."
+      }
+    }
+  ],
+  "description": "A rotten egg smell, hissing sounds, dizziness, or dead vegetation near gas lines are common signs of a leak."
+}
