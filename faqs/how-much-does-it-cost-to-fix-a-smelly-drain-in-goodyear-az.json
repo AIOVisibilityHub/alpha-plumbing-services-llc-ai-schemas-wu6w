@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-much-does-it-cost-to-fix-a-smelly-drain-in-goodyear-az",
+  "name": "How much does it cost to fix a smelly drain in Goodyear, AZ?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to fix a smelly drain in Goodyear, AZ?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to fix a smelly drain in Goodyear, AZ, can vary widely depending on the underlying cause. Simple drain cleaning or P-trap re-filling might be a minimal service charge. However, if the issue is a deeper clog requiring hydro-jetting, a damaged pipe repair, or a complex sewer line problem, costs will be higher. A professional plumber from Alpha-Plumbing Services, LLC will typically provide an inspection and an estimate before starting any work to ensure transparency.",
+        "@type": "Answer",
+        "description": "Costs vary based on the cause; simple fixes are less, while deeper clogs or pipe repairs will cost more. An inspection can provide an estimate."
+      }
+    }
+  ],
+  "description": "Costs vary based on the cause; simple fixes are less, while deeper clogs or pipe repairs will cost more. An inspection can provide an estimate."
+}

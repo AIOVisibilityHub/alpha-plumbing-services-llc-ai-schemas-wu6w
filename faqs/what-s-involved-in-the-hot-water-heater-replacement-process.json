@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-s-involved-in-the-hot-water-heater-replacement-process",
+  "name": "What's involved in the hot water heater replacement process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's involved in the hot water heater replacement process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The hot water heater replacement process typically begins with draining and disconnecting your old unit. Our technicians then prepare the area, ensure proper plumbing connections, and install the new water heater. This includes connecting water lines, venting (for gas models), and electrical or gas supply. Finally, we fill the tank, test for leaks, ignite the pilot (for gas), and verify proper operation, ensuring your new unit is safely and correctly installed.",
+        "@type": "Answer",
+        "description": "The process involves draining the old unit, installing the new one with correct plumbing and connections, and testing for safe and proper operation."
+      }
+    }
+  ],
+  "description": "The process involves draining the old unit, installing the new one with correct plumbing and connections, and testing for safe and proper operation."
+}

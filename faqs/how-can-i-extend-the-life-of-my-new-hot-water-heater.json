@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-can-i-extend-the-life-of-my-new-hot-water-heater",
+  "name": "How can I extend the life of my new hot water heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I extend the life of my new hot water heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To extend the life of your new hot water heater, regular maintenance is key. This includes flushing the tank annually to remove sediment buildup, which can reduce efficiency and cause corrosion. Checking the anode rod every few years and replacing it if significantly corroded also helps prevent tank rust. Additionally, ensuring the temperature setting isn't excessively high can reduce wear and tear. Professional annual inspections can catch issues early.",
+        "@type": "Answer",
+        "description": "Extend your water heater's life with annual tank flushing, checking/replacing the anode rod, and setting an appropriate temperature. Regular professional inspections help."
+      }
+    }
+  ],
+  "description": "Extend your water heater's life with annual tank flushing, checking/replacing the anode rod, and setting an appropriate temperature. Regular professional inspec"
+}

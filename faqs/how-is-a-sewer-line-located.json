@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-is-a-sewer-line-located",
+  "name": "How is a sewer line located?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How is a sewer line located?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process of locating a sewer line involves a trained technician inserting a flexible rod with a camera and a radio transmitter into your sewer pipe, typically through a cleanout access point. As the camera travels through the pipe, the transmitter sends out a signal. Above ground, the technician uses a receiver to detect this signal, allowing them to accurately trace the pipe's exact location and depth. This method is non-invasive and provides real-time mapping of your sewer system's layout.",
+        "@type": "Answer",
+        "description": "A camera with a radio transmitter is inserted into the sewer line, and a technician uses a receiver above ground to trace its exact path and depth."
+      }
+    }
+  ],
+  "description": "A camera with a radio transmitter is inserted into the sewer line, and a technician uses a receiver above ground to trace its exact path and depth."
+}

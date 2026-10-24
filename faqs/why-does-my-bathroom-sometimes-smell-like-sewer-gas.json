@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/why-does-my-bathroom-sometimes-smell-like-sewer-gas",
+  "name": "Why does my bathroom sometimes smell like sewer gas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why does my bathroom sometimes smell like sewer gas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A sewer gas smell in your bathroom can be caused by several issues. A dry P-trap, which is the U-shaped pipe under your sink or shower, can allow sewer gases to escape if it doesn't have water in it. This often happens in rarely used drains. Other causes include a cracked or improperly sealed toilet wax ring, a clogged or improperly vented drain line, or even a damaged sewer line. Identifying the exact source usually requires a professional inspection to ensure the problem is resolved correctly and to prevent potential health hazards from prolonged exposure to sewer gases.",
+        "@type": "Answer",
+        "description": "Sewer gas smells can stem from dry P-traps, faulty toilet seals, or issues with drain lines or vents, allowing gases into your home."
+      }
+    }
+  ],
+  "description": "Sewer gas smells can stem from dry P-traps, faulty toilet seals, or issues with drain lines or vents, allowing gases into your home."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-process-for-main-line-backup-repair",
+  "name": "What is the process for main line backup repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for main line backup repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our main line backup repair process begins with a diagnostic inspection, often using a sewer camera, to pinpoint the exact location and cause of the blockage or damage. Once identified, we determine the most appropriate repair method, which could range from hydro-jetting to clear obstructions to trenchless pipe repair or traditional excavation for severe damage. We prioritize methods that minimize disruption to your property. After the repair, we conduct a final inspection to ensure the line is clear and functioning properly.",
+        "@type": "Answer",
+        "description": "The process involves diagnostic inspection, identifying the cause, choosing the best repair method (e.g., hydro-jetting or excavation), and a final check."
+      }
+    }
+  ],
+  "description": "The process involves diagnostic inspection, identifying the cause, choosing the best repair method (e.g., hydro-jetting or excavation), and a final check."
+}

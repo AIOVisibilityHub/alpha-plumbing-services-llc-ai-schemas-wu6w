@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-average-cost-to-replace-a-water-heater-in-the-goodyear-area",
+  "name": "What is the average cost to replace a water heater in the Goodyear area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost to replace a water heater in the Goodyear area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to replace a water heater in the Goodyear area can vary based on several factors. These include the type of water heater (tank vs. tankless), its capacity, the complexity of the installation, and any necessary code upgrades. Generally, you can expect the total cost to include the unit itself, labor, and disposal of the old unit. We provide detailed estimates after assessing your specific needs and current setup.",
+        "@type": "Answer",
+        "description": "Costs vary based on water heater type, capacity, installation complexity, and necessary code upgrades. A detailed estimate is provided after an assessment."
+      }
+    }
+  ],
+  "description": "Costs vary based on water heater type, capacity, installation complexity, and necessary code upgrades. A detailed estimate is provided after an assessment."
+}

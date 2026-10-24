@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-causes-sewer-lines-to-collapse",
+  "name": "What causes sewer lines to collapse?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes sewer lines to collapse?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sewer lines can collapse due to several factors. Age is a primary contributor, as older pipes made from materials like clay or cast iron naturally degrade over time, becoming brittle and susceptible to cracking. Tree root intrusion is another common cause; roots can grow into small cracks, expand, and eventually break the pipe. Shifting soil from ground movement, heavy vehicle traffic, or poor installation can also stress and collapse pipes. Lastly, extreme temperature changes can cause pipes to crack and weaken, leading to collapse.",
+        "@type": "Answer",
+        "description": "Causes include aging pipes, tree root intrusion, ground movement, heavy traffic, poor installation, and extreme temperature changes."
+      }
+    }
+  ],
+  "description": "Causes include aging pipes, tree root intrusion, ground movement, heavy traffic, poor installation, and extreme temperature changes."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-happens-after-a-drain-camera-inspection",
+  "name": "What happens after a drain camera inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens after a drain camera inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Following a drain camera inspection, our technician will provide a detailed report of their findings, often including video footage or still images of the pipe's interior. They will explain any identified issues, such as blockages, damage, or structural problems. Based on this information, we will recommend the most appropriate solutions, which could range from simple drain cleaning to more extensive pipe repair or replacement. We'll discuss options and next steps with you.",
+        "@type": "Answer",
+        "description": "After inspection, you'll receive a detailed report and video footage. Our technician will explain findings and recommend solutions, like cleaning or repairs."
+      }
+    }
+  ],
+  "description": "After inspection, you'll receive a detailed report and video footage. Our technician will explain findings and recommend solutions, like cleaning or repairs."
+}

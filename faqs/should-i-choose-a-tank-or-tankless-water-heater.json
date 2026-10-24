@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/should-i-choose-a-tank-or-tankless-water-heater",
+  "name": "Should I choose a tank or tankless water heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I choose a tank or tankless water heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The choice between a tank and tankless water heater depends on your household's hot water demands, space availability, and budget. Tank water heaters are generally more affordable upfront and easier to install, providing a large reserve of hot water. Tankless units offer on-demand hot water, saving energy by only heating water when needed, and take up less space. However, they have a higher initial cost and may require system upgrades. We can help you evaluate which option best suits your specific needs.",
+        "@type": "Answer",
+        "description": "Tank heaters are cheaper upfront with stored hot water. Tankless offer on-demand hot water and save space, but cost more initially. Your choice depends on demand, space, and budget."
+      }
+    }
+  ],
+  "description": "Tank heaters are cheaper upfront with stored hot water. Tankless offer on-demand hot water and save space, but cost more initially. Your choice depends on deman"
+}

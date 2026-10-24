@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-can-i-tell-if-i-have-a-sewer-backup",
+  "name": "How can I tell if I have a sewer backup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if I have a sewer backup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs of a sewer backup include foul odors emanating from drains, gurgling sounds from toilets or drains, water backing up into sinks, showers, or toilets when another fixture is used, or multiple drains clogging simultaneously. A noticeable overflow of wastewater in your basement or lowest-level drain is a clear indicator. Addressing these signs promptly can prevent more significant damage and costly repairs.",
+        "@type": "Answer",
+        "description": "Look for foul odors, gurgling drains, water backing up in multiple fixtures, or wastewater overflowing in your lowest-level drain. These indicate a potential sewer backup."
+      }
+    }
+  ],
+  "description": "Look for foul odors, gurgling drains, water backing up in multiple fixtures, or wastewater overflowing in your lowest-level drain. These indicate a potential se"
+}

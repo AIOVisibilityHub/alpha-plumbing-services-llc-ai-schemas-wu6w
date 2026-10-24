@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/is-sewer-gas-dangerous-to-breathe",
+  "name": "Is sewer gas dangerous to breathe?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is sewer gas dangerous to breathe?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sewer gas is primarily methane, hydrogen sulfide, ammonia, and other gases, some of which are toxic and flammable in high concentrations. While low levels might cause symptoms like headaches or nausea, prolonged exposure to higher concentrations can be dangerous. Hydrogen sulfide, in particular, can be harmful even at low levels. It's crucial to address any persistent sewer gas smell promptly to ensure the safety of your home's occupants. Professional plumbers can identify the source and recommend solutions to eliminate the gas and any associated risks.",
+        "@type": "Answer",
+        "description": "Sewer gas can be dangerous, especially hydrogen sulfide, potentially causing health issues with prolonged exposure. Address it promptly."
+      }
+    }
+  ],
+  "description": "Sewer gas can be dangerous, especially hydrogen sulfide, potentially causing health issues with prolonged exposure. Address it promptly."
+}

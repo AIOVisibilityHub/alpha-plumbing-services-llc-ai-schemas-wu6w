@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-a-plumbing-vent-and-how-does-it-relate-to-gurgling",
+  "name": "What is a plumbing vent and how does it relate to gurgling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a plumbing vent and how does it relate to gurgling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A plumbing vent system is a network of pipes that extends from your drains to the outside, typically through the roof. Its main purpose is to allow air into the drain pipes, which equalizes pressure and helps wastewater flow smoothly out of your home. It also allows sewer gases to escape safely outdoors instead of accumulating in your home. When a vent pipe is blocked by debris, nesting animals, or even ice, air cannot enter the system properly, creating a vacuum that causes drains to gurgle as water tries to pull air from the fixture itself.",
+        "@type": "Answer",
+        "description": "Plumbing vents equalize air pressure for smooth drainage and release sewer gases. Blocked vents cause gurgling by creating a vacuum."
+      }
+    }
+  ],
+  "description": "Plumbing vents equalize air pressure for smooth drainage and release sewer gases. Blocked vents cause gurgling by creating a vacuum."
+}

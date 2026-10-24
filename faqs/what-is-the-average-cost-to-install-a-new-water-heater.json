@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-average-cost-to-install-a-new-water-heater",
+  "name": "What is the average cost to install a new water heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost to install a new water heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a new water heater installation varies widely depending on several factors, including the type of water heater (tank vs. tankless, gas vs. electric), its capacity, and any necessary modifications to your home's plumbing or ventilation. Our team provides a detailed estimate after an on-site assessment. This ensures you understand all associated costs upfront, including the unit price, labor, and any required permits. We aim for transparency to avoid unexpected expenses.",
+        "@type": "Answer",
+        "description": "Installation costs vary based on water heater type, capacity, and required plumbing modifications. We provide a detailed estimate after an on-site assessment."
+      }
+    }
+  ],
+  "description": "Installation costs vary based on water heater type, capacity, and required plumbing modifications. We provide a detailed estimate after an on-site assessment."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-is-it-better-to-replace-the-entire-sewer-line-instead-of-just-repairing-a-c",
+  "name": "When is it better to replace the entire sewer line instead of just repairing a crack?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is it better to replace the entire sewer line instead of just repairing a crack?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding between repair and full replacement depends on several factors. If the pipe has multiple cracks, extensive corrosion, sagging, or root intrusion in several sections, replacement might be more cost-effective than continuous repairs. An older pipe that has reached the end of its lifespan or is made of outdated, failure-prone material also warrants replacement. If the current pipe diameter is insufficient for your needs, or if you plan extensive renovations, a full replacement can be a better long-term investment to avoid future issues.",
+        "@type": "Answer",
+        "description": "Replacement is better for multiple cracks, extensive damage, outdated pipe materials, or if the pipe is nearing the end of its lifespan."
+      }
+    }
+  ],
+  "description": "Replacement is better for multiple cracks, extensive damage, outdated pipe materials, or if the pipe is nearing the end of its lifespan."
+}

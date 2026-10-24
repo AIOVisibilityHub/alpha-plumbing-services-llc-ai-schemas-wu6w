@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-do-i-know-if-tree-roots-are-in-my-sewer-line",
+  "name": "How do I know if tree roots are in my sewer line?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if tree roots are in my sewer line?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of tree roots in your sewer line include slow drains, gurgling toilets, recurring clogs in multiple fixtures, and sewage backups. If you notice persistent issues, especially after heavy rain, it's a strong indication. A professional plumbing inspection with a camera can confirm the presence and location of roots.",
+        "@type": "Answer",
+        "description": "Look for slow drains, gurgling toilets, or recurring clogs. A camera inspection can confirm tree roots in your sewer line."
+      }
+    }
+  ],
+  "description": "Look for slow drains, gurgling toilets, or recurring clogs. A camera inspection can confirm tree roots in your sewer line."
+}

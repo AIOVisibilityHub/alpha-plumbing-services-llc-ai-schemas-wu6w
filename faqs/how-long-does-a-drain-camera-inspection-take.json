@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-a-drain-camera-inspection-take",
+  "name": "How long does a drain camera inspection take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a drain camera inspection take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a drain camera inspection can vary depending on the complexity of your plumbing system and the specific issue being investigated. Typically, a standard residential inspection takes approximately one to two hours. This includes the time needed to set up equipment, conduct the visual assessment, and provide an initial summary of findings. More extensive systems or challenging access points might require additional time.",
+        "@type": "Answer",
+        "description": "A standard drain camera inspection usually takes about one to two hours, depending on system complexity."
+      }
+    }
+  ],
+  "description": "A standard drain camera inspection usually takes about one to two hours, depending on system complexity."
+}

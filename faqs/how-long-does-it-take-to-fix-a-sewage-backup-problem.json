@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-it-take-to-fix-a-sewage-backup-problem",
+  "name": "How long does it take to fix a sewage backup problem?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to fix a sewage backup problem?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time it takes to fix a sewage backup depends on the underlying issue. A simple clog that can be cleared with snaking might take an hour or two. More complex problems, such as removing stubborn tree roots, repairing a collapsed pipe, or performing hydro-jetting, could take several hours or even a full day. If excavation is required for major pipe replacement, the process might extend over multiple days. A plumber can give a clearer timeframe after assessing the situation.",
+        "@type": "Answer",
+        "description": "Repair time varies from an hour for simple clogs to several hours or days for complex issues like root removal or pipe replacement, depending on the problem's severity."
+      }
+    }
+  ],
+  "description": "Repair time varies from an hour for simple clogs to several hours or days for complex issues like root removal or pipe replacement, depending on the problem's s"
+}

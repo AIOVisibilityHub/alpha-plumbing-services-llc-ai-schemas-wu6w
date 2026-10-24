@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/is-a-smelly-drain-a-sign-of-a-serious-plumbing-problem",
+  "name": "Is a smelly drain a sign of a serious plumbing problem?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is a smelly drain a sign of a serious plumbing problem?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A smelly drain can sometimes be a sign of a serious plumbing problem, especially if the odor is persistent, spreads through your home, or is accompanied by slow drainage. While often caused by simple organic buildup, a persistent smell could indicate a significant blockage in your main sewer line, a broken or improperly vented drain pipe, or a dry P-trap allowing harmful sewer gases to enter your home. Ignoring these signs can lead to more extensive and costly repairs later.",
+        "@type": "Answer",
+        "description": "A persistent smelly drain, especially with slow drainage, can indicate a serious plumbing issue like a main line clog or vent problem."
+      }
+    }
+  ],
+  "description": "A persistent smelly drain, especially with slow drainage, can indicate a serious plumbing issue like a main line clog or vent problem."
+}

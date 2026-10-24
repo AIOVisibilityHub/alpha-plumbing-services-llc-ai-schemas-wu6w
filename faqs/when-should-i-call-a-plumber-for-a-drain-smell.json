@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-should-i-call-a-plumber-for-a-drain-smell",
+  "name": "When should I call a plumber for a drain smell?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a plumber for a drain smell?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a plumber if you've tried common remedies like cleaning the drain, pouring hot water, or using baking soda and vinegar, and the drain smell persists. Persistent odors can indicate a deeper issue such as a significant clog that household products cannot clear, a dry or improperly vented P-trap, a damaged drain line, or even a sewer line problem. A professional plumber can accurately diagnose the source of the odor and provide an effective solution, preventing further plumbing complications.",
+        "@type": "Answer",
+        "description": "Call a plumber if persistent drain smells remain after home remedies, as it could signal a deeper clog, vent issue, or sewer line problem."
+      }
+    }
+  ],
+  "description": "Call a plumber if persistent drain smells remain after home remedies, as it could signal a deeper clog, vent issue, or sewer line problem."
+}

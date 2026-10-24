@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/can-i-get-a-video-recording-of-my-sewer-camera-inspection",
+  "name": "Can I get a video recording of my sewer camera inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I get a video recording of my sewer camera inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Alpha-Plumbing Services can typically provide a digital recording of your sewer camera inspection. This video footage serves as visual documentation of your sewer line's condition, showing any identified problems directly. It can be useful for your records, for understanding the recommended repairs, or for insurance purposes. Please request a recording at the time of your inspection if you would like one.",
+        "@type": "Answer",
+        "description": "Yes, we can usually provide a digital recording of your sewer camera inspection for your records or to understand recommended repairs."
+      }
+    }
+  ],
+  "description": "Yes, we can usually provide a digital recording of your sewer camera inspection for your records or to understand recommended repairs."
+}

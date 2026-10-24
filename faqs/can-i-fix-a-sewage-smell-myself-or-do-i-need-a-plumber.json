@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/can-i-fix-a-sewage-smell-myself-or-do-i-need-a-plumber",
+  "name": "Can I fix a sewage smell myself, or do I need a plumber?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I fix a sewage smell myself, or do I need a plumber?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Some minor causes of sewage smells, like a dry P-trap (easily fixed by running water), can be addressed by a homeowner. However, many issues, such as significant clogs requiring hydro-jetting, damaged vent pipes, or a faulty toilet wax ring, typically require professional plumbing expertise. Attempting complex repairs without proper knowledge can lead to further damage. If the smell persists, contacting a plumber is advisable.",
+        "@type": "Answer",
+        "description": "You can fix minor issues like a dry P-trap, but complex problems like major clogs or vent pipe damage usually require a professional plumber."
+      }
+    }
+  ],
+  "description": "You can fix minor issues like a dry P-trap, but complex problems like major clogs or vent pipe damage usually require a professional plumber."
+}

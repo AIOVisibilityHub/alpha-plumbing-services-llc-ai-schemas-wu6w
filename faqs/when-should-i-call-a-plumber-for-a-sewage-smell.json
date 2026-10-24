@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-should-i-call-a-plumber-for-a-sewage-smell",
+  "name": "When should I call a plumber for a sewage smell?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a plumber for a sewage smell?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a plumber if the sewage smell persists despite basic troubleshooting, such as running water in drains or cleaning the bathroom. Persistent odors can indicate more serious plumbing problems like vent pipe issues, drain clogs that require professional clearing, or a compromised wax seal on your toilet. Addressing these issues promptly can prevent further complications and ensure a healthy home environment.",
+        "@type": "Answer",
+        "description": "Call a plumber if the sewage smell persists after basic cleaning or running water, as it may indicate a more serious plumbing issue requiring professional diagnosis."
+      }
+    }
+  ],
+  "description": "Call a plumber if the sewage smell persists after basic cleaning or running water, as it may indicate a more serious plumbing issue requiring professional diagn"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-process-for-repairing-a-sewer-backup",
+  "name": "What is the process for repairing a sewer backup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for repairing a sewer backup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The repair process typically starts with a thorough inspection, often using a sewer camera, to pinpoint the exact location and cause of the backup. Once identified, solutions may include hydro-jetting to clear blockages, snaking for stubborn clogs, or trenchless repair/replacement for damaged pipes. For major issues like collapsed pipes, excavation might be necessary. The goal is to restore proper flow and prevent future occurrences.",
+        "@type": "Answer",
+        "description": "Repair involves camera inspection to find the issue, followed by hydro-jetting, snaking, or pipe repair/replacement, potentially with excavation, to restore flow."
+      }
+    }
+  ],
+  "description": "Repair involves camera inspection to find the issue, followed by hydro-jetting, snaking, or pipe repair/replacement, potentially with excavation, to restore flo"
+}

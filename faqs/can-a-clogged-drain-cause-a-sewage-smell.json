@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/can-a-clogged-drain-cause-a-sewage-smell",
+  "name": "Can a clogged drain cause a sewage smell?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a clogged drain cause a sewage smell?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a clogged drain can absolutely cause a sewage smell. When hair, soap scum, and other organic matter accumulate in your drain, they begin to decompose. This decomposition process releases gases that smell like sewage. Additionally, a severe clog can slow drainage, allowing standing water to become stagnant and smelly. Clearing the clog is essential to eliminate the odor and restore proper drainage.",
+        "@type": "Answer",
+        "description": "Yes, a clogged drain can cause a sewage smell because decomposing organic matter in the clog releases foul-smelling gases."
+      }
+    }
+  ],
+  "description": "Yes, a clogged drain can cause a sewage smell because decomposing organic matter in the clog releases foul-smelling gases."
+}

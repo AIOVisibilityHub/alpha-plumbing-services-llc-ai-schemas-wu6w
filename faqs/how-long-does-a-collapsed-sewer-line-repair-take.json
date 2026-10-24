@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-a-collapsed-sewer-line-repair-take",
+  "name": "How long does a collapsed sewer line repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a collapsed sewer line repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a collapsed sewer line repair depends on the repair method and the complexity of the damage. Trenchless repairs, such as pipe lining or bursting, can often be completed within one to three days, as they require less excavation. Traditional dig-and-replace methods might take longer, ranging from a few days to a week or more, depending on the excavation required, soil conditions, and the need for permits or inspections. We provide an estimated timeline after assessing the damage.",
+        "@type": "Answer",
+        "description": "Trenchless repairs usually take 1-3 days. Traditional repairs can take several days to over a week, depending on the excavation and specific site conditions."
+      }
+    }
+  ],
+  "description": "Trenchless repairs usually take 1-3 days. Traditional repairs can take several days to over a week, depending on the excavation and specific site conditions."
+}

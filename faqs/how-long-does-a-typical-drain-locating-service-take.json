@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-a-typical-drain-locating-service-take",
+  "name": "How long does a typical drain locating service take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical drain locating service take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a typical drain locating service can vary depending on the complexity of your plumbing system, the length of the drain line being mapped, and the accessibility of entry points. For a standard residential property, the process often takes between one to three hours. More intricate systems, multiple lines, or challenging access might extend this time. Our technicians work efficiently to provide accurate results with minimal disruption, ensuring you get precise information about your underground drains in a timely manner.",
+        "@type": "Answer",
+        "description": "A typical residential drain locating service usually takes one to three hours, depending on system complexity and line length. More intricate systems may take longer."
+      }
+    }
+  ],
+  "description": "A typical residential drain locating service usually takes one to three hours, depending on system complexity and line length. More intricate systems may take l"
+}

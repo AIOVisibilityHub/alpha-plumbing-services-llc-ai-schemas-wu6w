@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-much-does-main-line-backup-repair-cost",
+  "name": "How much does main line backup repair cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does main line backup repair cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of main line backup repair varies significantly depending on the cause, severity, and location of the blockage or damage. Simple clogs might be resolved with hydro-jetting, while extensive damage from tree roots or collapsed pipes could require excavation and pipe replacement. Factors like pipe material, accessibility, and the need for camera inspection also influence the final price. We provide transparent, upfront estimates after a thorough diagnosis to ensure you understand the scope and cost of the repair.",
+        "@type": "Answer",
+        "description": "Repair costs depend on the cause, severity, and location of the problem, requiring a diagnosis for an accurate estimate."
+      }
+    }
+  ],
+  "description": "Repair costs depend on the cause, severity, and location of the problem, requiring a diagnosis for an accurate estimate."
+}

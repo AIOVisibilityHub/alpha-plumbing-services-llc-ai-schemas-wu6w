@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-should-i-call-a-plumber-for-a-sewer-gas-smell",
+  "name": "When should I call a plumber for a sewer gas smell?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a plumber for a sewer gas smell?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a plumber if the sewer gas smell persists despite your attempts to identify and fix simple issues like dry P-traps. It's also crucial to call a professional if the smell is strong, pervasive throughout your home, or accompanied by other plumbing problems like slow drains or gurgling noises. Prompt action is essential to address potential health risks and prevent further damage to your plumbing system. We serve Goodyear, Buckeye, Avondale, Surprise, and Waddell.",
+        "@type": "Answer",
+        "description": "Call a plumber if the sewer gas smell persists after basic checks, is strong or widespread, or if you have other plumbing issues."
+      }
+    }
+  ],
+  "description": "Call a plumber if the sewer gas smell persists after basic checks, is strong or widespread, or if you have other plumbing issues."
+}

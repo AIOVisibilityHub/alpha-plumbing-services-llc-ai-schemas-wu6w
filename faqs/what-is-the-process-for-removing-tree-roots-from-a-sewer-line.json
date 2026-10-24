@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-process-for-removing-tree-roots-from-a-sewer-line",
+  "name": "What is the process for removing tree roots from a sewer line?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for removing tree roots from a sewer line?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process usually begins with a camera inspection to locate and assess the root intrusion. For minor clogs, a plumber might use a drain auger or snake to cut through the roots. For more severe cases, hydro-jetting, which uses high-pressure water, is effective at clearing roots and debris. In cases of significant pipe damage, excavation and pipe repair or replacement may be necessary.",
+        "@type": "Answer",
+        "description": "The process involves a camera inspection, then root removal using augers, hydro-jetting, or pipe repair for severe damage."
+      }
+    }
+  ],
+  "description": "The process involves a camera inspection, then root removal using augers, hydro-jetting, or pipe repair for severe damage."
+}

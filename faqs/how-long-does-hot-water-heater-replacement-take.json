@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-hot-water-heater-replacement-take",
+  "name": "How long does hot water heater replacement take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does hot water heater replacement take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation time for a hot water heater replacement depends on the type of unit and any necessary modifications. Replacing a conventional tank-style water heater with a similar model typically takes 2-4 hours. Upgrading to a tankless system or switching fuel types (e.g., electric to gas) can take longer, often 4-8 hours or more, as it may involve plumbing and venting adjustments. Our technicians work efficiently to restore your hot water as quickly as possible.",
+        "@type": "Answer",
+        "description": "Replacing a tank heater usually takes 2-4 hours. Upgrading to tankless or changing fuel types can take 4-8 hours or longer due to additional modifications."
+      }
+    }
+  ],
+  "description": "Replacing a tank heater usually takes 2-4 hours. Upgrading to tankless or changing fuel types can take 4-8 hours or longer due to additional modifications."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-factors-influence-the-lifespan-of-a-new-sewer-line",
+  "name": "What factors influence the lifespan of a new sewer line?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the lifespan of a new sewer line?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The lifespan of a newly installed sewer line is influenced by several key factors. The type of material used is crucial; modern PVC pipes can last 50-100 years, while other materials have different lifespans. Proper installation by experienced professionals ensures correct grading, secure connections, and adherence to codes, all of which extend longevity. Environmental factors like soil conditions, seismic activity, and proximity to large tree roots can also affect durability. Regular maintenance and avoiding flushing non-biodegradable items will also contribute to a longer service life.",
+        "@type": "Answer",
+        "description": "Lifespan depends on pipe material (e.g., PVC lasts 50-100 years), proper professional installation, environmental factors, and regular maintenance practices."
+      }
+    }
+  ],
+  "description": "Lifespan depends on pipe material (e.g., PVC lasts 50-100 years), proper professional installation, environmental factors, and regular maintenance practices."
+}

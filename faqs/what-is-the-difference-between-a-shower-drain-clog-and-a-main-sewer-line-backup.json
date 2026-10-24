@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-difference-between-a-shower-drain-clog-and-a-main-sewer-line-backup",
+  "name": "What is the difference between a shower drain clog and a main sewer line backup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a shower drain clog and a main sewer line backup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A shower drain clog typically affects only the shower, causing slow draining or water pooling in the shower pan. It's usually caused by hair, soap scum, or small debris accumulation within the shower's trap or immediate drainpipe. A main sewer line backup, however, impacts multiple fixtures throughout your home, with sewage appearing in the lowest drains, like the shower, when other fixtures are used. This indicates a blockage further down the plumbing system, affecting the entire household's wastewater disposal.",
+        "@type": "Answer",
+        "description": "A shower clog affects only the shower, while a main sewer line backup impacts multiple fixtures, with sewage appearing in the lowest drains like the shower."
+      }
+    }
+  ],
+  "description": "A shower clog affects only the shower, while a main sewer line backup impacts multiple fixtures, with sewage appearing in the lowest drains like the shower."
+}

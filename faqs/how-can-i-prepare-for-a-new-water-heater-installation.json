@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-can-i-prepare-for-a-new-water-heater-installation",
+  "name": "How can I prepare for a new water heater installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prepare for a new water heater installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare for your new water heater installation, you can clear the area around your existing water heater to provide our technicians with adequate workspace. Ensure any valuable items are moved to prevent accidental damage. If you have a gas water heater, locate the main gas shut-off valve. If it's electric, identify the circuit breaker for the unit. Our team will guide you through any other necessary preparations on the day of service. We aim for a smooth and efficient process.",
+        "@type": "Answer",
+        "description": "Clear the area around the unit, move valuables, and locate the gas shut-off or electrical breaker. Our team will guide you on other preparations."
+      }
+    }
+  ],
+  "description": "Clear the area around the unit, move valuables, and locate the gas shut-off or electrical breaker. Our team will guide you on other preparations."
+}

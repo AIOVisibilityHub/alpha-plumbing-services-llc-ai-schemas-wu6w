@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-should-i-call-a-plumber-for-slow-drains",
+  "name": "When should I call a plumber for slow drains?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a plumber for slow drains?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a plumber immediately if you experience multiple slow drains throughout your home, especially if accompanied by foul odors, gurgling sounds from drains or toilets, or water backing up into sinks or tubs. These symptoms strongly suggest a significant blockage in your main sewer line. Ignoring these signs can lead to more severe issues like sewage backups or burst pipes, which are costly to repair and pose health risks. Early intervention can prevent extensive damage.",
+        "@type": "Answer",
+        "description": "Call a plumber for multiple slow drains, foul odors, gurgling noises, or water backups, as these indicate a main sewer line blockage. Early intervention prevents worse problems."
+      }
+    }
+  ],
+  "description": "Call a plumber for multiple slow drains, foul odors, gurgling noises, or water backups, as these indicate a main sewer line blockage. Early intervention prevent"
+}

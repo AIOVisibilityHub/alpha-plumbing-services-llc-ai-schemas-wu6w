@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-much-does-sewer-backup-repair-cost",
+  "name": "How much does sewer backup repair cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does sewer backup repair cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of sewer backup repair varies widely based on the cause, severity, and required repair method. Minor drain snaking might be less expensive than hydro-jetting a main line. Extensive pipe damage requiring trenchless repair or excavation and replacement will incur higher costs. We provide a detailed estimate after diagnosing the specific issue. Factors like accessibility and pipe materials also influence the final price.",
+        "@type": "Answer",
+        "description": "Sewer backup repair costs vary based on the cause, severity, and method. Minor clogs are cheaper than major pipe repairs or replacements. A detailed estimate follows diagnosis."
+      }
+    }
+  ],
+  "description": "Sewer backup repair costs vary based on the cause, severity, and method. Minor clogs are cheaper than major pipe repairs or replacements. A detailed estimate fo"
+}

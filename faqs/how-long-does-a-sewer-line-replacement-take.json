@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-a-sewer-line-replacement-take",
+  "name": "How long does a sewer line replacement take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a sewer line replacement take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a sewer line replacement varies based on the complexity of the project and the method chosen. A straightforward traditional trenching replacement for a residential property might take 1 to 3 days, depending on soil conditions and pipe length. Trenchless methods, such as pipe bursting or lining, can sometimes be completed in 1 to 2 days, as they require less excavation. Factors like permit acquisition, weather conditions, and unexpected complications can also influence the total timeline. We will provide an estimated timeframe during your consultation.",
+        "@type": "Answer",
+        "description": "Sewer line replacement can take 1 to 3 days for traditional methods or 1 to 2 days for trenchless, depending on project complexity and conditions."
+      }
+    }
+  ],
+  "description": "Sewer line replacement can take 1 to 3 days for traditional methods or 1 to 2 days for trenchless, depending on project complexity and conditions."
+}

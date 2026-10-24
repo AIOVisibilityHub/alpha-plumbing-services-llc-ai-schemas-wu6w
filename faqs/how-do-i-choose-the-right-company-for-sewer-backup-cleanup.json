@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-do-i-choose-the-right-company-for-sewer-backup-cleanup",
+  "name": "How do I choose the right company for sewer backup cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right company for sewer backup cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a sewer backup cleanup company, look for several key qualifications. Ensure they are licensed, insured, and certified in water damage restoration and sewage cleanup, such as IICRC certification. Verify they have experience specifically with sewage, as it requires specialized protocols. Check for emergency response availability and transparent pricing. Alpha-Plumbing Services LLC meets these criteria, offering professional, experienced, and rapid cleanup services for your peace of mind.",
+        "@type": "Answer",
+        "description": "Choose a licensed, insured, and IICRC-certified company with sewage cleanup experience, emergency response, and transparent pricing. Alpha-Plumbing Services LLC fits these criteria."
+      }
+    }
+  ],
+  "description": "Choose a licensed, insured, and IICRC-certified company with sewage cleanup experience, emergency response, and transparent pricing. Alpha-Plumbing Services LLC"
+}

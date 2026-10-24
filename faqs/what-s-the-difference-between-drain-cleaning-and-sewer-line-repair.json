@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-s-the-difference-between-drain-cleaning-and-sewer-line-repair",
+  "name": "What's the difference between drain cleaning and sewer line repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between drain cleaning and sewer line repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Drain cleaning primarily addresses clogs within individual drain lines, like those in sinks, showers, or toilets, using methods like snaking or chemical solutions. Sewer line repair, however, focuses on blockages or damage in the main pipe that carries all wastewater from your home to the municipal sewer or septic system. Sewer line issues typically affect multiple fixtures and require more advanced techniques like hydro-jetting, camera inspection, or pipe replacement.",
+        "@type": "Answer",
+        "description": "Drain cleaning clears clogs in individual fixture lines, while sewer line repair addresses blockages or damage in the main pipe connecting your home to the municipal sewer, affecting multiple fixtures."
+      }
+    }
+  ],
+  "description": "Drain cleaning clears clogs in individual fixture lines, while sewer line repair addresses blockages or damage in the main pipe connecting your home to the muni"
+}

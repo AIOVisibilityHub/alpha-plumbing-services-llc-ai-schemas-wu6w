@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-causes-sewer-lines-to-break",
+  "name": "What causes sewer lines to break?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes sewer lines to break?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sewer lines can break for various reasons. Tree root intrusion is a common culprit, as roots seek out moisture and can penetrate pipes, causing cracks and blockages. Shifting soil due to natural settling, earthquakes, or heavy construction can also put stress on pipes. Additionally, corrosion from age, extreme temperature changes, or damage from heavy vehicles driving over the line can lead to breaks.",
+        "@type": "Answer",
+        "description": "Common causes include tree root intrusion, shifting soil, pipe corrosion, age, and external damage from heavy vehicles."
+      }
+    }
+  ],
+  "description": "Common causes include tree root intrusion, shifting soil, pipe corrosion, age, and external damage from heavy vehicles."
+}

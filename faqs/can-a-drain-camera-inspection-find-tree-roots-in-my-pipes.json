@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/can-a-drain-camera-inspection-find-tree-roots-in-my-pipes",
+  "name": "Can a drain camera inspection find tree roots in my pipes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a drain camera inspection find tree roots in my pipes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a drain camera inspection is highly effective at identifying tree roots that have infiltrated your sewer or drain lines. The camera can clearly show where roots have entered the pipe, how extensively they have grown, and any damage they may have caused. This visual confirmation is crucial for determining the best method for root removal and preventing future intrusions, such as hydro-jetting or pipe repair.",
+        "@type": "Answer",
+        "description": "Yes, a drain camera inspection can clearly identify tree roots inside your pipes and any damage they've caused."
+      }
+    }
+  ],
+  "description": "Yes, a drain camera inspection can clearly identify tree roots inside your pipes and any damage they've caused."
+}

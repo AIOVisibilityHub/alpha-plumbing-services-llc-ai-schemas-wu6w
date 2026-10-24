@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/why-does-my-entire-house-smell-like-sewer-gas",
+  "name": "Why does my entire house smell like sewer gas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why does my entire house smell like sewer gas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If the sewer gas smell permeates your entire house, it often indicates a more widespread issue than a single dry drain. Potential causes include a main sewer line clog that's backing up gases, a severely damaged or cracked sewer pipe within your foundation, or a problem with the main plumbing vent stack for your home. Such widespread odors require immediate professional attention to protect indoor air quality and prevent further damage. A plumber can perform diagnostics like smoke testing to locate the source.",
+        "@type": "Answer",
+        "description": "A whole-house sewer gas smell suggests a serious issue like a main sewer line problem or a damaged vent stack, requiring immediate professional help."
+      }
+    }
+  ],
+  "description": "A whole-house sewer gas smell suggests a serious issue like a main sewer line problem or a damaged vent stack, requiring immediate professional help."
+}

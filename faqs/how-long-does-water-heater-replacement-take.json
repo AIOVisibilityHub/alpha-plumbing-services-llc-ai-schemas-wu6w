@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-water-heater-replacement-take",
+  "name": "How long does water heater replacement take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does water heater replacement take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most standard water heater replacements can be completed within 2 to 4 hours by a professional plumber. This timeframe includes draining and removing the old unit, installing the new one, connecting plumbing and gas or electrical lines, and testing for proper operation. More complex installations, such as converting from a tank to a tankless system, or addressing significant plumbing modifications, might take longer, potentially a full day.",
+        "@type": "Answer",
+        "description": "A standard water heater replacement usually takes 2 to 4 hours. More complex installations, like converting to tankless, may take longer."
+      }
+    }
+  ],
+  "description": "A standard water heater replacement usually takes 2 to 4 hours. More complex installations, like converting to tankless, may take longer."
+}

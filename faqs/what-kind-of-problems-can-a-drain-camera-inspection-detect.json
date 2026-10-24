@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-kind-of-problems-can-a-drain-camera-inspection-detect",
+  "name": "What kind of problems can a drain camera inspection detect?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of problems can a drain camera inspection detect?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A drain camera inspection can detect a wide range of plumbing issues. This includes blockages from grease, debris, or foreign objects, as well as structural problems like cracks, collapses, or misaligned pipes. It can also identify corrosion, pipe deterioration due to age, and root intrusion. By providing a clear view of the pipe's interior, it helps pinpoint the exact nature and location of the problem.",
+        "@type": "Answer",
+        "description": "It detects blockages, cracks, collapses, corrosion, pipe deterioration, and root intrusion by providing a clear view inside the pipes."
+      }
+    }
+  ],
+  "description": "It detects blockages, cracks, collapses, corrosion, pipe deterioration, and root intrusion by providing a clear view inside the pipes."
+}

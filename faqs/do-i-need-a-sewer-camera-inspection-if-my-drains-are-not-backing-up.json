@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/do-i-need-a-sewer-camera-inspection-if-my-drains-are-not-backing-up",
+  "name": "Do I need a sewer camera inspection if my drains are not backing up?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a sewer camera inspection if my drains are not backing up?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Even if your drains aren't currently backing up, a sewer camera inspection can be beneficial. It's often recommended as a preventative measure, especially for older homes, to identify potential issues before they become major problems. It's also crucial before purchasing a property in areas like Surprise or Waddell, as it can uncover hidden damage that might lead to costly repairs down the line, giving you peace of mind or leverage in negotiations.",
+        "@type": "Answer",
+        "description": "Yes, an inspection can be a preventative measure for older homes or crucial before buying a property to find hidden issues before they cause backups."
+      }
+    }
+  ],
+  "description": "Yes, an inspection can be a preventative measure for older homes or crucial before buying a property to find hidden issues before they cause backups."
+}

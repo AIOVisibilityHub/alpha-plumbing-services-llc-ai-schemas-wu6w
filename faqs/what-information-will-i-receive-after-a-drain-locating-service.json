@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-information-will-i-receive-after-a-drain-locating-service",
+  "name": "What information will I receive after a drain locating service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information will I receive after a drain locating service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After a drain locating service, you will receive clear and comprehensive information about your property's drain lines. This typically includes the exact path and depth of the pipes, identification of any critical points like junctions or cleanouts, and the location of any detected issues such as blockages, breaks, or sags. Our technicians will explain their findings in an easy-to-understand manner and provide a visual map or markers on your property where necessary. This information empowers you to plan repairs, renovations, or landscaping with confidence.",
+        "@type": "Answer",
+        "description": "You will receive detailed information including the exact path, depth, and location of critical points or detected issues in your drain lines, along with an explanation from our technicians."
+      }
+    }
+  ],
+  "description": "You will receive detailed information including the exact path, depth, and location of critical points or detected issues in your drain lines, along with an exp"
+}

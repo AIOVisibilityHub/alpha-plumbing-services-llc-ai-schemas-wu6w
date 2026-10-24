@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/is-sewer-gas-dangerous-to-my-health",
+  "name": "Is sewer gas dangerous to my health?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is sewer gas dangerous to my health?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While small amounts of sewer gas are usually harmless, prolonged exposure or high concentrations can be dangerous. Sewer gas contains methane, hydrogen sulfide, ammonia, and other gases. Hydrogen sulfide, even in low concentrations, can cause headaches, nausea, and dizziness. Higher levels can lead to more serious respiratory problems and even unconsciousness. It's important to address the source of the odor promptly.",
+        "@type": "Answer",
+        "description": "Sewer gas contains harmful components like hydrogen sulfide, which can cause headaches and nausea, and should be addressed quickly."
+      }
+    }
+  ],
+  "description": "Sewer gas contains harmful components like hydrogen sulfide, which can cause headaches and nausea, and should be addressed quickly."
+}

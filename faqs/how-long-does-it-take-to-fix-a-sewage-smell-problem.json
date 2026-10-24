@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-it-take-to-fix-a-sewage-smell-problem",
+  "name": "How long does it take to fix a sewage smell problem?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to fix a sewage smell problem?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required to fix a sewage smell varies significantly based on the diagnosis. Simple fixes, such as refilling a dry P-trap or clearing a minor drain clog, might take less than an hour. More involved repairs, like replacing a toilet's wax ring or repairing a vent pipe, could take a few hours. We aim to complete most repairs efficiently while ensuring quality workmanship.",
+        "@type": "Answer",
+        "description": "Repair time varies; simple fixes take under an hour, while complex issues like wax ring or vent pipe repair could take several hours."
+      }
+    }
+  ],
+  "description": "Repair time varies; simple fixes take under an hour, while complex issues like wax ring or vent pipe repair could take several hours."
+}

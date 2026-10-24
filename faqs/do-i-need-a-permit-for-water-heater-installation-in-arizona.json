@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/do-i-need-a-permit-for-water-heater-installation-in-arizona",
+  "name": "Do I need a permit for water heater installation in Arizona?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for water heater installation in Arizona?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In many cities and counties in Arizona, including those we serve like Goodyear and Avondale, a permit is typically required for water heater replacement or installation. This ensures that the installation meets local building codes and safety standards. Alpha-Plumbing Services handles all necessary permitting processes to ensure your installation is compliant and safe. We recommend checking with your local municipality for specific requirements, though we can guide you through this.",
+        "@type": "Answer",
+        "description": "Yes, a permit is often required for water heater installation in Arizona to ensure compliance with local building codes. We handle the permitting process."
+      }
+    }
+  ],
+  "description": "Yes, a permit is often required for water heater installation in Arizona to ensure compliance with local building codes. We handle the permitting process."
+}

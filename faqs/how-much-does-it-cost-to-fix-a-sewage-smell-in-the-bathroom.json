@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-much-does-it-cost-to-fix-a-sewage-smell-in-the-bathroom",
+  "name": "How much does it cost to fix a sewage smell in the bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to fix a sewage smell in the bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to fix a sewage smell varies depending on the underlying cause. Simple fixes, like refilling a dry P-trap, may have no cost. More complex issues, such as repairing a cracked vent pipe or replacing a toilet's wax ring, will incur labor and material charges. We provide transparent pricing after diagnosing the problem. We service areas including Goodyear, Buckeye, and Avondale.",
+        "@type": "Answer",
+        "description": "Costs vary based on the problem. Simple fixes are inexpensive, while complex issues like vent pipe repair or wax ring replacement will incur labor and material fees."
+      }
+    }
+  ],
+  "description": "Costs vary based on the problem. Simple fixes are inexpensive, while complex issues like vent pipe repair or wax ring replacement will incur labor and material"
+}

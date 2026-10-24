@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-common-signs-that-i-need-sewer-line-repair",
+  "name": "What are common signs that I need sewer line repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that I need sewer line repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of a sewer line problem include slow drains or clogs in multiple fixtures, foul odors coming from drains or your yard, lush green patches in your lawn (indicating a leak fertilizing plants), and gurgling sounds from toilets or drains. You might also notice wastewater backing up into sinks, tubs, or toilets. Addressing these issues promptly can prevent more extensive and costly damage to your property.",
+        "@type": "Answer",
+        "description": "Signs include slow drains, foul odors, lush lawn spots, gurgling noises, or wastewater backups."
+      }
+    }
+  ],
+  "description": "Signs include slow drains, foul odors, lush lawn spots, gurgling noises, or wastewater backups."
+}

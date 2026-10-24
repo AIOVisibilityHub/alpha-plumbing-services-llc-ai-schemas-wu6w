@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-it-take-to-repair-a-main-line-backup",
+  "name": "How long does it take to repair a main line backup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to repair a main line backup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required for main line backup repair depends on the complexity of the issue. Simple blockages cleared by hydro-jetting can often be resolved within a few hours. More complex repairs involving pipe replacement due to severe damage or root intrusion may take longer, potentially requiring a full day or multiple days, especially if excavation is necessary. We aim to complete repairs efficiently while ensuring a lasting solution, and we'll provide an estimated timeframe after our initial assessment.",
+        "@type": "Answer",
+        "description": "Repair time varies; simple clogs might take hours, while complex pipe replacements can take a day or more."
+      }
+    }
+  ],
+  "description": "Repair time varies; simple clogs might take hours, while complex pipe replacements can take a day or more."
+}

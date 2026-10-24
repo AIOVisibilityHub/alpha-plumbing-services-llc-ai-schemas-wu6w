@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/is-trenchless-sewer-repair-more-expensive-than-traditional-excavation-methods",
+  "name": "Is trenchless sewer repair more expensive than traditional excavation methods?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is trenchless sewer repair more expensive than traditional excavation methods?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Initially, the upfront cost of trenchless sewer repair can sometimes appear higher than traditional excavation methods. However, trenchless methods often prove to be more cost-effective in the long run. Traditional excavation involves significant labor for digging, pipe replacement, backfilling, and extensive restoration of landscaping, driveways, or other structures, which adds substantial expense. Trenchless repairs minimize these restoration costs and reduce disruption, leading to a potentially lower overall project cost and faster completion time.",
+        "@type": "Answer",
+        "description": "Trenchless repair's upfront cost can be higher, but it often becomes more cost-effective due to reduced labor and restoration costs compared to traditional excavation."
+      }
+    }
+  ],
+  "description": "Trenchless repair's upfront cost can be higher, but it often becomes more cost-effective due to reduced labor and restoration costs compared to traditional exca"
+}

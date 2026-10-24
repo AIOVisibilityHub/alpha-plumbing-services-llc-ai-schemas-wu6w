@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-it-take-to-remove-tree-roots-from-a-sewer-line",
+  "name": "How long does it take to remove tree roots from a sewer line?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to remove tree roots from a sewer line?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required to remove tree roots depends on the extent of the blockage and the method used. A straightforward hydro-jetting or snaking procedure might take 1 to 3 hours. If the sewer line is heavily damaged and requires excavation and repair, the process could take a full day or even several days. An inspection provides a more accurate timeline.",
+        "@type": "Answer",
+        "description": "Removal can take 1-3 hours for minor issues. If excavation and repair are needed, it could take a day or several days."
+      }
+    }
+  ],
+  "description": "Removal can take 1-3 hours for minor issues. If excavation and repair are needed, it could take a day or several days."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-lifespan-of-a-new-water-heater",
+  "name": "What is the lifespan of a new water heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the lifespan of a new water heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The lifespan of a new water heater varies by type. Conventional tank water heaters typically last between 8 to 12 years. Tankless water heaters, on the other hand, often have a longer lifespan, usually ranging from 15 to 20 years, due to their design and the availability of replaceable parts. Regular maintenance, such as flushing the tank, can help extend the life of both types of units.",
+        "@type": "Answer",
+        "description": "Tank water heaters last 8-12 years, while tankless units typically last 15-20 years. Regular maintenance can extend their lifespan."
+      }
+    }
+  ],
+  "description": "Tank water heaters last 8-12 years, while tankless units typically last 15-20 years. Regular maintenance can extend their lifespan."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/why-should-i-choose-alpha-plumbing-services-for-sewage-backup-in-avondale",
+  "name": "Why should I choose Alpha-Plumbing Services for sewage backup in Avondale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why should I choose Alpha-Plumbing Services for sewage backup in Avondale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Alpha-Plumbing Services is a local business dedicated to serving Avondale and surrounding areas with reliable and professional plumbing solutions. Our experienced technicians are equipped with advanced tools like sewer cameras for accurate diagnosis and hydro-jetting equipment for effective clog removal. We prioritize emergency calls, offering prompt service to mitigate damage and restore your plumbing safely and efficiently. We focus on clear communication and lasting solutions for our community members.",
+        "@type": "Answer",
+        "description": "Choose Alpha-Plumbing Services for sewage backup in Avondale due to our local expertise, advanced tools, prompt emergency service, and commitment to lasting solutions."
+      }
+    }
+  ],
+  "description": "Choose Alpha-Plumbing Services for sewage backup in Avondale due to our local expertise, advanced tools, prompt emergency service, and commitment to lasting sol"
+}

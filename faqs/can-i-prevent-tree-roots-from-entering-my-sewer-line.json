@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/can-i-prevent-tree-roots-from-entering-my-sewer-line",
+  "name": "Can I prevent tree roots from entering my sewer line?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I prevent tree roots from entering my sewer line?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preventing root intrusion involves several strategies. Consider planting slow-growing trees or shrubs away from your sewer lines. Root barriers can be installed around pipes. Regular professional inspections and preventative maintenance, such as annual hydro-jetting, can help keep roots from establishing themselves or remove them before they cause significant blockages.",
+        "@type": "Answer",
+        "description": "Prevent roots by planting trees away from lines, installing root barriers, and performing regular professional inspections or hydro-jetting."
+      }
+    }
+  ],
+  "description": "Prevent roots by planting trees away from lines, installing root barriers, and performing regular professional inspections or hydro-jetting."
+}

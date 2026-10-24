@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/do-you-offer-sewage-smell-diagnosis-and-repair-services-in-waddell-or-surprise",
+  "name": "Do you offer sewage smell diagnosis and repair services in Waddell or Surprise?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer sewage smell diagnosis and repair services in Waddell or Surprise?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Alpha-Plumbing Services, LLC proudly offers sewage smell diagnosis and repair services in Waddell, Surprise, and other surrounding areas including Goodyear, Buckeye, and Avondale. Our local technicians are familiar with the common plumbing issues in these communities and are equipped to efficiently identify and resolve the source of unpleasant odors in your bathroom. Contact us to schedule an appointment.",
+        "@type": "Answer",
+        "description": "Yes, we provide sewage smell diagnosis and repair services in Waddell, Surprise, Goodyear, Buckeye, and Avondale."
+      }
+    }
+  ],
+  "description": "Yes, we provide sewage smell diagnosis and repair services in Waddell, Surprise, Goodyear, Buckeye, and Avondale."
+}

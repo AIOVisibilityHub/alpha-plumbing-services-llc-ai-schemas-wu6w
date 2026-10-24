@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-involved-in-the-water-heater-replacement-process",
+  "name": "What is involved in the water heater replacement process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the water heater replacement process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The water heater replacement process typically involves several steps. First, the old unit is drained, disconnected from its water and energy sources (gas or electric), and safely removed. Next, the new water heater is positioned, connected to the existing plumbing, and hooked up to the appropriate energy supply. We ensure all connections are secure, check for leaks, and test the unit's operation to confirm it's heating water correctly. We also ensure compliance with local codes.",
+        "@type": "Answer",
+        "description": "The process includes draining and removing the old unit, installing and connecting the new one to plumbing and energy sources, and testing for proper operation and code compliance."
+      }
+    }
+  ],
+  "description": "The process includes draining and removing the old unit, installing and connecting the new one to plumbing and energy sources, and testing for proper operation"
+}

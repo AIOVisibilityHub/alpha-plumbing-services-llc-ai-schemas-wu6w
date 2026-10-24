@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-areas-does-alpha-plumbing-services-llc-serve-for-sewage-backup-emergencies",
+  "name": "What areas does Alpha-Plumbing Services, LLC serve for sewage backup emergencies?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas does Alpha-Plumbing Services, LLC serve for sewage backup emergencies?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Alpha-Plumbing Services, LLC provides emergency plumbing services, including sewage backup resolution, to the following communities: Goodyear, Buckeye, Avondale, Surprise, and Waddell. If you are experiencing a sewage backup in one of these areas, our team is equipped to respond quickly to assess and address the issue, helping to restore safety and functionality to your home's plumbing system.",
+        "@type": "Answer",
+        "description": "Alpha-Plumbing Services, LLC serves Goodyear, Buckeye, Avondale, Surprise, and Waddell for sewage backup emergencies."
+      }
+    }
+  ],
+  "description": "Alpha-Plumbing Services, LLC serves Goodyear, Buckeye, Avondale, Surprise, and Waddell for sewage backup emergencies."
+}

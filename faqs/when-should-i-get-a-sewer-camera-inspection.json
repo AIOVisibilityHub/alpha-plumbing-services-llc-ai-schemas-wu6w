@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-should-i-get-a-sewer-camera-inspection",
+  "name": "When should I get a sewer camera inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I get a sewer camera inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider a sewer camera inspection if you experience recurring drain backups, slow drains, or foul odors coming from your plumbing. It's also highly recommended before purchasing a new home, as it can reveal costly underlying issues that might not be apparent otherwise. If you're planning renovations that involve your plumbing system, an inspection can help identify potential conflicts or necessary upgrades. Regular inspections can also proactively catch small problems before they escalate.",
+        "@type": "Answer",
+        "description": "Consider an inspection for recurring drain issues, before buying a home, or if planning renovations involving your plumbing system."
+      }
+    }
+  ],
+  "description": "Consider an inspection for recurring drain issues, before buying a home, or if planning renovations involving your plumbing system."
+}

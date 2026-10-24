@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-a-typical-cracked-sewer-pipe-repair-take",
+  "name": "How long does a typical cracked sewer pipe repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical cracked sewer pipe repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a cracked sewer pipe repair varies significantly depending on the extent of the damage, the repair method used, and accessibility. A minor spot repair using traditional excavation might take a few hours to a day. Trenchless repairs, such as pipe lining or pipe bursting, can often be completed within one to three days, as they require less excavation and restoration. More complex repairs involving extensive pipe replacement or difficult access could take several days to a week. Your plumber can provide a specific timeline after inspection.",
+        "@type": "Answer",
+        "description": "Repair time varies from a few hours to several days, depending on the damage severity, repair method (trenchless often faster), and accessibility."
+      }
+    }
+  ],
+  "description": "Repair time varies from a few hours to several days, depending on the damage severity, repair method (trenchless often faster), and accessibility."
+}

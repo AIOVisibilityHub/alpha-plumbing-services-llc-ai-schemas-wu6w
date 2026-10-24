@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-hydro-jetting-and-when-is-it-used-for-slow-drains",
+  "name": "What is hydro-jetting and when is it used for slow drains?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is hydro-jetting and when is it used for slow drains?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hydro-jetting is a powerful drain cleaning method that uses high-pressure water streams to clear stubborn blockages and clean the inside of pipes. It's effective for removing grease buildup, mineral deposits, tree roots, and other debris that traditional snaking might not fully clear. This method is particularly useful for whole-house slow drains caused by extensive accumulation or deep-seated clogs in main sewer lines. It not only clears the blockage but also scours the pipe walls, helping to prevent future clogs.",
+        "@type": "Answer",
+        "description": "Hydro-jetting uses high-pressure water to clear tough blockages like grease and tree roots from pipes. It's effective for whole-house slow drains and cleans pipe walls thoroughly."
+      }
+    }
+  ],
+  "description": "Hydro-jetting uses high-pressure water to clear tough blockages like grease and tree roots from pipes. It's effective for whole-house slow drains and cleans pip"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-do-plumbers-detect-cracked-sewer-pipes",
+  "name": "How do plumbers detect cracked sewer pipes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do plumbers detect cracked sewer pipes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Plumbers typically use a video camera inspection to detect cracked sewer pipes. A high-resolution camera is inserted into the sewer line, allowing technicians to visually inspect the pipe's interior for cracks, blockages, or other damage. This method provides a clear view of the pipe's condition and the exact location and severity of any cracks. In some cases, plumbers might also use smoke testing or hydrostatic pressure tests to pinpoint leaks, especially in complex systems.",
+        "@type": "Answer",
+        "description": "Plumbers use video camera inspections to visually identify cracks and their locations within the sewer pipe."
+      }
+    }
+  ],
+  "description": "Plumbers use video camera inspections to visually identify cracks and their locations within the sewer pipe."
+}

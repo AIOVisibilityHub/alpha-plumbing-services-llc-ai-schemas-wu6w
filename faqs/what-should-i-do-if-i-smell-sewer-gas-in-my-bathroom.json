@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-should-i-do-if-i-smell-sewer-gas-in-my-bathroom",
+  "name": "What should I do if I smell sewer gas in my bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if I smell sewer gas in my bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "First, pour a cup of water down any unused drains, including floor drains, to refill P-traps. Check if the toilet wax seal is intact. If the smell persists, open windows for ventilation and call a professional plumber. A plumber can inspect your drain lines, vent pipes, and plumbing fixtures to identify and repair the source of the odor. Do not ignore persistent sewer smells.",
+        "@type": "Answer",
+        "description": "Pour water down unused drains and check toilet seals. If the odor persists, ventilate your home and call a professional plumber."
+      }
+    }
+  ],
+  "description": "Pour water down unused drains and check toilet seals. If the odor persists, ventilate your home and call a professional plumber."
+}

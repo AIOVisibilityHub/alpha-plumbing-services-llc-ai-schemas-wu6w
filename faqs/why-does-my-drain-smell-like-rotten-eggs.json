@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/why-does-my-drain-smell-like-rotten-eggs",
+  "name": "Why does my drain smell like rotten eggs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why does my drain smell like rotten eggs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A rotten egg smell, often described as sulfurous, usually indicates the presence of hydrogen sulfide gas. This gas can be produced by bacteria growing on decomposing organic matter trapped in the drain, such as hair, soap scum, or food waste. In some cases, it could also point to a dry P-trap, which allows sewer gases to escape. Addressing the blockage or refilling the P-trap with water typically resolves the issue. If the smell persists, it may signal a deeper plumbing problem.",
+        "@type": "Answer",
+        "description": "A rotten egg smell often indicates bacteria decomposing organic matter in the drain, or a dry P-trap allowing sewer gases to escape."
+      }
+    }
+  ],
+  "description": "A rotten egg smell often indicates bacteria decomposing organic matter in the drain, or a dry P-trap allowing sewer gases to escape."
+}

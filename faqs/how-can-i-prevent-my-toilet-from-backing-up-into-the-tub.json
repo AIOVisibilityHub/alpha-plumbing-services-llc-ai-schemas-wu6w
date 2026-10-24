@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-can-i-prevent-my-toilet-from-backing-up-into-the-tub",
+  "name": "How can I prevent my toilet from backing up into the tub?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent my toilet from backing up into the tub?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preventing toilet and tub backups involves mindful usage and regular maintenance. Avoid flushing anything other than human waste and toilet paper; never flush 'flushable' wipes, feminine hygiene products, cotton balls, or paper towels. Be cautious with what goes down kitchen drains, minimizing grease and food scraps. Consider using drain screens in tubs and showers to catch hair. For older homes or properties with large trees, periodic professional drain cleaning or sewer line inspections can help identify and address potential issues like root intrusion before they cause a full backup.",
+        "@type": "Answer",
+        "description": "Prevent backups by only flushing waste and toilet paper, avoiding grease down drains, using drain screens, and considering periodic professional drain cleaning."
+      }
+    }
+  ],
+  "description": "Prevent backups by only flushing waste and toilet paper, avoiding grease down drains, using drain screens, and considering periodic professional drain cleaning."
+}

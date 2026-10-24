@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-can-i-prevent-sewer-gas-smells",
+  "name": "How can I prevent sewer gas smells?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent sewer gas smells?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preventing sewer gas smells often involves simple maintenance. Regularly run water in all drains, including those in guest bathrooms or utility sinks, to keep P-traps filled. Ensure your toilet's wax ring is properly sealed and replace it if you notice leaks or odors. Periodically check for proper ventilation from your plumbing system's vent pipes, which should extend above your roof. If you suspect a recurring issue, a professional plumbing inspection can help identify underlying problems before they become noticeable odors.",
+        "@type": "Answer",
+        "description": "Prevent sewer gas by regularly running water in drains to fill P-traps, checking toilet seals, and ensuring proper plumbing ventilation."
+      }
+    }
+  ],
+  "description": "Prevent sewer gas by regularly running water in drains to fill P-traps, checking toilet seals, and ensuring proper plumbing ventilation."
+}

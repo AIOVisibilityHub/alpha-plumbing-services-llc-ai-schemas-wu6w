@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-can-i-prevent-sewage-from-backing-up-into-my-shower-in-the-future",
+  "name": "How can I prevent sewage from backing up into my shower in the future?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent sewage from backing up into my shower in the future?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preventing future sewage backups involves mindful usage and regular maintenance. Avoid flushing anything other than human waste and toilet paper. Be cautious about pouring grease down drains and use drain screens to catch hair. Consider annual professional drain cleaning or sewer line inspections, especially if you have older pipes or nearby trees, to identify and address potential issues before they become emergencies.",
+        "@type": "Answer",
+        "description": "Prevent backups by avoiding flushing non-toilet paper items, not pouring grease down drains, using drain screens, and scheduling regular professional drain inspections."
+      }
+    }
+  ],
+  "description": "Prevent backups by avoiding flushing non-toilet paper items, not pouring grease down drains, using drain screens, and scheduling regular professional drain insp"
+}

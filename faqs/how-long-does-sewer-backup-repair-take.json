@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-sewer-backup-repair-take",
+  "name": "How long does sewer backup repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does sewer backup repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of sewer backup repair varies significantly depending on the complexity and cause of the problem. A simple clog cleared by hydro-jetting might take a few hours. More involved issues, such as root intrusion requiring extensive cleaning or pipe repair, could take half a day. Full sewer line replacement, especially if excavation is needed, can extend to several days. We provide an estimated timeline after our initial inspection.",
+        "@type": "Answer",
+        "description": "Repair time depends on the issue's complexity. Simple clogs take hours, while extensive repairs or pipe replacements can take days. An estimate is provided after inspection."
+      }
+    }
+  ],
+  "description": "Repair time depends on the issue's complexity. Simple clogs take hours, while extensive repairs or pipe replacements can take days. An estimate is provided afte"
+}

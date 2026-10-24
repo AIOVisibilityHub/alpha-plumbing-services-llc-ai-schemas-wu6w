@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-sewer-backup-cleanup-typically-take",
+  "name": "How long does sewer backup cleanup typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does sewer backup cleanup typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of sewer backup cleanup varies based on the extent of the damage, the size of the affected area, and the type of materials involved. Generally, initial water extraction and removal of damaged items can take a few hours. The drying and dehumidification process typically ranges from three to five days, sometimes longer for severe cases. Our team at Alpha-Plumbing Services LLC will provide a more precise timeline after a thorough assessment of your specific situation.",
+        "@type": "Answer",
+        "description": "Cleanup time varies by damage extent, but initial extraction is quick, followed by 3-5 days for drying. We provide an estimate after assessment."
+      }
+    }
+  ],
+  "description": "Cleanup time varies by damage extent, but initial extraction is quick, followed by 3-5 days for drying. We provide an estimate after assessment."
+}

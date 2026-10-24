@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/do-you-offer-smelly-drain-repair-services-in-surprise-az",
+  "name": "Do you offer smelly drain repair services in Surprise, AZ?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer smelly drain repair services in Surprise, AZ?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Alpha-Plumbing Services, LLC provides comprehensive smelly drain repair services in Surprise, AZ, and surrounding areas. Our experienced plumbers are equipped to diagnose the cause of foul drain odors, whether it's a simple clog, a dry P-trap, a vent pipe issue, or a more complex sewer line problem. We offer effective solutions to eliminate the smell and restore proper drainage, ensuring your home smells fresh and your plumbing functions correctly.",
+        "@type": "Answer",
+        "description": "Yes, Alpha-Plumbing Services, LLC offers smelly drain repair in Surprise, AZ, diagnosing and fixing causes from clogs to sewer line issues."
+      }
+    }
+  ],
+  "description": "Yes, Alpha-Plumbing Services, LLC offers smelly drain repair in Surprise, AZ, diagnosing and fixing causes from clogs to sewer line issues."
+}

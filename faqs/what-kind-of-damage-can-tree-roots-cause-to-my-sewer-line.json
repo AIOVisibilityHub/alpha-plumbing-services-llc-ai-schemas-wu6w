@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-kind-of-damage-can-tree-roots-cause-to-my-sewer-line",
+  "name": "What kind of damage can tree roots cause to my sewer line?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of damage can tree roots cause to my sewer line?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Tree roots seek out water and nutrients, often finding their way into small cracks or loose joints in sewer pipes. Once inside, they grow and expand, eventually blocking the pipe entirely. This can lead to sewage backups into your home, pipe corrosion, and structural damage, requiring extensive and costly repairs if left unaddressed.",
+        "@type": "Answer",
+        "description": "Tree roots can cause blockages, sewage backups, pipe corrosion, and structural damage to your sewer line."
+      }
+    }
+  ],
+  "description": "Tree roots can cause blockages, sewage backups, pipe corrosion, and structural damage to your sewer line."
+}

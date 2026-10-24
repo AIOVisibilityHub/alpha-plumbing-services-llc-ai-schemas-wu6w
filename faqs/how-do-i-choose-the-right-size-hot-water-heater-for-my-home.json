@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-do-i-choose-the-right-size-hot-water-heater-for-my-home",
+  "name": "How do I choose the right size hot water heater for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right size hot water heater for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the correct size hot water heater depends on your household's hot water usage and the number of people living in your home. For tank-style heaters, consider the",
+        "@type": "Answer",
+        "description": "Choosing the right size depends on your household's hot water usage. For tank units, consider peak usage and number of residents. For tankless, focus on flow rate (GPM) for simultaneous use."
+      }
+    }
+  ],
+  "description": "Choosing the right size depends on your household's hot water usage. For tank units, consider peak usage and number of residents. For tankless, focus on flow ra"
+}

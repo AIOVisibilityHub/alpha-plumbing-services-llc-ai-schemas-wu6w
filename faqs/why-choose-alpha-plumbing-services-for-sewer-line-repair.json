@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/why-choose-alpha-plumbing-services-for-sewer-line-repair",
+  "name": "Why choose Alpha-Plumbing Services for sewer line repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why choose Alpha-Plumbing Services for sewer line repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Alpha-Plumbing Services is a trusted local plumbing company serving Goodyear, Buckeye, Avondale, Surprise, and Waddell. We offer experienced technicians, state-of-the-art diagnostic tools like sewer cameras, and expertise in both traditional and trenchless repair methods. We prioritize clear communication, transparent pricing, and efficient service to minimize disruption to your home and life. Our commitment is to provide reliable, long-lasting solutions for your sewer line problems.",
+        "@type": "Answer",
+        "description": "Choose Alpha-Plumbing Services for experienced technicians, advanced tools, clear communication, and reliable, long-lasting sewer repair solutions."
+      }
+    }
+  ],
+  "description": "Choose Alpha-Plumbing Services for experienced technicians, advanced tools, clear communication, and reliable, long-lasting sewer repair solutions."
+}

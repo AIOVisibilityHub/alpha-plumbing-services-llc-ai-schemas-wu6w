@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-the-health-risks-associated-with-sewage-backup",
+  "name": "What are the health risks associated with sewage backup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the health risks associated with sewage backup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sewage contains a high concentration of harmful bacteria, viruses, and parasites such as E. coli, Salmonella, Giardia, and Hepatitis. Direct contact can cause skin infections, gastrointestinal illnesses, and respiratory problems. Fumes can also irritate airways. It's crucial to avoid contact with sewage, ventilate the area, and have professionals handle the cleanup to prevent disease transmission and ensure the area is properly disinfected and sanitized.",
+        "@type": "Answer",
+        "description": "Sewage carries harmful bacteria, viruses, and parasites like E. coli, posing risks of infections, gastrointestinal illness, and respiratory issues from contact or fumes. Professional cleanup is crucial."
+      }
+    }
+  ],
+  "description": "Sewage carries harmful bacteria, viruses, and parasites like E. coli, posing risks of infections, gastrointestinal illness, and respiratory issues from contact"
+}

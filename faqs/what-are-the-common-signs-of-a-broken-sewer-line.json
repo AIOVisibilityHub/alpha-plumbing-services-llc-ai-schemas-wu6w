@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-the-common-signs-of-a-broken-sewer-line",
+  "name": "What are the common signs of a broken sewer line?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs of a broken sewer line?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of a broken sewer line include foul odors coming from drains or your yard, slow drains in multiple fixtures, gurgling noises from toilets, standing water in your yard, or sudden lush patches of grass over the sewer line. You might also notice an increase in pest activity, such as rodents or insects, drawn to the moisture and waste.",
+        "@type": "Answer",
+        "description": "Signs include foul odors, slow drains, gurgling toilets, standing water in your yard, or lush grass patches."
+      }
+    }
+  ],
+  "description": "Signs include foul odors, slow drains, gurgling toilets, standing water in your yard, or lush grass patches."
+}

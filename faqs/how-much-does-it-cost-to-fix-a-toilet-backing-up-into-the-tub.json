@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-much-does-it-cost-to-fix-a-toilet-backing-up-into-the-tub",
+  "name": "How much does it cost to fix a toilet backing up into the tub?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to fix a toilet backing up into the tub?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to fix a toilet backing up into the tub varies depending on the severity and location of the clog. Simple blockages in an accessible branch line might be less expensive than issues requiring extensive main line clearing, hydro-jetting, or tree root removal. Factors influencing cost include the plumber's hourly rate, specialized equipment needed like a sewer camera or hydro-jetter, and the time required to complete the job. It's best to get a diagnostic service from a local plumber for an accurate estimate.",
+        "@type": "Answer",
+        "description": "Costs vary based on clog severity, location, and methods required (e.g., snaking, hydro-jetting). A diagnostic service provides an accurate estimate."
+      }
+    }
+  ],
+  "description": "Costs vary based on clog severity, location, and methods required (e.g., snaking, hydro-jetting). A diagnostic service provides an accurate estimate."
+}

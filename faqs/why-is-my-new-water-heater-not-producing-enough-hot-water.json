@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/why-is-my-new-water-heater-not-producing-enough-hot-water",
+  "name": "Why is my new water heater not producing enough hot water?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is my new water heater not producing enough hot water?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your new water heater isn't producing enough hot water, several factors could be at play. It might be incorrectly sized for your household's demand, meaning it can't keep up with usage. The thermostat setting might be too low, or there could be a dip tube issue in tank models. For tankless units, issues could include sediment buildup or an undersized unit for peak demand. It's best to have a professional diagnose the exact cause.",
+        "@type": "Answer",
+        "description": "Reasons for insufficient hot water from a new unit can include incorrect sizing, low thermostat settings, dip tube issues, or sediment buildup in tankless models."
+      }
+    }
+  ],
+  "description": "Reasons for insufficient hot water from a new unit can include incorrect sizing, low thermostat settings, dip tube issues, or sediment buildup in tankless model"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-happens-after-a-sewer-camera-inspection",
+  "name": "What happens after a sewer camera inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens after a sewer camera inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After the inspection, our technician will provide you with a detailed report of the findings, often including a video recording of the inside of your sewer line. They will explain any identified issues, their severity, and recommend appropriate solutions. This might involve repairs like hydro-jetting for blockages, spot repairs for minor damage, or complete pipe replacement for extensive problems. We'll discuss all options and help you make an informed decision about the next steps.",
+        "@type": "Answer",
+        "description": "You'll receive a detailed report and video of findings, with recommended solutions and an explanation of all your options."
+      }
+    }
+  ],
+  "description": "You'll receive a detailed report and video of findings, with recommended solutions and an explanation of all your options."
+}

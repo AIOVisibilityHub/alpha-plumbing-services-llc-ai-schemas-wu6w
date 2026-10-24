@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-do-plumbers-find-the-source-of-a-sewer-gas-leak",
+  "name": "How do plumbers find the source of a sewer gas leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do plumbers find the source of a sewer gas leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Plumbers use several methods to pinpoint sewer gas leaks. They often start with a visual inspection of visible plumbing fixtures and vents. Smoke testing is a common technique where non-toxic smoke is introduced into the sewer system; smoke escaping from a crack or break indicates the leak's location. They might also use video camera inspections for sewer lines or perform pressure tests on drainage systems to identify issues.",
+        "@type": "Answer",
+        "description": "Plumbers use visual inspections, smoke testing, and video camera inspections to accurately locate the source of sewer gas leaks."
+      }
+    }
+  ],
+  "description": "Plumbers use visual inspections, smoke testing, and video camera inspections to accurately locate the source of sewer gas leaks."
+}

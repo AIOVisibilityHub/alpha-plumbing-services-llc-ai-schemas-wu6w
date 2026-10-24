@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/why-do-i-need-to-locate-my-sewer-line",
+  "name": "Why do I need to locate my sewer line?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why do I need to locate my sewer line?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Locating your sewer line is crucial for several reasons. If you're planning any landscaping, digging, or construction, knowing the exact location prevents accidental damage to pipes, which can be costly to repair. It's also essential when you suspect a sewer line issue, like persistent clogs or leaks, as it helps technicians pinpoint the problem area accurately for repairs. Additionally, if you're buying a new property, a sewer line locate can provide valuable information about the existing infrastructure.",
+        "@type": "Answer",
+        "description": "You need to locate your sewer line to prevent damage during digging, pinpoint issues like clogs, or understand existing infrastructure before construction or property purchase."
+      }
+    }
+  ],
+  "description": "You need to locate your sewer line to prevent damage during digging, pinpoint issues like clogs, or understand existing infrastructure before construction or pr"
+}

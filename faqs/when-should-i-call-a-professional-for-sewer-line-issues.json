@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-should-i-call-a-professional-for-sewer-line-issues",
+  "name": "When should I call a professional for sewer line issues?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for sewer line issues?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional plumber immediately if you notice consistent signs of a broken sewer line, such as multiple clogged drains, sewage odors, or wet spots in your yard. Ignoring these issues can lead to more significant damage, expensive repairs, and potential health hazards. Early intervention can prevent further complications and more extensive property damage.",
+        "@type": "Answer",
+        "description": "Call a professional immediately if you observe persistent signs like multiple clogged drains, sewage odors, or wet yard spots to prevent further damage."
+      }
+    }
+  ],
+  "description": "Call a professional immediately if you observe persistent signs like multiple clogged drains, sewage odors, or wet yard spots to prevent further damage."
+}

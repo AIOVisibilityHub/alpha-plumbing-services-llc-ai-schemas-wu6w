@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-much-does-broken-sewer-line-repair-cost-in-goodyear-az",
+  "name": "How much does broken sewer line repair cost in Goodyear, AZ?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does broken sewer line repair cost in Goodyear, AZ?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of broken sewer line repair in Goodyear, AZ, varies significantly based on factors like the extent of the damage, the repair method (trenchless vs. traditional), the length of the pipe needing repair, and accessibility. Minor repairs might be less, while a full line replacement using trenchless technology could be more involved. We provide detailed estimates after a thorough inspection of your specific situation. Alpha-Plumbing Services offers competitive pricing and transparent quotes for residents in our service areas.",
+        "@type": "Answer",
+        "description": "Costs vary based on damage extent, repair method, pipe length, and accessibility. We provide detailed estimates after inspection."
+      }
+    }
+  ],
+  "description": "Costs vary based on damage extent, repair method, pipe length, and accessibility. We provide detailed estimates after inspection."
+}

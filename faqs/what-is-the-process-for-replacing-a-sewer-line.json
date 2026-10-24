@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-process-for-replacing-a-sewer-line",
+  "name": "What is the process for replacing a sewer line?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for replacing a sewer line?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The sewer line replacement process typically begins with a thorough inspection, often using a video camera, to pinpoint the exact location and nature of the damage. Based on this assessment, we'll recommend either traditional trenching, which involves excavating a trench to access and replace the pipe, or a trenchless method like pipe bursting or pipe lining, which minimizes disruption to your property. After the old line is removed or bypassed, the new pipe is installed, connected, and tested. Finally, the excavated area is backfilled and restored.",
+        "@type": "Answer",
+        "description": "The process involves inspection, choosing between traditional trenching or trenchless methods, installing the new pipe, testing, and restoring the site."
+      }
+    }
+  ],
+  "description": "The process involves inspection, choosing between traditional trenching or trenchless methods, installing the new pipe, testing, and restoring the site."
+}

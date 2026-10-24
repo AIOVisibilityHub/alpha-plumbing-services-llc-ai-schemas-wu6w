@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-can-a-sewer-camera-inspection-reveal",
+  "name": "What can a sewer camera inspection reveal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What can a sewer camera inspection reveal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A sewer camera inspection can reveal a range of common and complex sewer line issues. This includes identifying blockages caused by grease buildup, foreign objects, or extensive tree root intrusion. It can also detect pipe damage such as cracks, corrosion, misaligned joints, collapses, or bellied sections where sewage collects. The inspection provides visual evidence of the exact problem and its location, which is crucial for effective repairs.",
+        "@type": "Answer",
+        "description": "An inspection can reveal blockages from roots or debris, pipe damage like cracks or collapses, and other structural issues within your sewer line."
+      }
+    }
+  ],
+  "description": "An inspection can reveal blockages from roots or debris, pipe damage like cracks or collapses, and other structural issues within your sewer line."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/do-i-need-to-replace-my-sewer-line-if-tree-roots-are-present",
+  "name": "Do I need to replace my sewer line if tree roots are present?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to replace my sewer line if tree roots are present?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Not always. If the pipe is only minimally compromised and roots have just begun to enter, removal and preventative maintenance might suffice. However, if the roots have caused significant cracks, collapses, or extensive joint separation, replacement of the damaged section may be the most durable and cost-effective long-term solution. A camera inspection will determine the extent of the damage.",
+        "@type": "Answer",
+        "description": "Replacement is not always necessary. Minor intrusions might be cleared, but severe damage may require replacing the affected pipe section."
+      }
+    }
+  ],
+  "description": "Replacement is not always necessary. Minor intrusions might be cleared, but severe damage may require replacing the affected pipe section."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/is-hydro-jetting-or-snaking-better-for-tree-root-removal",
+  "name": "Is hydro-jetting or snaking better for tree root removal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is hydro-jetting or snaking better for tree root removal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hydro-jetting uses high-pressure water to clear roots and thoroughly clean the pipe walls, removing sludge and debris. Snaking, or augering, uses a rotating blade to cut through roots, mainly creating a path for flow. Hydro-jetting is generally more effective for comprehensive root removal and cleaning, while snaking is good for breaking through initial blockages. We recommend based on inspection findings.",
+        "@type": "Answer",
+        "description": "Hydro-jetting uses high-pressure water for thorough cleaning, while snaking cuts through roots. Hydro-jetting is often more comprehensive."
+      }
+    }
+  ],
+  "description": "Hydro-jetting uses high-pressure water for thorough cleaning, while snaking cuts through roots. Hydro-jetting is often more comprehensive."
+}

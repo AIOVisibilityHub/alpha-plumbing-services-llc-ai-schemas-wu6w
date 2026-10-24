@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-should-i-do-if-sewage-is-backing-up-into-my-bathtub",
+  "name": "What should I do if sewage is backing up into my bathtub?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if sewage is backing up into my bathtub?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "First, stop using all water in your home to prevent more sewage from entering your bathtub. Avoid flushing toilets, running sinks, or using washing machines. If safe to do so, try to locate your main water shut-off valve and turn it off to prevent accidental water use. Then, immediately contact a professional plumbing service. Do not attempt to clear a main sewer line blockage yourself, as this can worsen the problem or expose you to hazardous waste.",
+        "@type": "Answer",
+        "description": "Stop all water use immediately, locate and turn off your main water shut-off valve if safe, and contact a professional plumber right away."
+      }
+    }
+  ],
+  "description": "Stop all water use immediately, locate and turn off your main water shut-off valve if safe, and contact a professional plumber right away."
+}

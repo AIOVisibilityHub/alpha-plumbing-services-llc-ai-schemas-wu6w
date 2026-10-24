@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-areas-do-you-serve-for-sewer-line-locating",
+  "name": "What areas do you serve for sewer line locating?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas do you serve for sewer line locating?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Alpha-Plumbing Services, LLC proudly provides professional sewer line locating services to several communities. Our service areas include Goodyear, Buckeye, Avondale, Surprise, and Waddell. If you are located in any of these towns and require precise underground sewer pipe mapping for repair, planning, or inspection, please contact us. We are committed to serving our local customers with reliable and accurate plumbing solutions.",
+        "@type": "Answer",
+        "description": "We serve Goodyear, Buckeye, Avondale, Surprise, and Waddell for sewer line locating services. Contact us for assistance in these areas."
+      }
+    }
+  ],
+  "description": "We serve Goodyear, Buckeye, Avondale, Surprise, and Waddell for sewer line locating services. Contact us for assistance in these areas."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-can-i-tell-if-my-main-sewer-line-is-backed-up",
+  "name": "How can I tell if my main sewer line is backed up?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if my main sewer line is backed up?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs of a main sewer line backup often include multiple plumbing fixtures backing up simultaneously, such as a toilet overflowing when a sink drains, or water coming up through a shower drain when the washing machine is running. You might also notice gurgling sounds from drains or toilets, a sewage odor around drains, or wastewater appearing in your floor drains. If you experience any of these symptoms, it's critical to address the issue promptly to prevent extensive water damage and unsanitary conditions.",
+        "@type": "Answer",
+        "description": "Signs include multiple fixtures backing up, gurgling drains, sewage odors, or wastewater in floor drains."
+      }
+    }
+  ],
+  "description": "Signs include multiple fixtures backing up, gurgling drains, sewage odors, or wastewater in floor drains."
+}

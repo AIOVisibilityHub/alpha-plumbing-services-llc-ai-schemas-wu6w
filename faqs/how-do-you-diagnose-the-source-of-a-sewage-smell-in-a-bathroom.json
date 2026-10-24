@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-do-you-diagnose-the-source-of-a-sewage-smell-in-a-bathroom",
+  "name": "How do you diagnose the source of a sewage smell in a bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you diagnose the source of a sewage smell in a bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our plumbers diagnose the source of a sewage smell by systematically inspecting potential problem areas. This includes checking P-traps for dryness, inspecting drains for clogs, examining the toilet's base for wax ring issues, and assessing vent pipes for blockages or damage. We may use tools like drain cameras for internal pipe inspections if necessary. Our goal is to accurately pinpoint the cause to provide an effective solution.",
+        "@type": "Answer",
+        "description": "Plumbers diagnose sewage smells by inspecting P-traps, drains, toilet wax rings, and vent pipes, sometimes using drain cameras."
+      }
+    }
+  ],
+  "description": "Plumbers diagnose sewage smells by inspecting P-traps, drains, toilet wax rings, and vent pipes, sometimes using drain cameras."
+}

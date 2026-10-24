@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/will-my-yard-be-dug-up-for-a-sewer-line-repair",
+  "name": "Will my yard be dug up for a sewer line repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my yard be dug up for a sewer line repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether your yard will be dug up depends on the repair method chosen. Traditional sewer line repair often requires excavation along the entire path of the damaged pipe, which means digging a trench across your yard. However, trenchless repair methods, such as pipe lining or pipe bursting, are designed to be minimally invasive. These techniques typically only require one or two small access points, significantly reducing disruption to your landscaping.",
+        "@type": "Answer",
+        "description": "It depends on the repair method. Traditional repairs involve digging, while trenchless methods require minimal excavation."
+      }
+    }
+  ],
+  "description": "It depends on the repair method. Traditional repairs involve digging, while trenchless methods require minimal excavation."
+}

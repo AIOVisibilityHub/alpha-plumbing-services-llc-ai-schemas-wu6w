@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/can-a-dry-p-trap-cause-drain-odors",
+  "name": "Can a dry P-trap cause drain odors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a dry P-trap cause drain odors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a dry P-trap is a common cause of drain odors. The P-trap, the U-shaped pipe under sinks and other drains, is designed to hold a small amount of water. This water acts as a barrier, preventing sewer gases from rising up through the drain and into your home. If the P-trap dries out due to infrequent use, evaporation, or a leak, it loses its seal, allowing foul-smelling gases to escape. Simply running water down the drain usually refills the trap and solves the problem.",
+        "@type": "Answer",
+        "description": "Yes, a dry P-trap allows sewer gases to enter your home because the water seal, which blocks odors, is gone."
+      }
+    }
+  ],
+  "description": "Yes, a dry P-trap allows sewer gases to enter your home because the water seal, which blocks odors, is gone."
+}

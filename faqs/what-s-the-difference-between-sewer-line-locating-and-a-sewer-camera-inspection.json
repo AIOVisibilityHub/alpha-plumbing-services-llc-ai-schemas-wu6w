@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-s-the-difference-between-sewer-line-locating-and-a-sewer-camera-inspection",
+  "name": "What's the difference between sewer line locating and a sewer camera inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between sewer line locating and a sewer camera inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sewer line locating focuses on identifying the exact underground path and depth of your sewer pipes. It uses a transmitter and receiver to map the physical layout. A sewer camera inspection, on the other hand, involves inserting a waterproof camera into the pipe to visually assess its internal condition, identifying issues like cracks, blockages, root intrusion, or corrosion. Often, these services are performed together: the camera identifies internal problems, and the integrated locating feature then precisely maps where those problems are located underground. This combination offers a comprehensive understanding of your sewer system.",
+        "@type": "Answer",
+        "description": "Sewer line locating maps the pipe's underground path, while a camera inspection visually assesses its internal condition. They are often combined for comprehensive analysis."
+      }
+    }
+  ],
+  "description": "Sewer line locating maps the pipe's underground path, while a camera inspection visually assesses its internal condition. They are often combined for comprehens"
+}

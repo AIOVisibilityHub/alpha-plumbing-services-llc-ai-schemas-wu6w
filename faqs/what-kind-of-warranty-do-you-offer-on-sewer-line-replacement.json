@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-kind-of-warranty-do-you-offer-on-sewer-line-replacement",
+  "name": "What kind of warranty do you offer on sewer line replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of warranty do you offer on sewer line replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We stand by the quality of our sewer line replacement services. We offer a comprehensive warranty on both the workmanship and the materials used for your new sewer line. The specific terms and duration of the warranty may vary depending on the type of pipe installed and the scope of the project. We will provide you with all warranty details in writing before any work begins, ensuring you have clear information and peace of mind regarding your investment.",
+        "@type": "Answer",
+        "description": "We offer a comprehensive warranty on both workmanship and materials for sewer line replacement; specific terms are provided before work starts."
+      }
+    }
+  ],
+  "description": "We offer a comprehensive warranty on both workmanship and materials for sewer line replacement; specific terms are provided before work starts."
+}

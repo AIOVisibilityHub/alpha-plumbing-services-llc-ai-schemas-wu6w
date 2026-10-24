@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-common-signs-that-i-need-sewer-line-replacement",
+  "name": "What are common signs that I need sewer line replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that I need sewer line replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several indicators suggest a failing sewer line. Frequent clogs in multiple fixtures, sewage backups, and slow drains are common. You might also notice foul odors around your property, lush green patches in your yard, or indentations in the lawn, which can point to leaks. If you hear gurgling sounds from toilets or experience unusual water levels, these are additional warning signs that your sewer line may require inspection or replacement. Addressing these issues promptly can prevent more significant damage and costly repairs.",
+        "@type": "Answer",
+        "description": "Common signs include frequent clogs, sewage backups, slow drains, foul odors, lush green patches in the yard, and gurgling noises from plumbing fixtures."
+      }
+    }
+  ],
+  "description": "Common signs include frequent clogs, sewage backups, slow drains, foul odors, lush green patches in the yard, and gurgling noises from plumbing fixtures."
+}

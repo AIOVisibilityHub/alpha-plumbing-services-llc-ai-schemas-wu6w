@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/do-i-need-a-sewer-camera-inspection-if-my-drains-are-flowing-fine",
+  "name": "Do I need a sewer camera inspection if my drains are flowing fine?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a sewer camera inspection if my drains are flowing fine?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While your drains may appear to be flowing fine, a sewer camera inspection can still be beneficial, especially for older homes or if you're proactive about home maintenance. It can detect minor issues like small cracks, early root intrusion, or pipe deterioration before they become major, costly problems. Think of it as a preventative check-up for your plumbing. Identifying potential issues early allows for timely, less invasive, and more affordable interventions.",
+        "@type": "Answer",
+        "description": "Even with good flow, an inspection can find minor issues early in older homes or as preventative maintenance, saving future costs."
+      }
+    }
+  ],
+  "description": "Even with good flow, an inspection can find minor issues early in older homes or as preventative maintenance, saving future costs."
+}
