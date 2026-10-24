@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-should-i-consider-replacing-my-toilet",
+  "name": "When should I consider replacing my toilet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my toilet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consider replacing your toilet if it frequently clogs, runs constantly, or has visible cracks or leaks. Older models, especially those manufactured before 1994, use significantly more water per flush, making replacement a good option for water conservation and lower utility bills. Aesthetic reasons, such as updating bathroom fixtures during a remodel, are also common triggers for replacement. If repairs become frequent and costly, a new toilet often proves more economical in the long run.",
+        "@type": "Answer",
+        "description": "Replace your toilet if it clogs often, leaks, runs continuously, or is an older, inefficient model. Upgrading can save water and reduce repair costs."
+      }
+    }
+  ],
+  "description": "Replace your toilet if it clogs often, leaks, runs continuously, or is an older, inefficient model. Upgrading can save water and reduce repair costs."
+}

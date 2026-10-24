@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-should-i-consider-replacing-my-toilet-instead-of-just-repairing-a-running-t",
+  "name": "When should I consider replacing my toilet instead of just repairing a running toilet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my toilet instead of just repairing a running toilet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing your toilet if it's an older model with outdated, inefficient components, if it has cracks in the tank or bowl, or if the cost of repeated repairs approaches the cost of a new, water-efficient toilet. If your toilet is frequently breaking down despite repairs, a replacement can be a more cost-effective and environmentally friendly long-term solution, offering better performance and lower water usage.",
+        "@type": "Answer",
+        "description": "Consider replacing your toilet if it's old and inefficient, has cracks, or if frequent repair costs are similar to a new, water-efficient toilet."
+      }
+    }
+  ],
+  "description": "Consider replacing your toilet if it's old and inefficient, has cracks, or if frequent repair costs are similar to a new, water-efficient toilet."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-the-common-signs-of-a-running-toilet-that-i-might-miss",
+  "name": "What are the common signs of a running toilet that I might miss?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs of a running toilet that I might miss?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Beyond the obvious sound of constantly flowing water, subtle signs of a running toilet include intermittent hissing noises coming from the tank, particularly when the toilet hasn't been flushed. You might also notice ghostly flushes, where the toilet briefly refills itself without being flushed. Another indicator is a higher-than-usual water bill, even if you don't hear constant running water.",
+        "@type": "Answer",
+        "description": "Subtle signs of a running toilet include intermittent hissing, ghostly refills without flushing, and unexpectedly high water bills."
+      }
+    }
+  ],
+  "description": "Subtle signs of a running toilet include intermittent hissing, ghostly refills without flushing, and unexpectedly high water bills."
+}

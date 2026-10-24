@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-a-standard-toilet-installation-usually-take",
+  "name": "How long does a standard toilet installation usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a standard toilet installation usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard toilet installation typically takes between 1 to 3 hours, assuming no unexpected issues arise. This timeframe includes removing the old toilet, preparing the flange, installing the new toilet, connecting the water supply, and testing for leaks. Factors that can extend this duration include needing to repair or replace the subfloor, adjusting the drain line, or addressing rusted or damaged bolts. Our experienced technicians at Alpha-Plumbing Services aim for efficient and precise installation to minimize disruption to your home.",
+        "@type": "Answer",
+        "description": "A standard toilet installation usually takes 1 to 3 hours. This can vary if repairs to the subfloor or drain line are needed during the process."
+      }
+    }
+  ],
+  "description": "A standard toilet installation usually takes 1 to 3 hours. This can vary if repairs to the subfloor or drain line are needed during the process."
+}

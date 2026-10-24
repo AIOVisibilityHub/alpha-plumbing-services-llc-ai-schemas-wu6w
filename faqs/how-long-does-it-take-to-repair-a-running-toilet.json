@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-it-take-to-repair-a-running-toilet",
+  "name": "How long does it take to repair a running toilet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to repair a running toilet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most common running toilet repairs can be completed relatively quickly by a skilled plumber. Simple issues like replacing a flapper or adjusting the fill valve usually take between 30 minutes to an hour. More involved repairs, such as replacing the entire fill valve assembly or addressing multiple component failures, might take a bit longer. Our goal is to resolve the issue efficiently to minimize disruption.",
+        "@type": "Answer",
+        "description": "Most running toilet repairs, such as flapper or fill valve replacements, take 30 minutes to an hour for a professional plumber."
+      }
+    }
+  ],
+  "description": "Most running toilet repairs, such as flapper or fill valve replacements, take 30 minutes to an hour for a professional plumber."
+}

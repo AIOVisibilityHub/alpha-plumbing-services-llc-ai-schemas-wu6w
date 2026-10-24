@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-is-a-water-line-reroute-necessary",
+  "name": "When is a water line reroute necessary?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is a water line reroute necessary?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A water line reroute becomes necessary when existing pipes are severely damaged due to corrosion, frequent leaks, or tree root intrusion, especially if the pipes are within the concrete slab or in hard-to-reach areas. If you experience multiple leaks in a short period, persistent low water pressure, or discolored water from old pipes, a reroute might be a more effective long-term solution than repeated repairs. It ensures the integrity of your home's plumbing system.",
+        "@type": "Answer",
+        "description": "A water line reroute is necessary for severe pipe damage, frequent leaks, or when pipes are inaccessible for repair."
+      }
+    }
+  ],
+  "description": "A water line reroute is necessary for severe pipe damage, frequent leaks, or when pipes are inaccessible for repair."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-quickly-do-i-need-to-address-a-broken-water-line",
+  "name": "How quickly do I need to address a broken water line?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly do I need to address a broken water line?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A broken water line should be addressed immediately to prevent significant property damage, water waste, and potential health hazards. Untreated leaks can saturate foundations, damage landscaping, and lead to mold growth. The longer a leak persists, the more extensive and costly the repairs become. If you suspect a broken water line, contact Alpha-Plumbing Services, LLC right away for prompt assessment and repair to minimize disruption and protect your property.",
+        "@type": "Answer",
+        "description": "Address a broken water line immediately to prevent extensive property damage, water waste, and costly repairs. Contact us for prompt service."
+      }
+    }
+  ],
+  "description": "Address a broken water line immediately to prevent extensive property damage, water waste, and costly repairs. Contact us for prompt service."
+}

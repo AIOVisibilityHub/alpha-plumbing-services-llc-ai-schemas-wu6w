@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-should-i-consider-replacing-my-faucet-instead-of-repairing-it",
+  "name": "When should I consider replacing my faucet instead of repairing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my faucet instead of repairing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing your faucet instead of repairing it if the cost of repair is nearly as high as the cost of a new faucet, or if the faucet is old, severely corroded, and prone to recurring issues. Frequent repairs, significant damage to the faucet body, or an outdated style that no longer fits your aesthetic can also be reasons for replacement. If new parts are unavailable due to obsolescence, replacement becomes the only viable option. A plumber can help you weigh the repair versus replacement options.",
+        "@type": "Answer",
+        "description": "Consider replacing a faucet if repairs are costly, problems are recurring, it's severely corroded, or replacement parts are unavailable."
+      }
+    }
+  ],
+  "description": "Consider replacing a faucet if repairs are costly, problems are recurring, it's severely corroded, or replacement parts are unavailable."
+}

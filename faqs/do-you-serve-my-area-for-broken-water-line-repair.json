@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/do-you-serve-my-area-for-broken-water-line-repair",
+  "name": "Do you serve my area for broken water line repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you serve my area for broken water line repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Alpha-Plumbing Services, LLC proudly offers broken water line repair services to a range of communities in Arizona. Our primary service areas for this specialized work include Goodyear, Buckeye, Avondale, and Surprise. If you are located in one of these cities and are experiencing a water line issue, please don't hesitate to contact us. We are committed to providing prompt and professional service to homeowners and businesses in our local region.",
+        "@type": "Answer",
+        "description": "Yes, we serve Goodyear, Buckeye, Avondale, and Surprise for broken water line repair."
+      }
+    }
+  ],
+  "description": "Yes, we serve Goodyear, Buckeye, Avondale, and Surprise for broken water line repair."
+}

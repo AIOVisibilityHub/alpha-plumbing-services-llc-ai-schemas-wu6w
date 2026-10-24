@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-much-does-it-cost-to-replace-pipes-in-an-entire-house",
+  "name": "How much does it cost to replace pipes in an entire house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to replace pipes in an entire house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of whole-home pipe replacement varies significantly based on factors such as the size of your home, the type of new piping material selected (e.g., copper, PEX), accessibility of existing pipes, and local labor rates. A complete repiping project can range from several thousand dollars to tens of thousands. We recommend a professional assessment to receive an accurate, tailored estimate for your specific property in Goodyear, Buckeye, or surrounding areas.",
+        "@type": "Answer",
+        "description": "Costs vary widely based on home size, pipe material, and accessibility. A professional assessment provides an accurate estimate."
+      }
+    }
+  ],
+  "description": "Costs vary widely based on home size, pipe material, and accessibility. A professional assessment provides an accurate estimate."
+}

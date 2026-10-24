@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-s-involved-in-the-faucet-replacement-process",
+  "name": "What's involved in the faucet replacement process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's involved in the faucet replacement process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The faucet replacement process generally involves several steps. First, the water supply to the sink is turned off. Then, the old faucet is disconnected from the water lines and removed. The mounting surface is cleaned, and the new faucet is positioned and secured. Finally, the new faucet's water lines are connected, and the water supply is restored to check for leaks and ensure proper operation. Our technicians ensure a clean and secure installation.",
+        "@type": "Answer",
+        "description": "The process involves turning off water, removing the old faucet, cleaning the area, installing the new faucet, connecting water lines, and checking for leaks."
+      }
+    }
+  ],
+  "description": "The process involves turning off water, removing the old faucet, cleaning the area, installing the new faucet, connecting water lines, and checking for leaks."
+}

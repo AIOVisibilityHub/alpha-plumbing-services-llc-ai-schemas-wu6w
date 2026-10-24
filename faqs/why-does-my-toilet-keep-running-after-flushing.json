@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/why-does-my-toilet-keep-running-after-flushing",
+  "name": "Why does my toilet keep running after flushing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why does my toilet keep running after flushing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A toilet that keeps running after flushing typically indicates an issue with the fill valve, flapper, or float. The flapper might not be sealing correctly, allowing water to continuously leak into the bowl. Alternatively, the fill valve could be faulty, failing to shut off the water supply once the tank is full. The float mechanism, which tells the fill valve when to stop, might also be set too high or be obstructed, preventing it from signaling the valve properly. These components wear out over time and usually require replacement to resolve the problem.",
+        "@type": "Answer",
+        "description": "Common causes for a running toilet include a faulty flapper, a defective fill valve, or an improperly set float, all of which prevent the tank from sealing and refilling correctly."
+      }
+    }
+  ],
+  "description": "Common causes for a running toilet include a faulty flapper, a defective fill valve, or an improperly set float, all of which prevent the tank from sealing and"
+}

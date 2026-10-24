@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-should-i-do-if-my-toilet-is-overflowing",
+  "name": "What should I do if my toilet is overflowing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if my toilet is overflowing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your toilet is overflowing, immediately turn off the water supply by locating the shut-off valve, usually on the wall behind or near the base of the toilet. Turn the knob clockwise until the water stops running into the bowl. This prevents further water damage. Then, assess the situation. If the clog is severe, avoid flushing again and contact a plumber promptly.",
+        "@type": "Answer",
+        "description": "Turn off the water supply valve immediately to stop the overflow. Avoid flushing again and call a plumber if the clog is severe."
+      }
+    }
+  ],
+  "description": "Turn off the water supply valve immediately to stop the overflow. Avoid flushing again and call a plumber if the clog is severe."
+}

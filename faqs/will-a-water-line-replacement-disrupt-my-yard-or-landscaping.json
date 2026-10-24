@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/will-a-water-line-replacement-disrupt-my-yard-or-landscaping",
+  "name": "Will a water-line replacement disrupt my yard or landscaping?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will a water-line replacement disrupt my yard or landscaping?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A water-line replacement, especially for underground lines, can involve some disruption to your yard or landscaping due to excavation. The extent of disruption depends on the location and depth of the existing line and the chosen replacement method. Our team strives to minimize impact by using precise digging techniques and, where feasible, trenchless technologies if appropriate for your specific situation. We will discuss potential disruption and restoration efforts with you before starting any work to ensure you are fully informed.",
+        "@type": "Answer",
+        "description": "Yes, underground water-line replacement may disrupt your yard due to excavation. We aim to minimize impact and discuss restoration efforts before starting work."
+      }
+    }
+  ],
+  "description": "Yes, underground water-line replacement may disrupt your yard due to excavation. We aim to minimize impact and discuss restoration efforts before starting work."
+}

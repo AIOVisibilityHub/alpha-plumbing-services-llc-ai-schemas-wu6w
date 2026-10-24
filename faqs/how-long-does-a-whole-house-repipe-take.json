@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-a-whole-house-repipe-take",
+  "name": "How long does a whole-house repipe take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a whole-house repipe take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a whole-house repipe can vary based on the size of your home, the complexity of its plumbing system, and the materials chosen. On average, most repiping projects take between 3 to 5 days to complete. Our team strives to minimize disruption and keep your water supply operational for as much of the process as possible. We’ll provide a more accurate timeline after assessing your specific home in Goodyear, Buckeye, or other service areas.",
+        "@type": "Answer",
+        "description": "A whole-house repipe typically takes 3 to 5 days, depending on home size and plumbing complexity."
+      }
+    }
+  ],
+  "description": "A whole-house repipe typically takes 3 to 5 days, depending on home size and plumbing complexity."
+}

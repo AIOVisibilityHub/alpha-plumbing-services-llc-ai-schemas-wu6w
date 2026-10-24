@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/my-toilet-is-clogged-what-should-i-do-before-calling-a-plumber",
+  "name": "My toilet is clogged. What should I do before calling a plumber?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "My toilet is clogged. What should I do before calling a plumber?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your toilet is clogged, first try using a plunger with a firm, sealing action. Ensure the water level isn't too high to prevent overflow. Plunge vigorously for 10-20 times. If the clog persists, a toilet auger (snake) can often clear blockages further down the drain. Avoid using chemical drain cleaners, as they can damage pipes and may not be effective on toilet clogs, potentially making the situation worse or creating hazards for plumbers. If plunging and snaking don't work, or if the clog is recurrent, it indicates a deeper issue that requires professional plumbing assistance.",
+        "@type": "Answer",
+        "description": "First, try using a plunger effectively. If that doesn't work, a toilet auger might clear it. Avoid chemical drain cleaners, and call a plumber if the clog persists."
+      }
+    }
+  ],
+  "description": "First, try using a plunger effectively. If that doesn't work, a toilet auger might clear it. Avoid chemical drain cleaners, and call a plumber if the clog persi"
+}

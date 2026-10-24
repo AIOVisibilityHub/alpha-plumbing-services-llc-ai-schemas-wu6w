@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-cost-of-a-water-line-reroute-in-goodyear",
+  "name": "What is the cost of a water line reroute in Goodyear?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the cost of a water line reroute in Goodyear?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a water line reroute in areas like Goodyear varies significantly based on factors such as the distance the new line needs to travel, the type of materials used (e.g., PEX or copper), the difficulty of accessing the old and new pipe paths, and any necessary patching of walls or floors. It's best to get a detailed, on-site estimate from a local plumber to understand the specific costs for your home's unique situation, as every job is different.",
+        "@type": "Answer",
+        "description": "The cost of a water line reroute in Goodyear varies based on distance, materials, accessibility, and necessary repairs. An on-site estimate is recommended."
+      }
+    }
+  ],
+  "description": "The cost of a water line reroute in Goodyear varies based on distance, materials, accessibility, and necessary repairs. An on-site estimate is recommended."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-s-the-difference-between-a-minor-toilet-clog-and-a-main-line-clog",
+  "name": "What's the difference between a minor toilet clog and a main line clog?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a minor toilet clog and a main line clog?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A minor toilet clog is typically isolated to the toilet drain itself, often caused by an excess of toilet paper or a small object. It usually only affects that single toilet. A main line clog, however, affects multiple drains in your home, such as a toilet, shower, and sink all backing up simultaneously. This indicates a blockage further down in your home's main sewer pipe.",
+        "@type": "Answer",
+        "description": "Minor clogs are isolated to one toilet. Main line clogs affect multiple drains in your home, indicating a blockage in the main sewer pipe."
+      }
+    }
+  ],
+  "description": "Minor clogs are isolated to one toilet. Main line clogs affect multiple drains in your home, indicating a blockage in the main sewer pipe."
+}

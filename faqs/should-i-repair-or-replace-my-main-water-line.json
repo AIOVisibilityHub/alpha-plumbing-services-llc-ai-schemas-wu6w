@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/should-i-repair-or-replace-my-main-water-line",
+  "name": "Should I repair or replace my main water line?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I repair or replace my main water line?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The decision to repair or replace your main water line depends on the age and condition of your existing pipes, the frequency of past repairs, and the extent of the current damage. If your line experiences frequent leaks, is made of outdated or corroded material, or has multiple points of failure, a full replacement may be a more cost-effective long-term solution. A single, isolated leak in an otherwise sound pipe might only require a repair. Our technicians can help you evaluate your options.",
+        "@type": "Answer",
+        "description": "Consider repair for isolated leaks in good pipes; replacement for frequent issues, old pipes, or extensive damage."
+      }
+    }
+  ],
+  "description": "Consider repair for isolated leaks in good pipes; replacement for frequent issues, old pipes, or extensive damage."
+}

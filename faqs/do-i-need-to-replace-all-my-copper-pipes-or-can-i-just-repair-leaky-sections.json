@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/do-i-need-to-replace-all-my-copper-pipes-or-can-i-just-repair-leaky-sections",
+  "name": "Do I need to replace all my copper pipes, or can I just repair leaky sections?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to replace all my copper pipes, or can I just repair leaky sections?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether to repair or replace depends on the condition and age of your existing plumbing system. If you have isolated pinhole leaks in an otherwise sound and relatively new copper system, a repair might be sufficient. However, if leaks are frequent, widespread, or your pipes are significantly aged and corroded, it often indicates systemic deterioration. In such cases, full or partial replacement is usually the more cost-effective and long-term solution to prevent future problems.",
+        "@type": "Answer",
+        "description": "Isolated leaks may be repaired, but frequent or widespread issues in older systems often warrant full or partial replacement."
+      }
+    }
+  ],
+  "description": "Isolated leaks may be repaired, but frequent or widespread issues in older systems often warrant full or partial replacement."
+}

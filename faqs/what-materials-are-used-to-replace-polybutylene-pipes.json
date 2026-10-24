@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-materials-are-used-to-replace-polybutylene-pipes",
+  "name": "What materials are used to replace polybutylene pipes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are used to replace polybutylene pipes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When replacing polybutylene pipes, the most common and recommended materials are PEX (cross-linked polyethylene) and copper. PEX is flexible, corrosion-resistant, and less expensive to install, often requiring fewer connections. Copper is durable, long-lasting, and recyclable, known for its proven reliability. Both are superior alternatives to polybutylene, each with distinct advantages. Alpha-Plumbing Services can discuss the pros and cons of each option to help you choose the best fit for your home and budget.",
+        "@type": "Answer",
+        "description": "Common replacements are PEX (flexible, corrosion-resistant, cost-effective) and copper (durable, long-lasting). Both are superior to polybutylene."
+      }
+    }
+  ],
+  "description": "Common replacements are PEX (flexible, corrosion-resistant, cost-effective) and copper (durable, long-lasting). Both are superior to polybutylene."
+}

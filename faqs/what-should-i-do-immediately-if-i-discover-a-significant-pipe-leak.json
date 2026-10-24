@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-should-i-do-immediately-if-i-discover-a-significant-pipe-leak",
+  "name": "What should I do immediately if I discover a significant pipe leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately if I discover a significant pipe leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you discover a significant pipe leak, your first step should be to shut off the main water supply to your home to minimize water damage. The main shut-off valve is usually located near your water meter or where the main water line enters your house. Next, contact a professional plumber immediately. While waiting for their arrival, try to contain the water with buckets or towels and turn off any nearby electrical appliances.",
+        "@type": "Answer",
+        "description": "Immediately shut off your home's main water supply, then contact a professional plumber. Contain the water and turn off nearby electrical appliances."
+      }
+    }
+  ],
+  "description": "Immediately shut off your home's main water supply, then contact a professional plumber. Contain the water and turn off nearby electrical appliances."
+}

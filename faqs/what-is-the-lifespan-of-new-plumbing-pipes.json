@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-lifespan-of-new-plumbing-pipes",
+  "name": "What is the lifespan of new plumbing pipes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the lifespan of new plumbing pipes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The lifespan of new plumbing pipes varies by material. Copper pipes can last 50-70 years or even longer with proper installation and water quality. PEX pipes typically have a lifespan of 25-50 years. These estimates depend on factors such as water chemistry, installation quality, and usage patterns. Investing in quality materials and professional installation ensures the longest possible lifespan for your home's new plumbing system.",
+        "@type": "Answer",
+        "description": "New copper pipes can last 50-70+ years, while PEX pipes last 25-50 years. Lifespan depends on material, water quality, and installation."
+      }
+    }
+  ],
+  "description": "New copper pipes can last 50-70+ years, while PEX pipes last 25-50 years. Lifespan depends on material, water quality, and installation."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-can-i-prevent-toilet-clogs",
+  "name": "How can I prevent toilet clogs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent toilet clogs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prevent toilet clogs, only flush toilet paper and human waste. Avoid flushing wipes (even those labeled 'flushable'), paper towels, feminine hygiene products, dental floss, or cotton balls. Educate household members, especially children, on proper flushing habits. Consider installing a wastebasket next to the toilet for non-flushable items. Regular maintenance can also help.",
+        "@type": "Answer",
+        "description": "Only flush toilet paper and human waste. Avoid flushing wipes, paper towels, and other non-flushable items."
+      }
+    }
+  ],
+  "description": "Only flush toilet paper and human waste. Avoid flushing wipes, paper towels, and other non-flushable items."
+}

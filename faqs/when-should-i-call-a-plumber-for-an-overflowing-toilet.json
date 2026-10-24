@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-should-i-call-a-plumber-for-an-overflowing-toilet",
+  "name": "When should I call a plumber for an overflowing toilet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a plumber for an overflowing toilet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a plumber if you cannot stop the overflow using the shut-off valve, if plunging doesn't resolve the clog, or if the toilet overflows frequently. Recurring overflows or those affecting multiple fixtures in your home (like a sink or shower backing up) can indicate a deeper main sewer line issue. A professional plumber has the tools and expertise to diagnose and fix complex clogs safely and effectively.",
+        "@type": "Answer",
+        "description": "Call a plumber if you can't stop the overflow, plunging fails, overflows are frequent, or if multiple fixtures are affected, indicating a main line issue."
+      }
+    }
+  ],
+  "description": "Call a plumber if you can't stop the overflow, plunging fails, overflows are frequent, or if multiple fixtures are affected, indicating a main line issue."
+}

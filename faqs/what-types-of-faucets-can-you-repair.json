@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-types-of-faucets-can-you-repair",
+  "name": "What types of faucets can you repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of faucets can you repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our skilled plumbers are experienced in repairing a wide range of faucet types commonly found in homes. This includes compression faucets, cartridge faucets, ceramic disc faucets, and ball faucets. Whether your leak is in a kitchen, bathroom, or outdoor faucet, we have the expertise to diagnose the issue and provide an effective repair. We work with various brands and models to ensure your plumbing system functions correctly.",
+        "@type": "Answer",
+        "description": "We repair all common faucet types including compression, cartridge, ceramic disc, and ball faucets."
+      }
+    }
+  ],
+  "description": "We repair all common faucet types including compression, cartridge, ceramic disc, and ball faucets."
+}

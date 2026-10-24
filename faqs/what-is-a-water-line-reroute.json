@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-a-water-line-reroute",
+  "name": "What is a water line reroute?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a water line reroute?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A water line reroute is a plumbing procedure where an existing damaged or problematic water line is abandoned in place, and a new water line is installed along a different path. This often involves running new pipes through walls, ceilings, or under the floor to bypass the compromised section. It's typically done when repairing the original pipe is impractical, too costly, or when the pipe is located in an inaccessible area, ensuring a reliable water supply to your home.",
+        "@type": "Answer",
+        "description": "A water line reroute replaces a damaged water line by installing a new one along a different path, abandoning the old pipe."
+      }
+    }
+  ],
+  "description": "A water line reroute replaces a damaged water line by installing a new one along a different path, abandoning the old pipe."
+}

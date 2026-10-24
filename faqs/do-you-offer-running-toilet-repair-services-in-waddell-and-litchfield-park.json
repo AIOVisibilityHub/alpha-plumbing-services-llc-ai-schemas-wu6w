@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/do-you-offer-running-toilet-repair-services-in-waddell-and-litchfield-park",
+  "name": "Do you offer running toilet repair services in Waddell and Litchfield Park?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer running toilet repair services in Waddell and Litchfield Park?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Alpha-Plumbing Services, LLC proudly offers comprehensive running toilet repair services in Waddell, Litchfield Park, and surrounding communities including Goodyear, Buckeye, Avondale, and Surprise. Our experienced plumbers are familiar with the common issues in these areas and are equipped to provide efficient and reliable repairs for residential and commercial properties.",
+        "@type": "Answer",
+        "description": "Yes, Alpha-Plumbing Services, LLC provides running toilet repair services in Waddell, Litchfield Park, Goodyear, Buckeye, Avondale, and Surprise."
+      }
+    }
+  ],
+  "description": "Yes, Alpha-Plumbing Services, LLC provides running toilet repair services in Waddell, Litchfield Park, Goodyear, Buckeye, Avondale, and Surprise."
+}

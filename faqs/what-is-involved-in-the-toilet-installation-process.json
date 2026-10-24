@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-involved-in-the-toilet-installation-process",
+  "name": "What is involved in the toilet installation process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the toilet installation process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The toilet installation process typically begins with shutting off the water supply and draining the old toilet. The old toilet is then unbolted and removed. Next, the floor flange is inspected and cleaned, and a new wax ring or foam gasket is placed to ensure a watertight seal. The new toilet bowl is positioned and bolted down, followed by attaching the tank. Finally, the water supply line is connected, and the toilet is tested thoroughly for leaks and proper flushing function. Alpha-Plumbing Services ensures each step is performed meticulously for a secure and efficient installation.",
+        "@type": "Answer",
+        "description": "The process involves removing the old toilet, preparing the flange, installing the new toilet with a new seal, connecting water, and testing for leaks."
+      }
+    }
+  ],
+  "description": "The process involves removing the old toilet, preparing the flange, installing the new toilet with a new seal, connecting water, and testing for leaks."
+}

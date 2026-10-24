@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/can-i-fix-a-non-flushing-toilet-myself-or-do-i-need-a-plumber",
+  "name": "Can I fix a non-flushing toilet myself, or do I need a plumber?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I fix a non-flushing toilet myself, or do I need a plumber?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many minor toilet flushing issues can be addressed by a homeowner with basic DIY skills, such as adjusting the flapper chain or ensuring the water supply is on. However, if the problem involves internal tank component replacement, persistent clogs, or issues with the main drain line, professional plumbing expertise is recommended. Attempting complex repairs without experience can sometimes worsen the problem. Alpha-Plumbing Services offers reliable repairs for residents in Goodyear, Buckeye, Avondale, Surprise, and Waddel.",
+        "@type": "Answer",
+        "description": "Simple issues like a disconnected chain can often be DIY. For complex problems, internal component replacements, or persistent clogs, it's best to call a plumber."
+      }
+    }
+  ],
+  "description": "Simple issues like a disconnected chain can often be DIY. For complex problems, internal component replacements, or persistent clogs, it's best to call a plumbe"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-materials-are-used-for-a-new-water-line-reroute",
+  "name": "What materials are used for a new water line reroute?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are used for a new water line reroute?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common materials used for new water line reroutes include PEX (cross-linked polyethylene) and copper piping. PEX is a flexible, durable, and cost-effective option that resists corrosion and is easier to install, often reducing labor costs. Copper is a traditional, durable material known for its longevity and resistance to bacteria, though it is generally more expensive and less flexible than PEX. The choice of material depends on your budget, local codes, and specific home needs.",
+        "@type": "Answer",
+        "description": "New water line reroutes typically use PEX or copper piping; PEX is flexible and cost-effective, while copper is durable and long-lasting."
+      }
+    }
+  ],
+  "description": "New water line reroutes typically use PEX or copper piping; PEX is flexible and cost-effective, while copper is durable and long-lasting."
+}

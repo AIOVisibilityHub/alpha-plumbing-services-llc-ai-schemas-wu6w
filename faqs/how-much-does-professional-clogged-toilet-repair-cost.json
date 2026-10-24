@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-much-does-professional-clogged-toilet-repair-cost",
+  "name": "How much does professional clogged toilet repair cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does professional clogged toilet repair cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of professional clogged toilet repair varies based on the severity and location of the clog. Simple clogs might be a standard service call fee, while more complex issues, such as those requiring drain snaking for a main line blockage, can be higher. We provide transparent pricing after assessing the situation.",
+        "@type": "Answer",
+        "description": "Costs vary by clog severity and location. Simple clogs are a standard fee, while main line blockages may cost more due to specialized work."
+      }
+    }
+  ],
+  "description": "Costs vary by clog severity and location. Simple clogs are a standard fee, while main line blockages may cost more due to specialized work."
+}

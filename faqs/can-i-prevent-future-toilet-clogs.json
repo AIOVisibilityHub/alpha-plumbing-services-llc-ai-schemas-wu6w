@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/can-i-prevent-future-toilet-clogs",
+  "name": "Can I prevent future toilet clogs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I prevent future toilet clogs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you can significantly reduce the risk of future clogs by being mindful of what goes down the toilet. Only flush human waste and toilet paper. Avoid flushing 'flushable' wipes, paper towels, dental floss, cotton swabs, and hygiene products. Regularly clean your toilet to prevent mineral buildup and consider using less toilet paper per flush.",
+        "@type": "Answer",
+        "description": "Prevent clogs by only flushing human waste and toilet paper. Avoid 'flushable' wipes, paper towels, and other non-biodegradable items."
+      }
+    }
+  ],
+  "description": "Prevent clogs by only flushing human waste and toilet paper. Avoid 'flushable' wipes, paper towels, and other non-biodegradable items."
+}

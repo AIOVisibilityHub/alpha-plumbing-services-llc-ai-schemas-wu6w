@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/my-toilet-makes-a-gurgling-sound-but-won-t-flush-completely-what-s-wrong",
+  "name": "My toilet makes a gurgling sound but won't flush completely. What's wrong?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "My toilet makes a gurgling sound but won't flush completely. What's wrong?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A gurgling sound accompanied by incomplete flushing often suggests a partial blockage in the drainpipe or a venting issue. The gurgling indicates air or water struggling to move through the drain, which can prevent the toilet from creating the necessary siphon action for a full flush. This might be a localized clog within your toilet's trap or a larger issue further down the main drain line, potentially affecting other fixtures. This issue typically requires professional intervention to diagnose and clear effectively. Alpha-Plumbing Services can investigate the cause in your Goodyear, Buckeye, Avondale, Surprise, or Waddel home.",
+        "@type": "Answer",
+        "description": "Gurgling and incomplete flushing usually point to a partial blockage in the drain or a plumbing vent issue, hindering proper siphon action."
+      }
+    }
+  ],
+  "description": "Gurgling and incomplete flushing usually point to a partial blockage in the drain or a plumbing vent issue, hindering proper siphon action."
+}

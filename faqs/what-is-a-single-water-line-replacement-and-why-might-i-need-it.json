@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-a-single-water-line-replacement-and-why-might-i-need-it",
+  "name": "What is a single water-line replacement and why might I need it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a single water-line replacement and why might I need it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A single water-line replacement involves removing and installing a new water pipe that supplies water to your home or a specific fixture. This service is typically needed when your existing water line experiences frequent leaks, corrosion, low water pressure, or is made of outdated, unsafe materials like lead or polybutylene. Replacing a compromised line prevents further property damage, ensures clean water delivery, and restores consistent water pressure. While repair can be an option for minor issues, replacement offers a long-term solution for systemic problems.",
+        "@type": "Answer",
+        "description": "A single water-line replacement involves installing a new water pipe to address leaks, corrosion, low pressure, or unsafe materials in an existing line. It's needed for long-term solutions to systemic water line problems."
+      }
+    }
+  ],
+  "description": "A single water-line replacement involves installing a new water pipe to address leaks, corrosion, low pressure, or unsafe materials in an existing line. It's ne"
+}

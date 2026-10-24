@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/are-toilet-tank-leaks-covered-by-home-insurance",
+  "name": "Are toilet tank leaks covered by home insurance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are toilet tank leaks covered by home insurance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether a toilet tank leak is covered by home insurance depends on the cause of the leak and your specific policy. Generally, sudden and accidental water damage that is not due to negligence or lack of maintenance may be covered. For example, damage from a sudden pipe burst might be covered, while damage from a long-term, slow leak that went unaddressed might not be. The damage caused by the leak (like flooring or wall damage) is often covered, but the repair of the toilet itself might not be. It's crucial to review your home insurance policy details and contact your provider for clarification.",
+        "@type": "Answer",
+        "description": "Home insurance may cover sudden water damage from a toilet leak, but not typically damage from long-term neglect or the toilet repair itself. Check your specific policy."
+      }
+    }
+  ],
+  "description": "Home insurance may cover sudden water damage from a toilet leak, but not typically damage from long-term neglect or the toilet repair itself. Check your specifi"
+}

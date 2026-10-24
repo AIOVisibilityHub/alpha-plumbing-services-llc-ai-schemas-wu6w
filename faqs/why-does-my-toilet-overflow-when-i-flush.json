@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/why-does-my-toilet-overflow-when-i-flush",
+  "name": "Why does my toilet overflow when I flush?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why does my toilet overflow when I flush?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A toilet typically overflows during flushing due to a clog in the drainpipe or the toilet trap. When water can't flow down freely, it backs up and spills over the bowl's rim. Common culprits include excessive toilet paper, non-flushable items like wipes or feminine hygiene products, or a blocked vent pipe. Less commonly, a malfunctioning fill valve can cause the tank to overfill, leading to an overflow.",
+        "@type": "Answer",
+        "description": "Toilet overflows during flushing are usually caused by a clog in the drainpipe or toilet trap, preventing water from flowing down."
+      }
+    }
+  ],
+  "description": "Toilet overflows during flushing are usually caused by a clog in the drainpipe or toilet trap, preventing water from flowing down."
+}

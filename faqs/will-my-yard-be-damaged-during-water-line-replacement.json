@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/will-my-yard-be-damaged-during-water-line-replacement",
+  "name": "Will my yard be damaged during water line replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my yard be damaged during water line replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The extent of yard damage depends on the replacement method used. Traditional trenching will involve digging a trench across your yard where the water line runs, which will disturb landscaping and potentially hardscaping. Trenchless methods, such as pipe bursting, are designed to minimize disruption, requiring only small entry and exit points. Alpha-Plumbing Services will discuss both options and their impact on your property during the initial consultation.",
+        "@type": "Answer",
+        "description": "Yard damage depends on the method: traditional trenching causes more disruption, while trenchless methods minimize it. We'll discuss options."
+      }
+    }
+  ],
+  "description": "Yard damage depends on the method: traditional trenching causes more disruption, while trenchless methods minimize it. We'll discuss options."
+}

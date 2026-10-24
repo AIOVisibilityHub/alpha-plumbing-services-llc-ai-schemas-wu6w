@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-it-take-to-replace-a-single-water-line",
+  "name": "How long does it take to replace a single water line?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to replace a single water line?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration for a single water-line replacement depends on the accessibility of the line, its length, and the specific installation method used. A straightforward replacement for a readily accessible line might take a few hours, while more complex projects involving excavation or navigating tight spaces could extend to a full day or even two. Our technicians work efficiently to minimize disruption to your water service. We will provide an estimated timeline after assessing the scope of work during the initial consultation.",
+        "@type": "Answer",
+        "description": "Replacement time varies based on line accessibility, length, and installation method. It can range from a few hours to one or two days for complex jobs."
+      }
+    }
+  ],
+  "description": "Replacement time varies based on line accessibility, length, and installation method. It can range from a few hours to one or two days for complex jobs."
+}

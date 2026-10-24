@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-happens-if-i-ignore-a-toilet-leaking-at-the-base",
+  "name": "What happens if I ignore a toilet leaking at the base?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens if I ignore a toilet leaking at the base?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ignoring a toilet leaking at the base can lead to significant water damage to your bathroom floor and subfloor. Constant moisture can cause wood rot, mold growth, and structural weakening, which are much more expensive and disruptive to repair than the initial leak. It can also create an unsanitary environment due to sewage water seeping out. Addressing the leak promptly protects your home from extensive and costly damage.",
+        "@type": "Answer",
+        "description": "Ignoring a toilet leak can lead to severe water damage, wood rot, and mold growth in your bathroom, resulting in costly repairs."
+      }
+    }
+  ],
+  "description": "Ignoring a toilet leak can lead to severe water damage, wood rot, and mold growth in your bathroom, resulting in costly repairs."
+}

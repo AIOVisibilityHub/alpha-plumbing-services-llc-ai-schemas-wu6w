@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/why-is-a-running-toilet-a-problem-even-if-it-s-just-a-small-leak",
+  "name": "Why is a running toilet a problem, even if it's just a small leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is a running toilet a problem, even if it's just a small leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Even a small, continuous leak in a running toilet can waste a significant amount of water over time. This leads to unnecessarily high water bills, increasing your household expenses. Furthermore, the constant flow of water can put undue wear and tear on your toilet's internal components, potentially shortening their lifespan and leading to more expensive repairs down the line. It's a preventable waste of resources.",
+        "@type": "Answer",
+        "description": "A running toilet wastes water, increasing utility bills and causing premature wear on components, leading to more expensive future repairs."
+      }
+    }
+  ],
+  "description": "A running toilet wastes water, increasing utility bills and causing premature wear on components, leading to more expensive future repairs."
+}

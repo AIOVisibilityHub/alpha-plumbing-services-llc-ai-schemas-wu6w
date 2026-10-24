@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-can-i-tell-if-my-toilet-tank-is-leaking-into-the-bowl",
+  "name": "How can I tell if my toilet tank is leaking into the bowl?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if my toilet tank is leaking into the bowl?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To check for a leak from the tank into the bowl, add a few drops of food coloring to the water in the toilet tank. Wait about 15-20 minutes without flushing the toilet. If you see the colored water appear in the toilet bowl, it indicates a leak, most commonly from a faulty flapper or flush valve seal. This simple dye test is effective for identifying slow, silent leaks that might otherwise go unnoticed, saving you from unnecessary water waste and higher utility bills.",
+        "@type": "Answer",
+        "description": "To detect a tank-to-bowl leak, add food coloring to the tank water. If color appears in the bowl after 15-20 minutes, you have a leak, likely a faulty flapper."
+      }
+    }
+  ],
+  "description": "To detect a tank-to-bowl leak, add food coloring to the tank water. If color appears in the bowl after 15-20 minutes, you have a leak, likely a faulty flapper."
+}

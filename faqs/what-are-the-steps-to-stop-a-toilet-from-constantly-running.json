@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-the-steps-to-stop-a-toilet-from-constantly-running",
+  "name": "What are the steps to stop a toilet from constantly running?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the steps to stop a toilet from constantly running?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "First, check the flapper valve to ensure it's sealing correctly at the bottom of the tank. Sometimes the chain is too long or tangled, preventing a full seal. Next, inspect the fill valve and float arm; the float should be set so the water level is about an inch below the overflow pipe. If the flapper or fill valve appears worn or damaged, it likely needs replacement. Turn off the water supply to the toilet, flush to empty the tank, and then replace the faulty component. If these steps don't resolve the issue, a professional plumber can identify underlying problems.",
+        "@type": "Answer",
+        "description": "To stop a running toilet, check the flapper's seal, adjust the float's height, and inspect the fill valve for damage. Replace worn parts if necessary."
+      }
+    }
+  ],
+  "description": "To stop a running toilet, check the flapper's seal, adjust the float's height, and inspect the fill valve for damage. Replace worn parts if necessary."
+}

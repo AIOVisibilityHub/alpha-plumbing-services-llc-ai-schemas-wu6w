@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-types-of-toilets-are-available-for-replacement",
+  "name": "What types of toilets are available for replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of toilets are available for replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "There is a wide variety of toilets available, including gravity-flush models, pressure-assisted toilets, and dual-flush options. You can also choose between one-piece and two-piece designs, different bowl shapes like round or elongated, and various heights, such as standard or comfort height. Specialty toilets like wall-mounted or smart toilets are also options. Our team can help you select the best type based on your bathroom's layout, budget, and personal preferences.",
+        "@type": "Answer",
+        "description": "Available toilet types include gravity-flush, pressure-assisted, and dual-flush, with options for one-piece, two-piece, and different bowl shapes and heights."
+      }
+    }
+  ],
+  "description": "Available toilet types include gravity-flush, pressure-assisted, and dual-flush, with options for one-piece, two-piece, and different bowl shapes and heights."
+}

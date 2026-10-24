@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/can-i-fix-a-clogged-toilet-myself",
+  "name": "Can I fix a clogged toilet myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I fix a clogged toilet myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For minor clogs, you can often fix a toilet yourself using a flange plunger. Ensure you have a good seal around the drain and plunge with firm, consistent pressure. If plunging doesn't clear the blockage after several attempts, or if the water level rises to the brim, it's best to stop and avoid potential overflows. For stubborn clogs, a professional plumber has specialized tools and expertise.",
+        "@type": "Answer",
+        "description": "Minor clogs can often be cleared with a plunger. If that doesn't work or water rises high, it's best to call a plumber."
+      }
+    }
+  ],
+  "description": "Minor clogs can often be cleared with a plunger. If that doesn't work or water rises high, it's best to call a plumber."
+}

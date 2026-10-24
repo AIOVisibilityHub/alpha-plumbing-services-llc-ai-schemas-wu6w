@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-types-of-toilets-are-best-for-a-bathroom-remodel",
+  "name": "What types of toilets are best for a bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of toilets are best for a bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The 'best' toilet depends on your needs and bathroom design. Popular options include one-piece toilets for easier cleaning, two-piece toilets for cost-effectiveness, wall-mounted toilets for a modern look and space-saving, and comfort-height toilets for accessibility. Water-efficient models (e.g., WaterSense certified) can also reduce water consumption. Our plumbers can discuss these options and help you select a suitable toilet that fits your remodel budget and aesthetic in areas like Avondale and Surprise.",
+        "@type": "Answer",
+        "description": "Consider one-piece, two-piece, wall-mounted, or comfort-height toilets. Water-efficient models are also a good choice."
+      }
+    }
+  ],
+  "description": "Consider one-piece, two-piece, wall-mounted, or comfort-height toilets. Water-efficient models are also a good choice."
+}

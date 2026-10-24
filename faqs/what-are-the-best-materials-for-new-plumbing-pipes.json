@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-the-best-materials-for-new-plumbing-pipes",
+  "name": "What are the best materials for new plumbing pipes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the best materials for new plumbing pipes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The most common and recommended materials for new plumbing pipes are PEX (cross-linked polyethylene) and copper. PEX is flexible, cost-effective, and resistant to freezing, making it a popular choice. Copper is durable, long-lasting, and recyclable, though typically more expensive than PEX. Each material has distinct advantages, and the best choice depends on your budget, water quality, and specific property needs. We can help you compare options.",
+        "@type": "Answer",
+        "description": "PEX and copper are leading choices. PEX is flexible and affordable; copper is durable but pricier. The best material depends on your specific needs."
+      }
+    }
+  ],
+  "description": "PEX and copper are leading choices. PEX is flexible and affordable; copper is durable but pricier. The best material depends on your specific needs."
+}

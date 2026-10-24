@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-it-take-to-repair-a-toilet-that-isn-t-flushing",
+  "name": "How long does it take to repair a toilet that isn't flushing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to repair a toilet that isn't flushing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required to repair a non-flushing toilet depends on the complexity of the issue. Simple fixes, like adjusting a chain or replacing a flapper, can often be completed within an hour. More involved repairs, such as replacing a fill valve or clearing a stubborn blockage, might take longer, typically 1 to 3 hours. Alpha-Plumbing Services aims to provide efficient service to minimize disruption in your Goodyear, Buckeye, Avondale, Surprise, or Waddel home.",
+        "@type": "Answer",
+        "description": "Repairs can take from under an hour for simple fixes to several hours for more complex issues like component replacement or significant blockages."
+      }
+    }
+  ],
+  "description": "Repairs can take from under an hour for simple fixes to several hours for more complex issues like component replacement or significant blockages."
+}

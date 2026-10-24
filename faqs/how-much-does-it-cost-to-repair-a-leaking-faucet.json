@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-much-does-it-cost-to-repair-a-leaking-faucet",
+  "name": "How much does it cost to repair a leaking faucet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to repair a leaking faucet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to repair a leaking faucet can vary depending on the type of faucet, the complexity of the issue, and the specific parts required. Simple repairs, such as replacing a washer or O-ring, are typically less expensive. More complex issues involving internal cartridge replacement, valve damage, or corrosion may incur higher costs due to the labor and specialized parts involved. It's best to have a plumber assess the problem to provide an accurate estimate. Alpha-Plumbing Services offers transparent pricing after diagnosing the issue.",
+        "@type": "Answer",
+        "description": "Faucet repair costs vary based on the type of faucet, complexity of the issue, and necessary parts. Simple fixes are less expensive than complex repairs."
+      }
+    }
+  ],
+  "description": "Faucet repair costs vary based on the type of faucet, complexity of the issue, and necessary parts. Simple fixes are less expensive than complex repairs."
+}

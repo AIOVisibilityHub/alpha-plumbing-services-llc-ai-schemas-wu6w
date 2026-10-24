@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-areas-do-you-serve-for-leaky-faucet-repair",
+  "name": "What areas do you serve for leaky faucet repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas do you serve for leaky faucet repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Alpha-Plumbing Services provides leaky faucet repair services in several communities within the Phoenix metropolitan area. Our primary service areas include Goodyear, Buckeye, Avondale, Surprise, and Waddell. If you are experiencing a leaking faucet in any of these locations, please contact us to schedule a service appointment. We are committed to providing reliable and efficient plumbing solutions to residents and businesses in these communities.",
+        "@type": "Answer",
+        "description": "We serve Goodyear, Buckeye, Avondale, Surprise, and Waddell for leaky faucet repair."
+      }
+    }
+  ],
+  "description": "We serve Goodyear, Buckeye, Avondale, Surprise, and Waddell for leaky faucet repair."
+}

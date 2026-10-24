@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-preventative-measures-can-i-take-to-avoid-broken-water-lines",
+  "name": "What preventative measures can I take to avoid broken water lines?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preventative measures can I take to avoid broken water lines?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preventative measures can help reduce the risk of broken water lines. Insulating outdoor pipes and those in unheated areas can protect against freezing. Be mindful of where utility lines are buried before any digging projects. Regularly inspect your property for unusual wet spots or sudden drops in water pressure. It's also beneficial to have older plumbing systems inspected periodically by professionals to identify potential weaknesses before they become major problems.",
+        "@type": "Answer",
+        "description": "Preventative measures include insulating pipes, knowing utility line locations before digging, and regular professional inspections of older plumbing systems."
+      }
+    }
+  ],
+  "description": "Preventative measures include insulating pipes, knowing utility line locations before digging, and regular professional inspections of older plumbing systems."
+}

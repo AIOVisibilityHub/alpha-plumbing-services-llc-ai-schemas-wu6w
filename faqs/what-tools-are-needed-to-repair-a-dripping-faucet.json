@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-tools-are-needed-to-repair-a-dripping-faucet",
+  "name": "What tools are needed to repair a dripping faucet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What tools are needed to repair a dripping faucet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Basic tools for faucet repair often include a screwdriver (Phillips and flathead), an adjustable wrench or basin wrench, pliers, and possibly an Allen wrench, depending on the faucet model. You'll also need replacement parts specific to your faucet type, such as washers, O-rings, or a new cartridge. A flashlight can be helpful for visibility, and a bucket or towels are essential to catch any residual water. Always turn off the water supply before starting any repair.",
+        "@type": "Answer",
+        "description": "Common tools for faucet repair include screwdrivers, wrenches, pliers, and specific replacement parts. Always turn off the water supply first."
+      }
+    }
+  ],
+  "description": "Common tools for faucet repair include screwdrivers, wrenches, pliers, and specific replacement parts. Always turn off the water supply first."
+}

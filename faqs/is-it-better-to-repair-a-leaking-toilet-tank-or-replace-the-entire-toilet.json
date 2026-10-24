@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/is-it-better-to-repair-a-leaking-toilet-tank-or-replace-the-entire-toilet",
+  "name": "Is it better to repair a leaking toilet tank or replace the entire toilet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is it better to repair a leaking toilet tank or replace the entire toilet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The decision to repair or replace depends on the severity and cause of the leak, as well as the age and condition of your toilet. If the leak is due to a simple component like a flapper or fill valve, repair is usually the most cost-effective solution. However, if the tank itself is cracked, replacement is necessary as tanks cannot be repaired. For older, inefficient toilets with multiple issues, replacing the entire unit with a new, water-efficient model can be a better long-term investment, saving on water bills and future repairs.",
+        "@type": "Answer",
+        "description": "Repair minor leaks in newer toilets. Replace if the tank is cracked or if the toilet is old and inefficient, considering a new water-efficient model."
+      }
+    }
+  ],
+  "description": "Repair minor leaks in newer toilets. Replace if the tank is cracked or if the toilet is old and inefficient, considering a new water-efficient model."
+}

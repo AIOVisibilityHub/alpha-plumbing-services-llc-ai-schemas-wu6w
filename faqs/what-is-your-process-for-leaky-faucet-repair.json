@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-your-process-for-leaky-faucet-repair",
+  "name": "What is your process for leaky faucet repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is your process for leaky faucet repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our leaky faucet repair process begins with a thorough inspection to accurately diagnose the source and extent of the leak. Once identified, our plumber will explain the issue and the necessary repairs. We then proceed to replace worn-out components, tighten connections, or address any underlying problems causing the leak. After the repair, we test the faucet to ensure it is functioning correctly and is completely leak-free, providing a lasting solution.",
+        "@type": "Answer",
+        "description": "Our process involves diagnosing the leak, explaining the repair, replacing faulty parts, and testing the faucet to ensure a lasting fix."
+      }
+    }
+  ],
+  "description": "Our process involves diagnosing the leak, explaining the repair, replacing faulty parts, and testing the faucet to ensure a lasting fix."
+}

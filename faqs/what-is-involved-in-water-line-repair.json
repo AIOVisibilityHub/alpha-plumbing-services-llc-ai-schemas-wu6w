@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-involved-in-water-line-repair",
+  "name": "What is involved in water line repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in water line repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water line repair typically begins with identifying the precise location and extent of the damage, often using leak detection equipment. Depending on the issue, repair methods can range from localized pipe patching or replacement to trenchless repair techniques that minimize digging, or even full water line replacement if the damage is extensive. The process involves excavating if necessary, repairing or replacing the affected section, and restoring the ground. Alpha-Plumbing Services will assess your specific situation to recommend the most effective solution.",
+        "@type": "Answer",
+        "description": "Water line repair involves locating the damage, then repairing or replacing the affected section using methods like trenchless repair or excavation."
+      }
+    }
+  ],
+  "description": "Water line repair involves locating the damage, then repairing or replacing the affected section using methods like trenchless repair or excavation."
+}

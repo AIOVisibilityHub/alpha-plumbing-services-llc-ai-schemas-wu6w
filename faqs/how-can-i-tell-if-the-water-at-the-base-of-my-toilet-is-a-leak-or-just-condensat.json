@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-can-i-tell-if-the-water-at-the-base-of-my-toilet-is-a-leak-or-just-condensat",
+  "name": "How can I tell if the water at the base of my toilet is a leak or just condensation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if the water at the base of my toilet is a leak or just condensation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To differentiate between a leak and condensation, dry the area around the toilet's base thoroughly. Then, wrap a towel or paper towels around the tank and the base of the toilet. If the paper towels around the tank get wet, it's likely condensation. If the water reappears at the base, especially after flushing, and the tank remains dry, it indicates a leak from the seal. Condensation typically occurs in humid environments or when cold water fills a warm tank.",
+        "@type": "Answer",
+        "description": "Dry the area, then place paper towels around the tank and base. If the base gets wet after flushing, it's a leak; if the tank gets wet, it's condensation."
+      }
+    }
+  ],
+  "description": "Dry the area, then place paper towels around the tank and base. If the base gets wet after flushing, it's a leak; if the tank gets wet, it's condensation."
+}

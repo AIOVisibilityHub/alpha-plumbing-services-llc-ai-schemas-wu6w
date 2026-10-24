@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/do-i-need-permits-for-a-water-line-reroute-in-avondale",
+  "name": "Do I need permits for a water line reroute in Avondale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for a water line reroute in Avondale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In most cities, including Avondale, plumbing work that involves altering the main water supply system or significant re-piping typically requires permits. This ensures that the work complies with local building codes and safety standards. Alpha-Plumbing Services handles the necessary permitting process for our clients to ensure all work is legitimate and up to code. We confirm specific permit requirements for your project before commencing work.",
+        "@type": "Answer",
+        "description": "Yes, significant plumbing work like a water line reroute often requires permits in Avondale to ensure code compliance."
+      }
+    }
+  ],
+  "description": "Yes, significant plumbing work like a water line reroute often requires permits in Avondale to ensure code compliance."
+}

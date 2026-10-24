@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-process-for-unclogging-a-toilet-professionally",
+  "name": "What is the process for unclogging a toilet professionally?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for unclogging a toilet professionally?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our plumbers begin by assessing the clog to determine its nature and location. We typically start with a professional-grade auger or snake to break up or retrieve the blockage. For stubborn or deeper clogs, we may use hydro-jetting, which employs high-pressure water to clear the pipe. We ensure the line is clear and test the toilet's flush before finishing.",
+        "@type": "Answer",
+        "description": "We assess the clog, then use professional augers or snakes. For severe blockages, hydro-jetting may be used. We ensure the line is clear before completing the service."
+      }
+    }
+  ],
+  "description": "We assess the clog, then use professional augers or snakes. For severe blockages, hydro-jetting may be used. We ensure the line is clear before completing the s"
+}

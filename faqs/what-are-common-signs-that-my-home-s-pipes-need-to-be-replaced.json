@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-common-signs-that-my-home-s-pipes-need-to-be-replaced",
+  "name": "What are common signs that my home's pipes need to be replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my home's pipes need to be replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common indicators for pipe replacement include persistent leaks, discolored water, significant drops in water pressure, and unusual noises like banging or whistling from your plumbing system. Older homes with galvanized steel or polybutylene pipes are often good candidates for replacement due to their inherent susceptibility to corrosion and failure over time. If you notice a metallic taste or smell in your water, it could also signal internal pipe corrosion.",
+        "@type": "Answer",
+        "description": "Signs include frequent leaks, discolored water, low water pressure, and unusual noises. Older pipe materials like galvanized steel or polybutylene are often prone to issues."
+      }
+    }
+  ],
+  "description": "Signs include frequent leaks, discolored water, low water pressure, and unusual noises. Older pipe materials like galvanized steel or polybutylene are often pro"
+}

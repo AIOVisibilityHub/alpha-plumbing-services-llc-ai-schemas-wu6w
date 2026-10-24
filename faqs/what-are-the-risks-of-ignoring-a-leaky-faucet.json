@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-the-risks-of-ignoring-a-leaky-faucet",
+  "name": "What are the risks of ignoring a leaky faucet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the risks of ignoring a leaky faucet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ignoring a leaky faucet can lead to several problems. Even a slow drip wastes a significant amount of water over time, increasing your utility bills. Constant moisture can also promote mold growth in sinks or cabinets, and persistent leaks can damage fixtures, countertops, and even compromise the structural integrity of your property over time. Addressing a leak promptly can prevent these issues, saving you from more extensive and costly repairs down the line.",
+        "@type": "Answer",
+        "description": "Ignoring a leaky faucet wastes water, increases utility bills, and can cause mold, water damage to fixtures, or property structures."
+      }
+    }
+  ],
+  "description": "Ignoring a leaky faucet wastes water, increases utility bills, and can cause mold, water damage to fixtures, or property structures."
+}

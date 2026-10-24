@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-can-i-tell-if-my-home-has-polybutylene-pipes",
+  "name": "How can I tell if my home has polybutylene pipes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if my home has polybutylene pipes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Identifying polybutylene pipes often requires checking visible plumbing lines, such as near the water heater, main shut-off valve, or in unfinished basements. Polybutylene is typically gray or blue, though it can also be black, and usually has a dull finish. It often has the code 'PB2110' printed on it. Fittings associated with polybutylene can be plastic or copper. If you're unsure, it's best to consult with a professional plumber. Alpha-Plumbing Services can inspect your home in areas like Goodyear or Avondale to confirm the presence of polybutylene.",
+        "@type": "Answer",
+        "description": "Check for gray, blue, or black pipes with a dull finish, often marked 'PB2110', near your water heater or main shut-off. A professional can confirm."
+      }
+    }
+  ],
+  "description": "Check for gray, blue, or black pipes with a dull finish, often marked 'PB2110', near your water heater or main shut-off. A professional can confirm."
+}

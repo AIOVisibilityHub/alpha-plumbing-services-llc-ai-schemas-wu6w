@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-s-the-difference-between-a-wax-ring-and-a-wax-free-toilet-seal",
+  "name": "What's the difference between a wax ring and a wax-free toilet seal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a wax ring and a wax-free toilet seal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A traditional wax ring is a pliable, donut-shaped seal made of petroleum wax that compresses to create a watertight connection between the toilet and the drainpipe. A wax-free toilet seal, often made from rubber or other synthetic materials, provides a similar seal using a different mechanism, such as a flexible gasket or a series of rubber fins. Wax-free seals can be easier to reposition during installation and are often preferred by some for their cleaner application and durability.",
+        "@type": "Answer",
+        "description": "A wax ring is a traditional petroleum wax seal, while a wax-free seal uses rubber or synthetic materials, often offering easier installation and repositioning."
+      }
+    }
+  ],
+  "description": "A wax ring is a traditional petroleum wax seal, while a wax-free seal uses rubber or synthetic materials, often offering easier installation and repositioning."
+}

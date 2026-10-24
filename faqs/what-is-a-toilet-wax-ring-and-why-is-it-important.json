@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-a-toilet-wax-ring-and-why-is-it-important",
+  "name": "What is a toilet wax ring and why is it important?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a toilet wax ring and why is it important?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A toilet wax ring is a circular seal, typically made of petroleum wax, that creates a watertight and airtight connection between the base of your toilet and the drainpipe in the floor. Its primary function is to prevent water from leaking out from under the toilet and to block sewer gases from entering your home. Over time, wax rings can wear out, dry up, or be damaged by rocking toilets, leading to leaks and unpleasant odors. Replacing a faulty wax ring is a common repair that ensures a secure and hygienic seal for your toilet.",
+        "@type": "Answer",
+        "description": "A toilet wax ring is a seal between the toilet base and the drainpipe, preventing leaks and sewer gas. It's crucial for a watertight connection and needs replacement if faulty."
+      }
+    }
+  ],
+  "description": "A toilet wax ring is a seal between the toilet base and the drainpipe, preventing leaks and sewer gas. It's crucial for a watertight connection and needs replac"
+}

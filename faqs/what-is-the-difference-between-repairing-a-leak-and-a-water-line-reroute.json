@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-difference-between-repairing-a-leak-and-a-water-line-reroute",
+  "name": "What is the difference between repairing a leak and a water line reroute?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between repairing a leak and a water line reroute?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing a leak typically involves fixing a specific, isolated issue in a section of pipe, often a small crack or joint failure. This is suitable for minor, infrequent problems. A water line reroute, however, is a more extensive solution that replaces an entire section or the main water line when there are systemic issues like widespread corrosion, multiple leaks, or inaccessible pipes within a slab. Rerouting offers a long-term fix by installing new, reliable plumbing.",
+        "@type": "Answer",
+        "description": "Repairing a leak fixes a specific problem, while a water line reroute replaces an entire section or main line due to systemic issues."
+      }
+    }
+  ],
+  "description": "Repairing a leak fixes a specific problem, while a water line reroute replaces an entire section or main line due to systemic issues."
+}

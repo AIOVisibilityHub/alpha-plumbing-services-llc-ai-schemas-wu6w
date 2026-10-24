@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-common-signs-that-my-faucet-needs-repair",
+  "name": "What are common signs that my faucet needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my faucet needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that your faucet requires repair include persistent drips or leaks, which can lead to water waste and increased utility bills. Other indicators are inconsistent water pressure, strange noises like squealing or clanking when turning the faucet on or off, and difficulty operating the handles. Visible corrosion, mineral buildup around the base or spout, and water pooling around the faucet are also clear indications that a professional repair might be necessary to prevent further damage or larger issues.",
+        "@type": "Answer",
+        "description": "Drips, leaks, low water pressure, strange noises, and difficulty operating the handles are common signs your faucet needs repair."
+      }
+    }
+  ],
+  "description": "Drips, leaks, low water pressure, strange noises, and difficulty operating the handles are common signs your faucet needs repair."
+}

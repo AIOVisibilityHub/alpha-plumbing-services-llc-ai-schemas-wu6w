@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/can-i-prevent-future-pipe-leaks",
+  "name": "Can I prevent future pipe leaks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I prevent future pipe leaks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it's impossible to guarantee no future leaks, you can significantly reduce the risk. Regular plumbing inspections can help identify potential weaknesses. Protecting outdoor pipes from freezing, avoiding harsh drain cleaners, managing water pressure, and addressing small issues quickly are all good preventative measures. We can advise on specific strategies tailored to your home's plumbing system during a service visit.",
+        "@type": "Answer",
+        "description": "You can reduce future leaks with regular inspections, protecting outdoor pipes from freezing, avoiding harsh drain cleaners, and managing water pressure."
+      }
+    }
+  ],
+  "description": "You can reduce future leaks with regular inspections, protecting outdoor pipes from freezing, avoiding harsh drain cleaners, and managing water pressure."
+}

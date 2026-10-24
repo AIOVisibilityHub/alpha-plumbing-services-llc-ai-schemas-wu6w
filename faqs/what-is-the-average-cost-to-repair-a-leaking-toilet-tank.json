@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-average-cost-to-repair-a-leaking-toilet-tank",
+  "name": "What is the average cost to repair a leaking toilet tank?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost to repair a leaking toilet tank?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to repair a leaking toilet tank varies based on the cause and extent of the damage. Simple fixes, like replacing a flapper or fill valve, might range from $75 to $200 for parts and labor. More complex issues, such as replacing tank-to-bowl gaskets or addressing a cracked tank (which usually requires a full toilet replacement), will be more expensive. Factors like the plumber's hourly rate and the need for emergency service can also influence the total cost. It's always advisable to get a quote after a diagnostic assessment.",
+        "@type": "Answer",
+        "description": "Repair costs vary, typically $75-$200 for minor fixes like flapper or fill valve replacement. More complex issues or a cracked tank will incur higher costs."
+      }
+    }
+  ],
+  "description": "Repair costs vary, typically $75-$200 for minor fixes like flapper or fill valve replacement. More complex issues or a cracked tank will incur higher costs."
+}

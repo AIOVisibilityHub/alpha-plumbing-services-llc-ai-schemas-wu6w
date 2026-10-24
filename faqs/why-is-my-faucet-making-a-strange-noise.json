@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/why-is-my-faucet-making-a-strange-noise",
+  "name": "Why is my faucet making a strange noise?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is my faucet making a strange noise?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Strange noises from your faucet, such as squealing, whistling, banging, or chattering, often indicate specific internal issues. A squealing sound might suggest a worn-out washer or a damaged cartridge. Whistling can be due to mineral buildup or a partially closed valve restricting water flow. Banging noises (water hammer) usually point to loose pipes or sudden changes in water pressure. Chattering can stem from a loose stem assembly or internal component. Identifying the exact cause typically requires a professional inspection to determine the appropriate repair.",
+        "@type": "Answer",
+        "description": "Strange faucet noises like squealing, whistling, or banging often indicate worn parts, mineral buildup, or water pressure issues requiring professional diagnosis."
+      }
+    }
+  ],
+  "description": "Strange faucet noises like squealing, whistling, or banging often indicate worn parts, mineral buildup, or water pressure issues requiring professional diagnosi"
+}

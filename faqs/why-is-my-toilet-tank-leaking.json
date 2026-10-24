@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/why-is-my-toilet-tank-leaking",
+  "name": "Why is my toilet tank leaking?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is my toilet tank leaking?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Toilet tank leaks often stem from worn-out components inside the tank. Common culprits include a faulty flapper that doesn't seal properly, a loose or corroded tank-to-bowl bolt, or a cracked fill valve. The rubber gasket between the tank and the bowl can also degrade over time, leading to leaks. Sometimes, a hairline crack in the porcelain tank itself can be the cause, though this is less common. Identifying the exact source usually involves a visual inspection of the tank's interior and exterior, looking for drips or constant water flow.",
+        "@type": "Answer",
+        "description": "Toilet tank leaks are usually caused by worn-out flappers, loose tank bolts, faulty fill valves, or degraded gaskets. A crack in the porcelain is a less common but serious issue."
+      }
+    }
+  ],
+  "description": "Toilet tank leaks are usually caused by worn-out flappers, loose tank bolts, faulty fill valves, or degraded gaskets. A crack in the porcelain is a less common"
+}

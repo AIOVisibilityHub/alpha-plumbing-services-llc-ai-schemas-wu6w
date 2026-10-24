@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-the-benefits-of-trenchless-water-line-repair",
+  "name": "What are the benefits of trenchless water line repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of trenchless water line repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Trenchless water line repair methods, such as pipe bursting or pipe lining, offer several advantages over traditional excavation. These benefits include minimal disruption to your landscaping, driveway, or other property features, as they require only small access points. This significantly reduces restoration costs and time. Trenchless repairs can also be faster to complete and provide a durable, long-lasting solution with new, corrosion-resistant piping materials. Alpha-Plumbing Services utilizes these advanced techniques when suitable.",
+        "@type": "Answer",
+        "description": "Trenchless repair minimizes yard disruption, reduces restoration costs, is faster, and provides a durable, long-lasting solution."
+      }
+    }
+  ],
+  "description": "Trenchless repair minimizes yard disruption, reduces restoration costs, is faster, and provides a durable, long-lasting solution."
+}

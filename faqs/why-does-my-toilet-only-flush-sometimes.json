@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/why-does-my-toilet-only-flush-sometimes",
+  "name": "Why does my toilet only flush sometimes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why does my toilet only flush sometimes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Intermittent flushing problems often point to issues with the toilet's internal mechanisms. This could be a flapper that doesn't seal consistently, a fill valve that's failing to refill the tank properly every time, or a loose or misaligned flush handle and chain. Sediment buildup can also intermittently affect components. It's a sign that a component is nearing the end of its lifespan. Alpha-Plumbing Services can diagnose and fix these sporadic issues for residents in our service areas.",
+        "@type": "Answer",
+        "description": "Intermittent flushing usually indicates a failing flapper, an inconsistent fill valve, or a problem with the flush handle and chain mechanism."
+      }
+    }
+  ],
+  "description": "Intermittent flushing usually indicates a failing flapper, an inconsistent fill valve, or a problem with the flush handle and chain mechanism."
+}

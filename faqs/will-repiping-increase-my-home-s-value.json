@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/will-repiping-increase-my-home-s-value",
+  "name": "Will repiping increase my home's value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will repiping increase my home's value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, whole-house repiping can significantly increase your home's value and appeal to potential buyers. A modern, reliable plumbing system is a major asset, eliminating concerns about leaks, low water pressure, and poor water quality that can deter buyers or lead to costly issues down the line. It demonstrates that your home has been well-maintained and updated with essential infrastructure. This upgrade is a sound investment that contributes to both your daily comfort and your property's marketability.",
+        "@type": "Answer",
+        "description": "Yes, repiping can increase home value by providing a modern, reliable plumbing system, which is attractive to buyers and prevents future issues."
+      }
+    }
+  ],
+  "description": "Yes, repiping can increase home value by providing a modern, reliable plumbing system, which is attractive to buyers and prevents future issues."
+}

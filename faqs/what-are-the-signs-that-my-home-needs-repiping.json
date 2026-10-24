@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-the-signs-that-my-home-needs-repiping",
+  "name": "What are the signs that my home needs repiping?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs that my home needs repiping?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several signs can indicate your home may need repiping. These include frequent leaks, discolored or rusty water, low water pressure throughout the house, or pipes that make strange noises. If your home is older, especially built before the 1970s with galvanized steel pipes, these issues are more common. Persistent plumbing problems often point to aging infrastructure, making repiping a long-term solution to prevent further damage and ensure a reliable water supply.",
+        "@type": "Answer",
+        "description": "Signs your home needs repiping include frequent leaks, discolored water, low water pressure, or noisy pipes, especially in older homes."
+      }
+    }
+  ],
+  "description": "Signs your home needs repiping include frequent leaks, discolored water, low water pressure, or noisy pipes, especially in older homes."
+}

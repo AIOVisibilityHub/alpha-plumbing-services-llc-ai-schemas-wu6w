@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-a-professional-faucet-replacement-typically-take",
+  "name": "How long does a professional faucet replacement typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a professional faucet replacement typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A professional faucet replacement typically takes between one to three hours, depending on the complexity of the installation and the existing plumbing. Factors such as access to the plumbing under the sink, the condition of the old faucet and connections, and the type of new faucet being installed can all influence the total time. Our plumbers work efficiently to minimize disruption to your home.",
+        "@type": "Answer",
+        "description": "Professional faucet replacement usually takes one to three hours. Time varies based on installation complexity, existing plumbing, and faucet type."
+      }
+    }
+  ],
+  "description": "Professional faucet replacement usually takes one to three hours. Time varies based on installation complexity, existing plumbing, and faucet type."
+}

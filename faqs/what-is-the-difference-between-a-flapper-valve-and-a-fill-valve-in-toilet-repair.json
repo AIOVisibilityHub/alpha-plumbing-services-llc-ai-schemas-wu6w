@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-difference-between-a-flapper-valve-and-a-fill-valve-in-toilet-repair",
+  "name": "What is the difference between a flapper valve and a fill valve in toilet repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a flapper valve and a fill valve in toilet repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The flapper valve is located at the bottom of the toilet tank and seals the opening to the bowl. When you flush, the flapper lifts to allow water to flow into the bowl. A faulty flapper is a common cause of running toilets. The fill valve (or ballcock) controls the water filling the tank after a flush. It senses the water level and shuts off once the tank is full. Both are critical for proper toilet function.",
+        "@type": "Answer",
+        "description": "The flapper valve seals the tank to the bowl, allowing water flow during a flush. The fill valve controls the water refilling the tank after a flush."
+      }
+    }
+  ],
+  "description": "The flapper valve seals the tank to the bowl, allowing water flow during a flush. The fill valve controls the water refilling the tank after a flush."
+}

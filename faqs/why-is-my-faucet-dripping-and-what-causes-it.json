@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/why-is-my-faucet-dripping-and-what-causes-it",
+  "name": "Why is my faucet dripping, and what causes it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is my faucet dripping, and what causes it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A dripping faucet is typically caused by worn-out components inside the faucet assembly. Common culprits include a deteriorated washer, O-ring, or cartridge. Over time, these parts can stiffen, crack, or corrode, preventing a complete seal when the faucet is turned off. High water pressure can also contribute to faster wear and tear on these internal parts, leading to persistent drips. Identifying the specific part that has failed is key to an effective repair.",
+        "@type": "Answer",
+        "description": "Faucets drip due to worn internal parts like washers, O-rings, or cartridges, which no longer create a tight seal. High water pressure can accelerate this wear."
+      }
+    }
+  ],
+  "description": "Faucets drip due to worn internal parts like washers, O-rings, or cartridges, which no longer create a tight seal. High water pressure can accelerate this wear."
+}

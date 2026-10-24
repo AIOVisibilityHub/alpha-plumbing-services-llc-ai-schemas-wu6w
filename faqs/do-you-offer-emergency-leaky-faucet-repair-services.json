@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/do-you-offer-emergency-leaky-faucet-repair-services",
+  "name": "Do you offer emergency leaky faucet repair services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer emergency leaky faucet repair services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While we prioritize prompt service for all plumbing issues, severe leaky faucets, such as those causing significant water damage or a steady stream, are considered urgent. We strive to address these situations as quickly as possible to prevent further property damage. Contact Alpha-Plumbing Services immediately if you have a significant leak; our team will assess the situation and dispatch a plumber to your Goodyear, Buckeye, Avondale, Surprise, or Waddell location.",
+        "@type": "Answer",
+        "description": "Yes, we prioritize urgent leaky faucet repairs to prevent significant water damage and respond promptly to severe leaks."
+      }
+    }
+  ],
+  "description": "Yes, we prioritize urgent leaky faucet repairs to prevent significant water damage and respond promptly to severe leaks."
+}

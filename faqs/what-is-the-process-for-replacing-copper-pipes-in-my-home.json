@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-process-for-replacing-copper-pipes-in-my-home",
+  "name": "What is the process for replacing copper pipes in my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for replacing copper pipes in my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The copper pipe replacement process generally involves a pre-inspection to identify affected areas, isolating the water supply, carefully removing old sections of pipe, and installing new copper or alternative piping. Our team ensures proper connections, tests the new system for leaks, and restores water service. We prioritize minimizing disruption to your home during the replacement, completing the work efficiently and professionally.",
+        "@type": "Answer",
+        "description": "The process includes inspection, water shut-off, removal of old pipes, installation of new ones, and system testing."
+      }
+    }
+  ],
+  "description": "The process includes inspection, water shut-off, removal of old pipes, installation of new ones, and system testing."
+}

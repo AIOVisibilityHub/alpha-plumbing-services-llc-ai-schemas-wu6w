@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-process-for-repairing-a-running-toilet",
+  "name": "What is the process for repairing a running toilet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for repairing a running toilet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When you call Alpha-Plumbing Services, LLC, our plumber will first diagnose the exact cause of the running toilet by inspecting the tank's internal components, including the flapper, fill valve, float, and flush handle. Once the problem is identified, they will explain the necessary repair and replace any faulty parts, such as the flapper, fill valve, or flush lever, ensuring all new components are properly installed and adjusted for optimal function.",
+        "@type": "Answer",
+        "description": "Our plumbers diagnose the issue by inspecting tank components, explain the repair, and replace faulty parts like the flapper or fill valve to restore proper function."
+      }
+    }
+  ],
+  "description": "Our plumbers diagnose the issue by inspecting tank components, explain the repair, and replace faulty parts like the flapper or fill valve to restore proper fun"
+}

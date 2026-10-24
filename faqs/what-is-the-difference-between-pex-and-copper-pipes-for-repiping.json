@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-difference-between-pex-and-copper-pipes-for-repiping",
+  "name": "What is the difference between PEX and copper pipes for repiping?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between PEX and copper pipes for repiping?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "PEX and copper are common choices for repiping, each with distinct advantages. Copper pipes are durable, resistant to bacteria, and have a long lifespan, though they can be more expensive and require soldering for installation. PEX (cross-linked polyethylene) is a flexible plastic tubing that is less costly, easier to install, and resistant to corrosion and freezing. PEX also has fewer joints, reducing potential leak points. Your choice often depends on budget, water quality, and specific plumbing needs.",
+        "@type": "Answer",
+        "description": "Copper pipes are durable and long-lasting but more expensive, while PEX is flexible, less costly, and resistant to corrosion and freezing."
+      }
+    }
+  ],
+  "description": "Copper pipes are durable and long-lasting but more expensive, while PEX is flexible, less costly, and resistant to corrosion and freezing."
+}

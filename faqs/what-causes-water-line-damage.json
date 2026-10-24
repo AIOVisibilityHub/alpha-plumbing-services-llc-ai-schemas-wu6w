@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-causes-water-line-damage",
+  "name": "What causes water line damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes water line damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water lines can be damaged by several factors, including aging pipes that corrode or deteriorate over time, ground shifting due to soil expansion and contraction, tree root intrusion seeking moisture, and external forces like construction accidents or excavation. Extreme temperature changes can also cause pipes to freeze and burst, leading to significant damage. Regular maintenance and professional inspections can help identify potential issues before they become major problems.",
+        "@type": "Answer",
+        "description": "Common causes of water line damage include aging pipes, ground shifting, tree root intrusion, and external impacts."
+      }
+    }
+  ],
+  "description": "Common causes of water line damage include aging pipes, ground shifting, tree root intrusion, and external impacts."
+}

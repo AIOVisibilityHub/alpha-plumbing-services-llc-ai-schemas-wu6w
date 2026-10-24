@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/why-is-my-toilet-clogged-and-not-flushing-properly",
+  "name": "Why is my toilet clogged and not flushing properly?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is my toilet clogged and not flushing properly?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Toilets can clog for several reasons, commonly due to excessive toilet paper, flushing non-flushable items like wipes or cotton swabs, or a buildup of mineral deposits or debris in the drainpipe. Sometimes, issues within the toilet mechanism itself, like a faulty flapper or low water levels, can also lead to incomplete flushing, making a clog more likely to occur.",
+        "@type": "Answer",
+        "description": "Common causes include too much toilet paper, flushing non-flushable items, or mineral buildup. Issues with the toilet mechanism can also contribute."
+      }
+    }
+  ],
+  "description": "Common causes include too much toilet paper, flushing non-flushable items, or mineral buildup. Issues with the toilet mechanism can also contribute."
+}

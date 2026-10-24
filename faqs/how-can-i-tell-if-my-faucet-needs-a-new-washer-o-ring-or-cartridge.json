@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-can-i-tell-if-my-faucet-needs-a-new-washer-o-ring-or-cartridge",
+  "name": "How can I tell if my faucet needs a new washer, O-ring, or cartridge?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if my faucet needs a new washer, O-ring, or cartridge?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The type of faucet and where the drip originates often indicates the specific part needing replacement. For compression faucets, a drip from the spout usually means a worn washer, while a drip around the handle often points to a faulty O-ring. In cartridge, ceramic disc, or ball faucets, a continuous drip from the spout or base usually indicates a worn-out cartridge or disc assembly. Our plumbers can accurately diagnose the exact cause.",
+        "@type": "Answer",
+        "description": "Drip location and faucet type help identify the faulty part: spout drips often mean washers/cartridges, handle drips suggest O-rings. Professionals can confirm."
+      }
+    }
+  ],
+  "description": "Drip location and faucet type help identify the faulty part: spout drips often mean washers/cartridges, handle drips suggest O-rings. Professionals can confirm."
+}

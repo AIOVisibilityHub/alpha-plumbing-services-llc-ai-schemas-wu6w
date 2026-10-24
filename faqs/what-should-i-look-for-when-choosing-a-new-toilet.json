@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-should-i-look-for-when-choosing-a-new-toilet",
+  "name": "What should I look for when choosing a new toilet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for when choosing a new toilet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a new toilet, consider water efficiency (look for EPA WaterSense label), flush performance, bowl shape (round for smaller spaces, elongated for comfort), and height (comfort height is popular for accessibility). Also, think about the design to match your bathroom aesthetics, and if you prefer a one-piece or two-piece unit. Budget and any specific features like dual-flush or bidet integration are also important factors.",
+        "@type": "Answer",
+        "description": "Consider water efficiency, flush performance, bowl shape, height, design, and budget when choosing a new toilet. Look for the WaterSense label."
+      }
+    }
+  ],
+  "description": "Consider water efficiency, flush performance, bowl shape, height, design, and budget when choosing a new toilet. Look for the WaterSense label."
+}

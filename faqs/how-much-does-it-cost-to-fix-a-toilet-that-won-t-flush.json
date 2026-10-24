@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-much-does-it-cost-to-fix-a-toilet-that-won-t-flush",
+  "name": "How much does it cost to fix a toilet that won't flush?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to fix a toilet that won't flush?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to repair a toilet that won't flush varies depending on the underlying issue. Simple repairs like adjusting a flapper or chain might be inexpensive. More complex problems, such as replacing a fill valve, addressing a significant blockage, or repairing internal tank components, could involve higher material and labor costs. Alpha-Plumbing Services provides transparent pricing after diagnosing the problem in your Goodyear, Buckeye, Avondale, Surprise, or Waddel home.",
+        "@type": "Answer",
+        "description": "The cost varies based on the issue, from simple adjustments to part replacements. A professional assessment is needed for an accurate estimate."
+      }
+    }
+  ],
+  "description": "The cost varies based on the issue, from simple adjustments to part replacements. A professional assessment is needed for an accurate estimate."
+}

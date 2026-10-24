@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-a-rough-in-and-why-is-it-important-for-toilet-replacement",
+  "name": "What is a 'rough-in' and why is it important for toilet replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a 'rough-in' and why is it important for toilet replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A toilet's 'rough-in' refers to the distance from the finished wall behind the toilet to the center of the drainpipe (flange) in the floor. Standard rough-in measurements are 12 inches, but 10-inch and 14-inch options also exist. Knowing your rough-in measurement is crucial when selecting a new toilet, as it ensures the new fixture will fit correctly. Our plumbers can measure your existing rough-in to help you choose a compatible toilet for your remodel in Goodyear or Buckeye.",
+        "@type": "Answer",
+        "description": "Rough-in is the distance from the wall to the drainpipe center. It's critical for selecting a new toilet that fits your bathroom."
+      }
+    }
+  ],
+  "description": "Rough-in is the distance from the wall to the drainpipe center. It's critical for selecting a new toilet that fits your bathroom."
+}

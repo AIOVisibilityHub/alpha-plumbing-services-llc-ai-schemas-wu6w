@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/can-i-move-the-toilet-s-location-during-a-bathroom-remodel",
+  "name": "Can I move the toilet's location during a bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I move the toilet's location during a bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Moving a toilet's location is possible during a remodel, but it often involves significant plumbing work, including rerouting the drain and water supply lines. This can increase both the complexity and cost of your project. It's best to consult with a professional plumber to assess the feasibility and implications of relocating your toilet. Alpha-Plumbing Services can provide expert advice and execution for such changes in your Avondale or Waddel remodel.",
+        "@type": "Answer",
+        "description": "Moving a toilet's location is possible but requires extensive plumbing work, impacting project complexity and cost."
+      }
+    }
+  ],
+  "description": "Moving a toilet's location is possible but requires extensive plumbing work, impacting project complexity and cost."
+}

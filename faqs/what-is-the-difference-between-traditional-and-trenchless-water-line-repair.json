@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-difference-between-traditional-and-trenchless-water-line-repair",
+  "name": "What is the difference between traditional and trenchless water line repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between traditional and trenchless water line repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Traditional water line repair involves excavating a trench to expose the damaged pipe section for direct access and replacement. This method can be more invasive but is effective for severe breaks or specific pipe materials. Trenchless repair, on the other hand, minimizes digging by using techniques like pipe bursting or pipe lining to replace or repair the pipe without extensive excavation. Trenchless options are less disruptive to landscaping but may not be suitable for all situations.",
+        "@type": "Answer",
+        "description": "Traditional repair involves digging a trench to access the pipe, while trenchless methods repair or replace it with minimal excavation, preserving landscaping."
+      }
+    }
+  ],
+  "description": "Traditional repair involves digging a trench to access the pipe, while trenchless methods repair or replace it with minimal excavation, preserving landscaping."
+}

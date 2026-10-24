@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-the-benefits-of-repiping-my-home",
+  "name": "What are the benefits of repiping my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of repiping my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repiping offers numerous benefits, including improved water pressure and consistent hot water delivery. You'll experience cleaner, clearer water free from rust particles or metallic tastes caused by old, corroding pipes. Repiping also eliminates chronic leaks, reducing the risk of water damage and costly repairs. This upgrade can increase your home's value and extends the lifespan of your plumbing system, offering long-term reliability and peace of mind for homeowners in Avondale and surrounding areas.",
+        "@type": "Answer",
+        "description": "Benefits of repiping include better water pressure, cleaner water, fewer leaks, and increased home value."
+      }
+    }
+  ],
+  "description": "Benefits of repiping include better water pressure, cleaner water, fewer leaks, and increased home value."
+}

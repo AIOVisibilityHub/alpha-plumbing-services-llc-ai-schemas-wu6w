@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/which-areas-do-alpha-plumbing-services-cover-for-faucet-repair",
+  "name": "Which areas do Alpha-Plumbing Services cover for faucet repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Which areas do Alpha-Plumbing Services cover for faucet repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Alpha-Plumbing Services provides comprehensive faucet repair services to several communities in Arizona. Our primary service areas include Goodyear, Buckeye, Avondale, Surprise, and Waddell. If you reside in one of these locations and are experiencing faucet issues, our team of experienced and licensed plumbers is ready to assist you. We are dedicated to offering reliable and efficient plumbing solutions right in your neighborhood.",
+        "@type": "Answer",
+        "description": "Alpha-Plumbing Services covers faucet repair in Goodyear, Buckeye, Avondale, Surprise, and Waddell."
+      }
+    }
+  ],
+  "description": "Alpha-Plumbing Services covers faucet repair in Goodyear, Buckeye, Avondale, Surprise, and Waddell."
+}

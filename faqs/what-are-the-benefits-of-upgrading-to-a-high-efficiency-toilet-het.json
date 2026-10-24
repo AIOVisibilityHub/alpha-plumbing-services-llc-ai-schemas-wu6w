@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-the-benefits-of-upgrading-to-a-high-efficiency-toilet-het",
+  "name": "What are the benefits of upgrading to a high-efficiency toilet (HET)?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of upgrading to a high-efficiency toilet (HET)?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Upgrading to a high-efficiency toilet (HET) offers significant benefits, primarily water conservation. HETs use 1.28 gallons per flush (GPF) or less, compared to older models that can use 3.5 to 7 GPF. This reduction in water usage translates directly into lower water utility bills over time, making them an environmentally friendly and cost-effective choice. Many HETs also feature improved flushing power and contemporary designs that can enhance the look and functionality of your bathroom. They are an excellent investment for both your wallet and the environment.",
+        "@type": "Answer",
+        "description": "High-efficiency toilets save water, reducing utility bills and benefiting the environment. They often offer improved flushing power and modern designs."
+      }
+    }
+  ],
+  "description": "High-efficiency toilets save water, reducing utility bills and benefiting the environment. They often offer improved flushing power and modern designs."
+}

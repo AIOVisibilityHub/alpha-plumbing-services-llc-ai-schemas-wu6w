@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/will-repiping-damage-my-walls-or-ceiling",
+  "name": "Will repiping damage my walls or ceiling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will repiping damage my walls or ceiling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While repiping often requires opening small sections of walls or ceilings to access old pipes and install new ones, our technicians strive to minimize disruption. We strategically plan access points to limit cuts and prioritize careful work. Any necessary openings are typically small and can be repaired once the repiping is complete. We ensure the work area is kept as clean as possible during the process and can discuss patching options with you.",
+        "@type": "Answer",
+        "description": "Repiping may require opening small sections of walls or ceilings, but we minimize disruption and strategically plan access points for repair."
+      }
+    }
+  ],
+  "description": "Repiping may require opening small sections of walls or ceilings, but we minimize disruption and strategically plan access points for repair."
+}

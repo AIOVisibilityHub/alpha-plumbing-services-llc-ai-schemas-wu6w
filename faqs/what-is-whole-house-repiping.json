@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-whole-house-repiping",
+  "name": "What is whole-house repiping?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is whole-house repiping?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whole-house repiping involves replacing all the existing water supply lines in your home with new, more durable materials like PEX or copper. This process addresses common issues found in older plumbing systems, such as corrosion, leaks, low water pressure, and discolored water. Repiping ensures a reliable and efficient plumbing system, improving water quality and preventing potential water damage to your property. It's a significant upgrade that can enhance your home's value and provide long-term peace of mind.",
+        "@type": "Answer",
+        "description": "Whole-house repiping replaces all old water supply lines in a home with new materials like PEX or copper to fix issues like leaks and low pressure."
+      }
+    }
+  ],
+  "description": "Whole-house repiping replaces all old water supply lines in a home with new materials like PEX or copper to fix issues like leaks and low pressure."
+}

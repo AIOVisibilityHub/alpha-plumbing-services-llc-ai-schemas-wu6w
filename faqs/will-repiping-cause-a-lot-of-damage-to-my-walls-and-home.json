@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/will-repiping-cause-a-lot-of-damage-to-my-walls-and-home",
+  "name": "Will repiping cause a lot of damage to my walls and home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will repiping cause a lot of damage to my walls and home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While repiping does involve opening up walls and ceilings to access existing pipes, our skilled plumbers use methods that minimize structural damage. We carefully plan access points and make precise cuts. After the new pipes are installed, the opened areas are prepared for patching and repair. While some cosmetic repairs like drywall patching and painting will be necessary afterward, the goal is to make the process as non-invasive as possible. We aim for efficient work with minimal impact on your living space.",
+        "@type": "Answer",
+        "description": "Repiping requires opening walls but our methods minimize damage; some drywall and paint repairs will be needed post-installation."
+      }
+    }
+  ],
+  "description": "Repiping requires opening walls but our methods minimize damage; some drywall and paint repairs will be needed post-installation."
+}
