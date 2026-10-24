@@ -5,7 +5,7 @@
     "@type": "Person",
     "name": "Anonymous"
   },
-  "reviewBody": "At the end of the day he noticed I had a mirror that needed hanging and he took pity on me and put it on the wall even though he had somewhere to be.",
+  "reviewBody": "\"George was very helpful, determined, and efficient.\"",
   "reviewRating": {
     "@type": "Rating",
     "ratingValue": 5,
@@ -13,13 +13,13 @@
   },
   "itemReviewed": {
     "@type": "Organization",
-    "name": "City Dweller, LLC",
-    "url": "https://citydweller.aiovisibility.net",
+    "name": "Alpha-Plumbing Services, LLC",
+    "url": "https://alpha-plumbing.aiovisibility.net",
     "makesOffer": {
       "@type": "Offer",
       "itemOffered": {
         "@type": "Service",
-        "name": "Handyman / general contractor services"
+        "name": "General plumbing service"
       }
     }
   }

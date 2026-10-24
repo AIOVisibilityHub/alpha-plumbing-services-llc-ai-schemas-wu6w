@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/who-is-responsible-for-coordinating-utility-shutoff-and-restoration",
+  "name": "Who is responsible for coordinating utility shutoff and restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Who is responsible for coordinating utility shutoff and restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Alpha-Plumbing Services, LLC handles the coordination of water utility shutoff and restoration for repairs we perform. Our technicians will communicate with you about the necessary steps and estimated timelines. While we manage the physical shutoff and restoration of water at your property, any coordination with external utility providers (e.g., city water department for street-level issues) will be discussed and facilitated by our team, ensuring a smooth process.",
+        "@type": "Answer",
+        "description": "Alpha-Plumbing Services, LLC coordinates water utility shutoff and restoration for repairs we conduct, communicating steps and timelines with you."
+      }
+    }
+  ],
+  "description": "Alpha-Plumbing Services, LLC coordinates water utility shutoff and restoration for repairs we conduct, communicating steps and timelines with you."
+}

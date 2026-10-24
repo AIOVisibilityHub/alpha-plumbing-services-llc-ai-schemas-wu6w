@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/can-a-small-gas-leak-be-ignored",
+  "name": "Can a small gas leak be ignored?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a small gas leak be ignored?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No, even a small gas leak should never be ignored. What appears to be a minor leak can quickly escalate into a dangerous situation, posing risks of explosion, fire, and health hazards from carbon monoxide poisoning. Natural gas and propane are highly combustible, and continuous exposure to even low levels can be harmful. Always treat any suspected gas leak, regardless of perceived size, as an emergency and contact Alpha-Plumbing Services, LLC immediately for professional assessment and repair to ensure your safety.",
+        "@type": "Answer",
+        "description": "No, never ignore any gas leak, no matter how small. All leaks are dangerous and require immediate professional attention to prevent serious hazards."
+      }
+    }
+  ],
+  "description": "No, never ignore any gas leak, no matter how small. All leaks are dangerous and require immediate professional attention to prevent serious hazards."
+}

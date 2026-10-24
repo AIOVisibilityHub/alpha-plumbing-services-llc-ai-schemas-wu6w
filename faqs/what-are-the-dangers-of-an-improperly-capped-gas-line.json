@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-the-dangers-of-an-improperly-capped-gas-line",
+  "name": "What are the dangers of an improperly capped gas line?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the dangers of an improperly capped gas line?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An improperly capped gas line poses severe dangers, primarily gas leaks. Natural gas is highly flammable and explosive, so even a small leak can lead to a fire or explosion. It also contains carbon monoxide, an odorless and colorless toxic gas that can cause serious health issues or even death if inhaled. An unprofessional capping job can result in a loose fitting, inadequate seal, or incorrect materials, all of which compromise safety. Always rely on a licensed professional to avoid these life-threatening risks.",
+        "@type": "Answer",
+        "description": "Improperly capped gas lines risk dangerous gas leaks, leading to potential fires, explosions, or carbon monoxide poisoning. Always use a licensed professional."
+      }
+    }
+  ],
+  "description": "Improperly capped gas lines risk dangerous gas leaks, leading to potential fires, explosions, or carbon monoxide poisoning. Always use a licensed professional."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-a-typical-fire-pit-gas-line-repair-take",
+  "name": "How long does a typical fire pit gas line repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical fire pit gas line repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a gas line repair for a fire pit can vary significantly. Simple repairs, such as tightening a loose fitting, might take less than an hour. More complex issues, like locating a hidden leak, replacing a lengthy section of pipe, or rerouting a line, could take several hours or even require a return visit if specialized parts are needed. Our technicians strive for efficient service while ensuring safety and quality, providing you with an estimated timeframe after assessing the problem.",
+        "@type": "Answer",
+        "description": "Repair times vary; simple fixes may take under an hour, while complex issues could take several hours or more. An estimate is provided after assessment."
+      }
+    }
+  ],
+  "description": "Repair times vary; simple fixes may take under an hour, while complex issues could take several hours or more. An estimate is provided after assessment."
+}

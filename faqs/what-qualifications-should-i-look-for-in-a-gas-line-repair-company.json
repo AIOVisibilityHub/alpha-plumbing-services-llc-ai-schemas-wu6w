@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-qualifications-should-i-look-for-in-a-gas-line-repair-company",
+  "name": "What qualifications should I look for in a gas line repair company?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What qualifications should I look for in a gas line repair company?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a company for gas line repair or replacement, look for licensed and insured professionals. Ensure they have specific experience with gas piping, not just general plumbing. Technicians should be certified and knowledgeable about local codes and safety regulations. Reputable companies will also offer transparent pricing and provide warranties on their work. Alpha-Plumbing Services, LLC meets these qualifications, serving Goodyear, Buckeye, Avondale, and Surprise.",
+        "@type": "Answer",
+        "description": "Choose licensed, insured professionals with specific gas piping experience, certifications, and knowledge of local codes, like Alpha-Plumbing Services, LLC."
+      }
+    }
+  ],
+  "description": "Choose licensed, insured professionals with specific gas piping experience, certifications, and knowledge of local codes, like Alpha-Plumbing Services, LLC."
+}

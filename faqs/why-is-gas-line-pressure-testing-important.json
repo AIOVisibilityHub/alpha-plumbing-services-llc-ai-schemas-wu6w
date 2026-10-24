@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/why-is-gas-line-pressure-testing-important",
+  "name": "Why is gas line pressure testing important?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is gas line pressure testing important?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Gas line pressure testing is vital for safety and compliance. Leaking gas lines can pose significant risks, including fire, explosion, carbon monoxide poisoning, and health issues. Regular testing helps identify and repair leaks before they become dangerous. It's often required by local codes for new installations, repairs, or when service has been disconnected, ensuring your gas system meets safety standards and operates reliably.",
+        "@type": "Answer",
+        "description": "It's important for safety to prevent gas leaks, which can cause fire, explosion, or carbon monoxide poisoning, and is often required by local codes."
+      }
+    }
+  ],
+  "description": "It's important for safety to prevent gas leaks, which can cause fire, explosion, or carbon monoxide poisoning, and is often required by local codes."
+}

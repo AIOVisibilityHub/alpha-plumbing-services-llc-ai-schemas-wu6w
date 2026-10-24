@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-do-plumbers-perform-post-repair-leak-testing",
+  "name": "How do plumbers perform post-repair leak testing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do plumbers perform post-repair leak testing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The method for post-repair leak testing depends on the type of repair. For water supply lines, plumbers often use pressure testing, where a system is pressurized and monitored for drops, indicating a leak. For drain lines, visual inspection, camera inspections, or a simple water flow test can be used. If the original leak was hidden, specialized tools like acoustic detectors, tracer gas, or thermal imaging cameras might be employed to ensure all areas are dry and leak-free. The goal is to comprehensively check the repaired area and surrounding connections to guarantee a complete fix.",
+        "@type": "Answer",
+        "description": "Plumbers perform post-repair leak testing using pressure tests for water lines, visual inspections for drains, and specialized tools like thermal cameras for hidden leaks."
+      }
+    }
+  ],
+  "description": "Plumbers perform post-repair leak testing using pressure tests for water lines, visual inspections for drains, and specialized tools like thermal cameras for hi"
+}

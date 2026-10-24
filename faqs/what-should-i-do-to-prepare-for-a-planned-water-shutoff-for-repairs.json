@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-should-i-do-to-prepare-for-a-planned-water-shutoff-for-repairs",
+  "name": "What should I do to prepare for a planned water shutoff for repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do to prepare for a planned water shutoff for repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before a planned water shutoff, we recommend filling a small amount of water for essential needs, such as drinking or flushing toilets, if you anticipate the shutoff will be for an extended period. Ensure all faucets are turned off once the water is shut off to prevent accidental leaks when the supply is restored. Our technicians will guide you through any specific preparations unique to your repair.",
+        "@type": "Answer",
+        "description": "Before a water shutoff, store some water for essentials and ensure all faucets are off. Our technicians will provide specific guidance."
+      }
+    }
+  ],
+  "description": "Before a water shutoff, store some water for essentials and ensure all faucets are off. Our technicians will provide specific guidance."
+}

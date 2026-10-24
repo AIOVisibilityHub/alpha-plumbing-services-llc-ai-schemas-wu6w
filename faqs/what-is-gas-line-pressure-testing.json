@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-gas-line-pressure-testing",
+  "name": "What is gas line pressure testing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is gas line pressure testing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Gas line pressure testing is a crucial safety procedure that involves introducing pressurized air or an inert gas into your gas lines to check for leaks. A gauge monitors the pressure over a specific time period. If the pressure drops, it indicates a leak in the system, which then needs to be located and repaired. This test helps ensure the integrity and safety of your gas piping, preventing potential hazards like gas leaks.",
+        "@type": "Answer",
+        "description": "Gas line pressure testing uses pressurized air to check for leaks in your gas lines, ensuring safety and system integrity."
+      }
+    }
+  ],
+  "description": "Gas line pressure testing uses pressurized air to check for leaks in your gas lines, ensuring safety and system integrity."
+}

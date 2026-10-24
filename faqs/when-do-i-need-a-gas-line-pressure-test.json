@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-do-i-need-a-gas-line-pressure-test",
+  "name": "When do I need a gas line pressure test?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need a gas line pressure test?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You typically need a gas line pressure test when installing new gas appliances or lines, after any gas line repairs, or if your gas service has been disconnected and needs to be reconnected. Some common signs like the smell of gas, dead vegetation near outdoor gas lines, or a sudden increase in your gas bill without increased usage might also indicate a leak and necessitate a test. Always consult with a professional if you suspect a leak.",
+        "@type": "Answer",
+        "description": "A test is needed for new installations, after repairs, reconnections, or if you suspect a gas leak due to smells or unexplained high bills."
+      }
+    }
+  ],
+  "description": "A test is needed for new installations, after repairs, reconnections, or if you suspect a gas leak due to smells or unexplained high bills."
+}

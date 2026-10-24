@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/is-gas-line-repair-covered-by-home-insurance",
+  "name": "Is gas line repair covered by home insurance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is gas line repair covered by home insurance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether gas line repair is covered by home insurance depends on your specific policy and the cause of the damage. Typically, sudden and accidental damage, such as from a falling tree or excavation accident, might be covered. However, damage due to wear and tear, lack of maintenance, or pre-existing conditions is usually not. It's best to review your homeowner's insurance policy or contact your provider directly to understand your coverage. Alpha-Plumbing Services, LLC can provide documentation for your insurance claims, but we advise confirming coverage beforehand.",
+        "@type": "Answer",
+        "description": "Home insurance coverage for gas line repair depends on your policy and the cause of damage. Accidental damage may be covered, but wear and tear usually is not."
+      }
+    }
+  ],
+  "description": "Home insurance coverage for gas line repair depends on your policy and the cause of damage. Accidental damage may be covered, but wear and tear usually is not."
+}

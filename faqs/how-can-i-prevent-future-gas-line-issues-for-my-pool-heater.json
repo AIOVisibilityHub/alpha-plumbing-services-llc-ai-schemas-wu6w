@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-can-i-prevent-future-gas-line-issues-for-my-pool-heater",
+  "name": "How can I prevent future gas line issues for my pool heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent future gas line issues for my pool heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preventing future gas line issues involves a few key practices. Regularly inspect the visible parts of your gas line for any signs of corrosion, damage, or wear. Ensure that the area around the gas line is clear of debris or landscaping that could cause damage. Avoid digging near buried gas lines without first calling 811 to locate utility lines. Scheduling periodic professional inspections of your pool heater and its gas connections can also help identify and address potential problems before they become serious leaks or hazards.",
+        "@type": "Answer",
+        "description": "Regularly inspect visible lines, keep the area clear, call 811 before digging, and schedule periodic professional inspections."
+      }
+    }
+  ],
+  "description": "Regularly inspect visible lines, keep the area clear, call 811 before digging, and schedule periodic professional inspections."
+}

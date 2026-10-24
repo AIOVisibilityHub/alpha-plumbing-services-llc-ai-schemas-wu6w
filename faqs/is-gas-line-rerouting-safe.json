@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/is-gas-line-rerouting-safe",
+  "name": "Is gas line rerouting safe?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is gas line rerouting safe?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When performed by licensed and experienced professionals, gas line rerouting is a very safe procedure. Alpha-Plumbing Services adheres to strict safety protocols, utilizes proper equipment, and ensures all work complies with local and national gas codes. Our technicians are trained to minimize risks, perform thorough leak tests, and restore gas service safely, prioritizing your home's security throughout the process.",
+        "@type": "Answer",
+        "description": "Yes, gas line rerouting is safe when performed by licensed professionals following strict safety protocols and codes."
+      }
+    }
+  ],
+  "description": "Yes, gas line rerouting is safe when performed by licensed professionals following strict safety protocols and codes."
+}

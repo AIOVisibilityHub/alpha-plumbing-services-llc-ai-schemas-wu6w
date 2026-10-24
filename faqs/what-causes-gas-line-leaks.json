@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-causes-gas-line-leaks",
+  "name": "What causes gas line leaks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes gas line leaks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Gas line leaks can stem from various issues, including aging pipes that corrode or deteriorate over time. Improper installation of gas lines or appliances is another common cause, leading to loose connections. External damage, such as from excavation work or natural shifts in the ground, can also compromise gas lines. Additionally, faulty appliance connectors or damaged shut-off valves can be sources of leaks. Regular inspections help identify and address these potential causes before they become serious.",
+        "@type": "Answer",
+        "description": "Gas line leaks are caused by aging pipes, improper installation, external damage, or faulty appliance connectors and valves."
+      }
+    }
+  ],
+  "description": "Gas line leaks are caused by aging pipes, improper installation, external damage, or faulty appliance connectors and valves."
+}

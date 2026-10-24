@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/who-is-qualified-to-disconnect-and-cap-a-gas-line",
+  "name": "Who is qualified to disconnect and cap a gas line?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Who is qualified to disconnect and cap a gas line?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Only a licensed and experienced plumber or a certified gas technician should disconnect and cap a gas line. Attempting this task yourself can be extremely dangerous due to the risks of gas leaks, fire, or explosions. Professionals have the necessary training, tools, and knowledge of local safety codes and regulations to perform the job safely and correctly. They ensure that all connections are secure and tested, providing peace of mind that your home is safe from gas hazards after the service is complete. Always verify a technician's credentials.",
+        "@type": "Answer",
+        "description": "Only a licensed plumber or certified gas technician is qualified to disconnect and cap a gas line safely. DIY attempts are extremely dangerous."
+      }
+    }
+  ],
+  "description": "Only a licensed plumber or certified gas technician is qualified to disconnect and cap a gas line safely. DIY attempts are extremely dangerous."
+}

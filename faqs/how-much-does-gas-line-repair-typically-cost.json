@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-much-does-gas-line-repair-typically-cost",
+  "name": "How much does gas line repair typically cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does gas line repair typically cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of gas line repair varies depending on the severity and location of the leak, the type of gas line (e.g., natural gas, propane), and the complexity of accessing the damaged section. Minor repairs, like tightening a loose connection, are less expensive than replacing an entire section of pipe, especially if it's an underground line requiring excavation. Alpha-Plumbing Services, LLC provides detailed estimates after a thorough inspection to ensure transparent pricing for our services in Goodyear, Buckeye, Avondale, and Surprise.",
+        "@type": "Answer",
+        "description": "Gas line repair costs vary based on leak severity, location, and pipe type. Alpha-Plumbing Services, LLC provides detailed estimates after inspection."
+      }
+    }
+  ],
+  "description": "Gas line repair costs vary based on leak severity, location, and pipe type. Alpha-Plumbing Services, LLC provides detailed estimates after inspection."
+}

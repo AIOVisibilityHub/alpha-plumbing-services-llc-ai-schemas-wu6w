@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-happens-during-the-gas-line-capping-process",
+  "name": "What happens during the gas line capping process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens during the gas line capping process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During the gas line capping process, a licensed plumber will first shut off the main gas supply to your property. Next, they will locate the section of the line to be capped or isolated. The damaged or unused section is then cut, and a specialized cap or plug is securely installed. After capping, the plumber will perform thorough leak detection tests to ensure no gas is escaping. Finally, the main gas supply is safely restored, and all connections are re-checked.",
+        "@type": "Answer",
+        "description": "The process involves shutting off gas, locating the line, cutting and capping the section, performing leak tests, and restoring gas."
+      }
+    }
+  ],
+  "description": "The process involves shutting off gas, locating the line, cutting and capping the section, performing leak tests, and restoring gas."
+}

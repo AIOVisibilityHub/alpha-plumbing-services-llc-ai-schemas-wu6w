@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-happens-during-a-gas-line-pressure-test",
+  "name": "What happens during a gas line pressure test?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens during a gas line pressure test?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During a gas line pressure test, a certified technician will first shut off the gas supply and disconnect any gas appliances. They then connect a pressure gauge to your gas piping system. Air or an inert gas is introduced into the lines, pressurizing them to a specific level. The pressure gauge is monitored for a set period. If the pressure remains stable, the system passes; if it drops, a leak is present and will need to be located and repaired.",
+        "@type": "Answer",
+        "description": "A technician shuts off gas, pressurizes the lines with air, and monitors a gauge for pressure drops to detect leaks."
+      }
+    }
+  ],
+  "description": "A technician shuts off gas, pressurizes the lines with air, and monitors a gauge for pressure drops to detect leaks."
+}

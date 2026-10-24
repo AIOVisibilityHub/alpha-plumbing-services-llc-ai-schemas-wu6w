@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-difference-between-a-rough-in-and-a-final-plumbing-inspection",
+  "name": "What is the difference between a rough-in and a final plumbing inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a rough-in and a final plumbing inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A rough-in plumbing inspection occurs after all new drain, waste, vent, and water supply lines are installed but before walls are closed or fixtures are set. This inspection ensures the underlying piping system meets codes. A final plumbing inspection happens after all plumbing fixtures (sinks, toilets, water heaters) are installed and the system is fully operational. The final inspection verifies the entire system is complete, functional, and compliant with all applicable codes.",
+        "@type": "Answer",
+        "description": "Rough-in inspection checks piping before walls are closed; final inspection verifies the complete, operational system after fixtures are installed."
+      }
+    }
+  ],
+  "description": "Rough-in inspection checks piping before walls are closed; final inspection verifies the complete, operational system after fixtures are installed."
+}

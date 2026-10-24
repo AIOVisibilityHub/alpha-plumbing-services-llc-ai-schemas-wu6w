@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-it-take-to-disconnect-and-cap-a-gas-appliance",
+  "name": "How long does it take to disconnect and cap a gas appliance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to disconnect and cap a gas appliance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required to disconnect and cap a gas appliance typically ranges from 30 minutes to 2 hours, depending on the specific appliance, its location, and the ease of access to the gas line. If the gas supply to the entire home needs to be temporarily shut off, or if there are unexpected complications like rusted pipes, the process might take a bit longer. A professional plumber can usually provide a more precise time estimate after an initial assessment of the situation on site.",
+        "@type": "Answer",
+        "description": "Disconnection and capping usually takes 30 minutes to 2 hours, depending on the appliance and gas line access. Complications can extend the time."
+      }
+    }
+  ],
+  "description": "Disconnection and capping usually takes 30 minutes to 2 hours, depending on the appliance and gas line access. Complications can extend the time."
+}

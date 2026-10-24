@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-should-i-call-a-professional-for-a-gas-line-leak",
+  "name": "When should I call a professional for a gas line leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for a gas line leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should always call a professional immediately if you suspect a gas line leak. Do not attempt to locate or fix the leak yourself. Natural gas and propane are highly flammable and dangerous. If you smell gas, hear a hissing sound, or notice other signs, prioritize your safety: evacuate everyone from the property, do not use light switches or electronics, and call Alpha-Plumbing Services, LLC or your gas utility from a safe location. Our trained technicians are equipped to handle gas leaks safely and effectively.",
+        "@type": "Answer",
+        "description": "Always call a professional immediately for any suspected gas line leak due to safety risks. Evacuate, avoid electronics, and call from a safe location."
+      }
+    }
+  ],
+  "description": "Always call a professional immediately for any suspected gas line leak due to safety risks. Evacuate, avoid electronics, and call from a safe location."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-gas-line-rerouting",
+  "name": "What is gas line rerouting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is gas line rerouting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Gas line rerouting involves repositioning an existing gas line when it is damaged, inaccessible, or interferes with other construction or renovation projects. This service ensures continued safe and efficient gas supply to your appliances by replacing or relocating sections of the piping. It's a critical plumbing task that should only be performed by licensed professionals to comply with local safety codes and prevent potential hazards.",
+        "@type": "Answer",
+        "description": "Gas line rerouting moves or replaces damaged or inaccessible gas pipes to ensure safety and functionality."
+      }
+    }
+  ],
+  "description": "Gas line rerouting moves or replaces damaged or inaccessible gas pipes to ensure safety and functionality."
+}

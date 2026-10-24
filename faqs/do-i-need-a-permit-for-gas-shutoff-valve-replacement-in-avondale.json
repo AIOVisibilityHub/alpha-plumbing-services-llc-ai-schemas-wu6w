@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/do-i-need-a-permit-for-gas-shutoff-valve-replacement-in-avondale",
+  "name": "Do I need a permit for gas shutoff valve replacement in Avondale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for gas shutoff valve replacement in Avondale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permit requirements for gas shutoff valve replacement can vary by specific location and the scope of the work. In areas like Avondale, Surprise, or Waddell, minor like-for-like replacements of an appliance shutoff valve may not always require a permit. However, if the work involves altering the main gas line or making significant changes, a permit is likely necessary. A professional plumbing service will be familiar with local regulations and can advise on specific permit needs.",
+        "@type": "Answer",
+        "description": "Permit needs for gas shutoff valve replacement in Avondale depend on the work's scope; significant gas line alterations typically require one. A professional can advise."
+      }
+    }
+  ],
+  "description": "Permit needs for gas shutoff valve replacement in Avondale depend on the work's scope; significant gas line alterations typically require one. A professional ca"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-difference-between-gas-line-repair-and-capping",
+  "name": "What is the difference between gas line repair and capping?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between gas line repair and capping?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Gas line repair addresses a specific fault, like a leak or a small damaged section, with the intention of restoring the line to full operational use. This might involve patching, replacing a section, or tightening a connection. Gas line capping, however, involves permanently sealing off a section of the line, usually because it is no longer needed, extensively damaged beyond economic repair, or being decommissioned. Both services prioritize safety but have different objectives regarding the gas line's future use.",
+        "@type": "Answer",
+        "description": "Repair fixes a fault to restore use, while capping permanently seals a line section, usually for decommissioning or severe damage."
+      }
+    }
+  ],
+  "description": "Repair fixes a fault to restore use, while capping permanently seals a line section, usually for decommissioning or severe damage."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/can-i-repair-a-gas-dryer-line-myself",
+  "name": "Can I repair a gas dryer line myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair a gas dryer line myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No, gas line repairs should only be performed by licensed and qualified professionals. Working with natural gas is extremely dangerous and can lead to severe consequences, including explosions, fires, carbon monoxide poisoning, and serious injury or death. Gas line installations and repairs are subject to strict safety codes and regulations that only trained experts can properly follow. Attempting a DIY repair risks your safety and your home's integrity, and may also void your home insurance policy.",
+        "@type": "Answer",
+        "description": "No, gas line repairs are dangerous and must only be performed by licensed professionals due to safety risks and strict regulations."
+      }
+    }
+  ],
+  "description": "No, gas line repairs are dangerous and must only be performed by licensed professionals due to safety risks and strict regulations."
+}

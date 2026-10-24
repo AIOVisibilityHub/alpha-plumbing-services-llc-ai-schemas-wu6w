@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-a-typical-gas-line-repair-for-a-range-take",
+  "name": "How long does a typical gas line repair for a range take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical gas line repair for a range take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a gas line repair for a range depends on the nature and severity of the problem. Simple repairs, like replacing a faulty valve or sealing a minor leak in an accessible area, might take an hour or two. More complex issues, such as replacing a significant section of piping or addressing hidden leaks, could require several hours or even a full day. Our technicians prioritize safety and efficiency, working to restore your gas service as quickly as possible while ensuring all repairs meet safety standards.",
+        "@type": "Answer",
+        "description": "Repair time for a gas line varies; simple fixes may take an hour or two, while complex issues could take several hours or a full day."
+      }
+    }
+  ],
+  "description": "Repair time for a gas line varies; simple fixes may take an hour or two, while complex issues could take several hours or a full day."
+}

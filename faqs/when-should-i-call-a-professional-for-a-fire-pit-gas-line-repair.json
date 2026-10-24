@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-should-i-call-a-professional-for-a-fire-pit-gas-line-repair",
+  "name": "When should I call a professional for a fire pit gas line repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for a fire pit gas line repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional plumber immediately if you suspect a gas leak (e.g., you smell gas or hear a hissing sound). Attempting to repair gas lines yourself without proper training and tools can be dangerous. Professionals have the expertise to safely diagnose and repair gas line issues, ensuring compliance with local safety codes. Even for seemingly minor issues like a consistently weak flame, professional assessment can prevent escalation and ensure optimal performance.",
+        "@type": "Answer",
+        "description": "Call a professional immediately if you suspect a gas leak. DIY gas line repairs are dangerous and can lead to safety hazards."
+      }
+    }
+  ],
+  "description": "Call a professional immediately if you suspect a gas leak. DIY gas line repairs are dangerous and can lead to safety hazards."
+}

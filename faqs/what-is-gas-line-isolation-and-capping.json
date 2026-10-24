@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-gas-line-isolation-and-capping",
+  "name": "What is gas line isolation and capping?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is gas line isolation and capping?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Gas line isolation and capping is the process of safely shutting off and sealing a section of a natural gas line that is damaged or no longer needed. This prevents gas leaks, ensures safety, and allows for repairs or decommissioning of appliances. A qualified technician will typically turn off the gas supply, cut the damaged section, and install a secure cap or plug, ensuring the remaining gas system is safe and functional.",
+        "@type": "Answer",
+        "description": "Gas line isolation and capping involves safely shutting off and sealing a damaged or unused section of a gas line to prevent leaks."
+      }
+    }
+  ],
+  "description": "Gas line isolation and capping involves safely shutting off and sealing a damaged or unused section of a gas line to prevent leaks."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-gas-line-rerouting-take",
+  "name": "How long does gas line rerouting take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does gas line rerouting take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of gas line rerouting varies significantly based on the complexity of the job. Minor reroutes for a single appliance might take a few hours, while extensive rerouting involving multiple appliances, excavation, or moving lines across a larger distance could take a full day or longer. Alpha-Plumbing Services will provide a time estimate after a thorough on-site assessment of your specific situation.",
+        "@type": "Answer",
+        "description": "The time for gas line rerouting varies, from a few hours for minor jobs to a full day or more for complex projects."
+      }
+    }
+  ],
+  "description": "The time for gas line rerouting varies, from a few hours for minor jobs to a full day or more for complex projects."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-much-does-it-cost-to-repair-a-gas-line-for-a-kitchen-range",
+  "name": "How much does it cost to repair a gas line for a kitchen range?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to repair a gas line for a kitchen range?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to repair a gas line for a kitchen range can vary significantly based on the complexity of the issue, the extent of the damage, and the materials required. Minor repairs, such as tightening a loose connection, will be less expensive than replacing a section of pipe. Factors like accessibility to the gas line and the need for permits or gas company involvement can also influence the total cost. Alpha-Plumbing Services provides upfront estimates after assessing the specific repair needed for your range.",
+        "@type": "Answer",
+        "description": "Gas line repair costs vary based on damage and complexity. Minor issues are less expensive than major pipe replacements. We provide estimates after assessment."
+      }
+    }
+  ],
+  "description": "Gas line repair costs vary based on damage and complexity. Minor issues are less expensive than major pipe replacements. We provide estimates after assessment."
+}

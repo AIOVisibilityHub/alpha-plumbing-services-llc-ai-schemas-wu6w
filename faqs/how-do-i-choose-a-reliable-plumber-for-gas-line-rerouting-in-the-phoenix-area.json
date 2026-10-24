@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-do-i-choose-a-reliable-plumber-for-gas-line-rerouting-in-the-phoenix-area",
+  "name": "How do I choose a reliable plumber for gas line rerouting in the Phoenix area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a reliable plumber for gas line rerouting in the Phoenix area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a plumber for gas line rerouting, look for companies with proper licensing, insurance, and specific experience in gas line work. Check their reputation through customer reviews and ask for transparent pricing. Alpha-Plumbing Services is licensed, insured, and experienced in gas line rerouting across Goodyear, Buckeye, Avondale, and Surprise, offering reliable and compliant services. We prioritize safety and customer satisfaction.",
+        "@type": "Answer",
+        "description": "Choose a plumber with licensing, insurance, gas line experience, good reviews, and transparent pricing in the Phoenix area."
+      }
+    }
+  ],
+  "description": "Choose a plumber with licensing, insurance, gas line experience, good reviews, and transparent pricing in the Phoenix area."
+}

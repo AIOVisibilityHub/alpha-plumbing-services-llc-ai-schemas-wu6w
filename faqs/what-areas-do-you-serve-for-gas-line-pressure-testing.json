@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-areas-do-you-serve-for-gas-line-pressure-testing",
+  "name": "What areas do you serve for gas line pressure testing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas do you serve for gas line pressure testing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Alpha-Plumbing Services, LLC provides gas line pressure testing and related services in specific areas. We primarily serve Goodyear, Buckeye, Avondale, and Surprise. If you are located in one of these communities, our licensed technicians are available to assist you with your gas line needs. Please contact us to schedule an appointment or to inquire about service availability in your exact location.",
+        "@type": "Answer",
+        "description": "Alpha-Plumbing Services, LLC provides gas line pressure testing in Goodyear, Buckeye, Avondale, and Surprise."
+      }
+    }
+  ],
+  "description": "Alpha-Plumbing Services, LLC provides gas line pressure testing in Goodyear, Buckeye, Avondale, and Surprise."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-gas-pipe-repair-or-replacement-usually-take",
+  "name": "How long does gas pipe repair or replacement usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does gas pipe repair or replacement usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of gas pipe repair or replacement depends on the complexity of the job. A minor leak repair might only take a few hours. However, a full gas line replacement, especially if it involves digging up underground pipes or re-routing lines, can take one to several days. Factors like accessing the damaged section and the scope of work influence the timeline. Alpha-Plumbing Services, LLC prioritizes efficient and safe service to restore your gas supply as quickly as possible.",
+        "@type": "Answer",
+        "description": "Minor repairs can take hours, while full replacements may take one to several days, depending on the job's complexity."
+      }
+    }
+  ],
+  "description": "Minor repairs can take hours, while full replacements may take one to several days, depending on the job's complexity."
+}

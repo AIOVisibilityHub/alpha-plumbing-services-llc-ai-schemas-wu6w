@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-a-typical-gas-line-repair-for-a-dryer-take",
+  "name": "How long does a typical gas line repair for a dryer take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical gas line repair for a dryer take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a gas line repair for a dryer depends on the specific problem. Simple repairs, like tightening a loose connection, can often be completed within an hour or two. More extensive issues, such as replacing a damaged section of pipe or rerouting the line, may take several hours. Our skilled technicians work efficiently to diagnose and resolve the issue safely and effectively, aiming to minimize disruption to your home. We'll provide an estimated timeframe after assessing the repair needs.",
+        "@type": "Answer",
+        "description": "Simple repairs may take 1-2 hours, while more complex issues like pipe replacement could take several hours. Our technicians work efficiently."
+      }
+    }
+  ],
+  "description": "Simple repairs may take 1-2 hours, while more complex issues like pipe replacement could take several hours. Our technicians work efficiently."
+}

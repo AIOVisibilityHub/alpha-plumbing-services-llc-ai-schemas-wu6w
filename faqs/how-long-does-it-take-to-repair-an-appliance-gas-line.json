@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-it-take-to-repair-an-appliance-gas-line",
+  "name": "How long does it take to repair an appliance gas line?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to repair an appliance gas line?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of an appliance gas line repair can vary based on the complexity of the issue. Simple repairs, like tightening a loose connection or replacing a small section of flexible line, might take an hour or two. More extensive repairs, such as locating a hidden leak, rerouting a significant portion of the line, or replacing rigid piping, could take several hours or even a full day. A professional plumber can provide a more accurate time estimate after diagnosing the specific problem on site.",
+        "@type": "Answer",
+        "description": "Repair times vary; simple fixes may take 1-2 hours, while complex repairs like rerouting lines could take several hours or a full day."
+      }
+    }
+  ],
+  "description": "Repair times vary; simple fixes may take 1-2 hours, while complex repairs like rerouting lines could take several hours or a full day."
+}

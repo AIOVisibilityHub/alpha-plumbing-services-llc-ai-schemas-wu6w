@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-type-of-gas-lines-do-you-repair-for-fire-pits",
+  "name": "What type of gas lines do you repair for fire pits?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What type of gas lines do you repair for fire pits?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We repair both natural gas and propane gas lines for fire pits. Natural gas lines are typically hard-piped from your home's main gas supply, while propane fire pits often use flexible hoses connected to a propane tank or a dedicated propane line. Our technicians are experienced in working with various materials, including copper, black iron, and flexible gas lines, ensuring safe and effective repairs regardless of your fire pit's fuel source.",
+        "@type": "Answer",
+        "description": "We repair natural gas and propane gas lines for fire pits, including various materials like copper, black iron, and flexible lines."
+      }
+    }
+  ],
+  "description": "We repair natural gas and propane gas lines for fire pits, including various materials like copper, black iron, and flexible lines."
+}

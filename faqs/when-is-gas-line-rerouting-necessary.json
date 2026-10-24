@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-is-gas-line-rerouting-necessary",
+  "name": "When is gas line rerouting necessary?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is gas line rerouting necessary?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Rerouting a gas line becomes necessary in several situations. This includes when an existing line is corroded, leaking, or physically damaged, or when it's blocking a new addition, appliance installation, or structural renovation. If a gas line is in a hazardous location, such as in a flood-prone area or too close to electrical wiring, rerouting may also be required for safety compliance. Always consult a professional for assessment.",
+        "@type": "Answer",
+        "description": "Gas line rerouting is necessary when lines are damaged, inaccessible, leaking, or obstructing new construction or renovations."
+      }
+    }
+  ],
+  "description": "Gas line rerouting is necessary when lines are damaged, inaccessible, leaking, or obstructing new construction or renovations."
+}

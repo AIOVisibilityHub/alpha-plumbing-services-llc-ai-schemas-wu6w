@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-should-i-do-immediately-if-i-suspect-a-gas-leak-near-my-water-heater",
+  "name": "What should I do immediately if I suspect a gas leak near my water heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately if I suspect a gas leak near my water heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you suspect a gas leak near your water heater, act quickly for safety. First, turn off the gas supply to your water heater if it's safe and easily accessible, or turn off the main gas supply to your home if you know how. Immediately evacuate all occupants from the building. Do not use any electrical devices, switches, phones, or even light a match, as a spark could ignite the gas. Once you are in a safe location away from the property, call your gas utility company and a licensed plumber. Do not re-enter your home until it has been declared safe by professionals.",
+        "@type": "Answer",
+        "description": "If you suspect a gas leak, turn off the gas, evacuate everyone from the building immediately, and call your gas utility and a plumber from a safe location."
+      }
+    }
+  ],
+  "description": "If you suspect a gas leak, turn off the gas, evacuate everyone from the building immediately, and call your gas utility and a plumber from a safe location."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/is-post-repair-leak-testing-included-in-the-plumbing-repair-cost-or-is-it-an-ext",
+  "name": "Is post-repair leak testing included in the plumbing repair cost, or is it an extra charge?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is post-repair leak testing included in the plumbing repair cost, or is it an extra charge?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether post-repair leak testing is included in the initial repair cost or charged separately can vary between plumbing companies. Often, a basic confirmation check is part of the standard repair service to ensure the immediate fix is successful. However, more extensive or specialized leak detection methods, especially if the original leak was complex or hidden, might incur an additional charge. It's always best to clarify this with your plumbing technician before any work begins. Alpha-Plumbing Services provides transparent pricing and will discuss all testing costs upfront.",
+        "@type": "Answer",
+        "description": "Basic leak testing is often included, but extensive or specialized detection for complex leaks may be an extra charge. Always confirm pricing upfront."
+      }
+    }
+  ],
+  "description": "Basic leak testing is often included, but extensive or specialized detection for complex leaks may be an extra charge. Always confirm pricing upfront."
+}

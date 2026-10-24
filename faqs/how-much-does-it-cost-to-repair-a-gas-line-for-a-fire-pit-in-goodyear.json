@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-much-does-it-cost-to-repair-a-gas-line-for-a-fire-pit-in-goodyear",
+  "name": "How much does it cost to repair a gas line for a fire pit in Goodyear?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to repair a gas line for a fire pit in Goodyear?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of gas line repair for a fire pit varies depending on the issue's complexity, the type of gas line (natural gas or propane), and the specific parts needed. Minor repairs, like tightening connections or replacing a small section of line, are typically less expensive than major issues such as a completely corroded line or extensive rerouting. We provide a detailed estimate after a thorough inspection of your fire pit's gas system to ensure transparency and accurate pricing.",
+        "@type": "Answer",
+        "description": "Repair costs depend on the issue's complexity, gas type, and parts needed. We provide an estimate after inspection."
+      }
+    }
+  ],
+  "description": "Repair costs depend on the issue's complexity, gas type, and parts needed. We provide an estimate after inspection."
+}

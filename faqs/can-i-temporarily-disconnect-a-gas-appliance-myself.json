@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/can-i-temporarily-disconnect-a-gas-appliance-myself",
+  "name": "Can I temporarily disconnect a gas appliance myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I temporarily disconnect a gas appliance myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No, you should never attempt to temporarily disconnect a gas appliance yourself. Working with gas lines requires specialized knowledge, tools, and adherence to strict safety protocols. Incorrect handling can lead to dangerous gas leaks, fires, explosions, or carbon monoxide exposure. Even a temporary disconnection needs to be performed by a licensed professional to ensure the gas supply is safely shut off, the line is properly sealed, and all connections are thoroughly checked for leaks. Your safety and the safety of your household depend on it.",
+        "@type": "Answer",
+        "description": "No, never attempt to disconnect a gas appliance yourself, even temporarily. Always hire a licensed professional due to severe safety risks."
+      }
+    }
+  ],
+  "description": "No, never attempt to disconnect a gas appliance yourself, even temporarily. Always hire a licensed professional due to severe safety risks."
+}

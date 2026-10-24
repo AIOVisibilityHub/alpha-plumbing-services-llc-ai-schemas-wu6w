@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/do-i-need-permits-to-disconnect-a-gas-appliance-in-arizona",
+  "name": "Do I need permits to disconnect a gas appliance in Arizona?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits to disconnect a gas appliance in Arizona?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In many areas, permits are not strictly required for simply disconnecting and capping an existing gas line, especially if no new gas lines are being installed or major modifications are made. However, regulations can vary by specific city or county within Arizona, such as Goodyear, Buckeye, or Avondale. It is always best to consult with your local plumbing professional, like Alpha-Plumbing Services, who is knowledgeable about the local codes and can advise you on any specific permitting requirements for your project, ensuring compliance and safety.",
+        "@type": "Answer",
+        "description": "Permit requirements for disconnecting a gas appliance vary by specific city or county in Arizona. Consult a local plumber for guidance on your area."
+      }
+    }
+  ],
+  "description": "Permit requirements for disconnecting a gas appliance vary by specific city or county in Arizona. Consult a local plumber for guidance on your area."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/are-there-any-additional-costs-associated-with-utility-shutoff-and-restoration-c",
+  "name": "Are there any additional costs associated with utility shutoff and restoration coordination?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there any additional costs associated with utility shutoff and restoration coordination?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our standard service charges for plumbing repairs typically include the necessary coordination and execution of water utility shutoff and restoration as part of the job. There are no separate, itemized fees specifically for turning water on or off when performed in conjunction with a repair. Any potential complexities that might incur additional costs would be discussed and approved by you upfront.",
+        "@type": "Answer",
+        "description": "Utility shutoff and restoration coordination are included in our standard plumbing repair service charges, with no separate fees."
+      }
+    }
+  ],
+  "description": "Utility shutoff and restoration coordination are included in our standard plumbing repair service charges, with no separate fees."
+}

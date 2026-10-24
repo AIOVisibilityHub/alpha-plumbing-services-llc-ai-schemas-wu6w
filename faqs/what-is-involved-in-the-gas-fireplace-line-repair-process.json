@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-involved-in-the-gas-fireplace-line-repair-process",
+  "name": "What is involved in the gas fireplace line repair process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the gas fireplace line repair process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The gas fireplace line repair process typically begins with a thorough inspection to locate the exact source and extent of the leak or damage. Once identified, our technicians will safely shut off the gas supply. Depending on the issue, this might involve repairing a faulty valve, sealing a leak, replacing corroded pipe sections, or adjusting connections. After the repair, the line is tested for leaks, and the gas supply is restored, ensuring all components function correctly and safely before completing the service.",
+        "@type": "Answer",
+        "description": "The process involves inspection, gas shut-off, repair (e.g., sealing leaks, replacing parts), and thorough testing for safety."
+      }
+    }
+  ],
+  "description": "The process involves inspection, gas shut-off, repair (e.g., sealing leaks, replacing parts), and thorough testing for safety."
+}

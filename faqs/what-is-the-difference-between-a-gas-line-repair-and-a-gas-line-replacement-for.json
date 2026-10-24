@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-difference-between-a-gas-line-repair-and-a-gas-line-replacement-for",
+  "name": "What is the difference between a gas line repair and a gas line replacement for a water heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a gas line repair and a gas line replacement for a water heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A gas line repair involves fixing a specific, localized issue, such as sealing a small leak, tightening a loose connection, or replacing a short, damaged section of pipe. The goal is to restore the integrity of the existing gas line without overhauling the entire system. A gas line replacement, conversely, entails removing and installing a completely new gas line or a significant portion of it. This is typically necessary when the existing line is extensively corroded, severely damaged, outdated, or when multiple repairs would be less cost-effective than a full replacement. A professional assessment determines the best course of action.",
+        "@type": "Answer",
+        "description": "Repair fixes a localized issue, while replacement involves installing an entirely new gas line or a significant portion due to extensive damage or age."
+      }
+    }
+  ],
+  "description": "Repair fixes a localized issue, while replacement involves installing an entirely new gas line or a significant portion due to extensive damage or age."
+}

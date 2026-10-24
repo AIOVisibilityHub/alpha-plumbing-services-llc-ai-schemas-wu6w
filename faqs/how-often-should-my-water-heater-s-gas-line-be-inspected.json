@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-often-should-my-water-heater-s-gas-line-be-inspected",
+  "name": "How often should my water heater's gas line be inspected?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should my water heater's gas line be inspected?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is recommended to have your water heater's gas line, along with the entire water heater unit, inspected annually by a qualified plumbing professional. Regular inspections help identify potential issues like minor leaks, corrosion, or wear and tear before they escalate into major problems. This proactive approach ensures the safe and efficient operation of your water heater, extending its lifespan and providing peace of mind regarding gas safety in your home. An annual check-up can save you from unexpected emergencies and costly repairs.",
+        "@type": "Answer",
+        "description": "Your water heater's gas line should be inspected annually by a professional to ensure safety and prevent potential issues."
+      }
+    }
+  ],
+  "description": "Your water heater's gas line should be inspected annually by a professional to ensure safety and prevent potential issues."
+}

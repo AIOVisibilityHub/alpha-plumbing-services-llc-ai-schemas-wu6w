@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-does-it-mean-to-disconnect-or-cap-a-gas-appliance",
+  "name": "What does it mean to disconnect or cap a gas appliance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does it mean to disconnect or cap a gas appliance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Disconnecting or capping a gas appliance involves safely detaching it from the gas supply line and sealing the open gas pipe to prevent leaks. This service is essential when removing an old appliance, renovating a space, or if an appliance is deemed unsafe. A qualified technician uses specialized tools to ensure the gas line is securely shut off and capped according to safety standards, protecting your home from potential hazards like gas leaks or carbon monoxide exposure. This is a job that requires professional expertise to guarantee safety and compliance.",
+        "@type": "Answer",
+        "description": "Disconnecting or capping a gas appliance means safely detaching it from the gas supply and sealing the pipe to prevent leaks. This is done for safety when removing or replacing appliances."
+      }
+    }
+  ],
+  "description": "Disconnecting or capping a gas appliance means safely detaching it from the gas supply and sealing the pipe to prevent leaks. This is done for safety when remov"
+}

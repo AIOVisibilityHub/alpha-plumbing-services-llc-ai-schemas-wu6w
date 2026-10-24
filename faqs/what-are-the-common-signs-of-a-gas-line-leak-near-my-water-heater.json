@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-the-common-signs-of-a-gas-line-leak-near-my-water-heater",
+  "name": "What are the common signs of a gas line leak near my water heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs of a gas line leak near my water heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of a gas line leak near your water heater include a distinct sulfur-like odor, often described as rotten eggs. You might also hear a hissing or whistling sound near the gas line or water heater, indicating gas escaping. Other indicators can be visible damage to the gas line itself, such as corrosion or dents. If plants near an outdoor gas line are dying without apparent cause, it could also signal a leak. Never ignore these signs, as a gas leak can be dangerous.",
+        "@type": "Answer",
+        "description": "Signs of a gas leak near your water heater include a rotten egg smell, a hissing sound, or visible damage to the gas line."
+      }
+    }
+  ],
+  "description": "Signs of a gas leak near your water heater include a rotten egg smell, a hissing sound, or visible damage to the gas line."
+}

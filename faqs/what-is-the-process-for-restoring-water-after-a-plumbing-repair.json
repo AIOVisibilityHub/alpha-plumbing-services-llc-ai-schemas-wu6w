@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-process-for-restoring-water-after-a-plumbing-repair",
+  "name": "What is the process for restoring water after a plumbing repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for restoring water after a plumbing repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After completing the plumbing repair, our technicians will carefully restore your water supply. This typically involves slowly opening the main water shutoff valve. We then check for leaks, bleed air from the lines by opening faucets throughout the property, and ensure all fixtures are functioning correctly. We will confirm proper operation with you before considering the job complete and ensuring everything is in order.",
+        "@type": "Answer",
+        "description": "After repairs, we restore water by slowly opening the main valve, checking for leaks, bleeding air from lines, and ensuring all fixtures work properly."
+      }
+    }
+  ],
+  "description": "After repairs, we restore water by slowly opening the main valve, checking for leaks, bleeding air from lines, and ensuring all fixtures work properly."
+}

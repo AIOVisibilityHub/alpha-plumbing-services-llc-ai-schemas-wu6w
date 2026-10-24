@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-happens-if-a-new-leak-is-found-during-post-repair-testing",
+  "name": "What happens if a new leak is found during post-repair testing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens if a new leak is found during post-repair testing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If a new leak is detected during post-repair testing, the plumber will investigate to determine if it's related to the initial repair or a new, separate issue. If the new leak is directly caused by or associated with the recently completed repair work, reputable plumbers will typically address it at no additional cost as part of their service warranty. If it's an unrelated issue, they will provide an assessment and estimate for the new repair. The purpose of this testing is to catch such problems immediately, preventing further damage and ensuring a complete resolution.",
+        "@type": "Answer",
+        "description": "If a new leak is found, the plumber will determine its cause. If related to the repair, it's usually fixed under warranty; if unrelated, a new estimate is provided."
+      }
+    }
+  ],
+  "description": "If a new leak is found, the plumber will determine its cause. If related to the repair, it's usually fixed under warranty; if unrelated, a new estimate is provi"
+}

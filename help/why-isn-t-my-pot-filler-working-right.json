@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Why Isn't My Pot Filler Working Right?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's super frustrating when a new appliance doesn't live up to expectations, right? Especially something as convenient as an above range pot filler. If yours isn't quite right, there are a few things that might be going on. Maybe the water pressure feels a bit off, or it's not extending or retracting as smoothly as it should. Sometimes, folks try to DIY the installation to save a buck, but these fixtures need precise connections to your water line to function properly. Improper sealing or alignment can lead to drips and leaks, which nobody wants in their kitchen, especially above an expensive range! \n\nAnother common issue we see is when the existing plumbing just isn't quite up to snuff for the demands of a new pot filler. If your home's water lines are older or undersized, it could impact flow. Or, perhaps the specific model you picked has a quirky installation requirement that got overlooked. Getting all the measurements just right for placement and ensuring the mounting is super secure is also key – you don't want a wobbly fixture over your stove! If you've got any doubts, or if your pot filler is just not behaving, it's always smart to have a professional take a look. We've got over 25 years of experience ensuring these kinds of installations are done right and last, protecting your home from potential water damage and giving you that promised convenience. We handle these kinds of remodel plumbing jobs all the time in Goodyear, Buckeye, and throughout the West Valley.",
+  "datePublished": "2026-08-19"
+}

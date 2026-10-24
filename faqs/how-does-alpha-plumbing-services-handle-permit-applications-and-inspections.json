@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-does-alpha-plumbing-services-handle-permit-applications-and-inspections",
+  "name": "How does Alpha-Plumbing Services handle permit applications and inspections?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does Alpha-Plumbing Services handle permit applications and inspections?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Alpha-Plumbing Services manages the entire permit and inspection coordination process for our clients. Once we assess your plumbing project and determine that a permit is required, we will prepare and submit the necessary application and plans to the relevant municipal building department in your area (Goodyear, Buckeye, Avondale, Surprise, or Waddel). We then schedule and coordinate all required inspections, ensuring our work meets local codes. Our team will be on-site to facilitate inspections and address any questions from the inspector.",
+        "@type": "Answer",
+        "description": "We handle all permit applications and coordinate municipal inspections, ensuring compliance with local codes in your service area."
+      }
+    }
+  ],
+  "description": "We handle all permit applications and coordinate municipal inspections, ensuring compliance with local codes in your service area."
+}

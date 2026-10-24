@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Considering a Tankless Heater? Avoid These Pitfalls!",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Going tankless for your water heater is a fantastic upgrade, offering endless hot water and energy savings. But like any home improvement, there are some common mistakes folks make that can lead to headaches down the road. First off, don't skimp on sizing. People often underestimate their hot water needs, leading to a unit that can't quite keep up when multiple showers or appliances are running simultaneously. It’s crucial to match the unit's GPM (gallons per minute) with your household's peak demand. \n\nSecondly, improper ventilation is a big no-no. Tankless heaters produce exhaust that needs to be safely vented outside, and if that system isn't installed correctly, you could have serious indoor air quality issues. Another mistake is neglecting water quality. Hard water can lead to mineral buildup in your tankless unit, reducing efficiency and lifespan. Many homeowners forget about regular flushing or installing a water softener, which is essential for these systems in areas with hard water. \n\nLastly, trying to DIY the installation is a frequent misstep. Tankless heaters involve precise gas or electrical connections, water lines, and venting – it's a complex job that really needs a licensed plumber. Incorrect installation can void warranties, create safety hazards, and lead to costly repairs. A professional plumber will ensure everything is up to code, safe, and performing optimally right from the start. Give us a call at Alpha-Plumbing Services; we specialize in water heater upgrades and can help you get it right.",
+  "datePublished": "2026-08-19"
+}

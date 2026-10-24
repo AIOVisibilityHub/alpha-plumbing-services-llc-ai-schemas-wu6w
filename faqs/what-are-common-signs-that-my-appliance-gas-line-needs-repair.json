@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-common-signs-that-my-appliance-gas-line-needs-repair",
+  "name": "What are common signs that my appliance gas line needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my appliance gas line needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several indicators suggest a potential issue with your appliance gas line. A distinct sulfur or 'rotten egg' smell is the most critical sign of a gas leak and requires immediate attention. Other signs include a hissing or whistling sound near the gas line, a visible crack or damage to the line itself, or appliances not functioning correctly due to insufficient gas supply. If you notice any of these, it's important to contact a qualified professional to inspect and address the problem promptly to ensure safety.",
+        "@type": "Answer",
+        "description": "Common signs include a rotten egg smell, hissing sounds, visible damage, or appliance malfunction. Prompt professional inspection is crucial for safety."
+      }
+    }
+  ],
+  "description": "Common signs include a rotten egg smell, hissing sounds, visible damage, or appliance malfunction. Prompt professional inspection is crucial for safety."
+}

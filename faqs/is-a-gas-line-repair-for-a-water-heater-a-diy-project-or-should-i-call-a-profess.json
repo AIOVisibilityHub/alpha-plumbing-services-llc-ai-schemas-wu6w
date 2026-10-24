@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/is-a-gas-line-repair-for-a-water-heater-a-diy-project-or-should-i-call-a-profess",
+  "name": "Is a gas line repair for a water heater a DIY project, or should I call a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is a gas line repair for a water heater a DIY project, or should I call a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Gas line repairs, especially those connected to appliances like water heaters, should always be handled by a qualified and licensed plumbing professional. Working with gas lines involves significant safety risks, including the potential for gas leaks, explosions, or carbon monoxide poisoning if not performed correctly. Professionals have the necessary tools, training, and experience to diagnose problems accurately, make safe and compliant repairs, and ensure your system meets local safety codes. Attempting DIY repairs could lead to severe consequences and may void warranties or insurance policies.",
+        "@type": "Answer",
+        "description": "Gas line repairs for water heaters are not DIY projects. Always call a licensed plumbing professional due to significant safety risks."
+      }
+    }
+  ],
+  "description": "Gas line repairs for water heaters are not DIY projects. Always call a licensed plumbing professional due to significant safety risks."
+}

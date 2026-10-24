@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-can-i-tell-if-i-have-a-gas-leak-that-requires-isolation",
+  "name": "How can I tell if I have a gas leak that requires isolation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if I have a gas leak that requires isolation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs of a gas leak include the distinct smell of sulfur or rotten eggs, a hissing sound near gas lines or appliances, and a visible cloud or mist near a gas line. You might also notice dying vegetation in an area where a gas line runs underground. If you suspect a gas leak, do not operate electrical switches, light matches, or use your phone. Evacuate your property immediately, then call your gas provider and Alpha-Plumbing Services, LLC from a safe location.",
+        "@type": "Answer",
+        "description": "Signs of a gas leak include a sulfur smell, hissing sound, or dying plants near a gas line. Evacuate and call professionals."
+      }
+    }
+  ],
+  "description": "Signs of a gas leak include a sulfur smell, hissing sound, or dying plants near a gas line. Evacuate and call professionals."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-common-signs-of-a-gas-line-leak-near-my-range",
+  "name": "What are common signs of a gas line leak near my range?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs of a gas line leak near my range?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of a gas line leak near your range include a distinct smell of sulfur or rotten eggs, which is the odor added to natural gas for safety. You might also hear a hissing sound near the gas line or appliance, indicating escaping gas. Other indicators can be a sudden increase in your gas bill without a change in usage, or plants in the vicinity of an outdoor gas line turning brown or dying. If you notice any of these signs, it's crucial to evacuate the area and contact a professional immediately.",
+        "@type": "Answer",
+        "description": "Signs of a gas line leak include a rotten egg smell, a hissing sound, or an unexplained increase in your gas bill. If you detect these, evacuate and call a professional."
+      }
+    }
+  ],
+  "description": "Signs of a gas line leak include a rotten egg smell, a hissing sound, or an unexplained increase in your gas bill. If you detect these, evacuate and call a prof"
+}

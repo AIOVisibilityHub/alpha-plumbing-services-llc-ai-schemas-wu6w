@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-post-repair-leak-testing-and-why-is-it-important",
+  "name": "What is post-repair leak testing and why is it important?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is post-repair leak testing and why is it important?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Post-repair leak testing is a crucial step after any plumbing repair to confirm that the issue has been fully resolved and no new leaks have been introduced. This process typically involves various methods, such as pressure testing water lines, visual inspections of drain lines, or using specialized equipment like thermal cameras or acoustic leak detectors for hidden pipes. It's essential because even a small, unaddressed leak can lead to significant water damage, mold growth, increased water bills, and structural issues over time. Verifying the repair immediately saves you from future headaches and costly damages.",
+        "@type": "Answer",
+        "description": "Post-repair leak testing confirms that a plumbing repair is successful and prevents future water damage. It ensures no new leaks exist after the service."
+      }
+    }
+  ],
+  "description": "Post-repair leak testing confirms that a plumbing repair is successful and prevents future water damage. It ensures no new leaks exist after the service."
+}

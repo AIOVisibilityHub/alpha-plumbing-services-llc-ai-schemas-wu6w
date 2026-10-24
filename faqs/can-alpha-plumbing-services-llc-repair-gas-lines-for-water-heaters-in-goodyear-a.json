@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/can-alpha-plumbing-services-llc-repair-gas-lines-for-water-heaters-in-goodyear-a",
+  "name": "Can Alpha-Plumbing Services, LLC repair gas lines for water heaters in Goodyear, AZ?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can Alpha-Plumbing Services, LLC repair gas lines for water heaters in Goodyear, AZ?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Alpha-Plumbing Services, LLC provides expert gas line repair services for water heaters in Goodyear, AZ, and surrounding areas. Our licensed and experienced plumbers are equipped to diagnose and safely repair various gas line issues, ensuring your water heater operates safely and efficiently. We understand the specific regulations and requirements for plumbing services in Goodyear. When you contact us, we'll schedule a timely appointment to assess your situation and provide a reliable solution.",
+        "@type": "Answer",
+        "description": "Yes, Alpha-Plumbing Services, LLC offers expert gas line repair for water heaters in Goodyear, AZ, and surrounding service areas."
+      }
+    }
+  ],
+  "description": "Yes, Alpha-Plumbing Services, LLC offers expert gas line repair for water heaters in Goodyear, AZ, and surrounding service areas."
+}

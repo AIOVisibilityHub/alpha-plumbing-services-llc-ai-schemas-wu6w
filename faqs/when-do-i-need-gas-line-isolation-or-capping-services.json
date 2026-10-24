@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-do-i-need-gas-line-isolation-or-capping-services",
+  "name": "When do I need gas line isolation or capping services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need gas line isolation or capping services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You typically need gas line isolation or capping when you have a gas leak, are removing a gas appliance (like a stove or dryer), are undertaking renovations that affect gas lines, or if a section of your gas line is damaged. It's crucial to address these issues promptly to prevent dangerous gas leaks and ensure the safety of your property. If you suspect a leak, evacuate immediately and call your gas provider and a licensed plumber.",
+        "@type": "Answer",
+        "description": "You need gas line isolation or capping when there's a gas leak, removing an appliance, renovating, or if a gas line section is damaged."
+      }
+    }
+  ],
+  "description": "You need gas line isolation or capping when there's a gas leak, removing an appliance, renovating, or if a gas line section is damaged."
+}

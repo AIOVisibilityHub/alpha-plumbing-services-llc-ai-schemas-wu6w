@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/why-should-i-choose-alpha-plumbing-services-llc-for-gas-pipe-work-in-goodyear",
+  "name": "Why should I choose Alpha-Plumbing Services, LLC for gas pipe work in Goodyear?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why should I choose Alpha-Plumbing Services, LLC for gas pipe work in Goodyear?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Alpha-Plumbing Services, LLC is a local, licensed, and insured plumbing company with extensive experience in gas pipe repair and replacement. We are familiar with the specific codes and regulations in Goodyear, Buckeye, Avondale, and Surprise. Our certified technicians prioritize safety and efficient service, using modern techniques and equipment to ensure reliable and lasting solutions. We are committed to providing transparent pricing and exceptional customer service for all your gas line needs.",
+        "@type": "Answer",
+        "description": "Choose Alpha-Plumbing Services, LLC for licensed, experienced, local gas pipe professionals familiar with area codes, prioritizing safety and quality service."
+      }
+    }
+  ],
+  "description": "Choose Alpha-Plumbing Services, LLC for licensed, experienced, local gas pipe professionals familiar with area codes, prioritizing safety and quality service."
+}

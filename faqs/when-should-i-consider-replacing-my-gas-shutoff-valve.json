@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-should-i-consider-replacing-my-gas-shutoff-valve",
+  "name": "When should I consider replacing my gas shutoff valve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my gas shutoff valve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing your gas shutoff valve if it shows signs of wear, corrosion, is difficult to turn, or if it's an older model that doesn't meet current safety standards. If you are replacing a gas appliance, it's also a good time to inspect and potentially replace the shutoff valve for that appliance. Additionally, if you notice any gas smell near the valve, call a professional immediately, as this indicates a potential leak requiring urgent attention and replacement.",
+        "@type": "Answer",
+        "description": "Replace your gas shutoff valve if it's old, corroded, hard to operate, doesn't meet current standards, or if you smell gas."
+      }
+    }
+  ],
+  "description": "Replace your gas shutoff valve if it's old, corroded, hard to operate, doesn't meet current standards, or if you smell gas."
+}

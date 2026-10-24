@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/do-i-need-to-be-home-when-alpha-plumbing-services-llc-performs-a-shutoff-or-rest",
+  "name": "Do I need to be home when Alpha-Plumbing Services, LLC performs a shutoff or restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to be home when Alpha-Plumbing Services, LLC performs a shutoff or restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we require an adult to be present at the property when our technicians are performing a water shutoff or restoration. This ensures access to all necessary areas, allows for immediate communication regarding the repair progress, and enables us to verify the successful restoration of water service and address any immediate concerns you might have.",
+        "@type": "Answer",
+        "description": "Yes, an adult must be present during water shutoff or restoration for access, communication, and to confirm successful service."
+      }
+    }
+  ],
+  "description": "Yes, an adult must be present during water shutoff or restoration for access, communication, and to confirm successful service."
+}

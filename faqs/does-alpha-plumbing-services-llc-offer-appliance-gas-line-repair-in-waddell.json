@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/does-alpha-plumbing-services-llc-offer-appliance-gas-line-repair-in-waddell",
+  "name": "Does Alpha-Plumbing Services, LLC offer appliance gas line repair in Waddell?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does Alpha-Plumbing Services, LLC offer appliance gas line repair in Waddell?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Alpha-Plumbing Services, LLC proudly offers professional appliance gas line repair and replacement services in Waddell, Arizona. Our licensed and experienced plumbers are equipped to handle a variety of gas line issues, ensuring your appliances are safely and efficiently connected. We are committed to serving the local communities within our service area, which includes Waddell, providing reliable and prompt solutions for your plumbing needs. Contact us to schedule an inspection or service appointment.",
+        "@type": "Answer",
+        "description": "Yes, Alpha-Plumbing Services, LLC provides professional appliance gas line repair and replacement services in Waddell, Arizona. Contact us for service."
+      }
+    }
+  ],
+  "description": "Yes, Alpha-Plumbing Services, LLC provides professional appliance gas line repair and replacement services in Waddell, Arizona. Contact us for service."
+}

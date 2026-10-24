@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-a-gas-shutoff-valve-and-why-is-it-important",
+  "name": "What is a gas shutoff valve and why is it important?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a gas shutoff valve and why is it important?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A gas shutoff valve is a safety device that allows you to quickly turn off the natural gas supply to an appliance or your entire property. Its primary purpose is to prevent gas leaks from escalating into dangerous situations, such as fires or explosions. In an emergency, knowing how to locate and operate these valves can be crucial for your safety and to minimize potential damage. Regular maintenance and ensuring they are in working order are essential for household safety.",
+        "@type": "Answer",
+        "description": "A gas shutoff valve is a safety device that controls the flow of natural gas, essential for preventing leaks and ensuring safety in emergencies."
+      }
+    }
+  ],
+  "description": "A gas shutoff valve is a safety device that controls the flow of natural gas, essential for preventing leaks and ensuring safety in emergencies."
+}

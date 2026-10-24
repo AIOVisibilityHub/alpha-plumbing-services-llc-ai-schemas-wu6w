@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-common-signs-that-my-fireplace-gas-line-needs-repair",
+  "name": "What are common signs that my fireplace gas line needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my fireplace gas line needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs indicating a gas line repair for your fireplace may be needed include a distinct sulfur or rotten egg smell (a gas leak), a hissing sound near the gas line, or a noticeable drop in the fireplace's flame quality or consistency. You might also observe visible damage to the gas line itself or unusually high gas bills without an increase in usage. If you notice any of these signs, it's crucial to contact a qualified professional immediately to ensure safety and prevent further issues.",
+        "@type": "Answer",
+        "description": "Look for a sulfur smell, hissing sounds, poor flame quality, or visible line damage. Contact a professional if you notice these signs."
+      }
+    }
+  ],
+  "description": "Look for a sulfur smell, hissing sounds, poor flame quality, or visible line damage. Contact a professional if you notice these signs."
+}

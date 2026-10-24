@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-difference-between-a-gas-leak-inspection-and-a-gas-line-repair",
+  "name": "What is the difference between a gas leak inspection and a gas line repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a gas leak inspection and a gas line repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A gas leak inspection is the process of identifying if a leak exists, locating its precise source, and determining its severity using specialized tools and techniques. This is a diagnostic service. Gas line repair, on the other hand, is the actual process of fixing the identified leak, which might involve sealing, replacing sections of pipe, tightening connections, or installing new components. An inspection precedes a repair, providing the necessary information to safely and effectively address the issue.",
+        "@type": "Answer",
+        "description": "An inspection identifies and locates a leak, while a repair is the process of fixing the identified leak."
+      }
+    }
+  ],
+  "description": "An inspection identifies and locates a leak, while a repair is the process of fixing the identified leak."
+}

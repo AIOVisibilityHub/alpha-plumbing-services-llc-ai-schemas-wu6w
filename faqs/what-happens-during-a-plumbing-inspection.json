@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-happens-during-a-plumbing-inspection",
+  "name": "What happens during a plumbing inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens during a plumbing inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During a plumbing inspection, a municipal inspector will review the installed plumbing work to ensure it complies with local building codes and safety regulations. This may involve checking pipe sizing, material quality, proper venting, drainage slopes, and fixture connections. Inspections often occur at various stages of a project, such as rough-in (before walls are closed) and final (after all work is complete). The inspector's approval confirms the work meets required standards.",
+        "@type": "Answer",
+        "description": "A municipal inspector checks installed plumbing work against local building codes and safety regulations."
+      }
+    }
+  ],
+  "description": "A municipal inspector checks installed plumbing work against local building codes and safety regulations."
+}

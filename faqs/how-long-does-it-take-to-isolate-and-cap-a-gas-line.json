@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-it-take-to-isolate-and-cap-a-gas-line",
+  "name": "How long does it take to isolate and cap a gas line?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to isolate and cap a gas line?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required to isolate and cap a gas line can vary depending on the complexity of the job. Simple capping of an accessible line might take an hour or two. More complex situations involving locating a hidden leak, accessing difficult areas, or extensive damage could take several hours. A licensed plumber will assess the situation and provide an estimated timeline before starting any work to ensure you are aware of the process.",
+        "@type": "Answer",
+        "description": "The duration varies from an hour for simple capping to several hours for complex jobs, depending on access and damage."
+      }
+    }
+  ],
+  "description": "The duration varies from an hour for simple capping to several hours for complex jobs, depending on access and damage."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-post-repair-leak-testing-usually-take",
+  "name": "How long does post-repair leak testing usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does post-repair leak testing usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of post-repair leak testing can vary based on the complexity of the original repair and the size of the plumbing system being tested. A simple visual check after a minor faucet repair might take only a few minutes. However, a comprehensive pressure test on a whole-house water system or the use of specialized detection equipment for hidden leaks could take anywhere from 30 minutes to several hours. Plumbers will typically provide an estimate for the testing duration as part of the overall repair service, ensuring sufficient time to confirm the integrity of the repair.",
+        "@type": "Answer",
+        "description": "Testing time varies by repair complexity, from a few minutes for simple checks to several hours for extensive pressure testing or hidden leak detection."
+      }
+    }
+  ],
+  "description": "Testing time varies by repair complexity, from a few minutes for simple checks to several hours for extensive pressure testing or hidden leak detection."
+}

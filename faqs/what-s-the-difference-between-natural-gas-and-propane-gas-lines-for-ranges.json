@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-s-the-difference-between-natural-gas-and-propane-gas-lines-for-ranges",
+  "name": "What's the difference between natural gas and propane gas lines for ranges?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between natural gas and propane gas lines for ranges?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While both natural gas and propane are used for cooking ranges, their gas lines and appliance connections are different. Natural gas is supplied directly from a utility company through an underground pipeline, requiring a specific type of connection and regulator designed for its lower pressure. Propane, often stored in tanks, uses higher pressure and requires different orifices and regulators on the appliance. Ranges are manufactured for one type of gas or the other, and conversion kits are sometimes available but must be installed by a qualified technician to ensure safe operation.",
+        "@type": "Answer",
+        "description": "Natural gas lines deliver gas from a utility at lower pressure, while propane uses tanks at higher pressure. Ranges are specific to one type, and conversions require professional installation."
+      }
+    }
+  ],
+  "description": "Natural gas lines deliver gas from a utility at lower pressure, while propane uses tanks at higher pressure. Ranges are specific to one type, and conversions re"
+}

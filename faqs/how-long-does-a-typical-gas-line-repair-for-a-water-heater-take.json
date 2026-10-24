@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-a-typical-gas-line-repair-for-a-water-heater-take",
+  "name": "How long does a typical gas line repair for a water heater take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical gas line repair for a water heater take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a gas line repair for a water heater depends on the complexity of the issue. Simple repairs, like tightening a connection or replacing a small fitting, might take a licensed plumber one to three hours. More extensive repairs, such as replacing a longer section of pipe, rerouting a line, or addressing multiple leaks, could take several hours or even a full day. Factors like accessibility and the need for new parts also influence the timeline. Your plumber will provide an estimated timeframe after assessing the problem.",
+        "@type": "Answer",
+        "description": "Repair time varies from one to three hours for simple fixes to several hours or a full day for complex issues, depending on the problem's scope."
+      }
+    }
+  ],
+  "description": "Repair time varies from one to three hours for simple fixes to several hours or a full day for complex issues, depending on the problem's scope."
+}

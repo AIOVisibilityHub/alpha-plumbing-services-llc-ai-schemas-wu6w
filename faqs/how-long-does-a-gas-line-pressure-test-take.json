@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-a-gas-line-pressure-test-take",
+  "name": "How long does a gas line pressure test take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a gas line pressure test take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a gas line pressure test can vary depending on the size and complexity of your gas system. A standard test for a residential property usually takes between 30 minutes to a few hours. This includes the setup, the actual testing period for pressure monitoring, and initial assessment. If a leak is found, locating and repairing it will extend the overall time needed for the service.",
+        "@type": "Answer",
+        "description": "A standard residential gas line pressure test typically takes 30 minutes to a few hours, depending on system size and complexity."
+      }
+    }
+  ],
+  "description": "A standard residential gas line pressure test typically takes 30 minutes to a few hours, depending on system size and complexity."
+}
