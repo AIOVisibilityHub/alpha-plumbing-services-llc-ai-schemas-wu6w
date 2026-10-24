@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-should-i-consider-when-choosing-a-new-bathtub",
+  "name": "What should I consider when choosing a new bathtub?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider when choosing a new bathtub?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a new bathtub, consider its material, size, and style. Common materials include acrylic, fiberglass, and cast iron, each with different durability, heat retention, and cost. Measure your space carefully to ensure the new tub fits. Think about how you'll use the tub; a soaker tub is different from one primarily for showering. Also, factor in color, features like jets, and your overall bathroom aesthetic.",
+        "@type": "Answer",
+        "description": "Consider material, size, style, and how you will use the tub when choosing a new one."
+      }
+    }
+  ],
+  "description": "Consider material, size, style, and how you will use the tub when choosing a new one."
+}

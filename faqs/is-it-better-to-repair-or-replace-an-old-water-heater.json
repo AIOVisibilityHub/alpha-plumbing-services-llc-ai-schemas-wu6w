@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/is-it-better-to-repair-or-replace-an-old-water-heater",
+  "name": "Is it better to repair or replace an old water heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is it better to repair or replace an old water heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The decision to repair or replace an old water heater depends on several factors, including its age, the cost of the repair, and its energy efficiency. If a water heater is more than 10-12 years old, frequently needs repairs, or is inefficient, replacement might be more cost-effective in the long run. Minor issues might warrant a repair. We can assess your specific situation and recommend the best option.",
+        "@type": "Answer",
+        "description": "Repair or replace an old water heater based on its age, repair cost, and efficiency. We can assess your situation for the best option."
+      }
+    }
+  ],
+  "description": "Repair or replace an old water heater based on its age, repair cost, and efficiency. We can assess your situation for the best option."
+}

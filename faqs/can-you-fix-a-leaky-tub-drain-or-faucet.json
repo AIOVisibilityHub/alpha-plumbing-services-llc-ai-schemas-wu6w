@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/can-you-fix-a-leaky-tub-drain-or-faucet",
+  "name": "Can you fix a leaky tub drain or faucet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you fix a leaky tub drain or faucet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we can fix leaky tub drains and faucets. Leaks are common issues that can lead to water waste, increased utility bills, and potential water damage to your bathroom subfloor or ceiling below. Our plumbers can diagnose the cause of the leak, whether it's a worn-out gasket, a faulty cartridge, loose connections, or a damaged drain assembly, and perform the necessary repairs to stop the leak effectively.",
+        "@type": "Answer",
+        "description": "Yes, we can fix leaky tub drains and faucets, diagnosing and repairing issues like worn gaskets, faulty cartridges, or loose connections."
+      }
+    }
+  ],
+  "description": "Yes, we can fix leaky tub drains and faucets, diagnosing and repairing issues like worn gaskets, faulty cartridges, or loose connections."
+}

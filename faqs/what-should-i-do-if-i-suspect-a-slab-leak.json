@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-should-i-do-if-i-suspect-a-slab-leak",
+  "name": "What should I do if I suspect a slab leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if I suspect a slab leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you suspect a slab leak, which is a leak under your home's concrete foundation, the first step is to contact a professional leak detection service immediately. Turn off your main water supply if you can clearly identify a specific area of concern to prevent further damage. Avoid attempting to locate or repair it yourself, as this can cause more harm. Professionals have the tools and expertise to accurately detect and then advise on the repair process for slab leaks.",
+        "@type": "Answer",
+        "description": "If you suspect a slab leak, contact a professional immediately and consider turning off your main water supply to prevent further damage."
+      }
+    }
+  ],
+  "description": "If you suspect a slab leak, contact a professional immediately and consider turning off your main water supply to prevent further damage."
+}

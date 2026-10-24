@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/can-slab-leaks-cause-foundation-damage",
+  "name": "Can slab leaks cause foundation damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can slab leaks cause foundation damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, slab leaks can absolutely cause significant foundation damage. When water continuously escapes under the concrete slab, it can erode the soil supporting the foundation, leading to uneven settling. This can manifest as cracks in your foundation, interior walls, and exterior brickwork. Over time, the structural integrity of your home can be compromised. Excess moisture can also lead to mold growth and pest infestations. Addressing a slab leak promptly is crucial to prevent costly and extensive foundation repairs.",
+        "@type": "Answer",
+        "description": "Yes, continuous water leaks under the slab can erode soil, causing foundation cracks, uneven settling, and compromising structural integrity."
+      }
+    }
+  ],
+  "description": "Yes, continuous water leaks under the slab can erode soil, causing foundation cracks, uneven settling, and compromising structural integrity."
+}

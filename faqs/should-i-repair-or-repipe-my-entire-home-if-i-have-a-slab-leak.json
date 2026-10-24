@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/should-i-repair-or-repipe-my-entire-home-if-i-have-a-slab-leak",
+  "name": "Should I repair or repipe my entire home if I have a slab leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I repair or repipe my entire home if I have a slab leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The decision to repair a specific leak or repipe your entire home depends on several factors. If you have an older home with galvanized or polybutylene pipes that are prone to multiple leaks, a full repipe might be a more cost-effective long-term solution. For newer homes or isolated incidents with PEX or copper pipes, a targeted repair may suffice. Consider the age and condition of your plumbing system, the frequency of past leaks, and your budget. A professional plumber can help assess the best course of action for your situation.",
+        "@type": "Answer",
+        "description": "The choice between repair and repiping depends on your plumbing system's age, pipe material, and the frequency of past leaks."
+      }
+    }
+  ],
+  "description": "The choice between repair and repiping depends on your plumbing system's age, pipe material, and the frequency of past leaks."
+}

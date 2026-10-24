@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-preparation-do-i-need-to-do-before-a-shower-replacement-project-starts",
+  "name": "What preparation do I need to do before a shower replacement project starts?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation do I need to do before a shower replacement project starts?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your shower replacement project begins, we recommend clearing out personal items from the bathroom and adjacent areas to protect them from dust and allow our team clear access. If possible, consider removing delicate wall decorations or anything that might be impacted by vibrations. Our team will cover floors and protect surrounding areas, but ensuring a clear workspace helps the project run smoothly and efficiently. We will discuss specific preparations during your consultation.",
+        "@type": "Answer",
+        "description": "Before shower replacement, clear personal items from the bathroom and adjacent areas for worker access and to protect belongings from dust."
+      }
+    }
+  ],
+  "description": "Before shower replacement, clear personal items from the bathroom and adjacent areas for worker access and to protect belongings from dust."
+}

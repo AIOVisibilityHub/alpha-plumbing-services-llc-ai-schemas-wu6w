@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-process-for-repairing-a-leaking-pipe",
+  "name": "What is the process for repairing a leaking pipe?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for repairing a leaking pipe?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our repair process typically begins with identifying the exact location and cause of the leak using diagnostic tools. Once located, we assess the damage and determine the best repair strategy, which could involve patching, re-piping a section, or full pipe replacement. We then execute the repair, test the system for integrity, and clean up the work area. Our goal is a lasting solution.",
+        "@type": "Answer",
+        "description": "The process involves locating the leak, assessing damage, determining the best repair strategy (patching, re-piping, or replacement), executing the repair, and testing the system."
+      }
+    }
+  ],
+  "description": "The process involves locating the leak, assessing damage, determining the best repair strategy (patching, re-piping, or replacement), executing the repair, and"
+}

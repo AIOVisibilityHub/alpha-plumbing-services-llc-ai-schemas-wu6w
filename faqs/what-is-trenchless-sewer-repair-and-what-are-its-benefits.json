@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-trenchless-sewer-repair-and-what-are-its-benefits",
+  "name": "What is trenchless sewer repair, and what are its benefits?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is trenchless sewer repair, and what are its benefits?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Trenchless sewer repair is a method of repairing or replacing underground sewer lines without extensive digging. Common trenchless methods include pipe bursting and pipe lining. Pipe bursting involves pulling a new pipe through the old one, breaking it apart in the process. Pipe lining involves inserting a resin-coated liner into the existing pipe, which hardens to form a new pipe within the old. The main benefits include minimal disruption to your property, faster completion times, and often a more cost-effective solution compared to traditional excavation.",
+        "@type": "Answer",
+        "description": "Trenchless sewer repair fixes pipes without extensive digging, using methods like pipe bursting or lining, offering minimal disruption and faster completion."
+      }
+    }
+  ],
+  "description": "Trenchless sewer repair fixes pipes without extensive digging, using methods like pipe bursting or lining, offering minimal disruption and faster completion."
+}

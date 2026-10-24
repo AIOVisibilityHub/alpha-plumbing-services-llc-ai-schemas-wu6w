@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-do-professionals-detect-hidden-water-leaks",
+  "name": "How do professionals detect hidden water leaks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do professionals detect hidden water leaks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional leak detection involves specialized tools and techniques to locate leaks without destructive methods. This can include acoustic listening devices that detect the sound of leaking water, thermal imaging cameras to identify temperature changes caused by water, and moisture meters to pinpoint damp areas. Sometimes, pressure testing pipes or using tracer gas may also be necessary to accurately find the leak source within walls, under slabs, or underground.",
+        "@type": "Answer",
+        "description": "Professionals use specialized tools like acoustic listening devices, thermal cameras, and moisture meters to find hidden leaks."
+      }
+    }
+  ],
+  "description": "Professionals use specialized tools like acoustic listening devices, thermal cameras, and moisture meters to find hidden leaks."
+}

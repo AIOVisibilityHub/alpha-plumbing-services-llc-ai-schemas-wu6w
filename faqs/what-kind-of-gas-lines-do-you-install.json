@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-kind-of-gas-lines-do-you-install",
+  "name": "What kind of gas lines do you install?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of gas lines do you install?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We install various types of gas lines suitable for residential and commercial applications, adhering to all local codes. Our common installations include rigid black iron pipes, which are durable and traditionally used for gas distribution. We also work with Corrugated Stainless Steel Tubing (CSST), a flexible alternative that can reduce installation time and is often preferred in certain situations. The choice of material depends on the specific project requirements, appliance needs, and local regulations to ensure optimal performance and safety.",
+        "@type": "Answer",
+        "description": "We install various gas lines, including rigid black iron pipes and flexible Corrugated Stainless Steel Tubing (CSST), based on project needs and codes."
+      }
+    }
+  ],
+  "description": "We install various gas lines, including rigid black iron pipes and flexible Corrugated Stainless Steel Tubing (CSST), based on project needs and codes."
+}

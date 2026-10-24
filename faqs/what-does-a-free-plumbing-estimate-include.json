@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-does-a-free-plumbing-estimate-include",
+  "name": "What does a 'free plumbing estimate' include?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does a 'free plumbing estimate' include?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A free plumbing estimate from Alpha-Plumbing Services includes an assessment of your plumbing issue, a detailed explanation of the necessary repairs or installations, and a transparent breakdown of the projected costs. Our technicians will visit your home in Goodyear, Buckeye, Avondale, Surprise, or Waddell to diagnose the problem and provide a clear, written estimate without any hidden fees. This allows you to understand the scope of work and make an informed decision before committing to any services.",
+        "@type": "Answer",
+        "description": "A free plumbing estimate includes an assessment of your plumbing issue, an explanation of repairs, and a detailed cost breakdown."
+      }
+    }
+  ],
+  "description": "A free plumbing estimate includes an assessment of your plumbing issue, an explanation of repairs, and a detailed cost breakdown."
+}

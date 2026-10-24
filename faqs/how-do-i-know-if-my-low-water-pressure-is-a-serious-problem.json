@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-do-i-know-if-my-low-water-pressure-is-a-serious-problem",
+  "name": "How do I know if my low water pressure is a serious problem?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my low water pressure is a serious problem?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor fluctuations can be normal, consistently low water pressure throughout your home, or pressure that suddenly drops, can indicate a serious problem. If multiple fixtures are affected, it suggests a main line or whole-house issue. Visible leaks, strange noises from pipes, or unusually high water bills accompanying low pressure are also red flags. Ignoring persistent low pressure can lead to further damage, such as undetected leaks causing structural issues.",
+        "@type": "Answer",
+        "description": "Persistent low water pressure across multiple fixtures, sudden drops, or accompanying issues like visible leaks or high water bills often indicate a serious problem. It's best to investigate promptly."
+      }
+    }
+  ],
+  "description": "Persistent low water pressure across multiple fixtures, sudden drops, or accompanying issues like visible leaks or high water bills often indicate a serious pro"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-common-residential-plumbing-issues-do-you-handle",
+  "name": "What common residential plumbing issues do you handle?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What common residential plumbing issues do you handle?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Alpha-Plumbing Services, LLC addresses a wide range of common residential plumbing issues. This includes leaky faucets and pipes, clogged drains, toilet repairs, water heater maintenance and replacement, garbage disposal problems, and low water pressure. We also handle more complex situations such as pipe repairs due to corrosion or leaks, and fixture installations. Our goal is to provide reliable solutions to keep your home's plumbing system functioning efficiently in Goodyear, Buckeye, Avondale, Surprise, and Waddel.",
+        "@type": "Answer",
+        "description": "We handle common residential plumbing issues like leaky faucets, clogged drains, toilet repairs, water heater services, and more across Goodyear, Buckeye, Avondale, Surprise, and Waddel."
+      }
+    }
+  ],
+  "description": "We handle common residential plumbing issues like leaky faucets, clogged drains, toilet repairs, water heater services, and more across Goodyear, Buckeye, Avond"
+}

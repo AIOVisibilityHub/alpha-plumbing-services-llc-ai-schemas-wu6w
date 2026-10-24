@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-kind-of-pipes-can-alpha-plumbing-services-repair",
+  "name": "What kind of pipes can Alpha-Plumbing Services repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of pipes can Alpha-Plumbing Services repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Alpha-Plumbing Services is equipped to repair leaks in various types of residential and commercial piping systems. This includes common materials like copper, PEX, PVC, and galvanized steel. Our technicians are trained to handle diverse plumbing configurations and pipe diameters. We assess each situation individually to ensure the most appropriate and lasting repair solution.",
+        "@type": "Answer",
+        "description": "We repair leaks in various pipe types, including copper, PEX, PVC, and galvanized steel. Our technicians are trained for diverse plumbing systems."
+      }
+    }
+  ],
+  "description": "We repair leaks in various pipe types, including copper, PEX, PVC, and galvanized steel. Our technicians are trained for diverse plumbing systems."
+}

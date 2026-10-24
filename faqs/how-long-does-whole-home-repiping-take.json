@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-whole-home-repiping-take",
+  "name": "How long does whole-home repiping take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does whole-home repiping take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a whole-home repiping project varies depending on the size and complexity of your home, typically ranging from three to seven days. Our team at Alpha-Plumbing Services works efficiently to minimize disruption, often completing the work in sections to ensure you have access to water for most of the process. We provide a detailed timeline upfront after an initial assessment, keeping you informed every step of the way.",
+        "@type": "Answer",
+        "description": "Whole-home repiping usually takes three to seven days, depending on your home's size. We work to minimize water disruption during the process."
+      }
+    }
+  ],
+  "description": "Whole-home repiping usually takes three to seven days, depending on your home's size. We work to minimize water disruption during the process."
+}

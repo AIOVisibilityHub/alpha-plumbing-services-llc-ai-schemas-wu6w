@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-whole-home-repiping",
+  "name": "What is whole-home repiping?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is whole-home repiping?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whole-home repiping involves replacing all existing water supply lines within your home. This typically includes the hot and cold water lines that run to fixtures like sinks, showers, toilets, and appliances. Repiping addresses issues such as corroded pipes, low water pressure, discolored water, or frequent leaks, improving water quality and system reliability throughout the entire residence. Alpha-Plumbing Services ensures a complete and efficient replacement with modern, durable materials.",
+        "@type": "Answer",
+        "description": "Whole-home repiping is the process of replacing all water supply lines in your house to improve water quality and system reliability."
+      }
+    }
+  ],
+  "description": "Whole-home repiping is the process of replacing all water supply lines in your house to improve water quality and system reliability."
+}

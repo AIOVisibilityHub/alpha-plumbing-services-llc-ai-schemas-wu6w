@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-areas-does-alpha-plumbing-services-cover-for-tub-repair",
+  "name": "What areas does Alpha-Plumbing Services cover for tub repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas does Alpha-Plumbing Services cover for tub repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Alpha-Plumbing Services provides expert tub repair services to a specific range of communities. Our primary service areas include Goodyear, Buckeye, Avondale, and Surprise. If you are located in one of these areas and require professional tub repair, please contact us for reliable and efficient service. We focus on these communities to ensure prompt and high-quality service delivery.",
+        "@type": "Answer",
+        "description": "Alpha-Plumbing Services covers tub repair in Goodyear, Buckeye, Avondale, and Surprise for reliable and efficient service."
+      }
+    }
+  ],
+  "description": "Alpha-Plumbing Services covers tub repair in Goodyear, Buckeye, Avondale, and Surprise for reliable and efficient service."
+}

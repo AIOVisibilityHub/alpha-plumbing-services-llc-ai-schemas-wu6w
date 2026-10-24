@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-materials-are-used-for-re-piping",
+  "name": "What materials are used for re-piping?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are used for re-piping?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For complete water re-pipes, the primary materials used are PEX (cross-linked polyethylene) and copper. Copper piping has been a long-standing standard, known for its durability and resistance to corrosion. PEX piping is a more modern alternative, offering flexibility, heat resistance, and a lower cost, while also being resistant to scale and chlorine. Both materials are excellent choices, and Alpha-Plumbing Services can discuss the pros and cons of each to help you determine the best option for your home's specific needs and budget.",
+        "@type": "Answer",
+        "description": "Common materials are PEX and copper. Copper is durable and corrosion-resistant, while PEX is flexible, cost-effective, and resistant to scale and chlorine."
+      }
+    }
+  ],
+  "description": "Common materials are PEX and copper. Copper is durable and corrosion-resistant, while PEX is flexible, cost-effective, and resistant to scale and chlorine."
+}

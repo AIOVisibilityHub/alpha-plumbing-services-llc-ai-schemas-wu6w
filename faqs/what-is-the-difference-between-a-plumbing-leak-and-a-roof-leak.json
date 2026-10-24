@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-difference-between-a-plumbing-leak-and-a-roof-leak",
+  "name": "What is the difference between a plumbing leak and a roof leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a plumbing leak and a roof leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A plumbing leak originates from your home's water supply lines, drain pipes, or fixtures, often manifesting as wet spots under sinks, on floors, or inside walls. A roof leak occurs when water penetrates your roof, typically from damaged shingles, flashing, or improper sealing, and usually shows up as water stains on ceilings, especially after rain. While both cause water damage, their sources and repair methods are different, requiring different types of inspection.",
+        "@type": "Answer",
+        "description": "Plumbing leaks are from pipes or fixtures, while roof leaks enter through the roof structure, often after rain."
+      }
+    }
+  ],
+  "description": "Plumbing leaks are from pipes or fixtures, while roof leaks enter through the roof structure, often after rain."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-a-water-pressure-regulator-and-how-does-it-affect-water-pressure",
+  "name": "What is a water pressure regulator, and how does it affect water pressure?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a water pressure regulator, and how does it affect water pressure?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A water pressure regulator is a device installed on your main water line that reduces and maintains water pressure at a safe level for your home's plumbing system. If this device fails or is improperly set, it can lead to either excessively high or unacceptably low water pressure throughout your property. A malfunctioning regulator might be stuck, preventing sufficient water flow, or it could be set too low, causing weak water output at fixtures. Regular inspection ensures it functions correctly.",
+        "@type": "Answer",
+        "description": "A water pressure regulator controls the water pressure entering your home. If it's faulty or set incorrectly, it can cause very low or high water pressure at your fixtures."
+      }
+    }
+  ],
+  "description": "A water pressure regulator controls the water pressure entering your home. If it's faulty or set incorrectly, it can cause very low or high water pressure at yo"
+}

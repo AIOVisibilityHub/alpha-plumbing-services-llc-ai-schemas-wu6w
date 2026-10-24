@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-types-of-pipes-are-used-for-repiping",
+  "name": "What types of pipes are used for repiping?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of pipes are used for repiping?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When repiping a home, common materials include PEX (cross-linked polyethylene) and copper. PEX is a flexible, durable, and corrosion-resistant plastic tubing that is often more affordable and easier to install, reducing labor costs. Copper piping is a traditional, robust choice known for its longevity and resistance to bacteria. Each material has distinct advantages, and our technicians can help you choose the best option based on your home’s needs, local water conditions, and budget.",
+        "@type": "Answer",
+        "description": "Common repiping materials are PEX and copper. PEX is flexible and affordable, while copper is traditional and durable."
+      }
+    }
+  ],
+  "description": "Common repiping materials are PEX and copper. PEX is flexible and affordable, while copper is traditional and durable."
+}

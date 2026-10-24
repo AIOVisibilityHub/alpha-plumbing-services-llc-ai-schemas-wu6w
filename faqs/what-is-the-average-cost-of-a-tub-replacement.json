@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-average-cost-of-a-tub-replacement",
+  "name": "What is the average cost of a tub replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost of a tub replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a tub replacement can vary widely based on several factors. These include the type and material of the new tub, whether existing plumbing needs to be relocated or updated, and the extent of any surrounding tile or wall repair. Labor costs also factor in. It's best to get a personalized quote for your specific needs, as prices can range significantly from basic installations to luxury upgrades.",
+        "@type": "Answer",
+        "description": "Average tub replacement costs vary based on tub type, materials, plumbing needs, and labor."
+      }
+    }
+  ],
+  "description": "Average tub replacement costs vary based on tub type, materials, plumbing needs, and labor."
+}

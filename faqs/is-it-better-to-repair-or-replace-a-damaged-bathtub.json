@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/is-it-better-to-repair-or-replace-a-damaged-bathtub",
+  "name": "Is it better to repair or replace a damaged bathtub?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is it better to repair or replace a damaged bathtub?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The decision to repair or replace a bathtub often depends on the severity of the damage, the tub's age, and your budget. Repairs are typically more cost-effective for localized issues like cracks, chips, or surface wear. Replacement is usually considered for severely damaged tubs, significant structural issues, or if you're undertaking a complete bathroom renovation. A professional assessment can help determine the most practical and economical solution for your specific situation.",
+        "@type": "Answer",
+        "description": "Repair is often better for minor damage, while replacement is suitable for severe damage or renovations. A professional can help assess the best option."
+      }
+    }
+  ],
+  "description": "Repair is often better for minor damage, while replacement is suitable for severe damage or renovations. A professional can help assess the best option."
+}

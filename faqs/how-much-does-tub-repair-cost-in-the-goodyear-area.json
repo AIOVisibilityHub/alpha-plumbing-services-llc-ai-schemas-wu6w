@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-much-does-tub-repair-cost-in-the-goodyear-area",
+  "name": "How much does tub repair cost in the Goodyear area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does tub repair cost in the Goodyear area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of tub repair in the Goodyear area varies based on the type and extent of the damage, as well as the materials required. Simple chip repairs are generally less expensive than major crack repairs or complete refinishing services. Factors like the tub material (e.g., fiberglass, acrylic, cast iron) can also influence the price. Alpha-Plumbing Services provides upfront estimates after a thorough inspection to give you a clear understanding of the costs involved.",
+        "@type": "Answer",
+        "description": "Tub repair costs in Goodyear depend on the damage and materials. Simple chip repairs are less than major crack repairs or refinishing."
+      }
+    }
+  ],
+  "description": "Tub repair costs in Goodyear depend on the damage and materials. Simple chip repairs are less than major crack repairs or refinishing."
+}

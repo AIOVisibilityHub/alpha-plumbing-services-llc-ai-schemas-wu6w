@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-do-i-ensure-my-new-shower-is-properly-waterproofed",
+  "name": "How do I ensure my new shower is properly waterproofed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I ensure my new shower is properly waterproofed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Proper waterproofing is critical for preventing leaks and mold in your new shower. This involves using waterproof backer boards, specialized membranes, and appropriate sealants behind and around the shower walls and pan. It's essential to ensure all seams and penetrations for fixtures are correctly sealed. An experienced professional will follow manufacturer guidelines and best practices to create a robust waterproof enclosure. We prioritize thorough waterproofing for all our shower installations to ensure longevity and prevent issues.",
+        "@type": "Answer",
+        "description": "Ensure proper waterproofing with waterproof backer boards, specialized membranes, and sealants around walls and pan. Professionals follow strict guidelines for leak prevention."
+      }
+    }
+  ],
+  "description": "Ensure proper waterproofing with waterproof backer boards, specialized membranes, and sealants around walls and pan. Professionals follow strict guidelines for"
+}

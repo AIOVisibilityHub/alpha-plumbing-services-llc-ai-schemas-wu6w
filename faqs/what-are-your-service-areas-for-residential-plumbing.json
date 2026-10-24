@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-your-service-areas-for-residential-plumbing",
+  "name": "What are your service areas for residential plumbing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are your service areas for residential plumbing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Alpha-Plumbing Services, LLC proudly provides residential plumbing services to several communities in Arizona. Our primary service areas include Goodyear, Buckeye, Avondale, Surprise, and Waddel. We focus on these locations to ensure prompt and efficient service for our local customers. If you are located in one of these areas and need reliable plumbing assistance, please contact us to schedule an appointment or request emergency service.",
+        "@type": "Answer",
+        "description": "Alpha-Plumbing Services, LLC serves Goodyear, Buckeye, Avondale, Surprise, and Waddel for residential plumbing needs."
+      }
+    }
+  ],
+  "description": "Alpha-Plumbing Services, LLC serves Goodyear, Buckeye, Avondale, Surprise, and Waddel for residential plumbing needs."
+}

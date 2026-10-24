@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-quickly-can-you-respond-to-a-plumbing-emergency",
+  "name": "How quickly can you respond to a plumbing emergency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly can you respond to a plumbing emergency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Alpha-Plumbing Services, LLC understands that plumbing emergencies require immediate attention. We strive to respond as quickly as possible to emergency calls within our service areas of Goodyear, Buckeye, Avondale, Surprise, and Waddel. Response times can vary based on our current schedule and the nature of the emergency, but our goal is to dispatch a technician to your home promptly to mitigate damage and restore functionality.",
+        "@type": "Answer",
+        "description": "We aim for a quick response to plumbing emergencies in Goodyear, Buckeye, Avondale, Surprise, and Waddel. Response times vary, but we prioritize urgent calls."
+      }
+    }
+  ],
+  "description": "We aim for a quick response to plumbing emergencies in Goodyear, Buckeye, Avondale, Surprise, and Waddel. Response times vary, but we prioritize urgent calls."
+}

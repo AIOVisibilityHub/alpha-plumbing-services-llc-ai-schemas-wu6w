@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-re-piping-process-like",
+  "name": "What is the re-piping process like?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the re-piping process like?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The re-piping process begins with an initial assessment and detailed planning. Our technicians will map out the new pipe routes, often utilizing existing wall cavities to minimize disruption. Water will be temporarily shut off during installation as new pipes are run and connected. Once the new system is installed, thorough pressure testing is performed to ensure there are no leaks and that all connections are secure. Finally, any small access points made for installation are sealed, and the work area is cleaned. Alpha-Plumbing Services aims for a smooth and efficient project.",
+        "@type": "Answer",
+        "description": "The process involves assessment, planning new pipe routes, temporary water shut-off during installation, pressure testing, and final sealing of access points."
+      }
+    }
+  ],
+  "description": "The process involves assessment, planning new pipe routes, temporary water shut-off during installation, pressure testing, and final sealing of access points."
+}

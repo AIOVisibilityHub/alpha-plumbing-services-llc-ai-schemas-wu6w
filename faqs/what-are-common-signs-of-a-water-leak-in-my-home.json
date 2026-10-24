@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-common-signs-of-a-water-leak-in-my-home",
+  "name": "What are common signs of a water leak in my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs of a water leak in my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of a water leak include unexplained high water bills, visible water stains on walls or ceilings, peeling paint or wallpaper, mold or mildew growth, the sound of running water when no fixtures are in use, a musty odor, or wet spots on floors or in your yard. Detecting these early can prevent extensive damage to your property. If you notice any of these indicators, it's best to investigate promptly to address the issue.",
+        "@type": "Answer",
+        "description": "Unexplained high water bills, water stains, mold, or the sound of running water are common signs of a leak."
+      }
+    }
+  ],
+  "description": "Unexplained high water bills, water stains, mold, or the sound of running water are common signs of a leak."
+}

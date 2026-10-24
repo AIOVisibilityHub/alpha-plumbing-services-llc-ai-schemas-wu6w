@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/is-tub-replacement-a-diy-project-or-should-i-hire-a-professional",
+  "name": "Is tub replacement a DIY project or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is tub replacement a DIY project or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Tub replacement is a complex project that typically requires professional expertise. It involves precise plumbing connections, careful demolition, proper leveling, and waterproofing to prevent leaks and ensure longevity. Incorrect installation can lead to costly water damage and structural issues. Hiring a qualified plumber or bathroom remodeling professional ensures the job is done correctly, efficiently, and to code, saving you potential headaches in the long run.",
+        "@type": "Answer",
+        "description": "Tub replacement is complex, requiring professional plumbing and installation skills to avoid costly damage."
+      }
+    }
+  ],
+  "description": "Tub replacement is complex, requiring professional plumbing and installation skills to avoid costly damage."
+}

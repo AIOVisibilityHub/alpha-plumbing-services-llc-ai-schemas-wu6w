@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-kind-of-commercial-plumbing-maintenance-does-my-business-need",
+  "name": "What kind of commercial plumbing maintenance does my business need?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of commercial plumbing maintenance does my business need?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Regular commercial plumbing maintenance typically includes inspections of pipes, drains, water heaters, and fixtures to identify wear, leaks, or potential blockages. Drain cleaning and grease trap maintenance are crucial for restaurants and food service establishments. Backflow prevention device testing ensures water safety. Preventive maintenance helps extend the lifespan of your plumbing system, reduces the likelihood of emergency repairs, and ensures your business meets health and safety standards.",
+        "@type": "Answer",
+        "description": "Routine commercial plumbing maintenance includes inspecting pipes, drains, water heaters, and fixtures, plus specific services like drain and grease trap cleaning."
+      }
+    }
+  ],
+  "description": "Routine commercial plumbing maintenance includes inspecting pipes, drains, water heaters, and fixtures, plus specific services like drain and grease trap cleani"
+}

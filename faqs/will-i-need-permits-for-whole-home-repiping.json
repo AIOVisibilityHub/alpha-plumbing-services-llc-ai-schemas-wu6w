@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/will-i-need-permits-for-whole-home-repiping",
+  "name": "Will I need permits for whole-home repiping?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will I need permits for whole-home repiping?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, whole-home repiping projects typically require permits from your local municipality to ensure the work complies with plumbing codes and safety standards. Alpha-Plumbing Services handles all necessary permitting processes for you in Goodyear, Buckeye, Avondale, Surprise, and other service areas. We ensure all work is up to code and passes required inspections, providing you with peace of mind that your plumbing system is installed correctly and safely.",
+        "@type": "Answer",
+        "description": "Yes, permits are required for whole-home repiping to ensure code compliance. Alpha-Plumbing Services handles all necessary permitting for you."
+      }
+    }
+  ],
+  "description": "Yes, permits are required for whole-home repiping to ensure code compliance. Alpha-Plumbing Services handles all necessary permitting for you."
+}

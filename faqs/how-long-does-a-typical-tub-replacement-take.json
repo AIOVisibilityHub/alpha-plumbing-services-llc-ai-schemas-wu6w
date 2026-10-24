@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-a-typical-tub-replacement-take",
+  "name": "How long does a typical tub replacement take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical tub replacement take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a tub replacement can vary depending on the complexity of the project. A standard like-for-like tub swap typically takes 1-3 days. This includes removing the old tub, preparing the area, installing the new tub, and completing any necessary plumbing connections and finishing work, such as tile repair or sealing. More complex projects involving significant layout changes or extensive tile work might take longer.",
+        "@type": "Answer",
+        "description": "A standard tub replacement usually takes 1-3 days, depending on project complexity."
+      }
+    }
+  ],
+  "description": "A standard tub replacement usually takes 1-3 days, depending on project complexity."
+}

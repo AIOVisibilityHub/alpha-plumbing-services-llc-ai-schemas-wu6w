@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/why-is-my-hot-water-pressure-low-but-cold-water-pressure-is-fine",
+  "name": "Why is my hot water pressure low, but cold water pressure is fine?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is my hot water pressure low, but cold water pressure is fine?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you experience low hot water pressure but normal cold water pressure, the problem is usually isolated to your hot water system. Common culprits include sediment buildup inside the water heater tank or within the hot water lines leading from the heater. A failing water heater dip tube, a partially closed shut-off valve on the hot water line, or issues with a single-handle faucet's internal cartridge can also cause this specific problem. A plumber can inspect your water heater and related lines.",
+        "@type": "Answer",
+        "description": "Low hot water pressure with normal cold pressure often indicates issues within your hot water system. Common causes are sediment in the water heater, a faulty dip tube, or problems with hot water lines or faucet cartridges."
+      }
+    }
+  ],
+  "description": "Low hot water pressure with normal cold pressure often indicates issues within your hot water system. Common causes are sediment in the water heater, a faulty d"
+}

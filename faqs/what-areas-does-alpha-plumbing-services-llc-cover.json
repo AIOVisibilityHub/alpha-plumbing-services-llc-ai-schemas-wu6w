@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-areas-does-alpha-plumbing-services-llc-cover",
+  "name": "What areas does Alpha-Plumbing Services, LLC cover?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas does Alpha-Plumbing Services, LLC cover?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Alpha-Plumbing Services, LLC provides residential and light-commercial plumbing services to Goodyear, Buckeye, Avondale, Surprise, and Waddell. Our licensed and experienced plumbers are equipped to handle a variety of plumbing needs, from routine maintenance to emergency repairs, ensuring reliable service within these communities.",
+        "@type": "Answer",
+        "description": "Alpha-Plumbing Services, LLC covers Goodyear, Buckeye, Avondale, Surprise, and Waddell for residential and light-commercial plumbing needs."
+      }
+    }
+  ],
+  "description": "Alpha-Plumbing Services, LLC covers Goodyear, Buckeye, Avondale, Surprise, and Waddell for residential and light-commercial plumbing needs."
+}

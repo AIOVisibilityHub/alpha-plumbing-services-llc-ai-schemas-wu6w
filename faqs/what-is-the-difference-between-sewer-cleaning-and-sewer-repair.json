@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-difference-between-sewer-cleaning-and-sewer-repair",
+  "name": "What is the difference between sewer cleaning and sewer repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between sewer cleaning and sewer repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sewer cleaning typically involves removing blockages, such as grease buildup, tree roots, or foreign objects, from an otherwise intact sewer line using methods like hydro-jetting or snaking. The goal is to restore proper flow. Sewer repair, on the other hand, addresses structural damage to the pipe itself, such as cracks, breaks, leaks, or collapsed sections. This might involve patching, relining, or replacing portions of the pipe to restore its integrity and function. Cleaning is a maintenance task, while repair fixes physical damage.",
+        "@type": "Answer",
+        "description": "Sewer cleaning removes blockages to restore flow, while sewer repair fixes structural damage like cracks or breaks in the pipe."
+      }
+    }
+  ],
+  "description": "Sewer cleaning removes blockages to restore flow, while sewer repair fixes structural damage like cracks or breaks in the pipe."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/are-your-plumbers-licensed-and-insured-to-work-in-buckeye-avondale-and-surprise",
+  "name": "Are your plumbers licensed and insured to work in Buckeye, Avondale, and Surprise?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are your plumbers licensed and insured to work in Buckeye, Avondale, and Surprise?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, all plumbers at Alpha-Plumbing Services are fully licensed and insured to provide services across all our operational areas, including Buckeye, Avondale, Surprise, Goodyear, and Waddell. This ensures that our work meets all local regulations and safety standards. Our comprehensive insurance coverage protects both our team and your property during any service. You can have peace of mind knowing that experienced, qualified, and protected professionals are handling your plumbing needs.",
+        "@type": "Answer",
+        "description": "Yes, all Alpha-Plumbing Services plumbers are fully licensed and insured to work in Buckeye, Avondale, Surprise, Goodyear, and Waddell, ensuring compliant and protected service."
+      }
+    }
+  ],
+  "description": "Yes, all Alpha-Plumbing Services plumbers are fully licensed and insured to work in Buckeye, Avondale, Surprise, Goodyear, and Waddell, ensuring compliant and p"
+}

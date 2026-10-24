@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/can-i-install-a-gas-line-myself",
+  "name": "Can I install a gas line myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install a gas line myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Installing a gas line is a complex and potentially dangerous task that should only be performed by licensed and experienced professionals. Mishandling gas lines can lead to serious hazards, including gas leaks, fires, explosions, and carbon monoxide poisoning. Local regulations almost always require gas line work to be done by certified plumbers and to pass a mandatory inspection. Attempting a DIY installation can void insurance and create significant safety risks.",
+        "@type": "Answer",
+        "description": "No, gas line installation is dangerous and requires licensed professionals to ensure safety and compliance with local regulations and inspections."
+      }
+    }
+  ],
+  "description": "No, gas line installation is dangerous and requires licensed professionals to ensure safety and compliance with local regulations and inspections."
+}

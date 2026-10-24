@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-plumbing-codes-apply-to-commercial-buildings",
+  "name": "What plumbing codes apply to commercial buildings?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What plumbing codes apply to commercial buildings?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Commercial buildings are subject to various plumbing codes, often including the International Plumbing Code (IPC) or Uniform Plumbing Code (UPC), along with local amendments. These codes govern everything from pipe sizing and material to fixture requirements, water supply, drainage, and backflow prevention. Adherence to these codes is crucial for safety, public health, and avoiding fines. A qualified commercial plumber will be knowledgeable about applicable local and national codes.",
+        "@type": "Answer",
+        "description": "Commercial buildings must adhere to codes like IPC or UPC, along with local amendments, which cover all aspects of plumbing installation and maintenance."
+      }
+    }
+  ],
+  "description": "Commercial buildings must adhere to codes like IPC or UPC, along with local amendments, which cover all aspects of plumbing installation and maintenance."
+}

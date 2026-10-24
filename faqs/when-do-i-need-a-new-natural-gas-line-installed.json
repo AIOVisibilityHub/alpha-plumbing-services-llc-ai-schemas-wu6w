@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-do-i-need-a-new-natural-gas-line-installed",
+  "name": "When do I need a new natural gas line installed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need a new natural gas line installed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You typically need a new natural gas line installed when adding a new gas appliance to your home, such as a stove, oven, dryer, water heater, outdoor grill, or fire pit, and there isn't an existing line in the desired location. You might also need an upgrade if your current gas line is too small to adequately supply all your appliances, leading to insufficient gas pressure. Additionally, if an old or damaged line needs replacement, a new installation may be necessary to ensure safety and compliance with current codes.",
+        "@type": "Answer",
+        "description": "A new gas line is needed when adding a new gas appliance, upgrading an undersized existing line, or replacing an old/damaged line."
+      }
+    }
+  ],
+  "description": "A new gas line is needed when adding a new gas appliance, upgrading an undersized existing line, or replacing an old/damaged line."
+}

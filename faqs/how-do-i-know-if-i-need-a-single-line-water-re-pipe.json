@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-do-i-know-if-i-need-a-single-line-water-re-pipe",
+  "name": "How do I know if I need a single line water re-pipe?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if I need a single line water re-pipe?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs you might need a single line water re-pipe include consistently low water pressure throughout your home, recurring leaks in your main water line, discolored or rusty water coming from your taps, or a sudden increase in your water bill without a change in usage. If your home has older galvanized steel or polybutylene pipes, which are prone to deterioration, replacement is often a proactive measure to prevent future problems.",
+        "@type": "Answer",
+        "description": "Look for low water pressure, frequent main line leaks, discolored water, or an unexpected jump in your water bill."
+      }
+    }
+  ],
+  "description": "Look for low water pressure, frequent main line leaks, discolored water, or an unexpected jump in your water bill."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-a-typical-drain-cleaning-or-camera-inspection-take",
+  "name": "How long does a typical drain cleaning or camera inspection take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical drain cleaning or camera inspection take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of drain cleaning or a camera inspection can vary. A basic sink or toilet drain cleaning might take 30 minutes to an hour. More complex blockages, especially in main sewer lines or those requiring hydro-jetting, could take 1 to 3 hours or longer. A camera inspection typically takes 30 to 60 minutes, depending on the length and complexity of the pipe system being examined. We will provide an estimated timeframe after an initial assessment.",
+        "@type": "Answer",
+        "description": "A basic drain cleaning or camera inspection usually takes 30-60 minutes. More complex jobs, like main sewer line issues or hydro-jetting, can take 1-3 hours or more."
+      }
+    }
+  ],
+  "description": "A basic drain cleaning or camera inspection usually takes 30-60 minutes. More complex jobs, like main sewer line issues or hydro-jetting, can take 1-3 hours or"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-process-for-gas-line-installation",
+  "name": "What is the process for gas line installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for gas line installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The gas line installation process involves several steps. First, a professional assesses your needs and plans the optimal route for the new line. Next, the gas supply is temporarily shut off for safety. The new piping is then installed, carefully routed, and connected to the main supply and the new appliance. After installation, the line undergoes rigorous testing for leaks and proper pressure. Finally, a required inspection by the local authority confirms compliance with all safety codes before the gas supply is restored.",
+        "@type": "Answer",
+        "description": "The process includes assessment, gas shut-off, pipe installation, leak testing, and a required safety inspection before gas is restored."
+      }
+    }
+  ],
+  "description": "The process includes assessment, gas shut-off, pipe installation, leak testing, and a required safety inspection before gas is restored."
+}

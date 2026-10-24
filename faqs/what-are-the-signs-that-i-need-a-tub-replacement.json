@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-the-signs-that-i-need-a-tub-replacement",
+  "name": "What are the signs that I need a tub replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs that I need a tub replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs indicating a need for tub replacement include extensive cracks, persistent leaks that damage surrounding areas, deep stains that cannot be removed, or a surface that is significantly worn, chipped, or peeling. Beyond visible damage, an outdated tub that is uncomfortable or difficult to clean may also prompt a replacement for aesthetic and functional improvements. Addressing these issues can prevent further water damage and improve your bathroom's overall appeal.",
+        "@type": "Answer",
+        "description": "Signs include cracks, persistent leaks, deep stains, extensive wear, or an outdated appearance."
+      }
+    }
+  ],
+  "description": "Signs include cracks, persistent leaks, deep stains, extensive wear, or an outdated appearance."
+}

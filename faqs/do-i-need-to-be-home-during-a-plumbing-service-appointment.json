@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/do-i-need-to-be-home-during-a-plumbing-service-appointment",
+  "name": "Do I need to be home during a plumbing service appointment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to be home during a plumbing service appointment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For most plumbing service appointments, it is recommended that someone over the age of 18 is present. This allows the technician to discuss the issue directly, gain access to affected areas, and approve any recommended repairs or changes to the initial scope of work. If you cannot be present, arrangements can sometimes be made, but direct communication is always ideal for efficiency.",
+        "@type": "Answer",
+        "description": "It is usually recommended that someone over 18 is home during a plumbing service appointment to allow access and discuss repairs with the technician."
+      }
+    }
+  ],
+  "description": "It is usually recommended that someone over 18 is home during a plumbing service appointment to allow access and discuss repairs with the technician."
+}

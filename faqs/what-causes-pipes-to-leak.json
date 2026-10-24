@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-causes-pipes-to-leak",
+  "name": "What causes pipes to leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes pipes to leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Pipe leaks can stem from various issues, including aging pipes, corrosion, high water pressure, freezing temperatures causing pipes to burst, or improper installation. Shifting foundations and tree root intrusion can also stress plumbing systems, leading to cracks or loose connections. Identifying the cause helps in choosing the most effective repair method and preventing future leaks.",
+        "@type": "Answer",
+        "description": "Common causes include aging pipes, corrosion, high water pressure, freezing, and improper installation. Environmental factors like foundation shifts or tree roots can also contribute."
+      }
+    }
+  ],
+  "description": "Common causes include aging pipes, corrosion, high water pressure, freezing, and improper installation. Environmental factors like foundation shifts or tree roo"
+}

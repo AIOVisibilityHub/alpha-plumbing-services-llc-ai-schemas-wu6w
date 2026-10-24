@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-the-repair-options-for-a-slab-leak",
+  "name": "What are the repair options for a slab leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the repair options for a slab leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "There are several repair options for slab leaks. A 'spot repair' involves breaking through the slab directly above the leak to fix the damaged pipe. 'Rerouting' or 're-piping' involves abandoning the leaking pipe section and installing a new pipe through walls or the attic. 'Pipe lining' can be used for drain lines where a new lining is inserted into the existing pipe. 'Tunneling' allows access to the pipe from outside the foundation without breaking the slab indoors. The best option depends on the leak's location, extent, and your home's structure.",
+        "@type": "Answer",
+        "description": "Repair options include spot repair, rerouting, pipe lining, or tunneling, depending on the leak's location and severity."
+      }
+    }
+  ],
+  "description": "Repair options include spot repair, rerouting, pipe lining, or tunneling, depending on the leak's location and severity."
+}

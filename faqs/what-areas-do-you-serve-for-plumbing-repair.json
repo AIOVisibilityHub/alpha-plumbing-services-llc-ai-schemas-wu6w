@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-areas-do-you-serve-for-plumbing-repair",
+  "name": "What areas do you serve for plumbing repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas do you serve for plumbing repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Alpha-Plumbing Services proudly serves customers in Goodyear, Buckeye, Avondale, Surprise, and Waddell. We are committed to providing reliable and timely plumbing repair services to residents and businesses within these specific communities. If you are located in one of these areas and need plumbing assistance, please contact us to schedule a service.",
+        "@type": "Answer",
+        "description": "Alpha-Plumbing Services serves Goodyear, Buckeye, Avondale, Surprise, and Waddell for plumbing repair needs."
+      }
+    }
+  ],
+  "description": "Alpha-Plumbing Services serves Goodyear, Buckeye, Avondale, Surprise, and Waddell for plumbing repair needs."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-involved-in-a-water-heater-installation-service",
+  "name": "What is involved in a water heater installation service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in a water heater installation service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A professional water heater installation service involves several key steps. First, the old unit is safely disconnected and removed. Then, the new water heater is positioned, connected to the existing water lines, and, if applicable, to gas or electrical supplies. This includes connecting the exhaust vent for gas units and ensuring proper drainage. Finally, the system is tested for leaks and proper operation, and any necessary permits are confirmed. Our service ensures a safe, efficient, and compliant installation.",
+        "@type": "Answer",
+        "description": "Installation involves safely removing the old unit, connecting the new one to water and power/gas lines, ensuring proper venting, and thoroughly testing the system for safety and function."
+      }
+    }
+  ],
+  "description": "Installation involves safely removing the old unit, connecting the new one to water and power/gas lines, ensuring proper venting, and thoroughly testing the sys"
+}

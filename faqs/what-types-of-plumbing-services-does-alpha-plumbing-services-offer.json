@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-types-of-plumbing-services-does-alpha-plumbing-services-offer",
+  "name": "What types of plumbing services does Alpha-Plumbing Services offer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of plumbing services does Alpha-Plumbing Services offer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Alpha-Plumbing Services offers a comprehensive range of plumbing solutions for residential and commercial clients. This includes leak detection and repair, drain cleaning, water heater installation and repair, toilet repair, fixture installation, and whole-house repiping. We are equipped to handle everything from minor drips to major system overhauls, ensuring your plumbing operates smoothly.",
+        "@type": "Answer",
+        "description": "Alpha-Plumbing Services offers leak repair, drain cleaning, water heater services, toilet repair, and fixture installation."
+      }
+    }
+  ],
+  "description": "Alpha-Plumbing Services offers leak repair, drain cleaning, water heater services, toilet repair, and fixture installation."
+}

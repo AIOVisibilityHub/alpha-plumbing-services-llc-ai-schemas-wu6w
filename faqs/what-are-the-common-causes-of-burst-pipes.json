@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-the-common-causes-of-burst-pipes",
+  "name": "What are the common causes of burst pipes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common causes of burst pipes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The most common cause of burst pipes, particularly in colder climates, is freezing water. As water freezes, it expands, putting immense pressure on pipes and leading them to rupture. Other causes include significant changes in water pressure, corrosion of older pipes, improper pipe installation, foundational shifts that stress plumbing lines, and accidental damage during home renovations. Age and material of the pipes also play a role, with older galvanized steel or worn copper pipes being more susceptible. Alpha-Plumbing Services can assess your plumbing for potential vulnerabilities.",
+        "@type": "Answer",
+        "description": "Common causes include freezing temperatures, high water pressure, corrosion in old pipes, improper installation, and foundational shifts affecting plumbing lines."
+      }
+    }
+  ],
+  "description": "Common causes include freezing temperatures, high water pressure, corrosion in old pipes, improper installation, and foundational shifts affecting plumbing line"
+}

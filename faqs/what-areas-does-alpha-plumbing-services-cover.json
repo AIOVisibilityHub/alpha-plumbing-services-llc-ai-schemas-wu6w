@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-areas-does-alpha-plumbing-services-cover",
+  "name": "What areas does Alpha-Plumbing Services cover?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas does Alpha-Plumbing Services cover?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Alpha-Plumbing Services provides plumbing solutions to several communities in the Greater Phoenix area. Our primary service areas include Goodyear, Buckeye, Avondale, and Surprise. We focus on these regions to ensure prompt response times and localized expertise for all our clients' plumbing needs, from emergency repairs to routine maintenance and new installations.",
+        "@type": "Answer",
+        "description": "Alpha-Plumbing Services covers Goodyear, Buckeye, Avondale, and Surprise for all plumbing needs."
+      }
+    }
+  ],
+  "description": "Alpha-Plumbing Services covers Goodyear, Buckeye, Avondale, and Surprise for all plumbing needs."
+}

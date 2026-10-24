@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-do-i-choose-a-repiping-contractor-in-goodyear-or-buckeye",
+  "name": "How do I choose a repiping contractor in Goodyear or Buckeye?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a repiping contractor in Goodyear or Buckeye?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a repiping contractor in areas like Goodyear or Buckeye, look for licensed, insured, and experienced professionals. Alpha-Plumbing Services has a proven track record, providing detailed proposals and transparent pricing. Check for local reviews and ask about warranties on both labor and materials. A reputable contractor will conduct a thorough on-site assessment, explain the process clearly, and answer all your questions. We are proud to serve the local communities of Goodyear, Buckeye, Avondale, and Surprise.",
+        "@type": "Answer",
+        "description": "Choose a repiping contractor who is licensed, insured, experienced, and offers clear pricing and warranties, like Alpha-Plumbing Services."
+      }
+    }
+  ],
+  "description": "Choose a repiping contractor who is licensed, insured, experienced, and offers clear pricing and warranties, like Alpha-Plumbing Services."
+}

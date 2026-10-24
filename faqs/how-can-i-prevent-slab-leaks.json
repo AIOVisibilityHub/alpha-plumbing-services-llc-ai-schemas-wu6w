@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-can-i-prevent-slab-leaks",
+  "name": "How can I prevent slab leaks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent slab leaks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preventing slab leaks primarily involves regular plumbing maintenance and awareness of your home's water pressure. Ensuring your home’s water pressure is within recommended levels (typically 40-60 psi) can reduce stress on pipes. Installing a water pressure regulator if your pressure is too high is a good preventative measure. Additionally, avoiding harsh drain cleaners that can corrode pipes and addressing minor leaks or clogs promptly can help. While not all slab leaks are preventable, these steps can reduce the risk. Regular inspections can also catch issues early.",
+        "@type": "Answer",
+        "description": "Preventative measures include maintaining proper water pressure, avoiding harsh drain cleaners, and addressing minor leaks promptly."
+      }
+    }
+  ],
+  "description": "Preventative measures include maintaining proper water pressure, avoiding harsh drain cleaners, and addressing minor leaks promptly."
+}

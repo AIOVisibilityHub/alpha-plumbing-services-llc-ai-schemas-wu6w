@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-can-i-make-my-new-water-heater-last-longer",
+  "name": "How can I make my new water heater last longer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I make my new water heater last longer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To maximize the lifespan of your new water heater, regular maintenance is essential. This includes flushing the tank annually to remove sediment buildup, checking the anode rod every few years for corrosion, and inspecting the pressure relief valve for proper operation. Keeping the area around the water heater clear and ensuring it's not exposed to extreme temperatures also helps. Following these practices can significantly extend its efficiency and operational life, reducing the need for premature replacement.",
+        "@type": "Answer",
+        "description": "Regular maintenance, such as annual tank flushing, anode rod checks, and pressure relief valve inspection, can significantly extend your water heater's lifespan and efficiency."
+      }
+    }
+  ],
+  "description": "Regular maintenance, such as annual tank flushing, anode rod checks, and pressure relief valve inspection, can significantly extend your water heater's lifespan"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-do-i-need-a-complete-water-re-pipe",
+  "name": "When do I need a complete water re-pipe?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need a complete water re-pipe?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You may need a complete water re-pipe if your home experiences recurring plumbing problems such as consistently low water pressure, frequent pipe leaks, or discolored and foul-smelling water. These issues often indicate deteriorated or corroded pipes, especially in older homes with galvanized steel or polybutylene plumbing. A re-pipe provides a permanent solution to these persistent problems, improving water quality and reliability throughout your property. Our technicians can assess your home's plumbing to determine if a re-pipe is necessary.",
+        "@type": "Answer",
+        "description": "Consider a re-pipe if you have consistent low water pressure, frequent leaks, or discolored water, often due to old or corroded pipes."
+      }
+    }
+  ],
+  "description": "Consider a re-pipe if you have consistent low water pressure, frequent leaks, or discolored water, often due to old or corroded pipes."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-typical-cost-to-repair-a-slab-leak",
+  "name": "What is the typical cost to repair a slab leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost to repair a slab leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to repair a slab leak varies significantly depending on several factors, including the leak's location, its severity, the type of pipe, and the chosen repair method. Minor, easily accessible leaks might cost less, while more complex repairs involving extensive jackhammering or rerouting can be more expensive. Material costs and labor also play a role. It's best to get a professional assessment and detailed quote to understand the specific costs for your situation. Early detection can help reduce the overall repair expense.",
+        "@type": "Answer",
+        "description": "Repair costs vary based on leak location, severity, pipe type, and repair method. A professional assessment provides an accurate quote."
+      }
+    }
+  ],
+  "description": "Repair costs vary based on leak location, severity, pipe type, and repair method. A professional assessment provides an accurate quote."
+}

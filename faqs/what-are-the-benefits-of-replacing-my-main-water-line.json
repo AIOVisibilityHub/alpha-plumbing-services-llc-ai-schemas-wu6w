@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-the-benefits-of-replacing-my-main-water-line",
+  "name": "What are the benefits of replacing my main water line?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of replacing my main water line?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacing your main water line offers several key benefits. It significantly improves water pressure and flow throughout your home, eliminates leaks that can cause water damage and high bills, and ensures a clean, reliable water supply free from rust or sediment. A new main line also reduces the risk of future costly repairs, increases your property's value, and provides peace of mind knowing your plumbing infrastructure is sound and up-to-date.",
+        "@type": "Answer",
+        "description": "Benefits include improved water pressure, eliminated leaks, cleaner water, reduced repair risks, and increased home value."
+      }
+    }
+  ],
+  "description": "Benefits include improved water pressure, eliminated leaks, cleaner water, reduced repair risks, and increased home value."
+}

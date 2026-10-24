@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/can-i-replace-my-tub-with-a-walk-in-shower",
+  "name": "Can I replace my tub with a walk-in shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace my tub with a walk-in shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, converting a bathtub into a walk-in shower is a popular remodeling option. This process involves removing the old tub and modifying the space to install a shower pan, new wall surrounds, fixtures, and potentially a glass enclosure. It can improve accessibility, enhance the bathroom's modern aesthetic, and often makes the space feel larger. This type of conversion usually takes longer than a direct tub replacement.",
+        "@type": "Answer",
+        "description": "Yes, you can replace a tub with a walk-in shower, which involves removing the tub and installing a shower pan and fixtures."
+      }
+    }
+  ],
+  "description": "Yes, you can replace a tub with a walk-in shower, which involves removing the tub and installing a shower pan and fixtures."
+}

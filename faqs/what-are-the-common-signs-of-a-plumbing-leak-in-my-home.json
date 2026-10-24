@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-the-common-signs-of-a-plumbing-leak-in-my-home",
+  "name": "What are the common signs of a plumbing leak in my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs of a plumbing leak in my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Plumbing leaks often present noticeable indicators. You might observe water stains on ceilings or walls, peeling paint, or warped flooring. A musty odor, especially in enclosed spaces, can also signal a hidden leak. An unexplained increase in your water bill, even without changes in usage, is a strong indicator. Additionally, listen for dripping sounds when all water sources are off, or feel for dampness under sinks and around toilets. Addressing these signs promptly can prevent further damage to your property.",
+        "@type": "Answer",
+        "description": "Common signs include water stains, peeling paint, musty odors, unexplained high water bills, or dripping sounds when water is off."
+      }
+    }
+  ],
+  "description": "Common signs include water stains, peeling paint, musty odors, unexplained high water bills, or dripping sounds when water is off."
+}

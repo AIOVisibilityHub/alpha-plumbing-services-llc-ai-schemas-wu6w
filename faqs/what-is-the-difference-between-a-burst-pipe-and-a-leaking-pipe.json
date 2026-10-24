@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-difference-between-a-burst-pipe-and-a-leaking-pipe",
+  "name": "What is the difference between a burst pipe and a leaking pipe?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a burst pipe and a leaking pipe?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A leaking pipe typically involves a slow drip or a small stream of water from a crack or loose fitting, often developing gradually over time. While still problematic, it usually allows for more time to address the issue before significant damage occurs. A burst pipe, on the other hand, is a sudden and forceful rupture in the pipe, leading to a large volume of water escaping quickly. This often results in immediate and extensive water damage. Both require professional attention, but a burst pipe constitutes an emergency due to the rapid damage it can cause.",
+        "@type": "Answer",
+        "description": "A leaking pipe is a slow drip, while a burst pipe is a sudden, forceful rupture causing rapid and extensive water damage, making it an emergency."
+      }
+    }
+  ],
+  "description": "A leaking pipe is a slow drip, while a burst pipe is a sudden, forceful rupture causing rapid and extensive water damage, making it an emergency."
+}

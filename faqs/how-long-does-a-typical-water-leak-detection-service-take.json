@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-a-typical-water-leak-detection-service-take",
+  "name": "How long does a typical water leak detection service take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical water leak detection service take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a water leak detection service can vary based on the complexity and location of the leak. Simple, easily accessible leaks might be found within an hour. However, if the leak is hidden behind walls, under concrete slabs, or deep underground, it could take several hours to accurately pinpoint its source using specialized equipment. A professional technician can usually provide an estimated timeframe after an initial assessment.",
+        "@type": "Answer",
+        "description": "Leak detection duration varies; simple leaks can be found in an hour, while hidden or complex ones may take several hours."
+      }
+    }
+  ],
+  "description": "Leak detection duration varies; simple leaks can be found in an hour, while hidden or complex ones may take several hours."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/can-i-prevent-slab-leaks",
+  "name": "Can I prevent slab leaks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I prevent slab leaks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it's difficult to entirely prevent all slab leaks, certain measures can reduce the risk. Regular plumbing inspections can help identify potential issues before they escalate. Maintaining consistent water pressure in your home can prevent undue stress on pipes. Addressing hard water issues with a water softener can reduce mineral buildup and corrosion within pipes. Also, ensuring proper drainage around your home's foundation can minimize ground shifting that may impact underground pipes.",
+        "@type": "Answer",
+        "description": "While not entirely preventable, regular plumbing inspections, maintaining water pressure, and addressing hard water can reduce slab leak risks."
+      }
+    }
+  ],
+  "description": "While not entirely preventable, regular plumbing inspections, maintaining water pressure, and addressing hard water can reduce slab leak risks."
+}

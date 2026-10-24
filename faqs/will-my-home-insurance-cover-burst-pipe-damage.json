@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/will-my-home-insurance-cover-burst-pipe-damage",
+  "name": "Will my home insurance cover burst pipe damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my home insurance cover burst pipe damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most standard homeowner's insurance policies typically cover sudden and accidental water damage from burst pipes. However, coverage can vary based on the specific policy terms and the cause of the burst. Damage resulting from negligence or a lack of maintenance, such as a burst pipe due to long-term corrosion or frozen pipes if preventative measures weren't taken, might not be covered. It's crucial to review your insurance policy or contact your provider directly to understand your specific coverage for burst pipe damage and water mitigation.",
+        "@type": "Answer",
+        "description": "Many homeowner's insurance policies cover sudden burst pipe damage, but coverage depends on your specific policy and the cause. Check with your insurance provider."
+      }
+    }
+  ],
+  "description": "Many homeowner's insurance policies cover sudden burst pipe damage, but coverage depends on your specific policy and the cause. Check with your insurance provid"
+}

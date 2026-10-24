@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-difference-between-flexible-and-rigid-gas-lines",
+  "name": "What is the difference between flexible and rigid gas lines?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between flexible and rigid gas lines?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Both flexible and rigid gas lines are used in installations, each with specific applications. Rigid gas lines, typically made of black iron pipe or copper, are durable and used for main runs and permanent fixtures. They are strong and less prone to damage. Flexible gas lines, often made of corrugated stainless steel (CSST), are easier to install around obstacles and connect to appliances. While convenient, they require proper sizing and protection to prevent damage. A professional installer selects the appropriate type based on the application and local codes for optimal safety and performance.",
+        "@type": "Answer",
+        "description": "Rigid lines (black iron, copper) are for main, permanent runs; flexible lines (CSST) are for easier appliance connections. Professionals choose the best type for safety and code compliance."
+      }
+    }
+  ],
+  "description": "Rigid lines (black iron, copper) are for main, permanent runs; flexible lines (CSST) are for easier appliance connections. Professionals choose the best type fo"
+}

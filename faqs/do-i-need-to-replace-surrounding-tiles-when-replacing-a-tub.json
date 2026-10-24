@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/do-i-need-to-replace-surrounding-tiles-when-replacing-a-tub",
+  "name": "Do I need to replace surrounding tiles when replacing a tub?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to replace surrounding tiles when replacing a tub?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In many cases, some surrounding tile removal is necessary to properly extract the old tub and install the new one, especially if the old tub was tiled in. Even if the existing tiles appear intact, matching new tiles to old ones can be challenging due to fading or discontinued styles. Often, homeowners opt to replace at least the lower rows of tile or even undertake a full shower/bath surround re-tile to ensure a seamless and waterproof finish.",
+        "@type": "Answer",
+        "description": "Often, some surrounding tiles need replacement to properly install a new tub and ensure a waterproof finish."
+      }
+    }
+  ],
+  "description": "Often, some surrounding tiles need replacement to properly install a new tub and ensure a waterproof finish."
+}

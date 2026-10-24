@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-the-differences-between-acrylic-and-cast-iron-bathtubs",
+  "name": "What are the differences between acrylic and cast iron bathtubs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the differences between acrylic and cast iron bathtubs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Acrylic tubs are lightweight, generally more affordable, and come in a wider variety of shapes and colors. They retain heat well and are easy to clean, though they can be prone to scratching. Cast iron tubs are very durable, heavy, and excellent at heat retention, offering a luxurious feel. However, they are more expensive, heavier to install, and have fewer design options. Your choice depends on budget, desired durability, and aesthetic preference.",
+        "@type": "Answer",
+        "description": "Acrylic tubs are lighter, cheaper, and versatile, while cast iron tubs are durable, heavy, and retain heat well."
+      }
+    }
+  ],
+  "description": "Acrylic tubs are lighter, cheaper, and versatile, while cast iron tubs are durable, heavy, and retain heat well."
+}

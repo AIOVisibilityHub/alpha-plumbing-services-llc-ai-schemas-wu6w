@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-it-take-to-repair-a-slab-leak",
+  "name": "How long does it take to repair a slab leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to repair a slab leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a slab leak repair depends on the complexity of the leak and the chosen repair method. Simple repairs, such as spot repairs, might take a few hours to a day once the leak is located. More extensive repairs, like repiping or tunneling, can take several days to complete. This timeframe usually includes detection, access to the pipe, repair, and restoration of the affected area. Your plumber can provide a more precise timeline after assessing the leak's specific characteristics.",
+        "@type": "Answer",
+        "description": "Repair time varies from a few hours for simple cases to several days for complex rerouting or repiping."
+      }
+    }
+  ],
+  "description": "Repair time varies from a few hours for simple cases to several days for complex rerouting or repiping."
+}

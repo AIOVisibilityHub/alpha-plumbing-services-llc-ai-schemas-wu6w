@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/can-i-get-an-estimate-before-plumbing-work-begins",
+  "name": "Can I get an estimate before plumbing work begins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I get an estimate before plumbing work begins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Alpha-Plumbing Services, LLC provides estimates for plumbing work before commencing any repairs or installations. Our technicians will assess the issue, explain the necessary steps, and provide a clear breakdown of costs. This ensures transparency and allows you to understand the investment involved before giving approval to proceed with the service.",
+        "@type": "Answer",
+        "description": "Yes, Alpha-Plumbing Services, LLC provides estimates before starting work. Technicians will assess the issue, explain steps, and provide a cost breakdown."
+      }
+    }
+  ],
+  "description": "Yes, Alpha-Plumbing Services, LLC provides estimates before starting work. Technicians will assess the issue, explain steps, and provide a cost breakdown."
+}

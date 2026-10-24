@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-should-i-call-a-plumber-for-a-clogged-drain",
+  "name": "When should I call a plumber for a clogged drain?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a plumber for a clogged drain?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a plumber for a clogged drain if common household remedies like plungers are ineffective, if multiple drains are slow or completely stopped, or if you notice foul odors coming from drains. Recurring clogs also indicate a deeper issue that needs professional attention. Alpha-Plumbing Services, LLC uses specialized tools to clear stubborn clogs and identify underlying causes.",
+        "@type": "Answer",
+        "description": "Call a plumber for a clogged drain if plungers don't work, multiple drains are affected, or clogs are frequent. Professionals can clear stubborn blockages."
+      }
+    }
+  ],
+  "description": "Call a plumber for a clogged drain if plungers don't work, multiple drains are affected, or clogs are frequent. Professionals can clear stubborn blockages."
+}

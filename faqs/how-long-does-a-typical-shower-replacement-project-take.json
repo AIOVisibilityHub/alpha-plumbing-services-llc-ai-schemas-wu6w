@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-a-typical-shower-replacement-project-take",
+  "name": "How long does a typical shower replacement project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical shower replacement project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a shower replacement project varies depending on its complexity. A basic replacement of a pre-fabricated shower unit might take 1-3 days. A more involved project, such as a custom tiled shower or a tub-to-shower conversion that requires significant demolition and plumbing adjustments, could take 3-7 days. These timelines generally account for demolition, new plumbing installation, waterproofing, wall surfacing, and fixture installation. We can provide a more accurate estimate during an on-site consultation in areas like Surprise or Waddell.",
+        "@type": "Answer",
+        "description": "A typical shower replacement takes 1-7 days, depending on complexity. Basic replacements are quicker, while custom or conversion projects take longer."
+      }
+    }
+  ],
+  "description": "A typical shower replacement takes 1-7 days, depending on complexity. Basic replacements are quicker, while custom or conversion projects take longer."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-can-i-choose-the-right-plumber-for-my-needs",
+  "name": "How can I choose the right plumber for my needs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I choose the right plumber for my needs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a plumber, look for licensed and insured professionals with experience in your specific type of plumbing issue, whether residential or light-commercial. Check for positive customer reviews, ask for clear pricing structures, and ensure they serve your area. Alpha-Plumbing Services, LLC is licensed, insured, and serves the Goodyear, Buckeye, Avondale, Surprise, and Waddell areas.",
+        "@type": "Answer",
+        "description": "Choose a licensed, insured plumber with relevant experience and good reviews who serves your area. Get clear pricing upfront."
+      }
+    }
+  ],
+  "description": "Choose a licensed, insured plumber with relevant experience and good reviews who serves your area. Get clear pricing upfront."
+}

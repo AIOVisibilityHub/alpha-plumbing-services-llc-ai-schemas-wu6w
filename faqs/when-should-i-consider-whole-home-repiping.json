@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-should-i-consider-whole-home-repiping",
+  "name": "When should I consider whole-home repiping?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider whole-home repiping?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider whole-home repiping if you experience recurring plumbing issues such as frequent leaks, significantly reduced water pressure, discolored or rusty-looking water, or strange metallic tastes. These symptoms often indicate aging, corroded pipes, commonly found in homes with galvanized steel or polybutylene plumbing. If your home is 50 years or older, or if previous pipe repairs are no longer effective, a full repipe can prevent further damage and ensure a dependable water supply.",
+        "@type": "Answer",
+        "description": "Consider whole-home repiping if you have frequent leaks, low water pressure, discolored water, or an older home with failing pipes."
+      }
+    }
+  ],
+  "description": "Consider whole-home repiping if you have frequent leaks, low water pressure, discolored water, or an older home with failing pipes."
+}

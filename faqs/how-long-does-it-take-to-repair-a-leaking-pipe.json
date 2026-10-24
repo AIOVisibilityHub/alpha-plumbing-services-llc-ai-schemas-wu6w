@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-it-take-to-repair-a-leaking-pipe",
+  "name": "How long does it take to repair a leaking pipe?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to repair a leaking pipe?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a pipe leak repair depends on several factors, including the leak's accessibility, the extent of the damage, and the specific repair method required. Simple fixes for easily accessible leaks might take a few hours, while more complex issues, like repairing a burst pipe behind a wall or under a slab, could require a full day or more. We aim for efficient and effective repairs.",
+        "@type": "Answer",
+        "description": "Repair time varies based on the leak's accessibility, damage extent, and repair method. Simple leaks might take a few hours; complex ones could take a day or longer."
+      }
+    }
+  ],
+  "description": "Repair time varies based on the leak's accessibility, damage extent, and repair method. Simple leaks might take a few hours; complex ones could take a day or lo"
+}

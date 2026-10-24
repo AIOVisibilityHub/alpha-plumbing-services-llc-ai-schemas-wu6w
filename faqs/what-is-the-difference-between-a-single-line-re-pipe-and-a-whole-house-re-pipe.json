@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-difference-between-a-single-line-re-pipe-and-a-whole-house-re-pipe",
+  "name": "What is the difference between a single line re-pipe and a whole-house re-pipe?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a single line re-pipe and a whole-house re-pipe?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A single line re-pipe specifically replaces the main water supply line that runs from your property's water meter to the entry point of your home. It addresses issues originating from this primary connection. In contrast, a whole-house re-pipe involves replacing all the hot and cold water pipes within your home's walls and ceilings, extending to all fixtures. A whole-house re-pipe is a more extensive project typically undertaken when internal plumbing is failing throughout the structure.",
+        "@type": "Answer",
+        "description": "A single line re-pipe replaces only the main water supply line from the meter to the house, while a whole-house re-pipe replaces all internal plumbing."
+      }
+    }
+  ],
+  "description": "A single line re-pipe replaces only the main water supply line from the meter to the house, while a whole-house re-pipe replaces all internal plumbing."
+}

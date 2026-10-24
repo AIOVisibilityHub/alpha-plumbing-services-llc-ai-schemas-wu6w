@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-should-i-consider-getting-a-drain-camera-inspection",
+  "name": "When should I consider getting a drain camera inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider getting a drain camera inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider a drain camera inspection if you experience frequent clogs, slow drains, foul odors from your drains, or sewage backups. It's also recommended before purchasing a new home to assess the condition of the plumbing system, or if you suspect a significant issue like a collapsed pipe or tree root intrusion. This service helps pinpoint problems that aren't visible and allows for targeted repairs.",
+        "@type": "Answer",
+        "description": "Consider a drain camera inspection for frequent clogs, slow drains, foul odors, or sewage backups. It's also useful for pre-purchase home inspections or suspected major pipe issues."
+      }
+    }
+  ],
+  "description": "Consider a drain camera inspection for frequent clogs, slow drains, foul odors, or sewage backups. It's also useful for pre-purchase home inspections or suspect"
+}
