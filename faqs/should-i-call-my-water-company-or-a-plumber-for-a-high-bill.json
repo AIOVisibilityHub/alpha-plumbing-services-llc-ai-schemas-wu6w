@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/should-i-call-my-water-company-or-a-plumber-for-a-high-bill",
+  "name": "Should I call my water company or a plumber for a high bill?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I call my water company or a plumber for a high bill?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you have an unexplained high water bill, you should typically start by performing a basic leak detection test yourself, like the water meter check. If you confirm a leak or suspect one, it's best to call a plumber. Your water company is responsible for the water main up to your property line and the meter itself. A plumber, like Alpha-Plumbing Services, focuses on your home's internal plumbing system and the service line leading from the meter to your house. We can accurately diagnose and repair leaks within your property.",
+        "@type": "Answer",
+        "description": "Call a plumber if you suspect a leak within your property after checking your meter. The water company handles issues up to your meter."
+      }
+    }
+  ],
+  "description": "Call a plumber if you suspect a leak within your property after checking your meter. The water company handles issues up to your meter."
+}

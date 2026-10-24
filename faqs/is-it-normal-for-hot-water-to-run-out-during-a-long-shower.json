@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/is-it-normal-for-hot-water-to-run-out-during-a-long-shower",
+  "name": "Is it normal for hot water to run out during a long shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is it normal for hot water to run out during a long shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it's not ideal, it can be normal for hot water to run out during a very long shower, especially if you have a smaller capacity water heater or if other hot water appliances are in use simultaneously. Standard tank water heaters have a finite amount of hot water. Once that supply is exhausted, it takes time for the heater to warm up a new batch. If this happens frequently during typical use, it suggests your water heater might be undersized or experiencing an efficiency issue.",
+        "@type": "Answer",
+        "description": "It can be normal for hot water to run out during long showers, especially with smaller tanks or simultaneous use. Frequent occurrences suggest an issue."
+      }
+    }
+  ],
+  "description": "It can be normal for hot water to run out during long showers, especially with smaller tanks or simultaneous use. Frequent occurrences suggest an issue."
+}

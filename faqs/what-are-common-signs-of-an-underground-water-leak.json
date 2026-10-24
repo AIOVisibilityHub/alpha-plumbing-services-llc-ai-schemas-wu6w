@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-common-signs-of-an-underground-water-leak",
+  "name": "What are common signs of an underground water leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs of an underground water leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of an underground water leak include unusually high water bills without a change in usage, damp or soggy spots in your yard that don't dry, visible cracks or shifts in your home's foundation, and a noticeable drop in water pressure. You might also hear the sound of running water when all fixtures are off. Ignoring these signs can lead to significant property damage and increased repair costs.",
+        "@type": "Answer",
+        "description": "Look for high water bills, soggy yard spots, foundation cracks, low water pressure, or sounds of running water when fixtures are off."
+      }
+    }
+  ],
+  "description": "Look for high water bills, soggy yard spots, foundation cracks, low water pressure, or sounds of running water when fixtures are off."
+}

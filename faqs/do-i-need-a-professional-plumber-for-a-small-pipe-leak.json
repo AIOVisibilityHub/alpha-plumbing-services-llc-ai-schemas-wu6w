@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/do-i-need-a-professional-plumber-for-a-small-pipe-leak",
+  "name": "Do I need a professional plumber for a small pipe leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a professional plumber for a small pipe leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Even a seemingly small pipe leak can indicate a larger underlying issue or lead to significant damage if not properly addressed. Professional plumbers have the expertise, tools, and experience to accurately diagnose the cause, perform a durable repair, and advise on preventative measures. Attempting DIY repairs without proper knowledge can often worsen the problem, making professional help advisable for any pipe leak.",
+        "@type": "Answer",
+        "description": "Yes, even small leaks require professional attention. Plumbers can accurately diagnose and repair the issue, preventing further damage. DIY attempts often worsen problems."
+      }
+    }
+  ],
+  "description": "Yes, even small leaks require professional attention. Plumbers can accurately diagnose and repair the issue, preventing further damage. DIY attempts often worse"
+}

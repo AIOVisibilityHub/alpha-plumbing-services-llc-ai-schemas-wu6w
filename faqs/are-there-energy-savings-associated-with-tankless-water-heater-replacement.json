@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/are-there-energy-savings-associated-with-tankless-water-heater-replacement",
+  "name": "Are there energy savings associated with tankless water heater replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there energy savings associated with tankless water heater replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Tankless water heaters can offer energy savings compared to traditional tank units because they only heat water on demand, eliminating standby heat loss. The extent of savings depends on your household's hot water usage and the unit's efficiency rating. Many models are ENERGY STAR certified, indicating higher efficiency. These savings can offset the initial investment over the lifespan of the unit.",
+        "@type": "Answer",
+        "description": "Yes, tankless units save energy by heating water on demand, reducing standby heat loss. Savings depend on usage and efficiency ratings."
+      }
+    }
+  ],
+  "description": "Yes, tankless units save energy by heating water on demand, reducing standby heat loss. Savings depend on usage and efficiency ratings."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-quickly-can-a-plumbing-service-fix-a-warm-spot-indicating-a-slab-leak",
+  "name": "How quickly can a plumbing service fix a warm spot indicating a slab leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly can a plumbing service fix a warm spot indicating a slab leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Once a slab leak is detected and located, the repair process itself can often be completed within a day or two, depending on the complexity. However, the entire process, including initial detection, securing necessary materials, and any post-repair restoration (like concrete or flooring repair), might take longer. We prioritize urgent slab leak repairs to minimize disruption and damage to your home.",
+        "@type": "Answer",
+        "description": "Slab leak repairs can often be completed in 1-2 days after detection, with the full process varying based on complexity."
+      }
+    }
+  ],
+  "description": "Slab leak repairs can often be completed in 1-2 days after detection, with the full process varying based on complexity."
+}

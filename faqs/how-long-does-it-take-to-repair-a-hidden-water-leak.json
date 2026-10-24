@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-it-take-to-repair-a-hidden-water-leak",
+  "name": "How long does it take to repair a hidden water leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to repair a hidden water leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time it takes to repair a hidden water leak depends on its location and severity. Simple repairs might take a few hours once the leak is identified. More complex issues, such as slab leaks or those requiring access through walls or floors, could take a day or more, especially if structural repairs are also needed. A professional plumber can provide a more accurate timeline after assessing the specific leak.",
+        "@type": "Answer",
+        "description": "Repair time varies from a few hours to over a day, depending on the leak's location and complexity."
+      }
+    }
+  ],
+  "description": "Repair time varies from a few hours to over a day, depending on the leak's location and complexity."
+}

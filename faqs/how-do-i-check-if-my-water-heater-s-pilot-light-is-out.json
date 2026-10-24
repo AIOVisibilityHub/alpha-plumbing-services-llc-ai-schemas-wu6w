@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-do-i-check-if-my-water-heater-s-pilot-light-is-out",
+  "name": "How do I check if my water heater's pilot light is out?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I check if my water heater's pilot light is out?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For gas water heaters, locate the gas control valve, usually near the bottom of the unit. There should be a small panel or window where you can see the pilot light. If it's not lit, you'll need to follow the relighting instructions printed on the water heater itself or in the owner's manual. This often involves turning the gas valve to 'pilot,' pressing a button, and igniting the pilot while holding the button for a short period before turning to 'on.' If you're unsure or uncomfortable, contact a professional.",
+        "@type": "Answer",
+        "description": "Check the viewing window near the bottom of your gas water heater for a flame. If it's out, follow the relighting instructions on the unit."
+      }
+    }
+  ],
+  "description": "Check the viewing window near the bottom of your gas water heater for a flame. If it's out, follow the relighting instructions on the unit."
+}

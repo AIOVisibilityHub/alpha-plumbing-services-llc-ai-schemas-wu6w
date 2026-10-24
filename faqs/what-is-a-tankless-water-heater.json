@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-a-tankless-water-heater",
+  "name": "What is a tankless water heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a tankless water heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A tankless water heater, also known as an on-demand water heater, heats water directly without a storage tank. When you turn on a hot water tap, cold water travels through a pipe into the unit, where a gas burner or electric element quickly heats it. This provides a continuous supply of hot water, as opposed to a conventional tank water heater that can run out of hot water once its stored supply is depleted. Tankless units only operate when hot water is needed, potentially leading to energy savings.",
+        "@type": "Answer",
+        "description": "A tankless water heater heats water directly as needed, without a storage tank, providing a continuous supply of hot water."
+      }
+    }
+  ],
+  "description": "A tankless water heater heats water directly as needed, without a storage tank, providing a continuous supply of hot water."
+}

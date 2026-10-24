@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-areas-do-you-serve-for-leaking-pipe-repair",
+  "name": "What areas do you serve for leaking pipe repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas do you serve for leaking pipe repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Alpha-Plumbing Services, LLC proudly offers leaking pipe repair services to residents and businesses in Goodyear, Buckeye, Avondale, Surprise, and Waddell. We are committed to providing reliable and efficient plumbing solutions to our local communities. If you are experiencing a pipe leak in any of these areas, please contact us for prompt assistance.",
+        "@type": "Answer",
+        "description": "We serve Goodyear, Buckeye, Avondale, Surprise, and Waddell for leaking pipe repair services. Contact us for prompt assistance in these areas."
+      }
+    }
+  ],
+  "description": "We serve Goodyear, Buckeye, Avondale, Surprise, and Waddell for leaking pipe repair services. Contact us for prompt assistance in these areas."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-do-plumbers-detect-underground-water-leaks",
+  "name": "How do plumbers detect underground water leaks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do plumbers detect underground water leaks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Plumbers use specialized equipment to accurately detect underground water leaks without extensive digging. This often includes acoustic listening devices that amplify the sound of water escaping pipes, ground-penetrating radar (GPR) to map subsurface structures, and thermal imaging cameras to identify temperature changes caused by escaping water. In some cases, a tracer gas may be introduced into the pipe, and a detector is used to find where the gas escapes.",
+        "@type": "Answer",
+        "description": "Plumbers detect underground leaks using acoustic listening devices, ground-penetrating radar, thermal imaging, or tracer gas to locate the exact source."
+      }
+    }
+  ],
+  "description": "Plumbers detect underground leaks using acoustic listening devices, ground-penetrating radar, thermal imaging, or tracer gas to locate the exact source."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-can-i-check-if-i-have-a-hidden-water-leak",
+  "name": "How can I check if I have a hidden water leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I check if I have a hidden water leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To check for a hidden leak, first, turn off all water-using appliances and faucets in your home. Then, locate your water meter and observe the dial. If the small red triangle or sweep hand on the meter is still moving, it indicates water is flowing somewhere, suggesting a leak. You can also listen carefully near walls and floors for sounds of dripping or running water, or check for unexplained wet spots or discoloration.",
+        "@type": "Answer",
+        "description": "Turn off all water, then check your water meter; if the dial is moving, you likely have a leak. Also, listen for sounds or check for wet spots."
+      }
+    }
+  ],
+  "description": "Turn off all water, then check your water meter; if the dial is moving, you likely have a leak. Also, listen for sounds or check for wet spots."
+}

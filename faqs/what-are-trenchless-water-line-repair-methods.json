@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-trenchless-water-line-repair-methods",
+  "name": "What are trenchless water line repair methods?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are trenchless water line repair methods?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Trenchless water line repair methods offer alternatives to traditional open-trench excavation, minimizing damage to your landscaping, driveways, and foundations. Two common techniques are pipe bursting, where a new pipe is pulled through the old one, breaking it apart, and pipe lining, which involves inserting a new, smaller pipe or a resin-coated liner into the existing pipe. These methods are efficient, often quicker, and can be more cost-effective in the long run by avoiding extensive property restoration.",
+        "@type": "Answer",
+        "description": "Trenchless methods like pipe bursting or pipe lining repair water lines without extensive digging, preserving landscaping and reducing disruption."
+      }
+    }
+  ],
+  "description": "Trenchless methods like pipe bursting or pipe lining repair water lines without extensive digging, preserving landscaping and reducing disruption."
+}

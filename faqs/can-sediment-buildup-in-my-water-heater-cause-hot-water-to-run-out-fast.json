@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/can-sediment-buildup-in-my-water-heater-cause-hot-water-to-run-out-fast",
+  "name": "Can sediment buildup in my water heater cause hot water to run out fast?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can sediment buildup in my water heater cause hot water to run out fast?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, sediment buildup is a common culprit for hot water running out quickly. Over time, minerals in the water settle at the bottom of the tank, forming a layer of sediment. This layer reduces the amount of space available for hot water storage and acts as an insulator, making it harder for the heating elements to transfer heat efficiently to the water. As a result, your water heater produces less hot water and takes longer to reheat, leading to a faster depletion of your hot water supply.",
+        "@type": "Answer",
+        "description": "Yes, sediment buildup reduces the tank's capacity and heating efficiency, causing hot water to run out faster."
+      }
+    }
+  ],
+  "description": "Yes, sediment buildup reduces the tank's capacity and heating efficiency, causing hot water to run out faster."
+}

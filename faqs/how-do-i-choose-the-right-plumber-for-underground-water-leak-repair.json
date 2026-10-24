@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-do-i-choose-the-right-plumber-for-underground-water-leak-repair",
+  "name": "How do I choose the right plumber for underground water leak repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right plumber for underground water leak repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a plumber for underground water leak repair, look for licensed and insured professionals with experience in leak detection and repair. Verify their expertise with specialized equipment and inquire about their repair methods, including options for trenchless solutions. Check customer reviews and ask for transparent pricing. Alpha-Plumbing Services is licensed, insured, and has a proven track record of accurate detection and effective repairs in your local area, ensuring reliable service.",
+        "@type": "Answer",
+        "description": "Choose a licensed, insured plumber with leak detection expertise, transparent pricing, good reviews, and experience with various repair methods."
+      }
+    }
+  ],
+  "description": "Choose a licensed, insured plumber with leak detection expertise, transparent pricing, good reviews, and experience with various repair methods."
+}

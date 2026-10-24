@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-can-i-stop-my-water-heater-from-rumbling",
+  "name": "How can I stop my water heater from rumbling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I stop my water heater from rumbling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The most effective way to stop a rumbling water heater is to flush the tank to remove sediment buildup. This process involves turning off the power or gas, shutting off the cold water supply, connecting a hose to the drain valve, and opening the valve to let the water and sediment drain out. For extensive buildup or if you're uncomfortable performing the task yourself, professional service from Alpha-Plumbing Services, LLC is recommended. Regular flushing every 6-12 months can prevent future rumbling.",
+        "@type": "Answer",
+        "description": "To stop rumbling, flush your water heater tank to remove sediment. For significant buildup or if you prefer professional help, contact Alpha-Plumbing Services, LLC."
+      }
+    }
+  ],
+  "description": "To stop rumbling, flush your water heater tank to remove sediment. For significant buildup or if you prefer professional help, contact Alpha-Plumbing Services,"
+}

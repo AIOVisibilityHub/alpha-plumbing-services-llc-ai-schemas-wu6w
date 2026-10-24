@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-it-take-to-fix-a-slab-leak",
+  "name": "How long does it take to fix a slab leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to fix a slab leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time it takes to fix a slab leak varies significantly based on the complexity of the leak and the chosen repair method. A straightforward repair involving a small excavation might take a few hours to a full day. However, if the leak is difficult to locate, requires extensive re-piping, or involves significant concrete work, the process could extend over several days. Factors like drying times for concrete or new materials also contribute to the overall timeline. Your plumber can provide a more accurate estimate once the leak is assessed.",
+        "@type": "Answer",
+        "description": "Repair time varies; simple fixes can take hours, while complex re-piping or excavation might require several days. It depends on the specific leak."
+      }
+    }
+  ],
+  "description": "Repair time varies; simple fixes can take hours, while complex re-piping or excavation might require several days. It depends on the specific leak."
+}

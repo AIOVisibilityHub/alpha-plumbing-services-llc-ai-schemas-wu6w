@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-should-i-replace-my-water-heater-if-it-s-producing-rusty-water",
+  "name": "When should I replace my water heater if it's producing rusty water?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I replace my water heater if it's producing rusty water?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If rusty water persists even after flushing your tank, and especially if your water heater is over 10-12 years old, it's likely a strong indicator that the internal tank is corroding and failing. Once the anode rod, which is designed to prevent rust, has been consumed, the steel tank itself begins to rust. At this point, replacement is usually the most cost-effective and reliable solution, as internal tank corrosion cannot be repaired. Alpha-Plumbing Services can help you assess your water heater's condition and recommend suitable replacements.",
+        "@type": "Answer",
+        "description": "If rusty water persists and your water heater is over 10-12 years old, it usually means the tank is corroding and requires replacement."
+      }
+    }
+  ],
+  "description": "If rusty water persists and your water heater is over 10-12 years old, it usually means the tank is corroding and requires replacement."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-do-plumbers-fix-a-hot-spot-on-the-floor",
+  "name": "How do plumbers fix a hot spot on the floor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do plumbers fix a hot spot on the floor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Plumbers typically begin by using specialized leak detection equipment, such as acoustic listening devices or thermal imaging cameras, to pinpoint the exact location of the hot water leak under the floor. Once the leak is found, the repair method depends on the foundation type and leak severity. For slab leaks, options include direct access (breaking through the slab), re-routing the affected pipe section around the slab, or in some cases, pipe lining. The goal is to repair or replace the damaged pipe with minimal disruption.",
+        "@type": "Answer",
+        "description": "Plumbers use leak detection tools to find the exact leak, then fix it by either accessing the pipe directly through the floor or re-routing the line."
+      }
+    }
+  ],
+  "description": "Plumbers use leak detection tools to find the exact leak, then fix it by either accessing the pipe directly through the floor or re-routing the line."
+}

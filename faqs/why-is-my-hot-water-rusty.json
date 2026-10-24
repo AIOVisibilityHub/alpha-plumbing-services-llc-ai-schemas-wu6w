@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/why-is-my-hot-water-rusty",
+  "name": "Why is my hot water rusty?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is my hot water rusty?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Rusty hot water often indicates corrosion within your water heater tank or the pipes supplying hot water. Over time, the protective lining inside the tank can degrade, exposing the steel to water and causing rust. If only the hot water is rusty, it's likely an issue with the water heater itself. If both hot and cold water are rusty, the problem might be with your main water supply line or internal plumbing. A plumber can diagnose the source of the rust. Alpha-Plumbing Services can inspect your system in Goodyear and surrounding areas.",
+        "@type": "Answer",
+        "description": "Rusty hot water typically means corrosion inside your water heater tank or hot water pipes. If both hot and cold water are rusty, the issue might be with your main water supply."
+      }
+    }
+  ],
+  "description": "Rusty hot water typically means corrosion inside your water heater tank or hot water pipes. If both hot and cold water are rusty, the issue might be with your m"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/does-a-new-water-heater-make-noise",
+  "name": "Does a new water heater make noise?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does a new water heater make noise?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A brand new water heater should operate quietly. Any significant or unusual noises from a new unit could indicate an installation issue or a manufacturing defect. Minor sounds might occur as the unit fills for the first time or if the heating elements are settling. However, loud popping, banging, or rumbling sounds are not typical for a new installation. If your new water heater is making concerning noises, it's important to contact your installer or the manufacturer immediately to have it inspected under warranty.",
+        "@type": "Answer",
+        "description": "A new water heater should operate quietly. Significant or unusual noises from a new unit could signal an installation problem or a manufacturing defect that needs professional attention."
+      }
+    }
+  ],
+  "description": "A new water heater should operate quietly. Significant or unusual noises from a new unit could signal an installation problem or a manufacturing defect that nee"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-do-plumbers-find-hidden-water-leaks-under-carpet",
+  "name": "How do plumbers find hidden water leaks under carpet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do plumbers find hidden water leaks under carpet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Plumbers use specialized tools and techniques to locate hidden water leaks. These can include acoustic leak detection equipment that listens for the sound of water escaping pipes, thermal imaging cameras to detect temperature changes caused by water, moisture meters to identify damp areas within walls or floors, and sometimes pressure testing of water lines. These methods help pinpoint the leak's exact location with minimal disruption.",
+        "@type": "Answer",
+        "description": "Plumbers use acoustic listening devices, thermal cameras, moisture meters, and pressure testing to find hidden leaks under carpet."
+      }
+    }
+  ],
+  "description": "Plumbers use acoustic listening devices, thermal cameras, moisture meters, and pressure testing to find hidden leaks under carpet."
+}

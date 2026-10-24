@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-often-should-i-flush-my-water-heater-to-prevent-noise",
+  "name": "How often should I flush my water heater to prevent noise?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should I flush my water heater to prevent noise?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prevent noise caused by sediment buildup and to maintain your water heater's efficiency, it's generally recommended to flush your tank annually. In areas with particularly hard water, flushing twice a year might be beneficial. Regular flushing helps remove mineral deposits before they accumulate to problematic levels. This simple maintenance step can significantly extend the lifespan of your water heater, improve its performance, and reduce the likelihood of it developing disruptive noises.",
+        "@type": "Answer",
+        "description": "Flush your water heater annually to prevent noise from sediment buildup. In hard water areas, flushing twice a year can be beneficial for efficiency and lifespan."
+      }
+    }
+  ],
+  "description": "Flush your water heater annually to prevent noise from sediment buildup. In hard water areas, flushing twice a year can be beneficial for efficiency and lifespa"
+}

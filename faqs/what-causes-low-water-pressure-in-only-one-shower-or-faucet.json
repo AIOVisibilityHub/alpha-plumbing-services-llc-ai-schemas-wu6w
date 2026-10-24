@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-causes-low-water-pressure-in-only-one-shower-or-faucet",
+  "name": "What causes low water pressure in only one shower or faucet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes low water pressure in only one shower or faucet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If only one shower or faucet has low water pressure, the problem is usually isolated to that specific fixture. Common culprits include clogged aerators or showerheads, which can accumulate mineral deposits and restrict water flow. Issues with the cartridge inside the faucet, a faulty shut-off valve for that specific fixture, or a kinked supply line can also cause localized low pressure. Cleaning or replacing the aerator/showerhead is a good first step, but if the issue persists, professional help may be needed.",
+        "@type": "Answer",
+        "description": "Low pressure in a single fixture is often due to a clogged aerator, showerhead, or a problem with the fixture's internal components. Check for mineral buildup first."
+      }
+    }
+  ],
+  "description": "Low pressure in a single fixture is often due to a clogged aerator, showerhead, or a problem with the fixture's internal components. Check for mineral buildup f"
+}

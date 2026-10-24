@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-areas-do-alpha-plumbing-services-llc-cover-for-leak-detection-and-repair",
+  "name": "What areas do Alpha-Plumbing Services, LLC cover for leak detection and repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas do Alpha-Plumbing Services, LLC cover for leak detection and repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Alpha-Plumbing Services, LLC provides expert leak detection and repair services to a specific range of communities. Our service areas include Goodyear, Buckeye, Avondale, Surprise, and Waddel. If you are experiencing the sound of running water when everything is off and reside in one of these locations, our certified plumbers are ready to assist you in locating and resolving the issue efficiently and effectively.",
+        "@type": "Answer",
+        "description": "Alpha-Plumbing Services, LLC serves Goodyear, Buckeye, Avondale, Surprise, and Waddel for leak detection and repair services."
+      }
+    }
+  ],
+  "description": "Alpha-Plumbing Services, LLC serves Goodyear, Buckeye, Avondale, Surprise, and Waddel for leak detection and repair services."
+}

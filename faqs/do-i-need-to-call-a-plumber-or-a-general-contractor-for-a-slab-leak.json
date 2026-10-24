@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/do-i-need-to-call-a-plumber-or-a-general-contractor-for-a-slab-leak",
+  "name": "Do I need to call a plumber or a general contractor for a slab leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to call a plumber or a general contractor for a slab leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For slab leaks, you should first contact a licensed plumber. Plumbers specialize in water systems, leak detection, and pipe repair or replacement. A general contractor might be needed for extensive restoration work after the plumbing repair is complete, especially if there is significant damage to flooring, drywall, or the foundation itself. However, the initial detection and repair of the leak itself are critical plumbing tasks that require a plumbing professional.",
+        "@type": "Answer",
+        "description": "Start with a licensed plumber for slab leak detection and pipe repair; a general contractor may be needed for restoration after."
+      }
+    }
+  ],
+  "description": "Start with a licensed plumber for slab leak detection and pipe repair; a general contractor may be needed for restoration after."
+}

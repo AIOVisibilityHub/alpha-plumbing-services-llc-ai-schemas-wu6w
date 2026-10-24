@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/will-my-yard-be-damaged-during-an-underground-water-leak-repair",
+  "name": "Will my yard be damaged during an underground water leak repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my yard be damaged during an underground water leak repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While some excavation is often necessary for underground water leak repair, Alpha-Plumbing Services strives to minimize disruption to your property. We use targeted detection methods to pinpoint the leak precisely, reducing the area that needs to be dug. In some cases, trenchless repair methods, such as pipe bursting or pipe lining, may be an option, which involve little to no digging. We discuss all options and their impact on your yard before starting work.",
+        "@type": "Answer",
+        "description": "Some excavation may be necessary, but we aim to minimize yard disruption using targeted detection and exploring trenchless repair options."
+      }
+    }
+  ],
+  "description": "Some excavation may be necessary, but we aim to minimize yard disruption using targeted detection and exploring trenchless repair options."
+}

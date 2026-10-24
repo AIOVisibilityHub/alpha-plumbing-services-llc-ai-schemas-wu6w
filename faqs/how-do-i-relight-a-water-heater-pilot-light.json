@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-do-i-relight-a-water-heater-pilot-light",
+  "name": "How do I relight a water heater pilot light?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I relight a water heater pilot light?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Relighting a pilot light typically involves a few steps. First, locate the gas control knob on your water heater. Turn it to the 'off' position and wait about five minutes to clear any residual gas. Next, turn the knob to 'pilot.' Press and hold the pilot button while simultaneously pressing the igniter button (if present) or holding a long lighter to the pilot opening until you see a flame. Keep holding the pilot button for about 30-60 seconds after the flame lights, then release it slowly. Finally, turn the gas control knob to 'on.' Consult your water heater's manual for specific instructions.",
+        "@type": "Answer",
+        "description": "To relight, turn the gas to 'off,' wait, then turn to 'pilot.' Press the pilot button while lighting the flame, hold, then turn to 'on.'"
+      }
+    }
+  ],
+  "description": "To relight, turn the gas to 'off,' wait, then turn to 'pilot.' Press the pilot button while lighting the flame, hold, then turn to 'on.'"
+}

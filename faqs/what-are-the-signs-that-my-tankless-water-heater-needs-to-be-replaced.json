@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-the-signs-that-my-tankless-water-heater-needs-to-be-replaced",
+  "name": "What are the signs that my tankless water heater needs to be replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs that my tankless water heater needs to be replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that indicate your tankless water heater may need replacement include a significant decrease in hot water output or inconsistent temperatures. Frequent error codes, recurring leaks, or strange noises coming from the unit can also signal internal component failure or advanced wear. If repairs become frequent or costly, replacing the unit is often a more economical solution.",
+        "@type": "Answer",
+        "description": "Signs include decreased hot water, inconsistent temperatures, frequent error codes, leaks, or strange noises. Frequent repairs suggest replacement."
+      }
+    }
+  ],
+  "description": "Signs include decreased hot water, inconsistent temperatures, frequent error codes, leaks, or strange noises. Frequent repairs suggest replacement."
+}

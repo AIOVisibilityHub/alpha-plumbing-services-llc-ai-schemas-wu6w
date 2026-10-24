@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/do-you-offer-leak-detection-services-for-hot-spots-on-floors-in-goodyear",
+  "name": "Do you offer leak detection services for hot spots on floors in Goodyear?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer leak detection services for hot spots on floors in Goodyear?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Alpha-Plumbing Services, LLC provides comprehensive leak detection and repair services for hot spots on floors throughout Goodyear, Buckeye, Avondale, and Surprise. Our experienced plumbers use advanced technology to accurately locate hidden leaks, including those under concrete slabs. We are equipped to diagnose the source of the warmth and offer effective solutions to prevent further damage to your property. Contact us for prompt and reliable service in your area.",
+        "@type": "Answer",
+        "description": "Yes, Alpha-Plumbing Services, LLC offers leak detection and repair for hot spots on floors in Goodyear and surrounding areas."
+      }
+    }
+  ],
+  "description": "Yes, Alpha-Plumbing Services, LLC offers leak detection and repair for hot spots on floors in Goodyear and surrounding areas."
+}

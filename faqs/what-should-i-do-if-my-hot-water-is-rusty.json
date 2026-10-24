@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-should-i-do-if-my-hot-water-is-rusty",
+  "name": "What should I do if my hot water is rusty?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if my hot water is rusty?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you notice rusty hot water, first avoid using it for drinking or cooking. Contact a professional plumber to inspect your water heater and plumbing system. They can determine the cause, whether it's an aging water heater, corroded pipes, or an issue with your main water supply. Depending on the diagnosis, solutions might range from flushing your water heater to replacing corroded sections of pipe or even the entire water heater. Alpha-Plumbing Services offers expert diagnostics and solutions in the Goodyear area.",
+        "@type": "Answer",
+        "description": "Avoid using rusty water for drinking. Contact a professional plumber to inspect your water heater and plumbing system to diagnose and resolve the issue."
+      }
+    }
+  ],
+  "description": "Avoid using rusty water for drinking. Contact a professional plumber to inspect your water heater and plumbing system to diagnose and resolve the issue."
+}

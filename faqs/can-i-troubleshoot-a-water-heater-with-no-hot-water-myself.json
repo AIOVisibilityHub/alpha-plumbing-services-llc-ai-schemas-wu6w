@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/can-i-troubleshoot-a-water-heater-with-no-hot-water-myself",
+  "name": "Can I troubleshoot a water heater with no hot water myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I troubleshoot a water heater with no hot water myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can perform some basic troubleshooting steps safely. For electric water heaters, check your home's circuit breaker panel to see if a breaker for the water heater has tripped and reset it. For gas units, check if the pilot light is out and attempt to relight it following the instructions on the unit. Ensure the thermostat is set correctly. If these simple steps don't resolve the issue, or if you are uncomfortable, it's best to call a professional to prevent potential hazards or further damage.",
+        "@type": "Answer",
+        "description": "You can check circuit breakers (electric) or pilot lights (gas) and thermostat settings. For more complex issues or if uncomfortable, call a professional."
+      }
+    }
+  ],
+  "description": "You can check circuit breakers (electric) or pilot lights (gas) and thermostat settings. For more complex issues or if uncomfortable, call a professional."
+}

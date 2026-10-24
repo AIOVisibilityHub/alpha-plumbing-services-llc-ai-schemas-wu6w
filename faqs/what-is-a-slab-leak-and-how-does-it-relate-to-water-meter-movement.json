@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-a-slab-leak-and-how-does-it-relate-to-water-meter-movement",
+  "name": "What is a slab leak and how does it relate to water meter movement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a slab leak and how does it relate to water meter movement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A slab leak refers to a leak in the water pipes that are embedded within or directly beneath your home's concrete foundation (the slab). Because these leaks are hidden, they can go unnoticed for long periods, but a key indicator is continuous movement of your water meter even when no water is being used. Other signs include warm spots on the floor, the sound of running water when no fixtures are on, or unexplained cracks in the foundation. Slab leaks require specialized detection and repair methods.",
+        "@type": "Answer",
+        "description": "A slab leak is a pipe leak under your home's foundation. It causes continuous water meter movement when water is off and requires specialized detection and repair."
+      }
+    }
+  ],
+  "description": "A slab leak is a pipe leak under your home's foundation. It causes continuous water meter movement when water is off and requires specialized detection and repa"
+}

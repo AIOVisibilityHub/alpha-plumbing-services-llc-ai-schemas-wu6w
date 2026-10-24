@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/is-hidden-water-leak-detection-covered-by-home-insurance",
+  "name": "Is hidden water leak detection covered by home insurance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is hidden water leak detection covered by home insurance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Home insurance coverage for hidden water leak detection and repair depends heavily on your specific policy and the cause of the leak. Generally, sudden and accidental damage, like a burst pipe, may be covered. However, damage resulting from long-term neglect, such as a slow, unaddressed leak over many months, is typically not covered. It's crucial to review your insurance policy or contact your provider to understand what is included, especially regarding the detection process itself versus the damage repair.",
+        "@type": "Answer",
+        "description": "Coverage depends on your policy and the leak's cause. Sudden damage might be covered, but long-term neglect usually isn't. Check with your insurance provider."
+      }
+    }
+  ],
+  "description": "Coverage depends on your policy and the leak's cause. Sudden damage might be covered, but long-term neglect usually isn't. Check with your insurance provider."
+}

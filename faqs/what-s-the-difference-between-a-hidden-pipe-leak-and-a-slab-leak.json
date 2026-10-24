@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-s-the-difference-between-a-hidden-pipe-leak-and-a-slab-leak",
+  "name": "What's the difference between a hidden pipe leak and a slab leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a hidden pipe leak and a slab leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A hidden pipe leak generally refers to a leak in any pipe concealed within walls, ceilings, or under floors (but not directly in the concrete slab). A slab leak specifically occurs in the plumbing pipes encased within your home's concrete foundation or 'slab'. Both are hidden and can cause significant water damage and wet carpets, but their detection and repair methods can differ due to their location.",
+        "@type": "Answer",
+        "description": "A hidden pipe leak is in concealed pipes; a slab leak is specifically in pipes within the concrete foundation."
+      }
+    }
+  ],
+  "description": "A hidden pipe leak is in concealed pipes; a slab leak is specifically in pipes within the concrete foundation."
+}

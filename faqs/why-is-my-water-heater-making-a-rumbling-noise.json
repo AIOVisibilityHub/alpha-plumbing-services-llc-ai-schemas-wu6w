@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/why-is-my-water-heater-making-a-rumbling-noise",
+  "name": "Why is my water heater making a rumbling noise?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is my water heater making a rumbling noise?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Rumbling noises from a water heater typically indicate sediment buildup at the bottom of the tank. Over time, minerals in the water, like calcium and magnesium, settle and harden. When the heating element activates, these sediment layers trap water underneath, causing it to boil and produce steam bubbles. As these bubbles escape through the sediment, they create the rumbling or popping sounds you hear. This condition reduces efficiency and can shorten the lifespan of your water heater.",
+        "@type": "Answer",
+        "description": "Rumbling usually means sediment has built up inside your water heater tank. This causes water to boil beneath the sediment, making noise as steam escapes."
+      }
+    }
+  ],
+  "description": "Rumbling usually means sediment has built up inside your water heater tank. This causes water to boil beneath the sediment, making noise as steam escapes."
+}

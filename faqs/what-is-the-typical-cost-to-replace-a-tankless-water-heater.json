@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-typical-cost-to-replace-a-tankless-water-heater",
+  "name": "What is the typical cost to replace a tankless water heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost to replace a tankless water heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to replace a tankless water heater can vary based on factors like the unit's capacity, brand, fuel type (electric or gas), and installation complexity. If your existing plumbing or gas lines need significant modifications to accommodate the new unit, this will affect the overall cost. Obtaining a detailed estimate from a professional plumber, including labor and materials, is recommended.",
+        "@type": "Answer",
+        "description": "Replacement costs vary by unit capacity, brand, fuel type, and installation complexity, especially if plumbing or gas line modifications are needed."
+      }
+    }
+  ],
+  "description": "Replacement costs vary by unit capacity, brand, fuel type, and installation complexity, especially if plumbing or gas line modifications are needed."
+}

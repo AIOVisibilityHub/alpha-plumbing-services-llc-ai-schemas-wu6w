@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-do-tankless-water-heaters-typically-last-compared-to-traditional-models",
+  "name": "How long do tankless water heaters typically last compared to traditional models?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long do tankless water heaters typically last compared to traditional models?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Tankless water heaters generally have a longer lifespan than traditional tank-style water heaters. A well-maintained tankless unit can last 20 years or more, while conventional tank heaters typically last 10-15 years. This extended lifespan is due to their design, which heats water on demand and reduces constant exposure to high temperatures and sediment buildup common in tanks.",
+        "@type": "Answer",
+        "description": "Tankless water heaters can last 20+ years, while traditional tank heaters typically last 10-15 years."
+      }
+    }
+  ],
+  "description": "Tankless water heaters can last 20+ years, while traditional tank heaters typically last 10-15 years."
+}

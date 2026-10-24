@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-do-plumbers-detect-hidden-water-leaks",
+  "name": "How do plumbers detect hidden water leaks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do plumbers detect hidden water leaks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Plumbers use a variety of non-invasive techniques to locate hidden water leaks without causing extensive damage to your property. Common methods include acoustic listening devices that amplify the sound of running water behind walls or under floors, thermal imaging cameras to detect temperature changes caused by water, and moisture meters to pinpoint areas of saturation. Sometimes, pressure testing pipes or using tracer gas is necessary to precisely identify the leak's source, especially for slab leaks or underground pipes.",
+        "@type": "Answer",
+        "description": "Plumbers use acoustic listening, thermal imaging, and moisture meters to find hidden leaks. Pressure testing or tracer gas may also be used."
+      }
+    }
+  ],
+  "description": "Plumbers use acoustic listening, thermal imaging, and moisture meters to find hidden leaks. Pressure testing or tracer gas may also be used."
+}

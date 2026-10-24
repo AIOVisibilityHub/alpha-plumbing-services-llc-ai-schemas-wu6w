@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-kind-of-damage-can-a-leaking-water-heater-cause",
+  "name": "What kind of damage can a leaking water heater cause?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of damage can a leaking water heater cause?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A leaking water heater can cause significant damage to your home if not addressed promptly. Water damage can affect flooring, drywall, baseboards, and even structural elements, potentially leading to costly repairs and the growth of mold or mildew. Electrical components near the leak can also be compromised, posing safety hazards. Early detection and intervention are crucial to minimize potential damage.",
+        "@type": "Answer",
+        "description": "A leaking water heater can cause extensive water damage to flooring, walls, and structural elements. It can also lead to mold growth and electrical hazards."
+      }
+    }
+  ],
+  "description": "A leaking water heater can cause extensive water damage to flooring, walls, and structural elements. It can also lead to mold growth and electrical hazards."
+}

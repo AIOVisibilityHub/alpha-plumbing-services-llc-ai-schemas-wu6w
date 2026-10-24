@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-should-i-call-a-professional-for-an-underground-water-leak",
+  "name": "When should I call a professional for an underground water leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for an underground water leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional plumber as soon as you suspect an underground water leak. Early detection and repair can prevent significant damage to your home's foundation, landscaping, and other underground utilities. Ignoring a leak can lead to mold growth, structural issues, and substantially higher water bills. Alpha-Plumbing Services offers prompt service in Goodyear, Buckeye, Avondale, and Surprise to address these urgent issues.",
+        "@type": "Answer",
+        "description": "Call a professional immediately if you suspect an underground water leak to prevent severe damage and higher costs."
+      }
+    }
+  ],
+  "description": "Call a professional immediately if you suspect an underground water leak to prevent severe damage and higher costs."
+}

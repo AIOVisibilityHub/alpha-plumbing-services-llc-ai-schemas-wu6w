@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-a-tankless-water-heater-replacement-installation-take",
+  "name": "How long does a tankless water heater replacement installation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a tankless water heater replacement installation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation time for a tankless water heater replacement typically ranges from a few hours to a full day, depending on the complexity of the job. A direct replacement of an existing tankless unit might be quicker. However, if you are converting from a tank-style heater or require significant modifications to gas, water, or venting lines, the process will take longer.",
+        "@type": "Answer",
+        "description": "Installation can take a few hours to a full day, depending on complexity and whether it's a direct replacement or a conversion from a tank-style unit."
+      }
+    }
+  ],
+  "description": "Installation can take a few hours to a full day, depending on complexity and whether it's a direct replacement or a conversion from a tank-style unit."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-areas-does-alpha-plumbing-services-llc-serve-for-hidden-leak-detection",
+  "name": "What areas does Alpha-Plumbing Services, LLC serve for hidden leak detection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas does Alpha-Plumbing Services, LLC serve for hidden leak detection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Alpha-Plumbing Services, LLC provides professional hidden leak detection and repair services in Goodyear, Buckeye, Avondale, and Surprise. Our experienced technicians are equipped with advanced tools to accurately locate and address various types of plumbing leaks, helping homeowners protect their properties from water damage. Contact us to schedule an assessment in these service areas.",
+        "@type": "Answer",
+        "description": "Alpha-Plumbing Services, LLC serves Goodyear, Buckeye, Avondale, and Surprise for hidden leak detection and repair."
+      }
+    }
+  ],
+  "description": "Alpha-Plumbing Services, LLC serves Goodyear, Buckeye, Avondale, and Surprise for hidden leak detection and repair."
+}

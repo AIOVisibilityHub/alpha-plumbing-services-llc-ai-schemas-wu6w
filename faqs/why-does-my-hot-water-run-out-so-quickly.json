@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/why-does-my-hot-water-run-out-so-quickly",
+  "name": "Why does my hot water run out so quickly?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why does my hot water run out so quickly?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several factors can cause hot water to run out fast. A common reason is an undersized water heater for your household's needs, meaning it doesn't store enough hot water. Sediment buildup inside the tank can also reduce its effective capacity and heating efficiency. Issues with the heating elements or a faulty dip tube, which delivers cold water to the bottom of the tank, can also lead to premature cold showers. Additionally, a high demand for hot water from multiple appliances or simultaneous showers will deplete the supply quickly.",
+        "@type": "Answer",
+        "description": "Common causes include an undersized water heater, sediment buildup, faulty heating elements, or high household demand."
+      }
+    }
+  ],
+  "description": "Common causes include an undersized water heater, sediment buildup, faulty heating elements, or high household demand."
+}

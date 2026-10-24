@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-size-water-heater-do-i-need-to-avoid-running-out-of-hot-water",
+  "name": "What size water heater do I need to avoid running out of hot water?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What size water heater do I need to avoid running out of hot water?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Determining the correct water heater size depends on your household's peak hot water demand. For tank water heaters, this involves considering the number of people in your home, the number of bathrooms, and how many hot water appliances (like dishwashers or washing machines) run simultaneously. Tankless water heaters are sized by their flow rate (gallons per minute) and temperature rise, ensuring they can meet simultaneous demands. A plumbing professional can calculate your specific needs to recommend the ideal size.",
+        "@type": "Answer",
+        "description": "The correct size depends on your household's peak hot water demand, considering the number of people, bathrooms, and hot water appliances."
+      }
+    }
+  ],
+  "description": "The correct size depends on your household's peak hot water demand, considering the number of people, bathrooms, and hot water appliances."
+}

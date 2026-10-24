@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-areas-do-you-serve-for-leak-detection-and-repair",
+  "name": "What areas do you serve for leak detection and repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas do you serve for leak detection and repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Alpha-Plumbing Services proudly serves the following communities for professional leak detection and repair: Goodyear, Buckeye, Avondale, Surprise, and Waddel. If you are experiencing an unexplained high water bill or suspect a leak in any of these areas, our experienced plumbers are ready to assist you. We understand the local plumbing systems and common issues specific to our service regions, ensuring efficient and effective solutions for our neighbors.",
+        "@type": "Answer",
+        "description": "We serve Goodyear, Buckeye, Avondale, Surprise, and Waddel for all leak detection and repair needs."
+      }
+    }
+  ],
+  "description": "We serve Goodyear, Buckeye, Avondale, Surprise, and Waddel for all leak detection and repair needs."
+}

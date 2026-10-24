@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/why-is-it-urgent-to-repair-a-water-leak-under-my-house",
+  "name": "Why is it urgent to repair a water leak under my house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is it urgent to repair a water leak under my house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ignoring a water leak under your house can lead to significant and costly problems. Prolonged water exposure can damage your home's foundation, potentially causing structural instability. It also creates a breeding ground for mold and mildew, which can affect indoor air quality and pose health risks. Additionally, a continuous leak wastes a considerable amount of water, leading to inflated utility bills and potential property damage that may not be covered by insurance if neglected. Prompt repair is essential to prevent these issues.",
+        "@type": "Answer",
+        "description": "It's urgent to prevent foundation damage, mold growth, high water bills, and further property damage. Timely repair protects your home's structure and air quality."
+      }
+    }
+  ],
+  "description": "It's urgent to prevent foundation damage, mold growth, high water bills, and further property damage. Timely repair protects your home's structure and air quali"
+}

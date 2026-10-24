@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-do-i-choose-the-right-plumber-for-pipe-leak-repair",
+  "name": "How do I choose the right plumber for pipe leak repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right plumber for pipe leak repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a plumber for pipe leak repair, look for licensed and insured professionals with a strong reputation. Check their experience with various types of leaks, especially hidden or slab leaks. Read customer reviews, ask for references, and ensure they provide clear, upfront pricing or estimates. A good plumber will also communicate the repair process clearly and stand behind their work with a warranty. Alpha-Plumbing Services is licensed, insured, and serves your local area.",
+        "@type": "Answer",
+        "description": "Choose a licensed, insured plumber with good reviews and experience in different leak types. Look for clear pricing, good communication, and a warranty on their work."
+      }
+    }
+  ],
+  "description": "Choose a licensed, insured plumber with good reviews and experience in different leak types. Look for clear pricing, good communication, and a warranty on their"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/why-do-i-hear-running-water-when-all-my-faucets-are-off",
+  "name": "Why do I hear running water when all my faucets are off?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why do I hear running water when all my faucets are off?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hearing the sound of running water when all fixtures are off often indicates a hidden leak within your plumbing system. Common culprits include a running toilet, a slab leak under your home's foundation, a burst pipe behind a wall, or issues with your water heater. Ignoring these sounds can lead to significant water waste, increased utility bills, and potential structural damage to your property. It's crucial to investigate the source promptly to prevent further complications.",
+        "@type": "Answer",
+        "description": "This usually signals a hidden plumbing leak, such as a running toilet or a pipe burst. Prompt investigation is advised to prevent water waste and damage."
+      }
+    }
+  ],
+  "description": "This usually signals a hidden plumbing leak, such as a running toilet or a pipe burst. Prompt investigation is advised to prevent water waste and damage."
+}

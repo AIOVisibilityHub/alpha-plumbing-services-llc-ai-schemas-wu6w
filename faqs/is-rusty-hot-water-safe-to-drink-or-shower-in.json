@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/is-rusty-hot-water-safe-to-drink-or-shower-in",
+  "name": "Is rusty hot water safe to drink or shower in?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is rusty hot water safe to drink or shower in?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While rusty water isn't generally considered a serious health hazard in small amounts, it's not ideal for consumption or bathing. It can stain clothes, fixtures, and impart an unpleasant metallic taste to drinking water. Prolonged exposure or ingestion of highly rusty water could potentially cause digestive upset. For bathing, it might dry out skin and hair. It's best to avoid using rusty water until the source of the rust is identified and resolved by a qualified plumber.",
+        "@type": "Answer",
+        "description": "Rusty hot water is generally not a health hazard but can stain and taste unpleasant. It's best to avoid using it until the issue is resolved."
+      }
+    }
+  ],
+  "description": "Rusty hot water is generally not a health hazard but can stain and taste unpleasant. It's best to avoid using it until the issue is resolved."
+}

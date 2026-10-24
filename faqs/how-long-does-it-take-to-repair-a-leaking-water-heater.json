@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-it-take-to-repair-a-leaking-water-heater",
+  "name": "How long does it take to repair a leaking water heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to repair a leaking water heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required to repair a leaking water heater depends on the specific cause of the leak. Minor issues, such as tightening a loose connection or replacing a small part like a drain valve, might be resolved within an hour or two. If a full water heater replacement is needed due to a tank leak, the process can take several hours, including draining, removal, and installation of the new unit. We aim for efficient service to restore your hot water quickly.",
+        "@type": "Answer",
+        "description": "Repair time varies; minor fixes can take an hour or two, while a full water heater replacement might take several hours. We work efficiently to resolve the issue."
+      }
+    }
+  ],
+  "description": "Repair time varies; minor fixes can take an hour or two, while a full water heater replacement might take several hours. We work efficiently to resolve the issu"
+}

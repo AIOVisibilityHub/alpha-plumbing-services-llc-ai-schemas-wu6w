@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-a-water-heater-typically-last-before-rust-becomes-an-issue",
+  "name": "How long does a water heater typically last before rust becomes an issue?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a water heater typically last before rust becomes an issue?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The lifespan of a traditional tank water heater is typically 8-12 years. Rust often becomes an issue towards the latter part of this lifespan as the internal lining and anode rod, designed to prevent corrosion, degrade. Regular maintenance, such as annual flushing and checking the anode rod, can extend its life and delay the onset of rust. However, once significant rust appears in your hot water, it usually signifies the tank's internal integrity is compromised and replacement is imminent.",
+        "@type": "Answer",
+        "description": "Water heaters last 8-12 years, with rust often appearing as they age due to internal lining and anode rod degradation. Regular maintenance can help, but rust indicates potential tank failure."
+      }
+    }
+  ],
+  "description": "Water heaters last 8-12 years, with rust often appearing as they age due to internal lining and anode rod degradation. Regular maintenance can help, but rust in"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-much-does-it-cost-to-install-a-tank-water-heater",
+  "name": "How much does it cost to install a tank water heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to install a tank water heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to install a tank water heater can vary significantly based on several factors. These include the type and size of the water heater, whether it's a direct replacement or requires modifications to existing plumbing or electrical systems, and any necessary code upgrades. Additional costs might arise from the disposal of the old unit or if unexpected issues are discovered during the removal. We provide detailed estimates after an on-site assessment to give you an accurate cost.",
+        "@type": "Answer",
+        "description": "Installation costs vary based on water heater type/size, modifications needed, and code upgrades. We provide detailed estimates after an on-site assessment."
+      }
+    }
+  ],
+  "description": "Installation costs vary based on water heater type/size, modifications needed, and code upgrades. We provide detailed estimates after an on-site assessment."
+}

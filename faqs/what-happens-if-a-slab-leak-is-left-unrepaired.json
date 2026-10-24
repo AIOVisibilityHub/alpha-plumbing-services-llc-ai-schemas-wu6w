@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-happens-if-a-slab-leak-is-left-unrepaired",
+  "name": "What happens if a slab leak is left unrepaired?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens if a slab leak is left unrepaired?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If a slab leak is left unrepaired, it can lead to significant and costly damage over time. Continuous water saturation can undermine your home's foundation, causing cracks and structural instability. The excess moisture can promote mold and mildew growth, impacting indoor air quality and potentially causing health issues. Additionally, you will continue to incur high water bills, and the water damage can extend to flooring, walls, and personal belongings, requiring extensive restoration.",
+        "@type": "Answer",
+        "description": "Unrepaired slab leaks can cause foundation damage, mold growth, increased water bills, and extensive property damage."
+      }
+    }
+  ],
+  "description": "Unrepaired slab leaks can cause foundation damage, mold growth, increased water bills, and extensive property damage."
+}

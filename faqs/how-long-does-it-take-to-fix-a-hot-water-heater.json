@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-it-take-to-fix-a-hot-water-heater",
+  "name": "How long does it take to fix a hot water heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to fix a hot water heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required to fix a hot water heater depends on the complexity of the repair. Simple issues like resetting a breaker or relighting a pilot light can be resolved quickly, often within an hour. More involved repairs, such as replacing a heating element, thermostat, or anode rod, might take a few hours. If a new part needs to be ordered, the repair timeline could extend. A plumber can provide a more accurate time estimate after diagnosing the problem.",
+        "@type": "Answer",
+        "description": "Repair time varies from minutes for simple fixes to a few hours for component replacements. It may take longer if parts need to be ordered."
+      }
+    }
+  ],
+  "description": "Repair time varies from minutes for simple fixes to a few hours for component replacements. It may take longer if parts need to be ordered."
+}

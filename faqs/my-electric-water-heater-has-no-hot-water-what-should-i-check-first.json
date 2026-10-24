@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/my-electric-water-heater-has-no-hot-water-what-should-i-check-first",
+  "name": "My electric water heater has no hot water. What should I check first?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "My electric water heater has no hot water. What should I check first?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your electric water heater isn't providing hot water, the first thing to check is your home's electrical panel. Look for a tripped circuit breaker labeled for the water heater and reset it. If the breaker trips again immediately, there's likely a short circuit or a serious electrical issue, and you should call a professional. Also, ensure the thermostat on the water heater itself is set to an appropriate temperature. Faulty heating elements or thermostats are also common causes, requiring professional diagnosis.",
+        "@type": "Answer",
+        "description": "First, check and reset the circuit breaker for your water heater in your electrical panel. Also, verify the thermostat setting on the unit."
+      }
+    }
+  ],
+  "description": "First, check and reset the circuit breaker for your water heater in your electrical panel. Also, verify the thermostat setting on the unit."
+}

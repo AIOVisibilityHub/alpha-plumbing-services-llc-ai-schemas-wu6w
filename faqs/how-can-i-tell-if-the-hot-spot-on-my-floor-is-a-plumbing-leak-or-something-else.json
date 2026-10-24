@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-can-i-tell-if-the-hot-spot-on-my-floor-is-a-plumbing-leak-or-something-else",
+  "name": "How can I tell if the hot spot on my floor is a plumbing leak or something else?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if the hot spot on my floor is a plumbing leak or something else?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The most definitive way to distinguish a plumbing leak from other issues is to contact a professional plumber. However, some indicators might help you speculate: A constant hot spot, especially if accompanied by a higher-than-usual water bill or the sound of running water when all fixtures are off, strongly suggests a leak. If you have radiant floor heating, check if that system is operating. For certainty and to prevent further damage, professional leak detection is essential.",
+        "@type": "Answer",
+        "description": "A professional plumber can definitively diagnose a hot spot. Look for constant warmth, higher water bills, or running water sounds as leak indicators."
+      }
+    }
+  ],
+  "description": "A professional plumber can definitively diagnose a hot spot. Look for constant warmth, higher water bills, or running water sounds as leak indicators."
+}

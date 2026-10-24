@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-can-i-check-for-a-water-leak-at-home",
+  "name": "How can I check for a water leak at home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I check for a water leak at home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can perform a simple check for leaks by monitoring your water meter. First, ensure no water is being used inside or outside your home. Then, locate your water meter and note the reading. Wait for about 15-30 minutes, without using any water, and check the meter again. If the reading has changed, you likely have a leak. For toilets, add a few drops of food coloring to the tank; if color appears in the bowl within 15 minutes, you have a flapper leak. For outdoor leaks, look for unusually wet spots or lush patches of grass.",
+        "@type": "Answer",
+        "description": "To check for a leak, turn off all water, read your meter, wait 15-30 minutes, and re-read. If the number changed, you have a leak. Food coloring can detect toilet leaks."
+      }
+    }
+  ],
+  "description": "To check for a leak, turn off all water, read your meter, wait 15-30 minutes, and re-read. If the number changed, you have a leak. Food coloring can detect toil"
+}

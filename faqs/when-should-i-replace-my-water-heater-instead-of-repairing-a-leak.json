@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-should-i-replace-my-water-heater-instead-of-repairing-a-leak",
+  "name": "When should I replace my water heater instead of repairing a leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I replace my water heater instead of repairing a leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should generally consider replacing your water heater if the tank itself is corroded and leaking, as this is often irreparable. Other factors include the age of the unit (typically over 10-12 years), frequent breakdowns, or if repair costs approach the price of a new unit. A professional assessment can help you determine if replacement offers better long-term value and reliability than repeated repairs.",
+        "@type": "Answer",
+        "description": "Replace your water heater if the tank is corroded, it's over 10-12 years old, breaks down often, or if repair costs are high. A professional can help you decide."
+      }
+    }
+  ],
+  "description": "Replace your water heater if the tank is corroded, it's over 10-12 years old, breaks down often, or if repair costs are high. A professional can help you decide"
+}

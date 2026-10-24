@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-causes-underground-water-leaks",
+  "name": "What causes underground water leaks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes underground water leaks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Underground water leaks can be caused by various factors, including aging pipes, corrosion due to soil conditions, ground movement, or even shifting tree roots that can put pressure on and crack pipes. Poor installation practices or inferior materials during construction can also contribute to leaks over time. Freezing temperatures are less common in our service areas but can also cause pipes to burst in colder climates. Regular maintenance can help identify potential issues early.",
+        "@type": "Answer",
+        "description": "Leaks are caused by aging pipes, corrosion, ground movement, tree roots, poor installation, or material defects."
+      }
+    }
+  ],
+  "description": "Leaks are caused by aging pipes, corrosion, ground movement, tree roots, poor installation, or material defects."
+}

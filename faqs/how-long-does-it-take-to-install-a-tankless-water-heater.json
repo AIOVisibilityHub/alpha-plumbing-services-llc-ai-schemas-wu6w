@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-it-take-to-install-a-tankless-water-heater",
+  "name": "How long does it take to install a tankless water heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install a tankless water heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation time for a tankless water heater can vary based on several factors, including the complexity of the existing plumbing, whether gas lines or electrical systems need to be upgraded, and the location for the new unit. Typically, a standard tankless water heater installation can take anywhere from 4 to 10 hours. More complex projects, such as converting from a traditional tank heater to a tankless unit, might require a full day or more to ensure proper venting, gas line sizing, and electrical connections.",
+        "@type": "Answer",
+        "description": "Installation time for a tankless water heater typically ranges from 4 to 10 hours, depending on system complexity and necessary upgrades."
+      }
+    }
+  ],
+  "description": "Installation time for a tankless water heater typically ranges from 4 to 10 hours, depending on system complexity and necessary upgrades."
+}

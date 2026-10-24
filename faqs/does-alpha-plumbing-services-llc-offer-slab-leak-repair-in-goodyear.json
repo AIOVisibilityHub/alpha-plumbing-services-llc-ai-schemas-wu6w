@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/does-alpha-plumbing-services-llc-offer-slab-leak-repair-in-goodyear",
+  "name": "Does Alpha-Plumbing Services, LLC offer slab leak repair in Goodyear?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does Alpha-Plumbing Services, LLC offer slab leak repair in Goodyear?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Alpha-Plumbing Services, LLC proudly offers expert slab leak detection and repair services in Goodyear and surrounding areas. Our skilled technicians are equipped with advanced tools to accurately locate and effectively repair slab leaks, minimizing disruption to your home. We understand the urgency of these issues and are committed to providing prompt and reliable service to protect your property from water damage. Contact us for assistance in Goodyear.",
+        "@type": "Answer",
+        "description": "Yes, Alpha-Plumbing Services, LLC provides expert slab leak repair services in Goodyear."
+      }
+    }
+  ],
+  "description": "Yes, Alpha-Plumbing Services, LLC provides expert slab leak repair services in Goodyear."
+}

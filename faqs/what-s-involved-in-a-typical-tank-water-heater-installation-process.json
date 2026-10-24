@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-s-involved-in-a-typical-tank-water-heater-installation-process",
+  "name": "What's involved in a typical tank water heater installation process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's involved in a typical tank water heater installation process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical tank water heater installation involves several steps. First, the old unit is disconnected and safely removed. Then, the new water heater is positioned, and water lines are connected. Gas or electrical connections are then made according to safety standards. Finally, the system is filled with water, tested for leaks, and the burner or heating elements are ignited to ensure proper operation. This process often includes checking for correct venting and drainage to comply with local codes and ensure safety.",
+        "@type": "Answer",
+        "description": "Installation includes disconnecting and removing the old unit, positioning and connecting the new one to water, gas/electric, and testing for proper operation and leaks."
+      }
+    }
+  ],
+  "description": "Installation includes disconnecting and removing the old unit, positioning and connecting the new one to water, gas/electric, and testing for proper operation a"
+}

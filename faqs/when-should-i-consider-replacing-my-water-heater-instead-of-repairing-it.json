@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-should-i-consider-replacing-my-water-heater-instead-of-repairing-it",
+  "name": "When should I consider replacing my water heater instead of repairing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my water heater instead of repairing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing your water heater when repairs become frequent and costly, or if the unit is old, typically over 10-12 years. Signs like a leaking tank, significant rust in the hot water, or a complete lack of hot water due to a major internal failure often indicate that replacement is more economical than repair. Newer models offer improved energy efficiency, which can lead to long-term savings on utility bills. We can help you assess whether repair or replacement is the best option for your home.",
+        "@type": "Answer",
+        "description": "Consider replacement if your water heater is over 10-12 years old, requires frequent repairs, or has major issues like a leaking tank."
+      }
+    }
+  ],
+  "description": "Consider replacement if your water heater is over 10-12 years old, requires frequent repairs, or has major issues like a leaking tank."
+}

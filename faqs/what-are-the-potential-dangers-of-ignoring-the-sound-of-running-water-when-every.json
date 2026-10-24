@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-the-potential-dangers-of-ignoring-the-sound-of-running-water-when-every",
+  "name": "What are the potential dangers of ignoring the sound of running water when everything is off?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the potential dangers of ignoring the sound of running water when everything is off?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ignoring the sound of running water when all fixtures are off can lead to several severe consequences. The most immediate is increased water bills due to continuous waste. Over time, leaks can cause significant structural damage to your home, including weakened foundations, damaged drywall, and compromised flooring. Persistent moisture also creates an ideal environment for mold and mildew growth, posing health risks and requiring costly remediation. Addressing the issue promptly protects your home and finances.",
+        "@type": "Answer",
+        "description": "Ignoring phantom running water sounds can lead to higher water bills, significant structural damage, and mold growth. Prompt action protects your home and finances."
+      }
+    }
+  ],
+  "description": "Ignoring phantom running water sounds can lead to higher water bills, significant structural damage, and mold growth. Prompt action protects your home and finan"
+}

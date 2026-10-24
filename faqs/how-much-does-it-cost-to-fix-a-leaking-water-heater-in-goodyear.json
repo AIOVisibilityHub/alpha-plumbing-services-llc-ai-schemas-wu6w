@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-much-does-it-cost-to-fix-a-leaking-water-heater-in-goodyear",
+  "name": "How much does it cost to fix a leaking water heater in Goodyear?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to fix a leaking water heater in Goodyear?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to fix a leaking water heater varies widely depending on the cause and extent of the damage. A simple repair like tightening a connection might be minimal, while replacing a faulty T&P valve could be more. If the leak indicates a corroded tank, a full water heater replacement will be necessary, which is a larger investment. We provide transparent quotes after assessing the issue in Goodyear and surrounding areas.",
+        "@type": "Answer",
+        "description": "Repair costs depend on the leak's cause and damage. Simple fixes are less expensive than part replacements or a full water heater replacement. We offer quotes after assessment."
+      }
+    }
+  ],
+  "description": "Repair costs depend on the leak's cause and damage. Simple fixes are less expensive than part replacements or a full water heater replacement. We offer quotes a"
+}

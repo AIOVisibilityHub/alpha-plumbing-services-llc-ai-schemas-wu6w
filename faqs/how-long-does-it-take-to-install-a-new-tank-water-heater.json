@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-it-take-to-install-a-new-tank-water-heater",
+  "name": "How long does it take to install a new tank water heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install a new tank water heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation of a new tank water heater typically takes between 2 to 4 hours. This timeframe can vary depending on several factors, such as whether it's a direct replacement or requires modifications to existing plumbing or ventilation, and the specific type of water heater being installed. If significant alterations are needed to meet current codes or to upgrade the system, the process may take longer. Our technicians work efficiently to minimize disruption while ensuring a safe and compliant installation.",
+        "@type": "Answer",
+        "description": "Installation typically takes 2 to 4 hours, but can vary based on whether it's a direct replacement or if modifications to plumbing or ventilation are needed."
+      }
+    }
+  ],
+  "description": "Installation typically takes 2 to 4 hours, but can vary based on whether it's a direct replacement or if modifications to plumbing or ventilation are needed."
+}

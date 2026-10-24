@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-should-i-do-if-my-hot-water-stops-working-suddenly",
+  "name": "What should I do if my hot water stops working suddenly?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if my hot water stops working suddenly?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your hot water stops working abruptly, first check your circuit breaker for electric heaters or the pilot light for gas heaters. Ensure the thermostat is set correctly. If these basic checks don't resolve the issue, it's advisable to contact a qualified plumber. Continuing to troubleshoot without proper knowledge could lead to further damage or safety risks. A professional can quickly diagnose the problem and recommend the appropriate repair, restoring your hot water efficiently.",
+        "@type": "Answer",
+        "description": "Check your circuit breaker or pilot light. If that doesn't work, contact a qualified plumber for diagnosis and repair."
+      }
+    }
+  ],
+  "description": "Check your circuit breaker or pilot light. If that doesn't work, contact a qualified plumber for diagnosis and repair."
+}

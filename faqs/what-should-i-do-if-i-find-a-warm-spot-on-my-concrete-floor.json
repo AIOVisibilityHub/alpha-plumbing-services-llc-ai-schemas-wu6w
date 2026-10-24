@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-should-i-do-if-i-find-a-warm-spot-on-my-concrete-floor",
+  "name": "What should I do if I find a warm spot on my concrete floor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if I find a warm spot on my concrete floor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you discover a warm spot, the first step is to contact a professional plumbing service experienced in slab leak detection. They can accurately locate the source of the leak using specialized equipment without unnecessary demolition. Prompt action is important to prevent further water damage, mold growth, and higher utility bills. Avoid trying to fix it yourself, as this can worsen the problem.",
+        "@type": "Answer",
+        "description": "Contact a professional plumbing service immediately for slab leak detection to prevent further damage."
+      }
+    }
+  ],
+  "description": "Contact a professional plumbing service immediately for slab leak detection to prevent further damage."
+}

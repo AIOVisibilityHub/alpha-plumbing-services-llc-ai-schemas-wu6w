@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-much-does-it-cost-to-fix-a-water-leak",
+  "name": "How much does it cost to fix a water leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to fix a water leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to fix a water leak varies significantly based on its location, severity, and the type of plumbing system. A simple dripping faucet might be a minor repair, while an underground main line break requires extensive excavation and pipe replacement, costing considerably more. Factors affecting the price include labor, parts, and whether diagnostic tools like leak detection equipment are needed. Alpha-Plumbing Services provides upfront pricing after assessing the leak, ensuring transparency without hidden fees. We always aim for the most cost-effective and durable solution.",
+        "@type": "Answer",
+        "description": "Leak repair costs depend on the leak's location, severity, and required materials. Simple repairs are less expensive than complex pipe replacements, and we offer upfront pricing."
+      }
+    }
+  ],
+  "description": "Leak repair costs depend on the leak's location, severity, and required materials. Simple repairs are less expensive than complex pipe replacements, and we offe"
+}

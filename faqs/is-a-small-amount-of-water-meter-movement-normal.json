@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/is-a-small-amount-of-water-meter-movement-normal",
+  "name": "Is a small amount of water meter movement normal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is a small amount of water meter movement normal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A small amount of water meter movement is not typically normal if all water-using fixtures and appliances are definitely off. While some meters might have a tiny bit of residual 'play' or fluctuation, continuous or consistent movement, even if slow, is a strong indicator of a leak. It's always best to treat any observed movement as a potential leak and investigate it. Even a slow leak can waste thousands of gallons of water annually and lead to increased utility costs.",
+        "@type": "Answer",
+        "description": "No, consistent water meter movement is not normal when all water is off, even if it's slow. It usually indicates a leak."
+      }
+    }
+  ],
+  "description": "No, consistent water meter movement is not normal when all water is off, even if it's slow. It usually indicates a leak."
+}

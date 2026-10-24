@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/why-does-my-water-meter-spin-when-all-water-is-off",
+  "name": "Why does my water meter spin when all water is off?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why does my water meter spin when all water is off?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your water meter continues to move even when all water-using appliances and fixtures are turned off inside and outside your home, it indicates a leak. This often points to a hidden leak within your plumbing system, such as a burst pipe underground, a constantly running toilet, a leaking water heater, or a faulty irrigation system. It's crucial to investigate this promptly, as even small leaks can lead to significant water waste and higher utility bills over time.",
+        "@type": "Answer",
+        "description": "A spinning water meter when all water is off usually signals a leak in your plumbing system, such as a hidden pipe leak or a constantly running toilet."
+      }
+    }
+  ],
+  "description": "A spinning water meter when all water is off usually signals a leak in your plumbing system, such as a hidden pipe leak or a constantly running toilet."
+}

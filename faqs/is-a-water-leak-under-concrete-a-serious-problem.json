@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/is-a-water-leak-under-concrete-a-serious-problem",
+  "name": "Is a water leak under concrete a serious problem?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is a water leak under concrete a serious problem?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a water leak under concrete is a serious problem that should be addressed immediately. Untreated slab leaks can lead to significant structural damage to your home's foundation, causing cracks in walls, shifting floors, and even mold growth. The continuous water flow can erode the soil beneath the slab, creating voids that compromise stability. It also results in high water bills and potential property damage, making timely repair crucial for safety and cost savings.",
+        "@type": "Answer",
+        "description": "Yes, it's serious. Untreated slab leaks can cause structural damage to your home's foundation, lead to mold, and waste significant amounts of water."
+      }
+    }
+  ],
+  "description": "Yes, it's serious. Untreated slab leaks can cause structural damage to your home's foundation, lead to mold, and waste significant amounts of water."
+}

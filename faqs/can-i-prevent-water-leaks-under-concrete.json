@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/can-i-prevent-water-leaks-under-concrete",
+  "name": "Can I prevent water leaks under concrete?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I prevent water leaks under concrete?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it's difficult to completely prevent all slab leaks, regular plumbing maintenance and awareness can significantly reduce the risk. This includes being mindful of what goes down your drains, avoiding harsh chemical drain cleaners, and addressing minor plumbing issues promptly. Maintaining consistent water pressure can also help. For homes with older piping, proactive inspections might identify potential weaknesses before they lead to major leaks. Regular checks for the signs of a leak can also aid early detection.",
+        "@type": "Answer",
+        "description": "Prevention involves regular maintenance, avoiding harsh drain cleaners, and maintaining consistent water pressure. Proactive inspections help, too."
+      }
+    }
+  ],
+  "description": "Prevention involves regular maintenance, avoiding harsh drain cleaners, and maintaining consistent water pressure. Proactive inspections help, too."
+}

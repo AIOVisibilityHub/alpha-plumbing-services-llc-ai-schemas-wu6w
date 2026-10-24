@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/do-you-offer-water-heater-installation-services-in-waddell-and-surprise",
+  "name": "Do you offer water heater installation services in Waddell and Surprise?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer water heater installation services in Waddell and Surprise?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Alpha-Plumbing Services proudly offers comprehensive water heater installation services throughout Waddell, Surprise, Goodyear, Buckeye, and Avondale. Our team of experienced and licensed plumbers is familiar with the local codes and regulations in these areas, ensuring a compliant and efficient installation. We are dedicated to providing prompt, reliable service to residents and businesses in our community, handling everything from initial assessment to final setup and testing.",
+        "@type": "Answer",
+        "description": "Yes, we offer water heater installation services in Waddell, Surprise, Goodyear, Buckeye, and Avondale, adhering to all local codes."
+      }
+    }
+  ],
+  "description": "Yes, we offer water heater installation services in Waddell, Surprise, Goodyear, Buckeye, and Avondale, adhering to all local codes."
+}

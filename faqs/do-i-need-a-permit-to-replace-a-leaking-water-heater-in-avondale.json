@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/do-i-need-a-permit-to-replace-a-leaking-water-heater-in-avondale",
+  "name": "Do I need a permit to replace a leaking water heater in Avondale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit to replace a leaking water heater in Avondale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Avondale, as in many municipalities, a permit is typically required for water heater replacement. This ensures that the installation meets local building codes and safety standards. Our plumbers are knowledgeable about local regulations and can guide you through the permit process, ensuring your new water heater installation is compliant. We handle necessary permits to ensure a safe and legal installation.",
+        "@type": "Answer",
+        "description": "Yes, a permit is typically required for water heater replacement in Avondale to meet local building codes. Our plumbers can assist with the permit process."
+      }
+    }
+  ],
+  "description": "Yes, a permit is typically required for water heater replacement in Avondale to meet local building codes. Our plumbers can assist with the permit process."
+}

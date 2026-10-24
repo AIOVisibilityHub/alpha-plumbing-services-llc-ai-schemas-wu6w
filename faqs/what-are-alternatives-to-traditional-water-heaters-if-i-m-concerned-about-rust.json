@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-alternatives-to-traditional-water-heaters-if-i-m-concerned-about-rust",
+  "name": "What are alternatives to traditional water heaters if I'm concerned about rust?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are alternatives to traditional water heaters if I'm concerned about rust?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you're looking to avoid future rust issues, consider tankless water heaters. Tankless units heat water on demand, eliminating the need for a storage tank where sediment can accumulate and corrosion can occur. They also tend to last longer than traditional tank heaters. While the upfront cost may be higher, they can offer greater energy efficiency and a continuous supply of hot water. Hybrid heat pump water heaters are another efficient option. Alpha-Plumbing Services can discuss the best tankless or hybrid options for your home in areas like Buckeye and Avondale.",
+        "@type": "Answer",
+        "description": "Tankless water heaters are an excellent alternative as they don't have a storage tank that can corrode. Hybrid heat pump water heaters are also efficient options."
+      }
+    }
+  ],
+  "description": "Tankless water heaters are an excellent alternative as they don't have a storage tank that can corrode. Hybrid heat pump water heaters are also efficient option"
+}

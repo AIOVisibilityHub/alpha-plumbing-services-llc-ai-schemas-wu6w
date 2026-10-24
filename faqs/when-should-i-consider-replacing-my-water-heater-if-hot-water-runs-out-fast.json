@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-should-i-consider-replacing-my-water-heater-if-hot-water-runs-out-fast",
+  "name": "When should I consider replacing my water heater if hot water runs out fast?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my water heater if hot water runs out fast?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing your water heater if it's over 10-12 years old and frequently runs out of hot water, even after attempting minor fixes. Persistent issues like leaking, rust-colored water, or loud noises from the tank also indicate it's nearing the end of its lifespan. If your current heater is undersized for your household's current hot water needs, an upgrade to a larger or tankless unit can solve the problem more effectively than repeated repairs.",
+        "@type": "Answer",
+        "description": "Consider replacing your water heater if it's over 10-12 years old, frequently runs out of hot water, or shows signs of leaking or rust."
+      }
+    }
+  ],
+  "description": "Consider replacing your water heater if it's over 10-12 years old, frequently runs out of hot water, or shows signs of leaking or rust."
+}

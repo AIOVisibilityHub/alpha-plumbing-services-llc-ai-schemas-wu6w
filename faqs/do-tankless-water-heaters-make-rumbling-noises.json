@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/do-tankless-water-heaters-make-rumbling-noises",
+  "name": "Do tankless water heaters make rumbling noises?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do tankless water heaters make rumbling noises?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No, tankless water heaters do not typically make the same rumbling noises as traditional tank-style units. Rumbling in conventional heaters is caused by sediment boiling at the bottom of the tank. Tankless heaters heat water on demand as it flows through a heat exchanger, so there's no standing water or sediment accumulation within a large tank. If a tankless unit makes unusual noises, it could indicate other issues like mineral buildup in the heat exchanger or a problem with the burner, requiring professional inspection.",
+        "@type": "Answer",
+        "description": "Tankless water heaters do not make rumbling noises because they lack a tank where sediment can accumulate. Unusual noises in a tankless unit indicate a different issue."
+      }
+    }
+  ],
+  "description": "Tankless water heaters do not make rumbling noises because they lack a tank where sediment can accumulate. Unusual noises in a tankless unit indicate a differen"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-does-a-hot-spot-on-the-floor-mean",
+  "name": "What does a hot spot on the floor mean?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does a hot spot on the floor mean?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A hot spot on your floor often indicates a warm water leak underneath, typically from a hot water line. This can happen with slab leaks where pipes are encased in concrete. The warm water escaping the pipe heats the surrounding concrete, which then transfers heat to your flooring. Ignoring this can lead to significant water damage, mold growth, increased water bills, and structural issues. It's crucial to address it promptly to prevent further complications.",
+        "@type": "Answer",
+        "description": "A hot spot on the floor usually indicates a warm water leak, often from a hot water line under a concrete slab."
+      }
+    }
+  ],
+  "description": "A hot spot on the floor usually indicates a warm water leak, often from a hot water line under a concrete slab."
+}

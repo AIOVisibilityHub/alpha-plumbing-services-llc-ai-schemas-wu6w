@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/can-a-small-leak-really-cause-a-high-water-bill",
+  "name": "Can a small leak really cause a high water bill?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a small leak really cause a high water bill?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, even seemingly small leaks can lead to a surprisingly high water bill over time. A toilet that constantly runs, for example, can waste hundreds of gallons per day, equating to thousands of gallons per month. A slow drip from a faucet can waste gallons daily as well. Because water meters measure every drop, these 'small' continuous losses accumulate quickly, significantly increasing your consumption and, consequently, your bill. It's critical to address any leak, no matter how minor it appears, to prevent water waste and save money.",
+        "@type": "Answer",
+        "description": "Absolutely. Even minor leaks, like a running toilet or a slow drip, can waste hundreds to thousands of gallons monthly, leading to a substantial increase in your water bill."
+      }
+    }
+  ],
+  "description": "Absolutely. Even minor leaks, like a running toilet or a slow drip, can waste hundreds to thousands of gallons monthly, leading to a substantial increase in you"
+}

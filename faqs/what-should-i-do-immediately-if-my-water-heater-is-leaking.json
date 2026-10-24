@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-should-i-do-immediately-if-my-water-heater-is-leaking",
+  "name": "What should I do immediately if my water heater is leaking?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately if my water heater is leaking?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you discover your water heater leaking, first turn off the water supply to the heater to prevent further water damage. Locate the cold water shut-off valve, usually on top of the unit. Next, turn off the power supply; for electric heaters, switch off the circuit breaker, and for gas heaters, turn the gas valve to the 'off' position. Then, contact a professional plumber for inspection and repair.",
+        "@type": "Answer",
+        "description": "Immediately turn off the water supply and the power (or gas) to your water heater. Then, contact a professional plumber for assistance."
+      }
+    }
+  ],
+  "description": "Immediately turn off the water supply and the power (or gas) to your water heater. Then, contact a professional plumber for assistance."
+}

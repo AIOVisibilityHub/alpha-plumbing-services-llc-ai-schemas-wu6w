@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-much-does-it-cost-to-fix-a-noisy-water-heater-in-goodyear",
+  "name": "How much does it cost to fix a noisy water heater in Goodyear?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to fix a noisy water heater in Goodyear?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to fix a noisy water heater in the Goodyear area varies depending on the underlying cause. Simple issues like flushing sediment might range from $150 to $300. If a component like a heating element or pressure relief valve needs replacement, costs could be higher, typically between $250 and $600, including parts and labor. More complex problems, such as internal tank damage, might necessitate a full water heater replacement. An inspection by a local Alpha-Plumbing Services technician can provide an accurate estimate after diagnosing the specific issue.",
+        "@type": "Answer",
+        "description": "The cost to fix a noisy water heater in Goodyear depends on the problem, ranging from $150 for a flush to $600+ for component replacement. A professional inspection is needed for an accurate estimate."
+      }
+    }
+  ],
+  "description": "The cost to fix a noisy water heater in Goodyear depends on the problem, ranging from $150 for a flush to $600+ for component replacement. A professional inspec"
+}

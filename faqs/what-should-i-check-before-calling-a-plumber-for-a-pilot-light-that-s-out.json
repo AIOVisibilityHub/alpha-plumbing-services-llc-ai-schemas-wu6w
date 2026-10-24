@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-should-i-check-before-calling-a-plumber-for-a-pilot-light-that-s-out",
+  "name": "What should I check before calling a plumber for a pilot light that's out?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I check before calling a plumber for a pilot light that's out?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before calling a plumber, you can check a few things yourself. First, ensure the gas supply to your water heater is turned on. Sometimes the main gas valve or the valve specifically for the water heater might have been accidentally shut off. If you're comfortable, you can attempt to relight the pilot light following the instructions on your water heater's label or manual. If the pilot light won't stay lit after multiple attempts, or if you smell gas, then it's definitely time to call a professional.",
+        "@type": "Answer",
+        "description": "Check if the gas supply is on and attempt to relight the pilot following your manual. If it won't stay lit or you smell gas, call a plumber."
+      }
+    }
+  ],
+  "description": "Check if the gas supply is on and attempt to relight the pilot following your manual. If it won't stay lit or you smell gas, call a plumber."
+}

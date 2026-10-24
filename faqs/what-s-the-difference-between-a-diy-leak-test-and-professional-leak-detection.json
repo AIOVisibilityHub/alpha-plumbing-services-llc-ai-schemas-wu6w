@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-s-the-difference-between-a-diy-leak-test-and-professional-leak-detection",
+  "name": "What's the difference between a DIY leak test and professional leak detection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a DIY leak test and professional leak detection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A DIY leak test typically involves simple methods like checking your water meter for movement when no water is being used or adding food coloring to toilet tanks to spot silent leaks. While these can indicate a leak's presence, they rarely pinpoint its exact location, especially for hidden issues. Professional leak detection uses specialized equipment like acoustic sensors, thermal cameras, and moisture meters to precisely locate the source without intrusive damage, offering a definitive solution that DIY methods cannot.",
+        "@type": "Answer",
+        "description": "DIY tests confirm a leak's presence but not its location. Professional detection uses specialized equipment to precisely find hidden leaks without damage."
+      }
+    }
+  ],
+  "description": "DIY tests confirm a leak's presence but not its location. Professional detection uses specialized equipment to precisely find hidden leaks without damage."
+}

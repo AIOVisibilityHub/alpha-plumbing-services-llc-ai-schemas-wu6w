@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-should-i-call-a-professional-for-a-slab-leak",
+  "name": "When should I call a professional for a slab leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for a slab leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional plumber immediately if you suspect a slab leak. Early intervention is critical to prevent extensive and costly damage to your home's foundation, flooring, and personal belongings. Signs like a sudden spike in your water bill, unexplained wet spots, or the sound of running water are strong indicators that professional leak detection and repair are needed. Delaying can lead to structural problems and mold growth.",
+        "@type": "Answer",
+        "description": "Call a professional immediately if you suspect a slab leak to prevent extensive home damage and mold."
+      }
+    }
+  ],
+  "description": "Call a professional immediately if you suspect a slab leak to prevent extensive home damage and mold."
+}

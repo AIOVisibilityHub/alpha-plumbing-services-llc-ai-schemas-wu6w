@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/does-alpha-plumbing-services-llc-offer-slab-leak-repair-in-goodyear-or-buckeye",
+  "name": "Does Alpha-Plumbing Services, LLC offer slab leak repair in Goodyear or Buckeye?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does Alpha-Plumbing Services, LLC offer slab leak repair in Goodyear or Buckeye?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Alpha-Plumbing Services, LLC proudly offers professional slab leak repair services in Goodyear, Buckeye, Avondale, Surprise, and Waddell. Our licensed and experienced technicians are equipped with advanced leak detection technology and repair methods to efficiently address water leaks under concrete in your home or business. We understand the specific plumbing challenges unique to our service areas and are committed to providing reliable, timely solutions to protect your property.",
+        "@type": "Answer",
+        "description": "Yes, Alpha-Plumbing Services, LLC provides expert slab leak repair services in Goodyear, Buckeye, Avondale, Surprise, and Waddell."
+      }
+    }
+  ],
+  "description": "Yes, Alpha-Plumbing Services, LLC provides expert slab leak repair services in Goodyear, Buckeye, Avondale, Surprise, and Waddell."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-areas-do-you-serve-for-water-leak-detection-and-repair",
+  "name": "What areas do you serve for water leak detection and repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas do you serve for water leak detection and repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Alpha-Plumbing Services, LLC proudly provides expert water leak detection and repair services to a wide range of communities in Arizona. Our primary service areas for addressing water leaks under houses include Goodyear, Buckeye, Avondale, Surprise, and Waddel. If you suspect a leak in any of these locations, our experienced team is ready to respond promptly to assess and resolve your plumbing issues, helping to protect your home's foundation and prevent further damage.",
+        "@type": "Answer",
+        "description": "We serve Goodyear, Buckeye, Avondale, Surprise, and Waddel for water leak detection and repair services."
+      }
+    }
+  ],
+  "description": "We serve Goodyear, Buckeye, Avondale, Surprise, and Waddel for water leak detection and repair services."
+}

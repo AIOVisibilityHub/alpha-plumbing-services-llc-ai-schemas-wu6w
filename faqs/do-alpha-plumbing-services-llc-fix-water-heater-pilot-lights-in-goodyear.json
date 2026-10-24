@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/do-alpha-plumbing-services-llc-fix-water-heater-pilot-lights-in-goodyear",
+  "name": "Do Alpha-Plumbing Services, LLC fix water heater pilot lights in Goodyear?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do Alpha-Plumbing Services, LLC fix water heater pilot lights in Goodyear?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Alpha-Plumbing Services, LLC provides expert water heater repair services, including pilot light issues, in Goodyear and surrounding areas. Our licensed technicians are experienced in diagnosing and fixing a variety of water heater problems, from simple pilot relights to complex part replacements. We ensure safe and efficient solutions to restore your hot water supply. Contact us to schedule a service appointment in Goodyear or other service areas like Buckeye, Avondale, and Surprise.",
+        "@type": "Answer",
+        "description": "Yes, Alpha-Plumbing Services, LLC repairs water heater pilot light issues in Goodyear and nearby service areas."
+      }
+    }
+  ],
+  "description": "Yes, Alpha-Plumbing Services, LLC repairs water heater pilot light issues in Goodyear and nearby service areas."
+}

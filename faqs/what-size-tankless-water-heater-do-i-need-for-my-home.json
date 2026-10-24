@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-size-tankless-water-heater-do-i-need-for-my-home",
+  "name": "What size tankless water heater do I need for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What size tankless water heater do I need for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The correct size for a tankless water heater depends on the number of hot water fixtures you anticipate using simultaneously and the desired temperature rise. We assess your home's hot water demands, considering factors like the number of bathrooms, appliances requiring hot water (e.g., dishwasher, washing machine), and the incoming groundwater temperature in areas like Goodyear, Buckeye, or Avondale. Our plumbers calculate the required flow rate and BTU/kilowatt capacity to recommend a unit that meets your household's specific needs.",
+        "@type": "Answer",
+        "description": "Sizing depends on simultaneous hot water usage, number of fixtures, and desired temperature rise; we assess your household needs to recommend the right unit."
+      }
+    }
+  ],
+  "description": "Sizing depends on simultaneous hot water usage, number of fixtures, and desired temperature rise; we assess your household needs to recommend the right unit."
+}

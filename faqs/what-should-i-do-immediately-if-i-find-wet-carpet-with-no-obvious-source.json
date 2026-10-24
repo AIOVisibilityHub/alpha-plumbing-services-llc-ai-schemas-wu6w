@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-should-i-do-immediately-if-i-find-wet-carpet-with-no-obvious-source",
+  "name": "What should I do immediately if I find wet carpet with no obvious source?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately if I find wet carpet with no obvious source?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "First, try to identify and stop the water source if possible. If it's an appliance, turn off its water supply. Move furniture and belongings from the affected area to prevent damage and staining. Use towels to absorb standing water. Do not use electrical appliances on or near the wet carpet. Contact a professional plumbing and leak detection service as soon as possible to locate the source and begin proper water extraction and drying to prevent mold.",
+        "@type": "Answer",
+        "description": "Immediately remove items, absorb water, and contact a professional leak detection service to prevent further damage and mold."
+      }
+    }
+  ],
+  "description": "Immediately remove items, absorb water, and contact a professional leak detection service to prevent further damage and mold."
+}

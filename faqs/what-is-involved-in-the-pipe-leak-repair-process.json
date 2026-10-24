@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-involved-in-the-pipe-leak-repair-process",
+  "name": "What is involved in the pipe leak repair process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the pipe leak repair process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The pipe leak repair process typically begins with a thorough inspection to accurately locate the leak. This may involve using advanced tools like acoustic leak detectors or thermal imaging cameras, especially for hidden leaks. Once located, the affected section of pipe is exposed, repaired, or replaced. Repairs can range from patching a small hole to cutting out and soldering in a new pipe section. After the repair, the system is tested for integrity, and any disturbed areas are restored.",
+        "@type": "Answer",
+        "description": "The process involves locating the leak using specialized tools, exposing the pipe, then repairing or replacing the damaged section. Finally, the system is tested and the area restored."
+      }
+    }
+  ],
+  "description": "The process involves locating the leak using specialized tools, exposing the pipe, then repairing or replacing the damaged section. Finally, the system is teste"
+}

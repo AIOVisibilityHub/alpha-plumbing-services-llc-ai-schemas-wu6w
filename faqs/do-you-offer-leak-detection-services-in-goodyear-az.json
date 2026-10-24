@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/do-you-offer-leak-detection-services-in-goodyear-az",
+  "name": "Do you offer leak detection services in Goodyear, AZ?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer leak detection services in Goodyear, AZ?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Alpha-Plumbing Services offers comprehensive leak detection services in Goodyear, AZ, and the surrounding areas including Buckeye, Avondale, Surprise, and Waddell. Our experienced technicians use advanced tools to accurately pinpoint the source of hidden leaks without unnecessary damage to your property. Once the leak is located, we can discuss the best repair options with you. Contact us to schedule an appointment if you suspect a leak.",
+        "@type": "Answer",
+        "description": "Yes, Alpha-Plumbing Services provides leak detection services in Goodyear, AZ, and nearby areas, using advanced tools to find and repair hidden leaks."
+      }
+    }
+  ],
+  "description": "Yes, Alpha-Plumbing Services provides leak detection services in Goodyear, AZ, and nearby areas, using advanced tools to find and repair hidden leaks."
+}

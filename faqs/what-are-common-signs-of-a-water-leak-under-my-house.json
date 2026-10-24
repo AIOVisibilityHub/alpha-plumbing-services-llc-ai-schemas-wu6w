@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-common-signs-of-a-water-leak-under-my-house",
+  "name": "What are common signs of a water leak under my house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs of a water leak under my house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of a water leak under your house include unusually high water bills without a change in usage, the sound of running water when no fixtures are in use, visible damp spots or discoloration on floors or walls, and a musty odor. You might also notice cracks in your home's foundation, warm spots on the floor, or areas of greener, softer grass in your yard that don't match the surrounding landscape. These indicators often point to a hidden leak that requires professional attention.",
+        "@type": "Answer",
+        "description": "Signs include high water bills, sounds of running water, damp spots, musty odors, and unusual foundation cracks or landscape changes."
+      }
+    }
+  ],
+  "description": "Signs include high water bills, sounds of running water, damp spots, musty odors, and unusual foundation cracks or landscape changes."
+}

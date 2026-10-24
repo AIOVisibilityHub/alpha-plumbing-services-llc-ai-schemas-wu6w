@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-should-i-call-a-plumber-for-water-heater-noises",
+  "name": "When should I call a plumber for water heater noises?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a plumber for water heater noises?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a plumber if your water heater starts making unusual or loud noises that you haven't heard before, or if existing noises become more frequent or intense. This includes persistent popping, rumbling, banging, or hissing sounds. While some minor noises might be normal, consistent or alarming sounds often indicate a problem that requires professional attention. Ignoring these signs can lead to reduced efficiency, higher energy bills, or even premature failure of the unit. Early diagnosis can save you from more extensive repairs.",
+        "@type": "Answer",
+        "description": "Call a plumber if your water heater makes unusual, loud, or persistent noises like popping, rumbling, or banging. These sounds often signal a problem requiring professional attention."
+      }
+    }
+  ],
+  "description": "Call a plumber if your water heater makes unusual, loud, or persistent noises like popping, rumbling, or banging. These sounds often signal a problem requiring"
+}

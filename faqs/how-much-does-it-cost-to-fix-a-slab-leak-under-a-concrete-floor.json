@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-much-does-it-cost-to-fix-a-slab-leak-under-a-concrete-floor",
+  "name": "How much does it cost to fix a slab leak under a concrete floor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to fix a slab leak under a concrete floor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to repair a slab leak varies widely depending on the leak's location, severity, and the repair method required. Factors like the depth of the pipe, the type of flooring above the concrete, and the need for re-routing versus direct repair all influence the price. A reputable plumber will provide a detailed estimate after a thorough inspection and leak detection. Expect costs to include detection, repair, and restoration of the affected area.",
+        "@type": "Answer",
+        "description": "Slab leak repair costs vary based on leak location, severity, and repair method, requiring a professional estimate."
+      }
+    }
+  ],
+  "description": "Slab leak repair costs vary based on leak location, severity, and repair method, requiring a professional estimate."
+}

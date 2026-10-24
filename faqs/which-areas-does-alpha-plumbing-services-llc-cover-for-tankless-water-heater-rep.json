@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/which-areas-does-alpha-plumbing-services-llc-cover-for-tankless-water-heater-rep",
+  "name": "Which areas does Alpha-Plumbing Services, LLC cover for tankless water heater replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Which areas does Alpha-Plumbing Services, LLC cover for tankless water heater replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Alpha-Plumbing Services, LLC provides tankless water heater replacement services to homeowners in Goodyear, Buckeye, Avondale, and Surprise. Our experienced technicians are familiar with the specific requirements and common plumbing setups in these areas. Contact us to schedule a consultation and receive a tailored solution for your home's hot water needs.",
+        "@type": "Answer",
+        "description": "Alpha-Plumbing Services, LLC covers Goodyear, Buckeye, Avondale, and Surprise for tankless water heater replacement services."
+      }
+    }
+  ],
+  "description": "Alpha-Plumbing Services, LLC covers Goodyear, Buckeye, Avondale, and Surprise for tankless water heater replacement services."
+}

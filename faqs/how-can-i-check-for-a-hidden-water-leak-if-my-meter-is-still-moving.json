@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-can-i-check-for-a-hidden-water-leak-if-my-meter-is-still-moving",
+  "name": "How can I check for a hidden water leak if my meter is still moving?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I check for a hidden water leak if my meter is still moving?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To check for a hidden water leak, first ensure all water-consuming appliances like washing machines, dishwashers, and ice makers are off. Turn off all faucets, showers, and irrigation systems. Then, locate your water meter and observe it carefully. If the dial or numbers are still moving, you likely have a leak. To pinpoint it, you can also place a few drops of food coloring in your toilet tank without flushing for 15-30 minutes; if color appears in the bowl, the toilet is leaking. For outdoor leaks, check around your home's foundation and irrigation lines for wet spots.",
+        "@type": "Answer",
+        "description": "Turn off all water sources and appliances, then observe your water meter. If it still moves, you have a leak. You can also test toilets with food coloring."
+      }
+    }
+  ],
+  "description": "Turn off all water sources and appliances, then observe your water meter. If it still moves, you have a leak. You can also test toilets with food coloring."
+}

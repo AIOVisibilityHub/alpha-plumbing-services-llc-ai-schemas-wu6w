@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-warranty-on-a-new-water-heater-installation",
+  "name": "What is the warranty on a new water heater installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the warranty on a new water heater installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "New water heaters typically come with two types of warranties: one from the manufacturer covering the unit itself (tank and parts), and a separate labor warranty from the installer. Manufacturer warranties commonly range from 6 to 12 years for the tank, and 1 to 6 years for parts, depending on the brand and model. Alpha-Plumbing Services provides a warranty on our installation labor. We will clarify specific warranty details for your chosen unit during the consultation.",
+        "@type": "Answer",
+        "description": "New water heaters have a manufacturer warranty (6-12 years tank, 1-6 years parts) and our separate labor warranty. Specifics depend on the unit."
+      }
+    }
+  ],
+  "description": "New water heaters have a manufacturer warranty (6-12 years tank, 1-6 years parts) and our separate labor warranty. Specifics depend on the unit."
+}

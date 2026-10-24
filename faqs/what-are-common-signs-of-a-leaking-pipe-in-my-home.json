@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-common-signs-of-a-leaking-pipe-in-my-home",
+  "name": "What are common signs of a leaking pipe in my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs of a leaking pipe in my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of a leaking pipe include unexpected increases in your water bill, visible water stains on walls or ceilings, peeling paint or wallpaper, a musty odor, or the sound of running water when no fixtures are in use. You might also notice damp spots on floors or carpets, or a decrease in water pressure. Addressing these signs promptly can prevent further damage to your property.",
+        "@type": "Answer",
+        "description": "Signs of a leaking pipe include high water bills, water stains, musty odors, or sounds of running water. Prompt action can prevent further damage."
+      }
+    }
+  ],
+  "description": "Signs of a leaking pipe include high water bills, water stains, musty odors, or sounds of running water. Prompt action can prevent further damage."
+}

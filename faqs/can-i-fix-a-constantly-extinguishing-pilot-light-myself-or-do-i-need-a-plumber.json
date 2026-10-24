@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/can-i-fix-a-constantly-extinguishing-pilot-light-myself-or-do-i-need-a-plumber",
+  "name": "Can I fix a constantly extinguishing pilot light myself, or do I need a plumber?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I fix a constantly extinguishing pilot light myself, or do I need a plumber?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While relighting a pilot light is a common homeowner task, persistent issues like a pilot light that keeps going out usually indicate an underlying problem that requires professional attention. Attempting complex repairs without proper training and tools can be dangerous and may void warranties. A licensed plumber can accurately diagnose issues like a faulty thermocouple, a clogged pilot tube, or a failing gas control valve and perform the necessary repairs safely and efficiently. It's recommended to call a professional for recurring problems.",
+        "@type": "Answer",
+        "description": "Relighting is DIY, but for a pilot light that constantly goes out, it's best to call a plumber for safe diagnosis and repair."
+      }
+    }
+  ],
+  "description": "Relighting is DIY, but for a pilot light that constantly goes out, it's best to call a plumber for safe diagnosis and repair."
+}

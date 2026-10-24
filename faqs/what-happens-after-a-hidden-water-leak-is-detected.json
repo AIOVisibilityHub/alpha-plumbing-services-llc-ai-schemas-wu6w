@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-happens-after-a-hidden-water-leak-is-detected",
+  "name": "What happens after a hidden water leak is detected?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens after a hidden water leak is detected?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Once a hidden water leak is precisely located, the next step is usually the repair. The type of repair depends on the leak's location and severity. For instance, a small pipe leak in a wall might require opening a small section of drywall for a direct patch or pipe replacement. A slab leak might involve more complex repairs, potentially requiring pipe rerouting or direct access through the slab. We will discuss the best repair options with you, including an estimate, before any work begins.",
+        "@type": "Answer",
+        "description": "After detection, the leak is repaired based on its location and severity. Options range from pipe patching to rerouting, and a repair estimate is provided."
+      }
+    }
+  ],
+  "description": "After detection, the leak is repaired based on its location and severity. Options range from pipe patching to rerouting, and a repair estimate is provided."
+}

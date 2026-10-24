@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/can-i-flush-my-water-heater-myself-to-stop-the-rumbling",
+  "name": "Can I flush my water heater myself to stop the rumbling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I flush my water heater myself to stop the rumbling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you can attempt to flush your water heater yourself if you are comfortable with basic plumbing tasks. The process involves turning off the power/gas, cold water supply, connecting a garden hose to the drain valve, and letting the water drain until it runs clear. However, if the rumbling is severe, the sediment is extensive, or you are unsure about the procedure, it's safer and often more effective to have a professional from Alpha-Plumbing Services, LLC perform the service to prevent potential damage or incomplete sediment removal.",
+        "@type": "Answer",
+        "description": "You can try flushing your water heater yourself. However, for severe rumbling or if you're uncertain, it's safer to hire a professional from Alpha-Plumbing Services, LLC."
+      }
+    }
+  ],
+  "description": "You can try flushing your water heater yourself. However, for severe rumbling or if you're uncertain, it's safer to hire a professional from Alpha-Plumbing Serv"
+}
