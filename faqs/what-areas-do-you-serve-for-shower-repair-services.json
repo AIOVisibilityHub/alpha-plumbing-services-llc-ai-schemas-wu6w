@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-areas-do-you-serve-for-shower-repair-services",
+  "name": "What areas do you serve for shower repair services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas do you serve for shower repair services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Alpha-Plumbing Services provides professional shower repair services to a specific geographic area within Arizona. Our primary service areas include Goodyear, Buckeye, Avondale, and Surprise. If you are located in Waddel, we also extend our services there. We focus on these communities to ensure prompt and efficient service delivery, bringing reliable plumbing solutions right to your doorstep. Please contact us to confirm service availability if you are located near these towns.",
+        "@type": "Answer",
+        "description": "Alpha-Plumbing Services serves Goodyear, Buckeye, Avondale, Surprise, and Waddel for shower repair."
+      }
+    }
+  ],
+  "description": "Alpha-Plumbing Services serves Goodyear, Buckeye, Avondale, Surprise, and Waddel for shower repair."
+}

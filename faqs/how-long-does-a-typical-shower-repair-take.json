@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-a-typical-shower-repair-take",
+  "name": "How long does a typical shower repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical shower repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a shower repair depends on the specific problem. Minor issues, such as replacing a showerhead, fixing a leaky faucet, or clearing a simple clog, can often be completed within an hour or two. More complex repairs, like addressing hidden pipe leaks, replacing shower valves, or repairing significant damage to the shower pan, might require several hours or even a full day. Our technicians at Alpha-Plumbing Services work efficiently to minimize disruption, and we provide an estimated timeframe after diagnosing the issue.",
+        "@type": "Answer",
+        "description": "Repair times vary; simple fixes take 1-2 hours, while complex issues might take several hours or a full day."
+      }
+    }
+  ],
+  "description": "Repair times vary; simple fixes take 1-2 hours, while complex issues might take several hours or a full day."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/do-i-need-to-turn-off-my-water-supply-before-a-new-fixture-installation",
+  "name": "Do I need to turn off my water supply before a new fixture installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to turn off my water supply before a new fixture installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, for most new fixture installations, Alpha-Plumbing Services will need to turn off the water supply to the specific area or, in some cases, to your entire home. This is a standard safety procedure to prevent leaks and ensure a smooth installation process. Our plumbers will handle this step and inform you before they do so. Once the new fixture is securely installed and tested, the water supply will be restored, and we will check for any leaks.",
+        "@type": "Answer",
+        "description": "Yes, the water supply needs to be turned off for most new fixture installations to prevent leaks. Our plumbers manage this process safely."
+      }
+    }
+  ],
+  "description": "Yes, the water supply needs to be turned off for most new fixture installations to prevent leaks. Our plumbers manage this process safely."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/can-i-convert-my-tub-shower-combination-to-a-walk-in-shower",
+  "name": "Can I convert my tub-shower combination to a walk-in shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I convert my tub-shower combination to a walk-in shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, converting a tub-shower combination to a walk-in shower is a common remodel. This typically involves removing the existing bathtub and modifying the drain location and size to accommodate a new shower pan. The water supply lines for the shower valve might also need adjustments for height and placement. Depending on your desired shower size and design, wall studs may need modification to support new shower walls or benches. This conversion usually requires professional plumbing to ensure proper drainage, waterproofing, and compliance with local building codes. Alpha-Plumbing Services can help plan and execute this transformation.",
+        "@type": "Answer",
+        "description": "Yes, it's a common remodel. It requires modifying the drain, adjusting supply lines, and ensuring proper waterproofing and code compliance."
+      }
+    }
+  ],
+  "description": "Yes, it's a common remodel. It requires modifying the drain, adjusting supply lines, and ensuring proper waterproofing and code compliance."
+}

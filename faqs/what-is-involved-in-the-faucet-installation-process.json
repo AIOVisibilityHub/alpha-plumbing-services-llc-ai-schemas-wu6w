@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-involved-in-the-faucet-installation-process",
+  "name": "What is involved in the faucet installation process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the faucet installation process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The faucet installation process typically begins with shutting off the water supply to the area. For replacements, the old faucet and supply lines are carefully removed. The new faucet is then mounted onto the sink or countertop, and new supply lines are connected to the hot and cold water valves. The drain assembly may also be installed or reconnected if it's part of the new faucet package. Finally, the water supply is restored, and the new faucet is thoroughly tested for leaks and proper operation at various water pressures.",
+        "@type": "Answer",
+        "description": "The process involves shutting off water, removing the old faucet, mounting the new one, connecting supply lines, and thoroughly testing for leaks."
+      }
+    }
+  ],
+  "description": "The process involves shutting off water, removing the old faucet, mounting the new one, connecting supply lines, and thoroughly testing for leaks."
+}

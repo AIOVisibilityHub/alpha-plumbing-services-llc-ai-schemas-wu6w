@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-areas-do-you-serve-for-kitchen-faucet-replacement",
+  "name": "What areas do you serve for kitchen faucet replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas do you serve for kitchen faucet replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Alpha-Plumbing Services, LLC provides professional kitchen faucet replacement services in several communities in Arizona. Our primary service areas include Goodyear, Buckeye, Avondale, and Surprise. We are dedicated to offering reliable and efficient plumbing solutions to residents and businesses within these locations. If you are located in one of these areas and need a kitchen faucet replaced, please contact us to schedule an appointment. We look forward to serving your plumbing needs.",
+        "@type": "Answer",
+        "description": "Alpha-Plumbing Services, LLC serves Goodyear, Buckeye, Avondale, and Surprise for kitchen faucet replacement."
+      }
+    }
+  ],
+  "description": "Alpha-Plumbing Services, LLC serves Goodyear, Buckeye, Avondale, and Surprise for kitchen faucet replacement."
+}

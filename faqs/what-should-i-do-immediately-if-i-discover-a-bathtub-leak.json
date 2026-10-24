@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-should-i-do-immediately-if-i-discover-a-bathtub-leak",
+  "name": "What should I do immediately if I discover a bathtub leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately if I discover a bathtub leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you discover a bathtub leak, your immediate steps should be to minimize water damage. First, if the leak is from the faucet, turn off the water supply to the bathtub or the main water supply to your house. Then, try to contain the water with towels or buckets. Avoid using the bathtub until the leak is professionally assessed and repaired. Contact Alpha-Plumbing Services promptly. Providing details about where you see the water will help our technicians prepare for the service call.",
+        "@type": "Answer",
+        "description": "Immediately turn off the water supply to the tub or house, contain the leak with towels, and avoid using the tub. Contact Alpha-Plumbing Services promptly."
+      }
+    }
+  ],
+  "description": "Immediately turn off the water supply to the tub or house, contain the leak with towels, and avoid using the tub. Contact Alpha-Plumbing Services promptly."
+}

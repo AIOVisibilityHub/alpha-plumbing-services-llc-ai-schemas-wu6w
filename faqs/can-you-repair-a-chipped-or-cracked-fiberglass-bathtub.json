@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/can-you-repair-a-chipped-or-cracked-fiberglass-bathtub",
+  "name": "Can you repair a chipped or cracked fiberglass bathtub?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you repair a chipped or cracked fiberglass bathtub?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Alpha-Plumbing Services can often repair chipped or cracked fiberglass bathtubs. The repair process typically involves cleaning the damaged area, sanding it smooth, and then applying a specialized fiberglass repair kit or epoxy resin. This material is carefully matched to the tub's color and texture. Once cured, the repaired area is sanded and polished to blend seamlessly with the surrounding surface, restoring the tub's appearance and preventing further damage or leaks.",
+        "@type": "Answer",
+        "description": "Yes, we can repair chipped or cracked fiberglass bathtubs using specialized repair kits or epoxy resin, followed by sanding and polishing."
+      }
+    }
+  ],
+  "description": "Yes, we can repair chipped or cracked fiberglass bathtubs using specialized repair kits or epoxy resin, followed by sanding and polishing."
+}

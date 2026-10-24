@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-plumbing-changes-are-involved-in-a-bathtub-remodel",
+  "name": "What plumbing changes are involved in a bathtub remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What plumbing changes are involved in a bathtub remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A bathtub remodel often involves assessing and potentially upgrading existing plumbing. This can include relocating drain lines, adjusting water supply pipes for a new tub or shower configuration, and ensuring proper venting. We also check the condition of shut-off valves and make recommendations for new fixtures like faucets and showerheads. If you're converting from a tub to a shower, or vice-versa, significant pipe adjustments might be necessary to accommodate different fixture heights and drainage requirements, ensuring everything meets local plumbing codes.",
+        "@type": "Answer",
+        "description": "Plumbing changes can include relocating drain lines, adjusting water supply pipes, and upgrading fixtures to suit the new bathtub or shower configuration."
+      }
+    }
+  ],
+  "description": "Plumbing changes can include relocating drain lines, adjusting water supply pipes, and upgrading fixtures to suit the new bathtub or shower configuration."
+}

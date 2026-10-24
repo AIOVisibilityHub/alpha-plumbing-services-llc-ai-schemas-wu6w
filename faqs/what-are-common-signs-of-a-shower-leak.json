@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-common-signs-of-a-shower-leak",
+  "name": "What are common signs of a shower leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs of a shower leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of a shower leak include water stains on the ceiling or walls adjacent to the shower, peeling paint or wallpaper near the shower, a musty odor indicating mold or mildew growth, dripping sounds even when the shower is off, or loose tiles and grout in the shower area. Increased water bills without a change in usage can also be an indicator of a hidden leak. Addressing these signs early can prevent more extensive damage to your home's structure.",
+        "@type": "Answer",
+        "description": "Look for water stains, peeling paint, musty odors, dripping sounds, or loose tiles. An unexplained increase in your water bill can also indicate a leak."
+      }
+    }
+  ],
+  "description": "Look for water stains, peeling paint, musty odors, dripping sounds, or loose tiles. An unexplained increase in your water bill can also indicate a leak."
+}

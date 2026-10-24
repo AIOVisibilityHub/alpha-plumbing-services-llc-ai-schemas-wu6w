@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-causes-hard-water-stains-on-my-bathroom-fixtures",
+  "name": "What causes hard water stains on my bathroom fixtures?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes hard water stains on my bathroom fixtures?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hard water contains dissolved minerals like calcium and magnesium. When this water evaporates from surfaces like faucets, showerheads, and sinks, these mineral deposits are left behind. Over time, these deposits accumulate, forming visible, often white or chalky, stains. The severity of these stains depends on the mineral content of your water and how frequently the fixtures are cleaned.",
+        "@type": "Answer",
+        "description": "Hard water stains are caused by mineral deposits like calcium and magnesium left behind after water evaporates from fixtures."
+      }
+    }
+  ],
+  "description": "Hard water stains are caused by mineral deposits like calcium and magnesium left behind after water evaporates from fixtures."
+}

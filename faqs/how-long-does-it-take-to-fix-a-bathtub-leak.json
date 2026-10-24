@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-it-take-to-fix-a-bathtub-leak",
+  "name": "How long does it take to fix a bathtub leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to fix a bathtub leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of bathtub leak repair depends on the issue. A simple repair, such as tightening a loose pipe connection, replacing a worn seal, or fixing a dripping faucet, can often be completed within 1 to 3 hours. More complex repairs involving opening walls, replacing sections of piping, or repairing extensive water damage might take several hours or even require multiple visits, especially if drying time for affected areas is needed. Our plumbers prioritize efficient service while ensuring a lasting solution.",
+        "@type": "Answer",
+        "description": "Simple repairs can take 1-3 hours. More complex issues involving extensive damage or pipe replacement may require several hours or multiple visits."
+      }
+    }
+  ],
+  "description": "Simple repairs can take 1-3 hours. More complex issues involving extensive damage or pipe replacement may require several hours or multiple visits."
+}

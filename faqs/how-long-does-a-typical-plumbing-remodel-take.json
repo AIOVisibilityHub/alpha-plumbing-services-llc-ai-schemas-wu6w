@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-a-typical-plumbing-remodel-take",
+  "name": "How long does a typical plumbing remodel take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical plumbing remodel take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a plumbing remodel varies based on the project's complexity and scope. A minor fixture replacement might take a day or two, while a complete bathroom or kitchen re-piping with significant layout changes could extend to several weeks. Factors such as unforeseen issues, material availability, and coordination with other trades (like electricians or tile setters) also influence the timeline. Your plumber can provide a more accurate estimate after assessing your specific project.",
+        "@type": "Answer",
+        "description": "Plumbing remodel duration varies by complexity, from a few days for minor work to several weeks for extensive re-piping and layout changes."
+      }
+    }
+  ],
+  "description": "Plumbing remodel duration varies by complexity, from a few days for minor work to several weeks for extensive re-piping and layout changes."
+}

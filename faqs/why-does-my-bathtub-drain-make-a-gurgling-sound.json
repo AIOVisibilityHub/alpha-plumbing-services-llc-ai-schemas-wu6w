@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/why-does-my-bathtub-drain-make-a-gurgling-sound",
+  "name": "Why does my bathtub drain make a gurgling sound?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why does my bathtub drain make a gurgling sound?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A gurgling sound from your bathtub drain often indicates a partial clog or an issue with your plumbing vent system. When water drains, it creates a vacuum that pulls air through the easiest path. If the drain is partially blocked, air might be pulled through the P-trap, causing the gurgling sound. A blocked or improperly installed vent pipe can also cause gurgling by preventing proper airflow in the plumbing system, leading to slow drainage and noise.",
+        "@type": "Answer",
+        "description": "Gurgling often signals a partial clog in the drain or an issue with the plumbing vent system."
+      }
+    }
+  ],
+  "description": "Gurgling often signals a partial clog in the drain or an issue with the plumbing vent system."
+}

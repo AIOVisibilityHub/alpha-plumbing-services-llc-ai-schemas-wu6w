@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-process-for-bathtub-leak-detection-and-repair",
+  "name": "What is the process for bathtub leak detection and repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for bathtub leak detection and repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process begins with a thorough inspection to accurately locate the leak's source. This might involve visual checks, pressure testing, or using specialized equipment like moisture meters or thermal cameras if the leak is hidden. Once identified, we discuss the repair options with you. Repairs can range from replacing worn gaskets or sealants, repairing damaged pipes, fixing faucet components, or addressing structural issues. After the repair, we test the area to ensure the leak is fully resolved and provide recommendations for preventing future problems.",
+        "@type": "Answer",
+        "description": "We first accurately detect the leak using various methods, then discuss repair options, which can involve replacing parts or fixing structural issues, followed by testing."
+      }
+    }
+  ],
+  "description": "We first accurately detect the leak using various methods, then discuss repair options, which can involve replacing parts or fixing structural issues, followed"
+}

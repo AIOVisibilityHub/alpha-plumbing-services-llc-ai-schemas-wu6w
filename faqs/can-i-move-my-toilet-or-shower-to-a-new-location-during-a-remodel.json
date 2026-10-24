@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/can-i-move-my-toilet-or-shower-to-a-new-location-during-a-remodel",
+  "name": "Can I move my toilet or shower to a new location during a remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I move my toilet or shower to a new location during a remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, it is possible to move your toilet or shower to a new location during a bathroom remodel, but it often involves significant plumbing work. Moving these fixtures typically requires altering the main drain lines and supply lines within the floor or walls. This can be more complex and costly than simply replacing existing fixtures in their current spots. A qualified plumber can assess your home's existing plumbing system, advise on the feasibility, and provide an accurate estimate for such extensive changes.",
+        "@type": "Answer",
+        "description": "Yes, moving toilets or showers is possible but requires significant and often costly changes to drain and supply lines."
+      }
+    }
+  ],
+  "description": "Yes, moving toilets or showers is possible but requires significant and often costly changes to drain and supply lines."
+}

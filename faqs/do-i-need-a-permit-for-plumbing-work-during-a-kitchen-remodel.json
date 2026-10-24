@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/do-i-need-a-permit-for-plumbing-work-during-a-kitchen-remodel",
+  "name": "Do I need a permit for plumbing work during a kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for plumbing work during a kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In most areas, significant plumbing alterations during a kitchen remodel require a permit to ensure the work meets local building codes and safety standards. This often applies when moving water lines or drainpipes, altering the main plumbing system, or adding new fixtures that impact the overall system. Cosmetic updates like replacing a faucet in the same location usually don't require a permit. Alpha-Plumbing Services, LLC is knowledgeable about local permitting requirements in Goodyear, Buckeye, Avondale, Surprise, and Waddel and can guide you through the process or handle permit applications for the plumbing portion of your project.",
+        "@type": "Answer",
+        "description": "Significant plumbing alterations, such as moving water lines or drains, typically require a permit to meet local building codes. Alpha-Plumbing can assist with permit requirements in your area."
+      }
+    }
+  ],
+  "description": "Significant plumbing alterations, such as moving water lines or drains, typically require a permit to meet local building codes. Alpha-Plumbing can assist with"
+}

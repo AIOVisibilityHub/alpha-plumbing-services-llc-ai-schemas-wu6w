@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-common-signs-that-my-shower-needs-repair",
+  "name": "What are common signs that my shower needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my shower needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common indicators that your shower needs repair include persistent leaks, especially around the showerhead, faucet handles, or the base of the shower. You might also notice reduced water pressure, inconsistent water temperature, or strange noises coming from the pipes. Visible mold or mildew growth that reappears after cleaning can suggest a hidden leak. Cracks in the shower pan or tiles, slow drainage, or difficulty turning the shower on or off are also clear signs that professional attention is needed to prevent further damage.",
+        "@type": "Answer",
+        "description": "Leaks, low water pressure, temperature issues, strange noises, mold, cracks, or slow drainage are common signs your shower needs repair."
+      }
+    }
+  ],
+  "description": "Leaks, low water pressure, temperature issues, strange noises, mold, cracks, or slow drainage are common signs your shower needs repair."
+}

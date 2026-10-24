@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-involved-in-the-water-softener-replacement-process",
+  "name": "What is involved in the water softener replacement process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the water softener replacement process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The water softener replacement process typically begins with shutting off the main water supply to your home. The old unit is then disconnected and removed. Our technicians will inspect the existing plumbing and make any necessary adjustments or repairs before installing the new water softener. Once the new unit is in place, it's connected to your plumbing, programmed, and thoroughly tested to ensure proper operation. We then restore your water supply and walk you through basic operation in Goodyear, Buckeye, or other service areas.",
+        "@type": "Answer",
+        "description": "The process involves shutting off water, removing the old unit, inspecting plumbing, installing and connecting the new softener, programming, and testing for proper function."
+      }
+    }
+  ],
+  "description": "The process involves shutting off water, removing the old unit, inspecting plumbing, installing and connecting the new softener, programming, and testing for pr"
+}

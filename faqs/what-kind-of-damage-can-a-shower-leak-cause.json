@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-kind-of-damage-can-a-shower-leak-cause",
+  "name": "What kind of damage can a shower leak cause?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of damage can a shower leak cause?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A shower leak, if left unaddressed, can lead to significant and costly damage to your home. This includes structural damage to walls, ceilings, and flooring due to constant moisture exposure, which can weaken materials and compromise stability. It can also cause widespread mold and mildew growth, posing health risks and requiring extensive remediation. Electrical hazards can arise if water reaches wiring. Furthermore, prolonged leaks can damage adjacent furniture, carpets, and personal belongings, drastically increasing repair and replacement costs.",
+        "@type": "Answer",
+        "description": "Shower leaks can cause structural damage to walls, ceilings, and floors. They also lead to mold growth, potential electrical hazards, and damage to personal belongings."
+      }
+    }
+  ],
+  "description": "Shower leaks can cause structural damage to walls, ceilings, and floors. They also lead to mold growth, potential electrical hazards, and damage to personal bel"
+}

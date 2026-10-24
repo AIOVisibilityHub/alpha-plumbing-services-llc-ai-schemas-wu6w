@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-involved-in-a-shower-valve-repair",
+  "name": "What is involved in a shower valve repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in a shower valve repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Shower valve repair typically involves shutting off the water supply, then carefully disassembling the valve assembly. The plumber will inspect components like O-rings, gaskets, cartridges, or pressure-balancing units for wear or damage. Often, replacing these internal parts resolves common issues like leaks, temperature fluctuations, or low pressure. If the valve body itself is corroded or severely damaged, a full valve replacement might be necessary. The process ensures proper water flow and temperature control are restored, and prevents water waste.",
+        "@type": "Answer",
+        "description": "Shower valve repair involves disassembling the valve, inspecting and replacing worn internal components like cartridges or O-rings, or sometimes replacing the entire valve."
+      }
+    }
+  ],
+  "description": "Shower valve repair involves disassembling the valve, inspecting and replacing worn internal components like cartridges or O-rings, or sometimes replacing the e"
+}

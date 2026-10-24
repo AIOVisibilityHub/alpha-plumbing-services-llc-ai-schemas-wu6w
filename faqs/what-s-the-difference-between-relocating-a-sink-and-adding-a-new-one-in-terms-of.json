@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-s-the-difference-between-relocating-a-sink-and-adding-a-new-one-in-terms-of",
+  "name": "What's the difference between relocating a sink and adding a new one in terms of plumbing difficulty?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between relocating a sink and adding a new one in terms of plumbing difficulty?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Relocating an existing sink often involves extending or rerouting the current water supply lines and drainpipes to the new position. This can be complex if the new location is far from the original or if structural elements obstruct the path. Adding a completely new sink, especially a prep sink on an island, requires running new water supply and drain lines from the main system, which can sometimes be more involved than merely adjusting existing connections. Both tasks require careful planning and execution to ensure proper drainage and water pressure. Alpha-Plumbing Services, LLC assesses each situation to determine the most effective and efficient solution.",
+        "@type": "Answer",
+        "description": "Relocating a sink usually reroutes existing lines, while adding a new sink typically requires running entirely new supply and drain lines, which can be more complex. Both demand careful planning."
+      }
+    }
+  ],
+  "description": "Relocating a sink usually reroutes existing lines, while adding a new sink typically requires running entirely new supply and drain lines, which can be more com"
+}

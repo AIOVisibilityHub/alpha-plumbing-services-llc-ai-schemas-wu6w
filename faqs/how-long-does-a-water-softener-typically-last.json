@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-a-water-softener-typically-last",
+  "name": "How long does a water softener typically last?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a water softener typically last?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The lifespan of a water softener can vary depending on the quality of the unit, the hardness of your water, and how well it's maintained. On average, a well-maintained water softener can last between 10 to 15 years, or even longer. Regular servicing, proper salt levels, and prompt repairs can significantly extend its operational life. Our team can advise on maintenance practices to help maximize the life of your system.",
+        "@type": "Answer",
+        "description": "A water softener typically lasts 10-15 years, depending on unit quality, water hardness, and consistent maintenance."
+      }
+    }
+  ],
+  "description": "A water softener typically lasts 10-15 years, depending on unit quality, water hardness, and consistent maintenance."
+}

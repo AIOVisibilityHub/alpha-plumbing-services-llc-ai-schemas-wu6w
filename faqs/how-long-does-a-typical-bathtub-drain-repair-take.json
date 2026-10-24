@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-a-typical-bathtub-drain-repair-take",
+  "name": "How long does a typical bathtub drain repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical bathtub drain repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a bathtub drain repair depends on the specific issue. Simple clogs can often be cleared within an hour. More complex problems, such as replacing a drain shoe, overflow assembly, or addressing pipe damage, might take a few hours. In some cases, if extensive pipe work or floor access is required, the repair could extend over several hours or even involve multiple visits. Our technicians provide an estimated timeframe after diagnosing the issue.",
+        "@type": "Answer",
+        "description": "Repair times vary; simple clogs might take an hour, while complex issues or part replacements can take several hours."
+      }
+    }
+  ],
+  "description": "Repair times vary; simple clogs might take an hour, while complex issues or part replacements can take several hours."
+}

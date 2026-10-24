@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-common-plumbing-issues-encountered-during-a-bathtub-remodel",
+  "name": "What are common plumbing issues encountered during a bathtub remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common plumbing issues encountered during a bathtub remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During a bathtub remodel, common plumbing issues include discovering corroded or leaky pipes behind the walls, inadequate water pressure to new fixtures, or incorrectly sloped drain lines. Sometimes, the existing plumbing may not be up to current code standards, requiring updates. We might also find that the subfloor has water damage from previous leaks, necessitating repairs before new plumbing can be installed. Our team thoroughly inspects these areas to prevent future problems.",
+        "@type": "Answer",
+        "description": "Common issues include corroded pipes, leaks, inadequate water pressure, non-code compliant plumbing, or subfloor water damage."
+      }
+    }
+  ],
+  "description": "Common issues include corroded pipes, leaks, inadequate water pressure, non-code compliant plumbing, or subfloor water damage."
+}

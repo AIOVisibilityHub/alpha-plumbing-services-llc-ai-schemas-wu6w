@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-the-signs-that-my-bathtub-needs-professional-repair",
+  "name": "What are the signs that my bathtub needs professional repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs that my bathtub needs professional repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several signs indicate your bathtub may need professional repair. These include persistent dripping from the faucet even when turned off, visible cracks or chips in the tub surface, slow drainage that isn't resolved with basic drain cleaners, water stains on the ceiling below the bathroom (indicating a leak), loose or peeling caulk/grout, and discoloration or rust around the drain or fixtures. Addressing these issues promptly can prevent more extensive and costly damage.",
+        "@type": "Answer",
+        "description": "Signs your bathtub needs repair include dripping faucets, cracks/chips, slow drainage, water stains below, loose caulk, or rust around fixtures."
+      }
+    }
+  ],
+  "description": "Signs your bathtub needs repair include dripping faucets, cracks/chips, slow drainage, water stains below, loose caulk, or rust around fixtures."
+}

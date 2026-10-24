@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-it-take-to-replace-a-bathroom-faucet",
+  "name": "How long does it take to replace a bathroom faucet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to replace a bathroom faucet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For a professional plumber, replacing a standard bathroom faucet typically takes 1 to 3 hours. This timeframe can vary depending on the accessibility under the sink, the condition of the existing plumbing, and whether any unexpected issues arise, such as seized connections or the need for minor pipe adjustments. More complex installations, like those involving new drilling, may take longer.",
+        "@type": "Answer",
+        "description": "Professional bathroom faucet replacement usually takes 1 to 3 hours, depending on accessibility and existing plumbing conditions."
+      }
+    }
+  ],
+  "description": "Professional bathroom faucet replacement usually takes 1 to 3 hours, depending on accessibility and existing plumbing conditions."
+}

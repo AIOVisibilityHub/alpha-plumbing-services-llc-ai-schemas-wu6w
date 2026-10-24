@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-process-for-installing-a-new-water-softener",
+  "name": "What is the process for installing a new water softener?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for installing a new water softener?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation process typically begins with a water test to determine the exact hardness level and recommend the appropriate system size and type. Once chosen, our technicians will identify the best location, usually near the main water line where water enters your home, often in a garage or utility area. Installation involves cutting into the main water line, installing bypass valves, and connecting the softener unit. A drain line is run for regeneration discharge, and an electrical outlet is needed. We then test the system to ensure it's functioning correctly and explain its operation.",
+        "@type": "Answer",
+        "description": "Installation involves a water test, selecting a system, connecting it to the main water line with bypass valves, running a drain, and confirming proper operation."
+      }
+    }
+  ],
+  "description": "Installation involves a water test, selecting a system, connecting it to the main water line with bypass valves, running a drain, and confirming proper operatio"
+}

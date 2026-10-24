@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-common-signs-of-a-bathtub-leak",
+  "name": "What are common signs of a bathtub leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs of a bathtub leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of a bathtub leak include visible water stains on the ceiling below the bathroom, peeling paint or wallpaper near the tub, damp or soft flooring around the tub's base, a musty odor indicating mold growth, or an unexplained increase in your water bill. If you notice any of these indicators, it's crucial to investigate promptly to prevent further damage to your home's structure and avoid costly repairs down the line. Even small leaks can lead to significant problems over time.",
+        "@type": "Answer",
+        "description": "Look for water stains, peeling paint, damp floors, moldy smells, or a rising water bill. These are common indicators of a bathtub leak."
+      }
+    }
+  ],
+  "description": "Look for water stains, peeling paint, damp floors, moldy smells, or a rising water bill. These are common indicators of a bathtub leak."
+}

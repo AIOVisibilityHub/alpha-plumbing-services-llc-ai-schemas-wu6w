@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/should-i-repair-or-replace-a-leaking-faucet",
+  "name": "Should I repair or replace a leaking faucet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I repair or replace a leaking faucet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding whether to repair or replace a leaking faucet depends on its age, the extent of the damage, and the cost of parts. Minor leaks might be fixed with a simple O-ring or washer replacement. However, if the faucet is old, corroded, frequently leaks, or parts are hard to find, replacement is often the more cost-effective and reliable long-term solution. A new faucet can also offer improved aesthetics and water efficiency.",
+        "@type": "Answer",
+        "description": "Repair minor leaks, but consider replacement for old, corroded, or frequently leaking faucets, or if parts are unavailable. Replacement often saves money long-term."
+      }
+    }
+  ],
+  "description": "Repair minor leaks, but consider replacement for old, corroded, or frequently leaking faucets, or if parts are unavailable. Replacement often saves money long-t"
+}

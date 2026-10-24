@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-much-does-bathtub-repair-typically-cost",
+  "name": "How much does bathtub repair typically cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does bathtub repair typically cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of bathtub repair varies significantly depending on the nature and extent of the damage. Minor repairs like caulking replacement or small chip fixes are generally less expensive, while complex issues such as significant crack repair, drain pipe replacement, or fixture overhauls can incur higher costs due to labor and material requirements. Alpha-Plumbing Services provides upfront estimates after assessing the specific problem to ensure transparency.",
+        "@type": "Answer",
+        "description": "Bathtub repair costs vary based on damage severity; minor fixes are less, major repairs cost more. We provide estimates."
+      }
+    }
+  ],
+  "description": "Bathtub repair costs vary based on damage severity; minor fixes are less, major repairs cost more. We provide estimates."
+}

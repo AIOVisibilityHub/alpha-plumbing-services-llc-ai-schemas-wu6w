@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-the-signs-i-need-a-water-softener-in-my-home",
+  "name": "What are the signs I need a water softener in my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs I need a water softener in my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of hard water include mineral buildup on faucets and showerheads, dry skin and hair after showering, spots on dishes even after washing, and clothes feeling stiff or dull after laundry. You might also notice your water-using appliances, like water heaters and dishwashers, are less efficient or have a shorter lifespan due to scale accumulation. If you experience these issues, a water softener can significantly improve your home's water quality and appliance longevity.",
+        "@type": "Answer",
+        "description": "Signs include mineral buildup on fixtures, dry skin, spotted dishes, and inefficient appliances. These indicate hard water is present."
+      }
+    }
+  ],
+  "description": "Signs include mineral buildup on fixtures, dry skin, spotted dishes, and inefficient appliances. These indicate hard water is present."
+}

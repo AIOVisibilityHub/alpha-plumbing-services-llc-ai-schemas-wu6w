@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-preparation-do-i-need-to-do-before-a-plumber-arrives-to-replace-my-faucet",
+  "name": "What preparation do I need to do before a plumber arrives to replace my faucet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation do I need to do before a plumber arrives to replace my faucet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your plumber arrives to replace your kitchen faucet, it's helpful to clear out the area under the sink and around the sink basin. Remove any cleaning supplies, garbage cans, or stored items to provide clear access for the plumber. If possible, ensure there's a clear path to the kitchen sink from your home's entry. You may also want to have your new faucet readily available if you've already purchased it. This preparation helps our technicians work efficiently and minimizes the time spent on the job.",
+        "@type": "Answer",
+        "description": "Clear the area under and around the sink, ensure a clear path to the kitchen, and have your new faucet ready for the plumber."
+      }
+    }
+  ],
+  "description": "Clear the area under and around the sink, ensure a clear path to the kitchen, and have your new faucet ready for the plumber."
+}

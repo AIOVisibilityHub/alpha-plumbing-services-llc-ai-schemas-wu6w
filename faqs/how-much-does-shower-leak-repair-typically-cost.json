@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-much-does-shower-leak-repair-typically-cost",
+  "name": "How much does shower leak repair typically cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does shower leak repair typically cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of shower leak repair varies widely depending on the leak's location, severity, and the extent of damage. Minor fixes like regrouting or sealing can be relatively inexpensive, while repairing leaks behind walls, replacing pipes, or addressing structural damage will incur higher costs. A professional plumber will assess the situation to provide an accurate estimate. It's often more cost-effective to repair leaks promptly to avoid more significant damage and subsequent repair expenses.",
+        "@type": "Answer",
+        "description": "Shower leak repair costs vary based on severity and damage. Minor repairs are less expensive than those involving hidden pipes or structural damage. Get a professional assessment for an accurate estimate."
+      }
+    }
+  ],
+  "description": "Shower leak repair costs vary based on severity and damage. Minor repairs are less expensive than those involving hidden pipes or structural damage. Get a profe"
+}

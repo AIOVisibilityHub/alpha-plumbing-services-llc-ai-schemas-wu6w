@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/should-i-repair-or-replace-my-leaking-kitchen-faucet",
+  "name": "Should I repair or replace my leaking kitchen faucet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I repair or replace my leaking kitchen faucet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding whether to repair or replace a leaking kitchen faucet depends on the severity of the leak, the faucet's age, and the cost of parts. Minor leaks, often caused by worn-out O-rings or washers, can typically be repaired cost-effectively. However, if the faucet is old, heavily corroded, or experiencing multiple issues, replacement is often the more practical and long-term solution. Frequent repairs or persistent leaks suggest that a new faucet might save you money and hassle in the long run. Our plumbers can help you weigh the options.",
+        "@type": "Answer",
+        "description": "Repair minor leaks on newer faucets; replace if it's old, heavily corroded, or has frequent issues for a long-term solution."
+      }
+    }
+  ],
+  "description": "Repair minor leaks on newer faucets; replace if it's old, heavily corroded, or has frequent issues for a long-term solution."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-should-i-consider-repairing-my-bathtub-instead-of-replacing-it",
+  "name": "When should I consider repairing my bathtub instead of replacing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider repairing my bathtub instead of replacing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consider repairing your bathtub if the damage is localized and doesn't compromise the tub's structural integrity. Common repairable issues include surface chips, minor cracks, leaky faucets, or worn-out finishes. Replacement is generally recommended when the tub has extensive structural damage, severe and widespread cracks, persistent leaks that are difficult to isolate, or if you are planning a complete bathroom renovation and desire a different style or material. Repair is often more cost-effective for isolated problems.",
+        "@type": "Answer",
+        "description": "Repair your bathtub for localized damage like chips, minor cracks, or leaks. Consider replacement for extensive structural damage, widespread cracks, or during a full renovation."
+      }
+    }
+  ],
+  "description": "Repair your bathtub for localized damage like chips, minor cracks, or leaks. Consider replacement for extensive structural damage, widespread cracks, or during"
+}

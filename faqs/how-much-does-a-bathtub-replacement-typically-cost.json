@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-much-does-a-bathtub-replacement-typically-cost",
+  "name": "How much does a bathtub replacement typically cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a bathtub replacement typically cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a bathtub replacement varies significantly based on several factors. These include the type of bathtub chosen (e.g., acrylic, cast iron, fiberglass), the complexity of the installation, and whether any surrounding tile work or plumbing adjustments are needed. Labor costs also play a role, as professional installation ensures proper fit and functionality. It's recommended to get a personalized quote to understand the full scope and cost for your specific project, which can range widely depending on your selections and bathroom layout.",
+        "@type": "Answer",
+        "description": "Costs vary based on tub type, installation complexity, and labor. Professional quotes are recommended for an accurate estimate."
+      }
+    }
+  ],
+  "description": "Costs vary based on tub type, installation complexity, and labor. Professional quotes are recommended for an accurate estimate."
+}

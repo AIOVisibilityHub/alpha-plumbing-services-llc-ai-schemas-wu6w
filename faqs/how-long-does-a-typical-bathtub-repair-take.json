@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-a-typical-bathtub-repair-take",
+  "name": "How long does a typical bathtub repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical bathtub repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of bathtub repair depends on the type of repair needed. Simple tasks such as replacing a faucet washer or re-caulking might take an hour or two. More involved repairs, like fixing a significant crack, replacing a drain assembly, or addressing hidden leaks, could take several hours or require a return visit for multi-stage processes such as curing. Alpha-Plumbing Services strives to complete repairs efficiently while ensuring quality workmanship.",
+        "@type": "Answer",
+        "description": "Repair time varies: an hour or two for simple fixes, several hours or multiple visits for complex issues like significant cracks or drain replacement."
+      }
+    }
+  ],
+  "description": "Repair time varies: an hour or two for simple fixes, several hours or multiple visits for complex issues like significant cracks or drain replacement."
+}

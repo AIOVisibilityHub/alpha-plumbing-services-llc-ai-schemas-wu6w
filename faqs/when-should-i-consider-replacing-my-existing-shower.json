@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-should-i-consider-replacing-my-existing-shower",
+  "name": "When should I consider replacing my existing shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my existing shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing your existing shower if you notice persistent leaks, significant mold or mildew issues that are hard to clean, extensive cracking in tiles or the shower pan, or outdated aesthetics that detract from your bathroom's value. If your shower is no longer functional, safe, or meets your accessibility needs, it's also a good time for an upgrade. A new installation can improve water efficiency, enhance safety, and boost your home's appeal. Alpha-Plumbing Services can assess your current shower's condition in Avondale, Surprise, or Waddel and provide recommendations.",
+        "@type": "Answer",
+        "description": "Consider replacing your shower due to persistent leaks, extensive mold/mildew, cracking, outdated appearance, or if it no longer meets functional or safety needs."
+      }
+    }
+  ],
+  "description": "Consider replacing your shower due to persistent leaks, extensive mold/mildew, cracking, outdated appearance, or if it no longer meets functional or safety need"
+}

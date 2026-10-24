@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/do-you-install-water-softeners-in-waddell-az",
+  "name": "Do you install water softeners in Waddell, AZ?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you install water softeners in Waddell, AZ?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Alpha-Plumbing Services, LLC proudly provides whole-house water softener installation services in Waddell, AZ, as well as Goodyear, Buckeye, Avondale, and Surprise. Our experienced technicians are familiar with the water quality conditions in these local areas and are equipped to offer reliable installation and service for a variety of water softener systems.",
+        "@type": "Answer",
+        "description": "Yes, Alpha-Plumbing Services, LLC installs water softeners in Waddell, AZ, and surrounding areas like Goodyear, Buckeye, and Avondale."
+      }
+    }
+  ],
+  "description": "Yes, Alpha-Plumbing Services, LLC installs water softeners in Waddell, AZ, and surrounding areas like Goodyear, Buckeye, and Avondale."
+}

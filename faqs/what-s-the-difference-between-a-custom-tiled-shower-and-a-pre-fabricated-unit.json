@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-s-the-difference-between-a-custom-tiled-shower-and-a-pre-fabricated-unit",
+  "name": "What's the difference between a custom-tiled shower and a pre-fabricated unit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a custom-tiled shower and a pre-fabricated unit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Custom-tiled showers offer endless design possibilities, allowing for personalized sizes, shapes, tile patterns, and integrated features like benches or niches. They typically involve more labor and a higher cost but provide a unique, high-end finish. Pre-fabricated shower units, conversely, are factory-made and come in standard sizes and designs. They are generally quicker to install and more budget-friendly. While offering less customization, they are a practical and durable choice. Alpha-Plumbing Services can help you weigh the pros and cons of both options for your installation in Goodyear or Buckeye.",
+        "@type": "Answer",
+        "description": "Custom-tiled showers offer personalized design and higher cost, while pre-fabricated units are standard, quicker to install, and more budget-friendly."
+      }
+    }
+  ],
+  "description": "Custom-tiled showers offer personalized design and higher cost, while pre-fabricated units are standard, quicker to install, and more budget-friendly."
+}

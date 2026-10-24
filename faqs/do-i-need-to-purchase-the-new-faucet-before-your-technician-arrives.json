@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/do-i-need-to-purchase-the-new-faucet-before-your-technician-arrives",
+  "name": "Do I need to purchase the new faucet before your technician arrives?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to purchase the new faucet before your technician arrives?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, it is generally recommended that you purchase your new faucet before scheduling our installation service. This ensures you have selected the fixture that best suits your aesthetic preferences and functional needs. Having the faucet on-site allows our technician to begin the installation immediately upon arrival, avoiding delays. If you need guidance on choosing a faucet compatible with your existing plumbing or sink setup, we can offer advice during an initial consultation.",
+        "@type": "Answer",
+        "description": "Yes, we recommend purchasing your new faucet before scheduling installation. This allows our technician to begin work without delay."
+      }
+    }
+  ],
+  "description": "Yes, we recommend purchasing your new faucet before scheduling installation. This allows our technician to begin work without delay."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-types-of-faucets-can-alpha-plumbing-services-install",
+  "name": "What types of faucets can Alpha-Plumbing Services install?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of faucets can Alpha-Plumbing Services install?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Alpha-Plumbing Services can install a wide range of faucet types for both kitchens and bathrooms. This includes single-handle, double-handle, pull-down, pull-out, bridge, and wall-mounted faucets. We also install specialized fixtures like pot fillers and touchless faucets. As long as the new faucet is compatible with your existing plumbing setup, our technicians can expertly handle the installation, ensuring proper function.",
+        "@type": "Answer",
+        "description": "We install various faucet types including single-handle, double-handle, pull-down, bridge, wall-mounted, and touchless, for kitchens and bathrooms."
+      }
+    }
+  ],
+  "description": "We install various faucet types including single-handle, double-handle, pull-down, bridge, wall-mounted, and touchless, for kitchens and bathrooms."
+}

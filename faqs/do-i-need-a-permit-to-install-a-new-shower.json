@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/do-i-need-a-permit-to-install-a-new-shower",
+  "name": "Do I need a permit to install a new shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit to install a new shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether a permit is required for a new shower installation depends on the scope of the project and local building codes in your specific municipality. Minor replacements that don't alter plumbing or structural elements typically don't require a permit. However, installations involving relocation of plumbing lines, significant structural changes, or converting a bathtub to a shower often do require permits to ensure compliance with safety and construction standards. Alpha-Plumbing Services can advise you on local permit requirements in areas like Goodyear, Buckeye, and Avondale, and help navigate the process.",
+        "@type": "Answer",
+        "description": "Permit requirements for shower installation depend on local building codes and project scope. Minor replacements usually don't need one, but major plumbing or structural changes often do."
+      }
+    }
+  ],
+  "description": "Permit requirements for shower installation depend on local building codes and project scope. Minor replacements usually don't need one, but major plumbing or s"
+}

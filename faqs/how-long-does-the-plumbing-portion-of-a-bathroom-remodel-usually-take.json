@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-the-plumbing-portion-of-a-bathroom-remodel-usually-take",
+  "name": "How long does the plumbing portion of a bathroom remodel usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does the plumbing portion of a bathroom remodel usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of plumbing work for a bathroom remodel depends on the project's complexity. For a simple fixture swap with no layout changes, plumbing might take 1-2 days. If you're relocating a toilet, shower, or sink, or replacing all rough-in plumbing, it could take 3-7 days for the initial rough-in, plus another 1-2 days for final fixture installation after other trades finish. Unexpected issues like discovering old, corroded pipes can extend the timeline. It's best to factor in potential delays and coordinate with your general contractor.",
+        "@type": "Answer",
+        "description": "Plumbing can take 1-2 days for simple swaps, or 3-7+ days for complex changes like fixture relocation or pipe replacement."
+      }
+    }
+  ],
+  "description": "Plumbing can take 1-2 days for simple swaps, or 3-7+ days for complex changes like fixture relocation or pipe replacement."
+}

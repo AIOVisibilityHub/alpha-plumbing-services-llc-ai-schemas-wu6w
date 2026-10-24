@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-process-for-rough-in-plumbing-during-a-shower-remodel",
+  "name": "What is the process for rough-in plumbing during a shower remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for rough-in plumbing during a shower remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Rough-in plumbing is the initial stage where all the water supply lines, drain lines, and shower valve are installed and connected behind the walls, before any drywall or tiling is put up. This involves accurately positioning the hot and cold water pipes, the drain pipe, and the shower mixing valve according to the new design plan. Proper measurements and secure connections are critical at this stage to ensure everything aligns correctly and functions without leaks once the walls are sealed. Alpha-Plumbing Services ensures all rough-in plumbing meets local codes for safety and performance.",
+        "@type": "Answer",
+        "description": "Rough-in plumbing involves installing all water supply lines, drain lines, and the shower valve behind the walls before finishing surfaces."
+      }
+    }
+  ],
+  "description": "Rough-in plumbing involves installing all water supply lines, drain lines, and the shower valve behind the walls before finishing surfaces."
+}

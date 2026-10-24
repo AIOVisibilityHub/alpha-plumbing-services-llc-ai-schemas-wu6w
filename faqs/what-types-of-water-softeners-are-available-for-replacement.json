@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-types-of-water-softeners-are-available-for-replacement",
+  "name": "What types of water softeners are available for replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of water softeners are available for replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When replacing your water softener, you typically choose between salt-based ion exchange softeners, which are the most common and effective. These come in various sizes and configurations, such as twin-tank or high-efficiency models. There are also salt-free 'water conditioners' available, though these do not actually soften water but rather condition it to prevent scale. We can help you select the best type based on your household's needs and water quality in areas like Avondale and Surprise.",
+        "@type": "Answer",
+        "description": "Common types include salt-based ion exchange softeners (various sizes/configurations) and salt-free 'water conditioners'. We help choose the best for your needs."
+      }
+    }
+  ],
+  "description": "Common types include salt-based ion exchange softeners (various sizes/configurations) and salt-free 'water conditioners'. We help choose the best for your needs"
+}

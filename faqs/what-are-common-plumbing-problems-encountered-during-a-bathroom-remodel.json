@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-common-plumbing-problems-encountered-during-a-bathroom-remodel",
+  "name": "What are common plumbing problems encountered during a bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common plumbing problems encountered during a bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common plumbing problems during a bathroom remodel include discovering corroded or outdated pipes behind walls, unexpected leaks when disconnecting old fixtures, or issues with improper drainage from previous DIY work. Homeowners might also find that existing rough-ins don't align with new fixture dimensions, requiring adjustments. Identifying these issues early is why proper demolition and a thorough plumbing inspection are crucial. A skilled plumber can address these challenges efficiently to keep your project on track.",
+        "@type": "Answer",
+        "description": "Expect to encounter corroded pipes, unexpected leaks, or misaligned rough-ins during a bathroom remodel. A skilled plumber can resolve these."
+      }
+    }
+  ],
+  "description": "Expect to encounter corroded pipes, unexpected leaks, or misaligned rough-ins during a bathroom remodel. A skilled plumber can resolve these."
+}

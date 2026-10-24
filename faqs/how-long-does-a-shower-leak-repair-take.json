@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-a-shower-leak-repair-take",
+  "name": "How long does a shower leak repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a shower leak repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a shower leak repair depends entirely on the cause and complexity of the leak. Minor repairs, such as resealing grout or caulk, might take a few hours. More complex issues, like repairing a leaking pipe behind a wall or replacing a shower pan, could take a full day or even multiple days, especially if drying time for materials like grout or cement is required. A professional plumber can provide a more accurate time estimate after assessing the specific leak in your shower.",
+        "@type": "Answer",
+        "description": "Repair time varies; minor fixes take hours, while complex issues like pipe replacement or shower pan repairs can take days. A plumber can provide an estimate after assessment."
+      }
+    }
+  ],
+  "description": "Repair time varies; minor fixes take hours, while complex issues like pipe replacement or shower pan repairs can take days. A plumber can provide an estimate af"
+}

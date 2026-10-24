@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-types-of-bathtubs-are-available-for-replacement",
+  "name": "What types of bathtubs are available for replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of bathtubs are available for replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "There is a wide range of bathtub types available for replacement, each with distinct features and benefits. Common options include acrylic, known for being lightweight and affordable; fiberglass, which is similar but less durable; cast iron, prized for its heat retention and classic look; and steel enamel, a more budget-friendly alternative to cast iron. Other choices include cultured marble or stone resin for a luxurious feel, or walk-in tubs for accessibility. Your choice depends on your budget, style preferences, and desired functionality.",
+        "@type": "Answer",
+        "description": "Bathtub types include acrylic, fiberglass, cast iron, steel enamel, cultured marble, and walk-in tubs, each with unique features."
+      }
+    }
+  ],
+  "description": "Bathtub types include acrylic, fiberglass, cast iron, steel enamel, cultured marble, and walk-in tubs, each with unique features."
+}

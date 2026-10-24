@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-can-i-tell-if-i-have-hard-water-in-my-home",
+  "name": "How can I tell if I have hard water in my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if I have hard water in my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of hard water include white, chalky residue or spots on faucets, showerheads, dishes, and glassware, even after cleaning. You might also notice soap scum in your shower or tub, or that your soap and shampoo don't lather well. Additionally, your clothes might feel stiff or dingy after washing, and your skin or hair might feel dry. If you experience these issues in areas like Buckeye or Avondale, you likely have hard water.",
+        "@type": "Answer",
+        "description": "Look for mineral spots on fixtures and dishes, poor soap lather, soap scum, or dry skin and hair. These are common indicators of hard water."
+      }
+    }
+  ],
+  "description": "Look for mineral spots on fixtures and dishes, poor soap lather, soap scum, or dry skin and hair. These are common indicators of hard water."
+}

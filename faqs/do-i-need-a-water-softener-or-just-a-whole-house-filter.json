@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/do-i-need-a-water-softener-or-just-a-whole-house-filter",
+  "name": "Do I need a water softener or just a whole-house filter?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a water softener or just a whole-house filter?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you need a water softener or a whole-house filter depends on your specific water quality issues. A water softener specifically addresses hard water minerals (calcium, magnesium) that cause scale buildup. A whole-house filter, however, is designed to remove sediments, chlorine, and other contaminants that affect taste and odor, but generally does not remove hardness. If your primary concern is mineral buildup and its effects, a softener is the appropriate choice. We can test your water to recommend the best solution.",
+        "@type": "Answer",
+        "description": "Choose a water softener for mineral buildup issues from hard water. A whole-house filter removes sediments and chemicals, but not usually hardness."
+      }
+    }
+  ],
+  "description": "Choose a water softener for mineral buildup issues from hard water. A whole-house filter removes sediments and chemicals, but not usually hardness."
+}

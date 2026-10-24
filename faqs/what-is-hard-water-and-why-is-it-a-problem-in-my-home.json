@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-hard-water-and-why-is-it-a-problem-in-my-home",
+  "name": "What is hard water and why is it a problem in my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is hard water and why is it a problem in my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hard water contains high levels of dissolved minerals, primarily calcium and magnesium. When present in excess, these minerals can cause several household issues. You might notice soap scum buildup on fixtures and dishes, reduced lathering of soaps and shampoos, and mineral deposits, or 'scale,' forming inside pipes and appliances. Over time, scale can decrease the efficiency and lifespan of water heaters, dishwashers, and washing machines, and even increase energy consumption due to mineral buildup inside heating elements. Hard water can also leave skin feeling dry and hair dull.",
+        "@type": "Answer",
+        "description": "Hard water contains high levels of dissolved minerals like calcium and magnesium, causing soap scum, scale buildup in pipes and appliances, and affecting skin and hair."
+      }
+    }
+  ],
+  "description": "Hard water contains high levels of dissolved minerals like calcium and magnesium, causing soap scum, scale buildup in pipes and appliances, and affecting skin a"
+}

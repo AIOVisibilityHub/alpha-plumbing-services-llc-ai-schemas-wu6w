@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/when-should-i-call-a-professional-plumber-for-hard-water-stain-issues",
+  "name": "When should I call a professional plumber for hard water stain issues?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional plumber for hard water stain issues?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider calling a professional plumber if hard water stains are extensive, recurring quickly after cleaning, or impacting the performance of your fixtures, such as reduced water flow or clogged showerheads. A plumber can assess the severity, recommend long-term solutions like water softeners, and professionally clean or repair fixtures that have been damaged by mineral buildup, especially in complex areas.",
+        "@type": "Answer",
+        "description": "Call a plumber for extensive, recurring hard water stains or if they are affecting fixture performance. A professional can assess the issue and recommend solutions."
+      }
+    }
+  ],
+  "description": "Call a plumber for extensive, recurring hard water stains or if they are affecting fixture performance. A professional can assess the issue and recommend soluti"
+}

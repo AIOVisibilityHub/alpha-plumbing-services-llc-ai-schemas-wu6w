@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-factors-influence-the-cost-of-a-new-shower-installation",
+  "name": "What factors influence the cost of a new shower installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of a new shower installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several factors affect the cost of a new shower installation. These include the type of shower unit (e.g., standard, walk-in, custom), the materials chosen for tiles and fixtures, the complexity of plumbing adjustments, and any necessary demolition or waterproofing work. Labor costs vary based on the scope of the project and local rates. For instance, converting a bathtub to a shower often requires more extensive work than replacing an existing shower unit with a similar model. Alpha-Plumbing Services provides detailed estimates after assessing your specific needs and existing bathroom setup in areas like Goodyear and Buckeye.",
+        "@type": "Answer",
+        "description": "The cost of a new shower installation depends on the shower type, materials, plumbing complexity, and labor. Custom walk-in showers generally cost more than standard replacements."
+      }
+    }
+  ],
+  "description": "The cost of a new shower installation depends on the shower type, materials, plumbing complexity, and labor. Custom walk-in showers generally cost more than sta"
+}

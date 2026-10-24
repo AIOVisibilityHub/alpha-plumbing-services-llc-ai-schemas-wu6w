@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-the-different-types-of-kitchen-faucets-available",
+  "name": "What are the different types of kitchen faucets available?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the different types of kitchen faucets available?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Kitchen faucets come in several types to suit various needs and preferences. Common styles include single-handle faucets, which offer easy temperature and flow control; two-handle faucets, providing separate hot and cold adjustments; pull-down or pull-out faucets, which offer extended sprayers for versatility; and touchless or motion-sensor faucets, enhancing hygiene and convenience. Other options include pot fillers, mounted near the stove, and filtered water faucets. The best type depends on your sink configuration, budget, and desired features for your kitchen space.",
+        "@type": "Answer",
+        "description": "Common types include single-handle, two-handle, pull-down/pull-out, and touchless faucets, each offering different features and functionalities."
+      }
+    }
+  ],
+  "description": "Common types include single-handle, two-handle, pull-down/pull-out, and touchless faucets, each offering different features and functionalities."
+}

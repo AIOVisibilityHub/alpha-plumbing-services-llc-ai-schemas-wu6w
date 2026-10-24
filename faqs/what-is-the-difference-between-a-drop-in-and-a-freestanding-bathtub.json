@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-difference-between-a-drop-in-and-a-freestanding-bathtub",
+  "name": "What is the difference between a drop-in and a freestanding bathtub?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a drop-in and a freestanding bathtub?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The primary difference lies in their installation method and aesthetic. A drop-in bathtub is designed to be installed within a custom-built frame or deck, which is often tiled or finished with other materials. The rim of the tub is flush with the surrounding deck, giving a built-in appearance. In contrast, a freestanding bathtub stands on its own without being enclosed by walls or a deck. It typically has a finished exterior on all sides, creating a statement piece in the bathroom and offering more flexibility in placement. Freestanding tubs often require different plumbing arrangements as well.",
+        "@type": "Answer",
+        "description": "A drop-in tub is set into a custom deck, appearing built-in, while a freestanding tub stands alone with a finished exterior, acting as a focal point."
+      }
+    }
+  ],
+  "description": "A drop-in tub is set into a custom deck, appearing built-in, while a freestanding tub stands alone with a finished exterior, acting as a focal point."
+}

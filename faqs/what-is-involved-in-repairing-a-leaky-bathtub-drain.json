@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-involved-in-repairing-a-leaky-bathtub-drain",
+  "name": "What is involved in repairing a leaky bathtub drain?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in repairing a leaky bathtub drain?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing a leaky bathtub drain typically involves several steps. First, the plumber will need to access the drain assembly, often from below the tub or by removing the overflow plate and stopper. The old drain shoe, gasket, and putty may need to be removed. New plumber's putty and a fresh gasket are then applied to seal the new or re-seated drain components properly. The connections to the trap and waste pipe are tightened to ensure a watertight seal, and the repair is tested for leaks.",
+        "@type": "Answer",
+        "description": "Repairing a leaky drain involves accessing the assembly, replacing old seals with new plumber's putty and gaskets, and tightening connections for a watertight fit."
+      }
+    }
+  ],
+  "description": "Repairing a leaky drain involves accessing the assembly, replacing old seals with new plumber's putty and gaskets, and tightening connections for a watertight f"
+}

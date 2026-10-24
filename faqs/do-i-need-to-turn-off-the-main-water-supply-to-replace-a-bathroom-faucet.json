@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/do-i-need-to-turn-off-the-main-water-supply-to-replace-a-bathroom-faucet",
+  "name": "Do I need to turn off the main water supply to replace a bathroom faucet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to turn off the main water supply to replace a bathroom faucet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, it is crucial to turn off the water supply before attempting to replace a bathroom faucet. Ideally, you should turn off the hot and cold water supply valves located directly under the sink. If those valves are not present or not functioning correctly, you will need to shut off the main water supply to your home to prevent flooding during the replacement process.",
+        "@type": "Answer",
+        "description": "Yes, you must turn off the water supply, either at the sink's shut-off valves or the main water supply, before replacing a faucet."
+      }
+    }
+  ],
+  "description": "Yes, you must turn off the water supply, either at the sink's shut-off valves or the main water supply, before replacing a faucet."
+}

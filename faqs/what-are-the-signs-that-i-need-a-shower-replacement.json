@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-the-signs-that-i-need-a-shower-replacement",
+  "name": "What are the signs that I need a shower replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs that I need a shower replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common indicators that your shower might need replacement include persistent leaks, extensive mold or mildew growth that won't go away, cracked or damaged tiles, discoloration, low water pressure, or outdated fixtures that no longer function efficiently. If you notice persistent issues that impact the functionality or safety of your shower, a replacement might be a more cost-effective solution than continuous repairs. An aging shower can also detract from your home's appearance and value.",
+        "@type": "Answer",
+        "description": "Signs include persistent leaks, extensive mold, cracked tiles, discoloration, or low water pressure. If issues impact safety or functionality, replacement may be needed."
+      }
+    }
+  ],
+  "description": "Signs include persistent leaks, extensive mold, cracked tiles, discoloration, or low water pressure. If issues impact safety or functionality, replacement may b"
+}

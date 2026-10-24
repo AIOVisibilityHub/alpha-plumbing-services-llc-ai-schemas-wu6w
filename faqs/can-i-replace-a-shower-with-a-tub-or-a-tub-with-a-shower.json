@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/can-i-replace-a-shower-with-a-tub-or-a-tub-with-a-shower",
+  "name": "Can I replace a shower with a tub, or a tub with a shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace a shower with a tub, or a tub with a shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, it is often possible to convert a shower into a bathtub or a bathtub into a shower. This type of conversion is a common request and can significantly change the functionality and appeal of your bathroom. The complexity and cost will depend on the existing plumbing, available space, and the specific fixtures you choose. Converting a tub to a walk-in shower is popular for accessibility, while adding a tub might require more space. We can assess your bathroom and provide guidance on the feasibility and requirements for such a conversion.",
+        "@type": "Answer",
+        "description": "Yes, converting a shower to a tub or a tub to a shower is possible. Complexity depends on plumbing, space, and chosen fixtures."
+      }
+    }
+  ],
+  "description": "Yes, converting a shower to a tub or a tub to a shower is possible. Complexity depends on plumbing, space, and chosen fixtures."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-are-the-different-solutions-available-for-hard-water",
+  "name": "What are the different solutions available for hard water?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the different solutions available for hard water?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The most common solutions for hard water are water softeners and water filtration systems. Water softeners specifically target and remove hard minerals like calcium and magnesium through an ion exchange process. Filtration systems, while effective at removing other contaminants, may not fully address hardness unless they are designed to do so. Our technicians can help you understand the differences and recommend the best option for your home in Goodyear or Surprise.",
+        "@type": "Answer",
+        "description": "Primary solutions include water softeners, which remove hard minerals, and some water filtration systems that can address hardness."
+      }
+    }
+  ],
+  "description": "Primary solutions include water softeners, which remove hard minerals, and some water filtration systems that can address hardness."
+}

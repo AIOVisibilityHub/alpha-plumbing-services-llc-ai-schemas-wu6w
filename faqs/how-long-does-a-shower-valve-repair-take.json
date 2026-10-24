@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/how-long-does-a-shower-valve-repair-take",
+  "name": "How long does a shower valve repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a shower valve repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most standard shower valve repairs can be completed within 1 to 3 hours. This timeframe can vary depending on the accessibility of the valve, the type of valve (e.g., single-handle, dual-handle, thermostatic), and the specific components that need to be replaced. More complex issues, such as those requiring opening a wall, may extend the repair duration. Our technicians work efficiently to restore your shower's function as quickly as possible.",
+        "@type": "Answer",
+        "description": "Standard shower valve repairs typically take 1 to 3 hours. Complexity, valve type, and accessibility can affect the total time required."
+      }
+    }
+  ],
+  "description": "Standard shower valve repairs typically take 1 to 3 hours. Complexity, valve type, and accessibility can affect the total time required."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-typical-cost-to-install-a-new-bathtub",
+  "name": "What is the typical cost to install a new bathtub?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost to install a new bathtub?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of bathtub installation varies significantly based on several factors. These include the type of bathtub (e.g., standard alcove, freestanding, jetted), the materials it's made from, and whether any existing plumbing modifications are needed. Labor costs also fluctuate depending on the complexity of the installation and any necessary demolition. On average, you can expect to pay for the tub itself, plus labor for removal, plumbing adjustments, and installation. A precise quote requires an on-site assessment to evaluate the specific conditions of your bathroom and your chosen tub model.",
+        "@type": "Answer",
+        "description": "Bathtub installation costs vary based on tub type, materials, plumbing modifications, and labor. A precise quote requires an on-site assessment."
+      }
+    }
+  ],
+  "description": "Bathtub installation costs vary based on tub type, materials, plumbing modifications, and labor. A precise quote requires an on-site assessment."
+}

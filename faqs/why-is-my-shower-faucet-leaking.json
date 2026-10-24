@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/why-is-my-shower-faucet-leaking",
+  "name": "Why is my shower faucet leaking?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is my shower faucet leaking?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Shower faucet leaks commonly stem from worn-out internal components. Over time, rubber washers, O-rings, or cartridges can degrade, leading to water dripping from the spout or handles. Mineral deposits from hard water can also accumulate and damage these seals, causing a leaky faucet. Identifying the exact cause usually requires disassembling the faucet to inspect the parts. A steady drip can waste a significant amount of water and increase your utility bills, so timely repair is recommended.",
+        "@type": "Answer",
+        "description": "Shower faucet leaks are usually caused by worn-out rubber washers, O-rings, or cartridges inside the faucet. Mineral deposits can also contribute to component degradation."
+      }
+    }
+  ],
+  "description": "Shower faucet leaks are usually caused by worn-out rubber washers, O-rings, or cartridges inside the faucet. Mineral deposits can also contribute to component d"
+}

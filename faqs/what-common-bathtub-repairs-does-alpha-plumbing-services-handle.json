@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-common-bathtub-repairs-does-alpha-plumbing-services-handle",
+  "name": "What common bathtub repairs does Alpha-Plumbing Services handle?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What common bathtub repairs does Alpha-Plumbing Services handle?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Alpha-Plumbing Services addresses a range of common bathtub issues. This includes repairing leaks around faucets, drains, and overflow pipes, fixing cracks or chips in the tub surface, resolving issues with slow drainage, and replacing worn-out caulk or grout. We also handle problems with showerhead functionality and diverter valves that prevent water from properly reaching the shower. Our goal is to restore the full functionality and appearance of your bathtub.",
+        "@type": "Answer",
+        "description": "Alpha-Plumbing Services repairs leaks, cracks, chips, slow drains, and worn caulk, along with faucet and diverter issues."
+      }
+    }
+  ],
+  "description": "Alpha-Plumbing Services repairs leaks, cracks, chips, slow drains, and worn caulk, along with faucet and diverter issues."
+}

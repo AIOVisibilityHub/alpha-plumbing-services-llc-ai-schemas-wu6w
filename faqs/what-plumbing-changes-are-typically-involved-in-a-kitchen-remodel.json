@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-plumbing-changes-are-typically-involved-in-a-kitchen-remodel",
+  "name": "What plumbing changes are typically involved in a kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What plumbing changes are typically involved in a kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A kitchen remodel can involve various plumbing changes depending on the scope. Common modifications include relocating existing water supply lines and drainpipes for new sink, dishwasher, or refrigerator placements. You might also upgrade to a larger sink, add a prep sink, or install a pot filler over the range. Sometimes, the existing plumbing system needs to be updated to meet current codes or to accommodate increased water flow from new fixtures. This could involve replacing old pipes or adding new shut-off valves for easier maintenance. An Alpha-Plumbing Services, LLC plumber can assess your specific needs and ensure all new connections are properly installed.",
+        "@type": "Answer",
+        "description": "Typical plumbing changes include relocating water lines, drains, and installing new fixtures like sinks, dishwashers, or pot fillers. Old pipes may be updated to meet code or improve function."
+      }
+    }
+  ],
+  "description": "Typical plumbing changes include relocating water lines, drains, and installing new fixtures like sinks, dishwashers, or pot fillers. Old pipes may be updated t"
+}

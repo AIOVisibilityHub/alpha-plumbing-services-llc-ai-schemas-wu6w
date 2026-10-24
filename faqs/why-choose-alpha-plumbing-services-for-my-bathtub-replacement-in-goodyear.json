@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/why-choose-alpha-plumbing-services-for-my-bathtub-replacement-in-goodyear",
+  "name": "Why choose Alpha-Plumbing Services for my bathtub replacement in Goodyear?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why choose Alpha-Plumbing Services for my bathtub replacement in Goodyear?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Alpha-Plumbing Services, LLC is a local business deeply familiar with the specific needs and regulations of the Goodyear, Buckeye, Avondale, and Surprise areas. Our team of experienced professionals provides reliable and efficient bathtub replacement services, ensuring high-quality workmanship and adherence to local building codes. We prioritize customer satisfaction, offering personalized service from initial consultation to project completion. Choosing a local expert means timely service, an understanding of regional requirements, and a commitment to serving our community with integrity and expertise.",
+        "@type": "Answer",
+        "description": "Alpha-Plumbing Services offers experienced, local professionals familiar with Goodyear, Buckeye, Avondale, and Surprise regulations, ensuring quality and customer satisfaction."
+      }
+    }
+  ],
+  "description": "Alpha-Plumbing Services offers experienced, local professionals familiar with Goodyear, Buckeye, Avondale, and Surprise regulations, ensuring quality and custom"
+}

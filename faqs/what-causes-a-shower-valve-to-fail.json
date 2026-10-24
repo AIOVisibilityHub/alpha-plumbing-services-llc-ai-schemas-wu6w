@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-causes-a-shower-valve-to-fail",
+  "name": "What causes a shower valve to fail?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes a shower valve to fail?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Shower valves can fail due to several factors. Normal wear and tear over time can degrade internal components like cartridges, O-rings, and seals, leading to leaks or poor performance. Mineral deposits from hard water can accumulate, causing blockages or restricting movement. Additionally, manufacturing defects, improper installation, or external damage can also contribute to a valve's failure. Regular maintenance can sometimes extend a valve's lifespan.",
+        "@type": "Answer",
+        "description": "Shower valves fail due to wear and tear, mineral buildup from hard water, manufacturing defects, or improper installation. These factors degrade internal components."
+      }
+    }
+  ],
+  "description": "Shower valves fail due to wear and tear, mineral buildup from hard water, manufacturing defects, or improper installation. These factors degrade internal compon"
+}

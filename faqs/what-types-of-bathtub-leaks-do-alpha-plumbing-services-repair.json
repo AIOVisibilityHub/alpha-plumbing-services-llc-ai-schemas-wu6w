@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-types-of-bathtub-leaks-do-alpha-plumbing-services-repair",
+  "name": "What types of bathtub leaks do Alpha-Plumbing Services repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of bathtub leaks do Alpha-Plumbing Services repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Alpha-Plumbing Services, LLC handles a comprehensive range of bathtub leaks. This includes leaks from faucets and showerheads, leaking drain assemblies, cracks in the bathtub basin or surround, faulty pipe connections behind walls, and issues with the overflow drain. Whether it's a minor drip or a significant structural leak, our experienced plumbers are equipped to diagnose the problem accurately and provide effective, lasting repairs for all common bathtub leak scenarios.",
+        "@type": "Answer",
+        "description": "We repair all types of bathtub leaks, including those from faucets, drains, cracked tubs, pipe connections, and overflow drains."
+      }
+    }
+  ],
+  "description": "We repair all types of bathtub leaks, including those from faucets, drains, cracked tubs, pipe connections, and overflow drains."
+}

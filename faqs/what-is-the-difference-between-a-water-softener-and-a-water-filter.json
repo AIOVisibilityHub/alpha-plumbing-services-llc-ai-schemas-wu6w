@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-the-difference-between-a-water-softener-and-a-water-filter",
+  "name": "What is the difference between a water softener and a water filter?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a water softener and a water filter?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A water softener specifically targets and removes hardness minerals like calcium and magnesium, typically using an ion-exchange process. This prevents scale buildup and soap scum. A water filter, on the other hand, is designed to remove a broader range of impurities such as chlorine, sediment, VOCs, or certain contaminants, improving taste and odor. While some filters might offer minor hardness reduction, their primary role is not softening. Depending on your water quality, you might benefit from one or both systems.",
+        "@type": "Answer",
+        "description": "A water softener removes hardness minerals like calcium and magnesium, preventing scale. A water filter removes various impurities to improve taste and odor, but doesn't primarily soften water."
+      }
+    }
+  ],
+  "description": "A water softener removes hardness minerals like calcium and magnesium, preventing scale. A water filter removes various impurities to improve taste and odor, bu"
+}

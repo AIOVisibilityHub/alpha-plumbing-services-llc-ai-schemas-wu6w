@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-is-involved-in-the-process-of-kitchen-remodel-plumbing",
+  "name": "What is involved in the process of kitchen remodel plumbing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the process of kitchen remodel plumbing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Kitchen remodel plumbing typically begins with planning the new layout and fixture locations with your contractor. The process involves disconnecting and removing old fixtures, re-routing water supply and drain lines to accommodate new sinks, dishwashers, ice makers, or other appliances. It includes installing new pipes, ensuring proper venting and drainage, and finally connecting and testing all new fixtures. This work must comply with local building codes to ensure safety and functionality.",
+        "@type": "Answer",
+        "description": "Kitchen remodel plumbing involves planning, disconnecting old fixtures, re-routing lines for new appliances, installing pipes, and connecting/testing new fixtures."
+      }
+    }
+  ],
+  "description": "Kitchen remodel plumbing involves planning, disconnecting old fixtures, re-routing lines for new appliances, installing pipes, and connecting/testing new fixtur"
+}

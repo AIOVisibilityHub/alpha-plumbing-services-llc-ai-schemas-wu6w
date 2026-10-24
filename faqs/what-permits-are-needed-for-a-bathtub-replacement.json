@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/what-permits-are-needed-for-a-bathtub-replacement",
+  "name": "What permits are needed for a bathtub replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are needed for a bathtub replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In many areas, a bathtub replacement may require a plumbing permit, especially if the project involves altering the existing plumbing lines or making structural changes to the bathroom. These permits ensure that the work complies with local building codes and safety regulations. It's always advisable to check with your local municipal or county building department in Goodyear, Buckeye, Avondale, or Surprise before starting any renovation. A professional plumber will typically handle the permit application process for you, ensuring all work is compliant.",
+        "@type": "Answer",
+        "description": "A plumbing permit may be required, especially if plumbing lines are altered. Check with your local building department."
+      }
+    }
+  ],
+  "description": "A plumbing permit may be required, especially if plumbing lines are altered. Check with your local building department."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "www.alpha-plumbingservices.com/faq/can-i-convert-my-bathtub-to-a-shower-during-a-remodel-and-what-plumbing-is-invol",
+  "name": "Can I convert my bathtub to a shower during a remodel, and what plumbing is involved?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I convert my bathtub to a shower during a remodel, and what plumbing is involved?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, converting a bathtub to a shower during a remodel is a common request and involves specific plumbing changes. Bathtub drains are typically positioned lower than shower drains, so the drain line will often need to be adjusted or re-routed to accommodate the new shower base's requirements. You might also need new water supply lines for a different shower valve and head height. We ensure that the new drain slope is correct for efficient drainage and that all new fixtures are properly secured and sealed to prevent leaks.",
+        "@type": "Answer",
+        "description": "Yes, but it requires adjusting or re-routing the drain line for the new shower base and potentially new water supply lines for the shower fixtures."
+      }
+    }
+  ],
+  "description": "Yes, but it requires adjusting or re-routing the drain line for the new shower base and potentially new water supply lines for the shower fixtures."
+}
