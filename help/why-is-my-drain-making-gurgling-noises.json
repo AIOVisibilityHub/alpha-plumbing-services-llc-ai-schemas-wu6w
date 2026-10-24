@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Why Is My Drain Making Gurgling Noises?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Ever hear strange gurgling sounds coming from your sink, tub, or toilet? It's not just a spooky plumbing ghost; those noises are usually a clear sign that something isn't right with your drainage system. Understanding what causes them can help you know when it's time to act.\n\nBasically, gurgling happens when air gets trapped in your plumbing system and is forced through water in your pipes. This often indicates a partial blockage. When water tries to flow past an obstruction, it creates a vacuum, pulling air from the nearest opening—which is usually your drain. So, a gurgle means your water isn't flowing freely and there's a clog developing somewhere down the line.\n\nIf you hear gurgling in one drain, it probably means the clog is located relatively close to that fixture. But, if you hear gurgling from multiple drains, or from drains that aren't even being used, that's a much bigger red flag. This often points to a clog in your main sewer line, which affects your entire home's drainage. Main sewer line issues can be complex and typically require professional attention to avoid more significant problems like sewage backups. Ignoring these gurgles can lead to full blockages, foul odors, or even water damage. Our family-owned Alpha-Plumbing Services team in Goodyear and the West Valley has over 25 years of experience in drain cleaning and sewer repair, and we use specialized equipment like drain cameras to accurately locate and clear these tricky clogs, ensuring your plumbing system is flowing smoothly and silently.",
+  "datePublished": "2026-08-19"
+}

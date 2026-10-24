@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When to Call for a Main Sewer Line Clog Expert",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It can be tough to tell if you're dealing with a simple drain issue or a full-blown main sewer line clog, but knowing when to call a professional can save you a lot of stress and damage. If you're seeing water backing up in multiple drains simultaneously – say, your toilet overflows when you shower, or water comes up through a floor drain when you do laundry – that's a huge sign. Another strong indicator is the sound of gurgling from toilets or drains when other water fixtures are in use, especially after flushing. Foul odors, like the smell of sewage, emanating from your drains are also a serious red flag that there's a blockage in your main line. If you've tried plunging individual drains without success, or if the problem keeps coming back, it’s definitely time to get an expert involved. These issues are often caused by tree roots, broken pipes, or significant buildup, which need specialized equipment like video inspection cameras and hydro-jetting to resolve properly. Don't let a main sewer line clog turn into an emergency. If you're in El Mirage or Litchfield Park and experiencing these symptoms, call Alpha-Plumbing Services, LLC. We're family-owned, experienced, and ready to provide practical solutions.",
+  "datePublished": "2026-08-19"
+}

@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Tankless Water Heater Mistakes You Don't Want to Make",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Getting a new tankless water heater is a smart move for efficiency and convenience, but there are a few missteps folks often make. First, ignoring routine maintenance is a big no-no; these units need periodic flushing to prevent mineral buildup, especially in areas with hard water. Skipping this can drastically shorten its lifespan and reduce efficiency. Another common mistake is attempting a complex installation yourself. Tankless heaters require precise gas or electrical connections, proper venting, and specific water line sizing. It's not a typical DIY project and incorrect installation can be dangerous or lead to costly repairs down the line. Thirdly, choosing the wrong size unit for your home is a major problem. You need a system that can handle your household's peak hot water demand, or you’ll end up with lukewarm showers. Don't just pick the cheapest option; invest in quality. Lastly, trying to diagnose and repair internal issues without professional help is usually a mistake. These systems are sophisticated, and you could inadvertently cause more damage. For proper sizing, installation, or repair, especially if you're in the Phoenix, Glendale, or Surprise areas, it's wise to consult with experienced plumbers.",
+  "datePublished": "2026-08-19"
+}

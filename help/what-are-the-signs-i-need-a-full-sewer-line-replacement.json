@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What Are the Signs I Need a Full Sewer Line Replacement?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's tough to know when your sewer line is just acting up or when it's screaming for a complete replacement. Recognizing the signs early can prevent more significant damage and costly emergency repairs. If you're noticing these persistent issues, it might be time to think about a full overhaul of your sewer system.\n\nOne of the clearest indicators is frequent and widespread drain backups. If multiple drains in your home—toilets, sinks, showers—are consistently backing up, it's often a sign of a major blockage or damage in the main sewer line, not just a localized clog. Persistent foul odors, especially around your drains or in your yard, also suggest a serious breach or blockage in the sewer line, allowing sewage gases to escape. Another tell-tale sign is unusually lush, green patches in your lawn or depressions in the ground where your sewer line runs. This can mean sewage is leaking out and fertilizing the soil or washing it away, leading to sinkholes.\n\nIf you've had multiple repairs on the same section of pipe, or if your home is older and has outdated pipe materials like clay or cast iron, a full replacement might be a more cost-effective long-term solution. Constant gurgling noises from your toilets or drains, even when not in use, indicate significant air in the system due to pipe damage. If you're experiencing any of these issues in Goodyear or the West Valley, it's crucial to get a professional inspection. Alpha-Plumbing Services, LLC has the expertise to diagnose the problem and guide you through the best solution, whether that’s repair or a full sewer line replacement. Don't wait for a crisis; reach out to us for a thorough assessment.",
+  "datePublished": "2026-08-19"
+}

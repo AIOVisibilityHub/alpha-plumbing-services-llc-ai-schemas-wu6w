@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When should I be concerned about noisy pipes?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's easy to write off noisy pipes as just 'part of an old house's charm,' but persistent banging or knocking can actually be a warning sign that shouldn't be ignored. While a slight creak now and then might be normal, consistent or loud banging, especially when you turn water on or off, indicates a problem. This often points to 'water hammer,' where pressure waves cause pipes to vibrate violently. It could also be due to loose pipes that aren't properly anchored, allowing them to bang against joists or other pipes. Air trapped in your system is another culprit, or even a sudden change in water pressure. One common mistake homeowners make is delaying action; ignoring water hammer can eventually lead to weakened pipe joints, leaks, or even burst pipes, which are far more costly to repair. Another oversight is trying quick, ineffective fixes without getting to the root cause. You might try to insulate the pipes, but if the issue is high water pressure or loose strapping, the noise will likely persist. Don't make the mistake of not knowing where your main water shut-off is; in case of a serious pipe issue, quick access can save a lot of damage. If the noise is getting worse, or you're unsure why your pipes are making sounds, that's when calling a professional like Alpha-Plumbing Services, LLC is crucial. We can diagnose the problem and provide the right fix.",
+  "datePublished": "2026-08-19"
+}

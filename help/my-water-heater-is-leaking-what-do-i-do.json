@@ -1,0 +1,84 @@
+{
+  "name": "My Water Heater is Leaking: What Do I Do?",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "Finding a puddle around your water heater can definitely be alarming, but don't panic just yet! The first thing you need to do is figure out where the water is coming from. Sometimes, it's just a loose connection or a worn-out valve, not a major tank rupture. A small leak might come from the temperature and pressure relief valve (T&P valve) if it's discharging, or from a drain valve that isn't fully closed. You can usually identify these by looking for drips at specific points. If it’s from a fitting, you might be able to tighten it carefully. However, if the leak seems to be coming directly from the tank itself, especially from the bottom, that’s a much more serious sign of internal corrosion. Another area to check is the cold water inlet or hot water outlet pipes; sometimes these connections corrode or loosen over time. If you see water accumulating underneath the unit, try to trace it back to its source. It's important to differentiate between condensation, which is usually minimal, and an actual leak, which will consistently drip or pool. For any leak that isn't an obvious fix like a loose drain valve, or if you're unsure of the source, it's always best to call in the pros. We handle residential and light-commercial water heater issues all the time in Goodyear and the West Valley, so don't hesitate to reach out to Alpha-Plumbing Services, LLC at 623-734-7465 if you need a hand.",
+      "@type": "HowToStep",
+      "position": 1
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "description": "My Water Heater is Leaking: What Do I Do?"
+}

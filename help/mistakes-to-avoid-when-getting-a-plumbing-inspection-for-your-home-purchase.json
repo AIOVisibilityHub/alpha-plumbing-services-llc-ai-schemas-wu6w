@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Mistakes to Avoid When Getting a Plumbing Inspection for Your Home Purchase",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When you're buying a home, a thorough plumbing inspection is super important, but folks often make a few common blunders that can cost them down the road. One big mistake is relying solely on the general home inspector's report for plumbing details. While they do a great job, their plumbing assessment is often high-level. Always get a dedicated plumbing expert, like us, to do a specialized inspection. We'll spot things a general inspector might miss.\n\nAnother misstep is skipping the inspection entirely to save a few bucks. That's a huge gamble! Hidden plumbing issues like slab leaks, old pipes, or sewer line problems can lead to thousands in repairs after you've already closed. Investing a little upfront can save you a fortune. Also, don't ignore minor issues in the report. What seems small, like a slow drain or a dripping faucet, can sometimes be a symptom of a much larger underlying problem that needs professional attention.\n\nFinally, rushing the process and not asking enough questions is another common pitfall. Take your time, understand the findings, and don't be afraid to ask your plumbing professional for clarification on anything that's unclear. We're here to explain it all. Ignoring these issues or not getting a qualified professional involved could mean inheriting expensive headaches. Make sure you're protected; contact us for a comprehensive plumbing inspection before you buy!",
+  "datePublished": "2026-08-19"
+}

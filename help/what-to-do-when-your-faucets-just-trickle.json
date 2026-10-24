@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What to Do When Your Faucets Just Trickle",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Dealing with faucets that merely trickle instead of flow can be incredibly frustrating and disrupt your daily routine. Low water pressure isn't just an inconvenience; it can signal various underlying plumbing problems, from simple clogs to more complex issues within your water system. Addressing it promptly is key to maintaining your home's plumbing health and ensuring you have reliable water access. We know how annoying it is to have a shower that just won't cooperate!\n\nFirst, check if the low pressure is affecting just one faucet or all of them. If it's isolated to a single faucet, the most common culprit is a clogged aerator. You can usually unscrew the aerator at the tip of the faucet and clean out any sediment or mineral deposits. This is a pretty straightforward DIY fix. If the problem is widespread, affecting multiple faucets throughout your house, then the issue is likely more systemic. Check your main water shut-off valve to ensure it's fully open. Sometimes it gets nudged or accidentally turned partially off. Another common cause for whole-house low pressure is a faulty pressure regulator, which is designed to maintain consistent water pressure but can fail over time. Less common, but more serious, could be a significant leak in your main water line or extensive pipe corrosion. Don't hesitate to call a professional if cleaning aerators or checking valves doesn't solve the problem, especially if the low pressure appeared suddenly and affects your whole home. Alpha-Plumbing Services is ready to help diagnose and repair any low water pressure issues. Reach out to us for reliable service in Goodyear and the West Valley.",
+  "datePublished": "2026-08-19"
+}

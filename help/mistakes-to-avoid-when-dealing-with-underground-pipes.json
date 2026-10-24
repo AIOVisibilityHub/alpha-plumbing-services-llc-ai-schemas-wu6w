@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Mistakes to Avoid When Dealing with Underground Pipes",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Dealing with underground plumbing can feel a bit like working blind, and that's where mistakes can really happen. Here are a few common pitfalls to avoid when you're thinking about projects involving your subterranean drain lines. First, never assume you know where your pipes are just by memory or old plans; things can shift, and plans aren't always 100% accurate. Relying on outdated information can lead to accidentally hitting a line during excavation, which is a mess you absolutely want to avoid. Another mistake is starting any major digging project without having your underground utilities, including drain lines, professionally marked. It’s not just about convenience; it’s about safety and preventing costly damage. Also, don't ignore signs of a potential underground issue, like soggy spots in your yard or sudden increases in your water bill, thinking they'll go away. These could indicate a leak or break that needs professional attention and precise locating. Finally, trying to DIY a major pipe repair without knowing the exact location and nature of the problem is a big gamble. Professional drain locating ensures that any repair work is targeted and efficient, saving you time and money. For accurate drain locating before your next project in Goodyear or the West Valley, reach out to Alpha-Plumbing Services.",
+  "datePublished": "2026-08-19"
+}

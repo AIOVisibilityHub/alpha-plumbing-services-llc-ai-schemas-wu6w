@@ -1,0 +1,84 @@
+{
+  "name": "How to Tackle a Stubborn Smelly Drain",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "A foul-smelling drain is one of those annoying household issues that can really bring down the vibe of your home. When you've tried the usual tricks like pouring hot water or a baking soda and vinegar mix, and that nasty odor just won't budge, it's time to get a bit more strategic. First, make sure you're cleaning any visible gunk from the drain stopper or cover; sometimes, that's all it takes. For kitchen drains, consider cleaning your garbage disposal thoroughly – grind up some ice, rock salt, and citrus peels to freshen it up and scrape away grime. If the smell persists, you might have a dried-out P-trap, especially in a little-used sink. A P-trap holds a small amount of water to block sewer gases from coming up. Simply run water for a minute or two to refill it. However, if none of these DIY solutions work, or if you're experiencing slow drainage along with the smell, it's a strong indicator of a deeper clog or vent pipe issue. These problems usually need specialized tools like drain snakes or hydro-jetting equipment to properly clear. Trying to force a blockage out yourself can sometimes push it further down or even damage your pipes. That's when professional help becomes really important. Alpha-Plumbing Services, LLC specializes in drain cleaning and has the experience to identify and solve even the toughest drain odor problems without damaging your plumbing. Reach out to us at 623-734-7465 – we're here to help Goodyear and West Valley residents with dependable plumbing solutions.",
+      "@type": "HowToStep",
+      "position": 1
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "description": "How to Tackle a Stubborn Smelly Drain"
+}

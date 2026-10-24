@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When Should You Call for Main Line Backup Repair?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Experiencing a main line backup can be incredibly disruptive and, frankly, pretty messy. It's not always obvious when you're dealing with a simple clog versus a more serious main line issue that requires professional intervention. So, how do you know it's time to call Alpha-Plumbing Services for main line backup repair? If you have several plumbing fixtures backing up at the same time, like your toilets, sinks, and showers, that's a strong indicator. It means the blockage is likely past individual fixture drains and further down in your main sewer line. Another key sign is water backing up into your shower or tub when you flush a toilet. If you hear gurgling noises from toilets or drains when water is being used elsewhere in the house, that's another clue. And, of course, the unmistakable smell of raw sewage in your home or yard is a definitive sign of a significant main line problem. These aren't issues you want to put off. Ignoring a main line backup can lead to extensive water damage, health hazards, and even structural damage to your home. When these signs pop up in Goodyear, Phoenix, or any of the surrounding West Valley communities, it's time to get our family-owned team, with over 25 years of experience, on the job.",
+  "datePublished": "2026-08-19"
+}

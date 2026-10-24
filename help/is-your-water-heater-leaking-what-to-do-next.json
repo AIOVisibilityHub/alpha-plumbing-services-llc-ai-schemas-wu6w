@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Is Your Water Heater Leaking? What to Do Next",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Finding a puddle around your water heater can be a truly alarming moment. A leak isn't just about losing hot water; it can lead to significant water damage, mold growth, and even pose safety risks if it's near electrical components. The first thing you absolutely need to do is turn off the water supply to the heater. Look for the cold water inlet valve (usually blue or marked 'cold') at the top of the unit and turn it clockwise until it's closed. Next, if you have a gas water heater, turn off the gas supply at the unit's gas valve. For electric heaters, head to your electrical panel and switch off the circuit breaker that controls the water heater. Once the water and power/gas are off, you'll want to safely drain the tank if the leak isn't too severe and you can do so without making a bigger mess. This involves attaching a garden hose to the drain valve at the bottom of the tank and running it to a floor drain or outside. Try to identify the source of the leak—is it from a pipe, a valve, or the tank itself? Leaks from the tank usually mean replacement is necessary. Don't try to patch a tank leak yourself! This is definitely a job for experienced plumbers. Calling Alpha-Plumbing Services, LLC right away can prevent further damage and help you figure out if it's a repair or replacement situation.",
+  "datePublished": "2026-08-19"
+}

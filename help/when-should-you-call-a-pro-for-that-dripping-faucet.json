@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When Should You Call a Pro for That Dripping Faucet?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "That constant drip, drip, drip can be more than just annoying; it often signals a bigger plumbing issue that shouldn't be ignored. While a simple washer replacement might seem like an easy fix, sometimes the problem runs deeper, involving worn-out valve seats or even pressure imbalances in your system. Trying to tackle a complex repair yourself without the right tools or experience can easily turn a small drip into a much larger, more expensive mess. It’s not just about stopping the noise; it's about protecting your home from potential water damage and preventing your water bill from creeping up. Don't let a minor inconvenience become a major headache. If you've tried basic troubleshooting and the drip persists, or if you're not comfortable getting under the sink, it's definitely time to bring in the experts. We've got over 25 years of experience in fixing these kinds of issues, ensuring it's done right the first time. We handle everything from minor fixture repairs to whole-home repiping, so you can trust us to identify the root cause and provide a practical, lasting solution for your Goodyear or West Valley home.",
+  "datePublished": "2026-08-19"
+}

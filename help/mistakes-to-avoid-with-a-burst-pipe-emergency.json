@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Mistakes to Avoid with a Burst Pipe Emergency",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When a pipe bursts, panic can set in quickly, and that's when common mistakes happen. One of the biggest errors is not immediately shutting off your main water supply. Every minute counts when water is gushing, so locate that shut-off valve first and foremost! Another mistake is underestimating the damage; even if the initial flood seems manageable, water can seep into walls, floors, and foundations, leading to long-term structural issues and mold growth. Don't assume a small burst means a simple fix; there could be significant pressure or corrosion problems at play. Many people also make the mistake of trying to use extreme heat like a blowtorch or open flame to thaw frozen pipes, which is incredibly dangerous and can actually cause a pipe to burst or even start a fire. Relying on temporary fixes like duct tape or clamps without a professional repair is another common pitfall. These might hold for a short time, but they're not long-term solutions and could fail again. Lastly, waiting too long to call a professional can turn a stressful situation into a full-blown disaster. For reliable, expert help with burst pipes in Goodyear, Avondale, or any of the West Valley cities, remember Alpha-Plumbing Services has the experience to handle it correctly and efficiently.",
+  "datePublished": "2026-08-19"
+}

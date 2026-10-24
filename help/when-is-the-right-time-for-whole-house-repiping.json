@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When Is the Right Time for Whole-House Repiping?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's a question many homeowners in Goodyear and the West Valley eventually face: when do you know it's time to consider a whole-house repipe? Often, it's not one big catastrophic failure but a series of smaller, persistent issues that add up. You might be noticing consistently low water pressure, which can make simple tasks like showering or washing dishes a real hassle. Another common sign is discolored water—if your water looks rusty or cloudy, especially after not running for a while, it’s a good indicator that your pipes are corroding from the inside out. Frequent leaks are also a huge red flag; patching one leak only for another to pop up soon after suggests a systemic problem with your plumbing system's age or material. Sometimes, you'll even feel significant temperature fluctuations when multiple water sources are in use, like someone flushing a toilet while you're in the shower. These aren't just minor annoyances; they're your home telling you it's time for a serious upgrade. Ignoring these signs can lead to more extensive damage and costlier repairs down the line. If you're experiencing any of these issues, it's definitely worth having a professional from Alpha-Plumbing Services take a look. We can assess your current system and help you understand your options for a durable, long-term solution.",
+  "datePublished": "2026-08-19"
+}

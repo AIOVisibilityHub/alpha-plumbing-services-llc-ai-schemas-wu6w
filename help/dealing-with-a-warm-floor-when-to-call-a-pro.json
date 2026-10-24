@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Dealing with a warm floor: When to call a pro",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Noticed a warm spot on your concrete floor? It’s a definite sign that something’s amiss, and knowing when to call in the pros can save you a lot of grief and money. If you've got a warm patch, especially under a slab, it’s highly likely you're dealing with a slab leak. This is when a water pipe running beneath your home’s foundation is leaking, typically hot water, which warms the concrete above it. You should absolutely call a professional if you notice the warm spot persisting or expanding. It's not something that will just go away on its own. Another big red flag is if your water bill suddenly jumps up without explanation. That's a classic symptom of a hidden leak. You also shouldn't hesitate if you hear the sound of running water when all your fixtures are off, or if you spot any cracks in your foundation or damp areas around your home. These all point to potential serious issues that require expert attention. Our team at Alpha-Plumbing Services, LLC has over 25 years of experience tackling slab leaks and protecting homes in the West Valley. We're equipped to accurately diagnose and fix these problems, providing practical solutions to keep your home safe and dry. Don't let a small warm spot turn into a major headache; give us a call if you're concerned.",
+  "datePublished": "2026-08-19"
+}

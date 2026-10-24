@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Is a Running Water Meter Always a Leak?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When your water meter is spinning even when you're sure no water is being used, it's a strong indicator that you likely have a leak. It’s an alarming discovery for any homeowner! While it's not always a leak—sometimes a small appliance might be on unexpectedly, or a toilet flapper is just barely letting water pass—it's definitely something you want to investigate promptly. Ignoring this sign can lead to wasted water, increased bills, and potential property damage that's much more costly to fix later.\n\nOne common mistake is not checking every single water source. Go through your home and ensure all faucets are tightly closed, no toilets are running, and outdoor spigots aren't dripping. Remember to check appliances too; sometimes a dishwasher or washing machine can start a small cycle unexpectedly. Another mistake is assuming it's a minor issue. Even a small, continuous drip can waste thousands of gallons of water over a year. Don't make the mistake of trying to ignore it and hoping it goes away, because it won't. If you've diligently checked everything and your meter is still moving, trying to locate an invisible leak yourself without the proper tools or expertise can be a major blunder. This can lead to unnecessary digging or damage. It's also a mistake to delay action, as water damage can escalate quickly. Instead of guessing, it's often best to call in professionals. Alpha-Plumbing Services has the experience to accurately diagnose these issues. Contact us today for reliable leak detection and repair in the West Valley.",
+  "datePublished": "2026-08-19"
+}

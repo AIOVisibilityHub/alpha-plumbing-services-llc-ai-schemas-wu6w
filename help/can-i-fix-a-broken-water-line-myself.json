@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Can I Fix a Broken Water Line Myself?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When you discover a broken water line, your first thought might be to grab a wrench and tackle it yourself to save some money. We get it – that DIY spirit is strong! However, attempting to fix a significant broken water line without the right expertise or tools is one of the biggest mistakes homeowners make. You could inadvertently cause more damage, leading to bigger repair bills, or even put yourself at risk. For instance, improper repairs can lead to ongoing leaks, compromised water quality, or even future bursts under pressure. Another common mistake is misdiagnosing the problem. What looks like a simple leak might be a symptom of a larger issue like deteriorating pipes or a shifting foundation, which a quick patch won't solve. It’s also crucial to avoid using temporary fixes like duct tape or sealants on a main water line; these are almost always short-lived and will fail, potentially causing a flood when you least expect it. Don't forget about local plumbing codes, either. Professional plumbers like us at Alpha-Plumbing Services ensure all repairs meet international plumbing code standards, guaranteeing proper installation and long-term reliability. We recommend contacting us at 623-734-7465 for a free estimate before you dive into a repair that might be beyond a DIY project. With over 25 years of experience, we can handle everything from minor repairs to full water re-pipes in Goodyear and the surrounding West Valley.",
+  "datePublished": "2026-08-19"
+}

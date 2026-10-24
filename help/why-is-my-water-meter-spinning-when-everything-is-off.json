@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Why Is My Water Meter Spinning When Everything Is Off?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's definitely unsettling to see your water meter ticking away when you know every faucet, toilet, and appliance in your home is off. This usually points to a hidden leak somewhere in your plumbing system. Don't ignore it, because even a slow leak can lead to significant water waste, higher utility bills, and potentially serious damage to your property over time. The meter is your first and best indicator of a problem you can't see.\n\nFirst, make sure all water-using appliances, like your dishwasher or washing machine, aren't secretly running a cycle. Sometimes these can be sneaky. Once you're absolutely certain everything is off, check for visible signs of leaks around toilets, under sinks, and even outdoor spigots. A common culprit could be a running toilet that you can't hear, so try putting a few drops of food coloring in the tank – if it appears in the bowl without flushing, you've found your leak. Another possibility is a leak in your irrigation system, which can be hard to spot if it's underground. If you've done all this and your meter is still moving, it's very likely an invisible leak, possibly underground or behind a wall. This is where professional help becomes crucial. Our team at Alpha-Plumbing Services has over 25 years of experience locating and fixing these elusive leaks, preventing further damage and saving you money. Don't let a mystery leak become a major headache. Give us a call at 623-734-7465, and we'll help get to the bottom of it.",
+  "datePublished": "2026-08-19"
+}

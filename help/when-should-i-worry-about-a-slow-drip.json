@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When Should I Worry About a Slow Drip?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "A slow drip might seem like a minor annoyance, but honestly, it's often an early warning sign that shouldn't be ignored. While it might not be an emergency, a persistent drip, especially from a pipe rather than just a faucet, can quickly escalate into a more significant problem. One key reason to worry is the sheer waste of water. A single drip per second can add up to hundreds of gallons per year, which translates directly to higher water bills. Beyond the cost, that constant moisture creates an ideal breeding ground for mold and mildew, which can compromise air quality and cause structural damage to your home over time. Also, a drip often indicates a weakening or corroding pipe, which could eventually burst if left unaddressed. If the drip is accompanied by any visible staining on ceilings or walls, a musty odor, or a change in water pressure, it's definitely time to take action. While you might try to tighten a connection, if the drip continues or you can't locate the source, it's wise to call in a professional. We've got the tools and expertise to diagnose and fix these issues before they turn into major headaches for folks in Goodyear, Avondale, and other West Valley communities.",
+  "datePublished": "2026-08-19"
+}

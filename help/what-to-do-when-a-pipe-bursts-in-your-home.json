@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What to Do When a Pipe Bursts in Your Home",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Finding a burst pipe is definitely one of those heart-stopping moments no homeowner wants to experience, but knowing what to do immediately can significantly minimize the damage. Your first priority is always to turn off the main water supply to your home, and do it as quickly as possible. This stops the flow and prevents further flooding. Next, you'll want to address the water that’s already escaped. If it's a large amount, start safely clearing items that can be damaged by water and try to remove as much standing water as you can. Good ventilation is key here, so open windows and doors if it's safe to do so. While you might be tempted to try a quick fix, especially with smaller bursts, a professional assessment is crucial. Burst pipes often indicate underlying issues like extreme water pressure, corrosion, or freezing. A temporary patch won't address these root problems, and you could be looking at another burst pipe down the line. It's really important to get an expert in to properly diagnose the cause, repair the damage, and help prevent future occurrences. If you're dealing with a burst pipe in Goodyear, Buckeye, or anywhere in the West Valley, Alpha-Plumbing Services is just a call away, ready to provide honest communication and quality workmanship.",
+  "datePublished": "2026-08-19"
+}

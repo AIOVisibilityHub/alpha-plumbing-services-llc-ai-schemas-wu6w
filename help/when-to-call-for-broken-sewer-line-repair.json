@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When to Call for Broken Sewer Line Repair",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Knowing when to pick up the phone for a broken sewer line issue can really make a difference in protecting your home. It’s not always obvious, but certain signs scream for professional attention. If you've got persistent clogs that plunger just can't fix, or if more than one fixture is backing up at the same time, that’s a major red flag for your main sewer line. Foul, sewage-like odors coming from your drains or even outside your home are also a definite call-to-action. Don't just spray air freshener; that smell means there's likely a leak or break. Another strong indicator is unusual pooling of water or extremely lush, green patches of grass in your yard, especially if it hasn't rained. This can happen directly over a compromised sewer line, as wastewater fertilizes the soil. Watch your water bill too; a sudden, unexplained spike could point to a leak somewhere, including your sewer system. And if you notice cracks in your home's foundation, it might be related to soil shifting due to a leaking sewer pipe. When you spot any of these signals, it’s not the time for guesswork or temporary fixes. You need a professional assessment to prevent further damage. Our team serves Goodyear and the surrounding West Valley, bringing over two decades of expertise to every sewer issue. Give us a call – we're ready to provide honest communication and quality workmanship to get your plumbing back on track.",
+  "datePublished": "2026-08-19"
+}

@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Why is there a hot spot on my floor?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Discovering a hot spot on your floor is often more than just a strange warmth; it's a significant indicator of an underlying issue, usually a slab leak. This happens when a hot water pipe running beneath your concrete slab foundation develops a leak. As the hot water escapes, it warms the surrounding concrete, creating that noticeable warm area on your flooring. Ignoring this sign can lead to serious problems like structural damage to your home's foundation, mold growth due to constant moisture, and a skyrocketing water bill from the continuous leak. Sometimes, the warmth can be subtle, or you might notice associated signs like reduced water pressure or the sound of running water when all fixtures are off. It's essential not to dismiss these clues. While it might seem minor, a persistent hot spot almost always points to a developing plumbing emergency that requires immediate attention. For residents in Goodyear and the West Valley, calling a seasoned professional like Alpha-Plumbing Services, LLC is the best next step to get it properly diagnosed and repaired.",
+  "datePublished": "2026-08-19"
+}

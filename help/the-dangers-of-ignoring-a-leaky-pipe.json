@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "The Dangers of Ignoring a Leaky Pipe",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Ignoring a leaky pipe, no matter how small it seems, is a gamble that rarely pays off. What starts as a minor drip can quickly snowball into a serious and costly problem. One of the most immediate dangers is water damage to your home’s structure. Persistent moisture can weaken wood, damage drywall, ruin flooring, and corrode metal fixtures, leading to expensive repairs down the line. Then there's the unseen threat of mold and mildew. These fungi thrive in damp environments and can cause significant health issues, especially for those with allergies or respiratory problems, and they’re tough to get rid of once established. Don't forget about your water bill, which can skyrocket as hundreds, even thousands, of gallons of water are wasted. Beyond that, a small leak is often a symptom of a larger issue, like aging pipes or excessive water pressure, which could eventually lead to a burst pipe and a full-blown flood. While a temporary patch might seem like a solution, it's crucial to address the root cause. If you've got a leak, getting a professional assessment is key to preventing these dangers. We're here in Goodyear, and we’ve been tackling plumbing issues for over 25 years, so we know how to spot and fix these problems efficiently, saving you stress and money in the long run.",
+  "datePublished": "2026-08-19"
+}

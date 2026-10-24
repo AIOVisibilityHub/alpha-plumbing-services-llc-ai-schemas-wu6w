@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When is the Best Time to Install a New Water Heater?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "You might be thinking about a new water heater, but when’s the prime time to make that move? While emergencies certainly dictate their own schedule, there are strategic moments to consider an upgrade or replacement. A great time is when your current unit starts showing its age, usually after 8-12 years. Proactive replacement before a complete breakdown saves you from cold showers and urgent, expensive calls. Another smart moment is during a home renovation, especially if you're remodeling a bathroom or kitchen. Integrating a new, more efficient water heater into a larger project can streamline the process and improve overall home efficiency. If you’ve noticed a significant jump in your energy bills that you can't attribute to anything else, an older, inefficient water heater could be the culprit, making an upgrade a smart financial decision. Also, if your family's hot water needs have changed—maybe you've added members or appliances like a large soaking tub—your current unit might simply be undersized. Installing a new unit then ensures everyone gets enough hot water without delay. Ultimately, the 'best' time is often before your old one completely fails, leaving you scrambling. If you're seeing signs of decline, like rust, strange noises, or inconsistent hot water, that’s your cue to start planning. Getting a professional opinion can help you weigh the timing and options.",
+  "datePublished": "2026-08-19"
+}

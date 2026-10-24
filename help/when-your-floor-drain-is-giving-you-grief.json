@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When Your Floor Drain is Giving You Grief",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Discovering water backing up from your floor drain can be a real headache, especially in areas like basements, garages, or utility rooms. These drains are super important for preventing flooding from appliance overflows or heavy rains, so when they act up, it's a big deal. The main culprits are often dirt, debris, hair, and even grease that wash down, accumulating over time. If you notice water pooling around the drain, a slow drain, or an unpleasant smell, your floor drain is probably crying for help. A really serious sign is sewage backing up; that’s definitely an emergency and needs immediate attention to prevent health hazards and major property damage. While a small amount of water that drains eventually might seem minor, don't ignore it. It could be the precursor to a much larger problem. If you're in Goodyear, Waddell, or Sun City West, and you're dealing with a persistent floor drain issue, or if you've tried basic unclogging methods without success, it's time to call in the pros. We've got the specialized equipment to identify the exact cause and clear even the toughest clogs effectively, keeping your home safe and dry. Alpha-Plumbing Services is here to provide dependable residential services.",
+  "datePublished": "2026-08-19"
+}

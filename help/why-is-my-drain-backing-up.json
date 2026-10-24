@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Why Is My Drain Backing Up?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's super frustrating when your drains start backing up, right? This often points to a clog or an issue in your sewer line, and it’s definitely not something you want to ignore. When you notice slow drains in multiple fixtures, like your toilet gurgling when you flush the shower, or water backing up in your sink after using the washing machine, those are big red flags. These aren't just minor annoyances; they suggest a more significant blockage deeper in your plumbing system. You might also notice a foul smell coming from your drains, or even standing water in your yard. Don't put off getting it checked out, as a small clog can quickly become a major headache, leading to costly repairs or even sewage backups. If you're seeing any of these signs, it's really time to bring in the pros. We've got the specialized equipment, like advanced sewer camera inspection tools, to accurately pinpoint the problem without a guessing game. Trying to tackle a major sewer line issue yourself with chemical drain cleaners can often make things worse and damage your pipes. For dependable sewer line locating and repair in Goodyear and the wider West Valley, give Alpha-Plumbing Services, LLC a call. We're here to help you get things flowing smoothly again with practical solutions.",
+  "datePublished": "2026-08-19"
+}

@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When Should You Consider Replacing a Single Water Line?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's easy to overlook your home's water lines until a problem pops up, but sometimes a small issue can hint at something bigger. If you've noticed a sudden drop in water pressure, visible leaks around your property, or unusually high water bills, it might be time to think about replacing a single water line. These aren't just minor annoyances; they can indicate an aging, corroded, or damaged pipe that's silently causing issues. For example, a persistent wet spot in your yard could mean an underground leak, leading to significant water waste and potential damage to your home's foundation if left unchecked. You might also notice discolored water, which points to rust or sediment build-up within your pipes. If you're experiencing any of these tell-tale signs, it's wise to get a professional opinion. Ignoring these warning signals can lead to more extensive damage and much costlier repairs down the road. Our team, with over 25 years of experience serving areas like Goodyear, Buckeye, and Glendale, can help you figure out the best course of action. Give Alpha-Plumbing Services, LLC a call at 623-734-7465 to get an expert assessment and ensure your water lines are in top shape.",
+  "datePublished": "2026-08-19"
+}

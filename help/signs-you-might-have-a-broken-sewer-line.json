@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Signs You Might Have a Broken Sewer Line",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's never fun to think about, but a broken sewer line can quickly turn into a major headache for homeowners. Knowing the early warning signs can save you a lot of stress and expense down the road. One of the first things to look out for is consistent drain issues. Are your toilets gurgling, or are multiple drains in your home slow or backed up? These aren't just minor clogs anymore; they could signal a deeper problem in your main sewer line. Another big indicator is unpleasant odors. If you're smelling raw sewage inside or outside your home, especially near drains or in your yard, that's a strong sign of a break or leak that needs immediate attention. And don't ignore strange wet spots in your yard that aren't explained by rain or irrigation. If there's an unexplained lush, green patch of grass or soggy areas, particularly above where your sewer line runs, that could be wastewater leaking out. Also, watch out for sudden pest infestations like rodents or insects, as they're often attracted to the moisture and waste from a broken pipe. Seeing these signs means it's definitely time to get a professional to inspect things. We’ve been helping folks in Goodyear and the West Valley for over 25 years with these kinds of issues, so we’ve got the experience to diagnose and fix it right. Don't wait for it to get worse; reach out to us for a thorough assessment.",
+  "datePublished": "2026-08-19"
+}

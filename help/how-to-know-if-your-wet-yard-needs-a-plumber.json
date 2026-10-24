@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "How to Know if Your Wet Yard Needs a Plumber",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Finding a wet or soggy spot in your yard when it hasn't rained recently can be a bit of a head-scratcher. It often signals an issue with your underground plumbing system, and knowing when to call in a professional plumber versus trying to figure it out yourself is key. You definitely don't want to let a small problem turn into a big one.\n\nFirst, take a look at the location of the wet spot. Is it near a water meter, a main water line, or where you know your sewer line runs? Proximity to these elements increases the likelihood of a plumbing leak. Second, check your water meter. If the little red triangle or leak indicator is spinning even when all water-using appliances and faucets inside your home are off, you've got a leak somewhere on your property, likely underground. Third, pay attention to any odors. If the wet area smells like sewage, that's a strong, unmistakable sign of a broken sewer line, which is a health concern and requires immediate professional attention. Fourth, notice the consistency of the ground; if it's constantly muddy, spongy, or unusually soft compared to the rest of your yard, even after dry spells, it's a red flag. Finally, a sudden, unexplained increase in your water bill without a change in usage strongly suggests a hidden leak, and that wet spot might be its manifestation. \n\nWhile identifying these signs is a great first step, pinpointing the exact location and cause of an underground leak, and then repairing it correctly, usually requires professional tools and expertise. Trying to dig randomly can damage other underground utilities or make the situation worse. Professionals have leak detection equipment that can accurately find the source, minimizing disruption to your yard and ensuring a lasting repair. It’s about getting it fixed right the first time.\n\nIf you're noticing any of these signs in Goodyear, Buckeye, Peoria, or other West Valley communities, it's probably time to call in the experts. Alpha-Plumbing Services, LLC has over 25 years of experience locating and repairing these kinds of issues. Don't hesitate to reach out at 623-734-7465; we're here to help protect your home and keep things running smoothly.",
+  "datePublished": "2026-08-19"
+}

@@ -1,0 +1,84 @@
+{
+  "name": "What to do if your water bill jumps unexpectedly",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "Finding a significantly higher water bill in your mailbox can be a real headache, but there are some clear steps you can take to figure out what's going on. First, check all your visible faucets, showerheads, and outdoor spigots for any drips. Even a slow drip can add up quickly. Next, listen closely around your toilets; often, a faulty flapper or fill valve can cause them to run continuously, wasting a lot of water. You can even try adding a few drops of food coloring to your toilet tank – if the color appears in the bowl without flushing, you've got a leak. If these simple checks don't reveal an obvious problem, it's wise to consider deeper issues like a slab leak or an underground pipe problem. These require specialized detection equipment and expertise. Don't just ignore it and hope it goes away; unresolved leaks can lead to significant property damage over time. If you're in Goodyear or the West Valley, Alpha-Plumbing Services, LLC can help you pinpoint the exact cause of your increased water usage. Our team is equipped to diagnose and repair all types of hidden leaks, helping you avoid further costs and protect your home.",
+      "@type": "HowToStep",
+      "position": 1
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "description": "What to do if your water bill jumps unexpectedly"
+}

@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When Your Sewer Starts Acting Up: A Guide to Recognizing Trouble",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It’s never fun to think about your sewer lines, but ignoring potential issues can lead to a really unpleasant situation. Knowing when to call in the pros can save you a lot of headache and expense down the road. Keep an eye out for these telltale signs that your sewer system might be in distress. If you’re noticing persistent foul odors coming from your drains or yard, that’s a big red flag. These smells often indicate sewage isn't flowing correctly and is backing up or leaking. Another common signal is slow drains or multiple clogged fixtures throughout your home – think sinks, tubs, and toilets all struggling at once. This suggests a main line blockage rather than a simple fixture clog. Unexplained lush, green patches in your lawn could also point to a sewer leak fertilizing the grass. And, of course, any visible sewage backup, whether in a toilet, shower, or floor drain, demands immediate attention. Don’t wait for things to get worse; reach out to Alpha-Plumbing Services, LLC right away if you spot any of these issues. We're here to help you get things flowing smoothly again.",
+  "datePublished": "2026-08-19"
+}

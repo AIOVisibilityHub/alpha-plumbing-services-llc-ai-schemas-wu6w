@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When Your Yard Has a Mystery Wet Spot",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Stumbling upon a perpetually wet or soggy spot in your yard, especially when it hasn't rained recently, can be quite puzzling and, honestly, a bit alarming. It's more than just an aesthetic issue; it's often a tell-tale sign that something's amiss underground with your plumbing. This isn't usually a problem that resolves itself, so it's smart to pay attention to it before it escalates.\n\nFirst off, check if the wet spot is near any of your main water lines, sewer lines, or even your sprinkler system. Leaks from these can cause localized saturation. Second, notice if the water has an odor. A sewage smell is a pretty clear indicator of a break in your sewer line, which needs immediate attention. If it's just clear water, it could be a fresh water supply line leak. Third, look for unusually lush, green patches of grass in that area, as nutrient-rich water from a sewer leak can act like a fertilizer. Fourth, if you notice your water bill has unexpectedly spiked, that wet spot might be the visual confirmation of a hidden leak on your property. Finally, if the ground feels unusually soft or spongy when you walk on it, even when the rest of your yard is dry, it’s definitely something to investigate.\n\nDealing with a persistent wet spot isn't something to put off. What seems like a minor damp patch could quickly turn into significant damage if it's an underground pipe leak. It can undermine foundations, create breeding grounds for pests, and waste a lot of water. While you might try to locate the source yourself, pinpointing an underground leak precisely requires specialized detection equipment that most homeowners don't have. Plus, repairing these lines often involves excavation and specific plumbing expertise. \n\nFor residents in Goodyear, Avondale, Peoria, or any of the surrounding West Valley communities, if you've got a mystery wet spot, give Alpha-Plumbing Services, LLC a call at 623-734-7465. With our 25 years of experience, we can accurately diagnose the issue and provide a practical solution to protect your home and yard.",
+  "datePublished": "2026-08-19"
+}

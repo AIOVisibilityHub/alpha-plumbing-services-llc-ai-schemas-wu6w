@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Mistakes to Avoid When Your Shower is Backing Up with Sewage",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When sewage starts backing up into your shower, it's easy to panic or make a few missteps that can worsen the situation. One common mistake is ignoring it, hoping it will just clear up on its own. Trust us, it won't, and waiting only allows more waste to enter your home. Another big no-no is using chemical drain cleaners. These products are often ineffective against main line blockages and can even damage your pipes or pose a danger to anyone working on the plumbing afterward. You also want to avoid using any more water in your home, especially flushing toilets or running sinks, as this will just add to the overflowing mess. Don't try to disassemble pipes or major plumbing components yourself either; you could make the problem harder to diagnose and fix. And please, don't try to clean up the raw sewage without proper protective gear; it’s a serious biohazard. If you're seeing sewage, it’s a significant issue requiring skilled help. For situations like this, it’s best to call in experienced professionals like Alpha-Plumbing Services, LLC right away to safely and effectively address the root cause.",
+  "datePublished": "2026-08-19"
+}

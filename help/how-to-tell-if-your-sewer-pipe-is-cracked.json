@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "How to Tell if Your Sewer Pipe is Cracked",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "A cracked sewer pipe isn't something you want to discover by accident, but knowing the signs can help you catch it early. One of the most common indicators is consistently slow drains or frequent backups throughout your home, even after you’ve tried to clear them. This isn't just a simple clog; it suggests an issue with the main line itself. Keep an eye (and nose!) out for unpleasant odors, especially those sewage smells in your home or yard. A cracked pipe can allow gases to escape, leading to those tell-tale foul smells. Another subtle, but important, sign can be found in your yard: unusually green, lush patches of grass or soggy areas that don't dry out, even during dry spells. These spots often indicate that wastewater is leaking from a cracked pipe and nourishing the soil above it. You might also notice sinkholes or indentations in your lawn, which can form as leaking water erodes the soil around the pipe. If you're seeing an increase in rodents or insects in your yard, they could be drawn to the moisture and waste from a cracked sewer line. Lastly, a sudden, unexplained spike in your water bill could also point to a hidden leak in your plumbing system, including your sewer pipes. When you see these kinds of persistent issues, it’s time to get a professional opinion. Our family-owned business has been handling these types of problems for over 25 years across the West Valley, including Goodyear, and we can quickly identify if a cracked pipe is the culprit.",
+  "datePublished": "2026-08-19"
+}

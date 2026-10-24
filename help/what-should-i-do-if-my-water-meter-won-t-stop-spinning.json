@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What should I do if my water meter won't stop spinning?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "A water meter that won't stop spinning, even when you're sure no water is being used, is a classic sign that something isn't right. It almost always points to a leak somewhere in your system, and catching it early can save you a lot of trouble and expense. First, make sure every single water fixture in your home is turned off, including washing machines, dishwashers, and even outdoor spigots. Then, watch the meter closely. If it's still moving, you've got a leak. Don't panic, but don't ignore it either. One common mistake is neglecting to check the toilet tanks for slow, silent leaks; a little food coloring in the tank can help reveal if water is sneaking into the bowl. Another error is not checking your irrigation system for breaks or constant running, especially if you have an automatic timer. Many homeowners also make the mistake of not understanding their main shut-off valve; knowing where it is and how to use it can be crucial if a leak becomes severe. Trying to DIY a complex pipe repair or leak detection without experience often leads to more damage or missed issues. If you've run through the basic checks and still can't locate the leak, or if the problem seems beyond a simple fix, that's when a professional like Alpha-Plumbing Services, LLC becomes important. We have the expertise to accurately locate and repair all sorts of leaks, from the obvious to the completely hidden.",
+  "datePublished": "2026-08-19"
+}

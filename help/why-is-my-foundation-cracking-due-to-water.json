@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Why is My Foundation Cracking Due to Water?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Cracks in your foundation can be incredibly alarming, and often, an underlying water issue, like a leaky water line, is the culprit. We’ve seen this happen quite a bit in Goodyear and the surrounding West Valley. When a broken water line, especially one underground near your home or business, leaks persistently, it can saturate the soil beneath your foundation. This excess moisture can cause the soil to expand and contract unevenly, putting immense pressure on your foundation. Over time, this stress leads to cracks, settling, and potentially serious structural damage. It’s a sneaky problem because the leak itself might be hidden, only revealing itself through these structural symptoms. The bigger mistake would be to assume the cracks are just 'old house' issues or due to normal settling without investigating the possibility of a water line problem. Another common mistake is trying to fill the cracks without addressing the root cause; it’s like putting a band-aid on a gaping wound. You're just masking the symptom, not fixing the problem, and the damage will continue to worsen. Ignoring these signs can lead to costly foundation repairs and even compromise the safety of your property. If you're seeing foundation cracks and suspect a hidden water leak, it's crucial to get a professional evaluation. Our team at Alpha-Plumbing Services has over 25 years of experience diagnosing and repairing broken water lines, including those impacting foundations. Don't let a hidden leak compromise your home – call us at 623-734-7465 for a free estimate.",
+  "datePublished": "2026-08-19"
+}

@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When to Call for Help with Water Leaks Under Your House",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Dealing with a water leak under your house is a situation no homeowner wants to face, but knowing exactly when to pick up the phone and call a professional can make all the difference. These types of leaks aren't just annoying; they can lead to some seriously expensive issues if not caught and repaired promptly. You’ll want to be on the lookout for a few clear signs that indicate it’s time for expert intervention.\n\nOne of the most obvious signals is an unexpected surge in your water bill, even if your usage hasn't changed. This is often the first clue that water is escaping somewhere underground. Another tell-tale sign is hearing the sound of running water when all taps and appliances are off – that usually means there's a leak within your plumbing system. Be sure to also check for unexplained damp spots on your concrete slab, baseboards, or even in your yard, especially if there are areas that are unusually lush or soggy. Drops in water pressure can also point to a leak somewhere in your main line. If you're noticing any persistent musty odors, particularly in lower levels or specific rooms, mold growth due to a hidden leak could be the culprit. Alpha-Plumbing Services, LLC brings over 25 years of hands-on experience to residents and businesses in Goodyear and the West Valley, specializing in detecting and repairing these complex slab leaks. We pride ourselves on honest communication and providing practical solutions.\n\nDon't let a potential leak turn into a catastrophe. If you're experiencing any of these symptoms, it's definitely time to give us a call. We're ready to help you protect your home.",
+  "datePublished": "2026-08-19"
+}

@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When Should I Call a Plumber for My Leaky Faucet?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "A leaky faucet might seem like a minor nuisance, but it can actually waste a lot of water and drive up your utility bills over time. Plus, that constant drip, drip, drip can be super annoying! If you've tried the basic DIY fixes like tightening handles or checking the aerator and it's still leaking, it’s probably time to call in the pros. Sometimes, the issue is a worn-out washer or a more complex internal valve problem that requires specialized tools and expertise to properly diagnose and repair. Ignoring it can lead to bigger issues, like water damage to your cabinetry or even mold growth, which nobody wants. We’ve seen it all, from simple repairs to full fixture replacements, and we’re equipped to handle any faucet issue you throw our way. Don't let a small drip turn into a big headache – reach out to a professional plumber before it escalates. We're here to help protect your home from unnecessary water waste and damage.",
+  "datePublished": "2026-08-19"
+}

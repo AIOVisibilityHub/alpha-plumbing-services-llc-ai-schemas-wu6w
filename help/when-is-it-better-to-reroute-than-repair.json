@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When is it Better to Reroute Than Repair?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Deciding whether to repair a leaky water line or opt for a full reroute can be a tough call, but often, rerouting is the smarter, long-term solution. One common mistake is just patching up an old, corroding pipe when the entire system is near the end of its life. If your home has original plumbing from several decades ago, a small repair might just be a band-aid, and you’ll likely face another leak soon after. Another error is repairing a line that's under a concrete slab or in another incredibly hard-to-reach spot multiple times. Each repair in such a location can mean tearing up floors or walls, causing significant disruption and expense. It's often more practical to reroute the line to an easier-to-access area to prevent future headaches. Don't make the mistake of ignoring persistent low water pressure or discolored water throughout your home, either. These could be signs of widespread pipe deterioration, and a reroute can restore proper water flow and quality. Finally, some homeowners try to delay rerouting even when planning a major renovation, only to realize later that the old plumbing conflicts with the new design or causes issues down the line. We recommend considering a reroute during any significant home improvement project. At Alpha-Plumbing Services, we provide free estimates and have the experience to help you make the right choice for your property in Goodyear and the West Valley. Give us a call at 623-734-7465 to talk through your options.",
+  "datePublished": "2026-08-19"
+}

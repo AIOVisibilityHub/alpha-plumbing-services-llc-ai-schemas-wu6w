@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When is it Time to Call a Plumber for a Clogged Drain?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It’s super frustrating when your sink or tub won't drain, right? Most of us try a quick fix first, but sometimes those clogs are tougher than they look. If you're wondering when to wave the white flag and call in a pro, there are a few clear signals.\n\nFirst off, if you’ve tried a plunger or a basic drain cleaner and nothing budges, that’s a big hint. Stubborn clogs often mean there’s something more serious going on deeper in your pipes. Another major red flag is if the clog keeps coming back. You clear it, it's fine for a bit, and then boom—clogged again. This usually points to a systemic issue, like a buildup of grease, hair, or even tree roots, that a simple DIY can't tackle.\n\nThen there’s the multi-drain issue. If more than one drain in your home is slow or clogged, like your toilet, sink, and shower all acting up, that suggests a main sewer line problem. That’s definitely a job for someone with specialized equipment, like a camera inspection and hydro-jetting tools. Also, if you notice foul odors coming from your drains, hear gurgling noises, or see water backing up into other fixtures, it’s past time to call us. We’ve got over 25 years of experience handling everything from simple clogs to major sewer issues here in Goodyear and the West Valley. We can get to the root of the problem and offer practical solutions.",
+  "datePublished": "2026-08-19"
+}

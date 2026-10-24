@@ -1,0 +1,84 @@
+{
+  "name": "How to Ensure a Smooth Water Heater Installation",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "Getting a new water heater installed doesn't have to be a stressful experience, especially if you know what to look for and how to prepare. A smooth installation process starts with making informed decisions and choosing the right professionals. First, do your homework on the different types of water heaters available – tankless, conventional, heat pump – and consider which one best fits your family's needs, budget, and energy efficiency goals. Thinking about your average hot water usage is key here. Next, don't underestimate the importance of proper sizing. An undersized unit won't keep up with demand, while an oversized one wastes energy. A good plumber will help you calculate the ideal capacity. Another crucial step is to verify that your chosen installer is licensed and experienced. This isn't a job for just anyone; it involves gas, electrical, and water lines, so expertise is paramount for safety and compliance. Also, be sure to understand what's included in the installation service, like removal of the old unit and any necessary code upgrades. Finally, don't forget to ask about warranty information for both the unit and the installation itself. By taking these steps and working with a trusted professional, you can ensure your new water heater installation goes off without a hitch, providing reliable hot water for years to come. Our team at Alpha-Plumbing Services has been serving Goodyear and the West Valley for over 25 years, ensuring top-notch water heater installations every time.",
+      "@type": "HowToStep",
+      "position": 1
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "description": "How to Ensure a Smooth Water Heater Installation"
+}

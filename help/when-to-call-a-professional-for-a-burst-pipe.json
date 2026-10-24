@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When to Call a Professional for a Burst Pipe",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "A burst pipe is almost always an emergency that warrants immediate professional attention, but sometimes it helps to confirm when you absolutely, without a doubt, need to call in the pros. Here’s when you should definitely pick up the phone for a plumbing expert like Alpha-Plumbing Services:\n*   **You're experiencing significant flooding:** If water is rapidly accumulating in your home, it’s not just a mess; it's a structural threat. Professionals have the tools and experience to manage the situation and mitigate damage quickly.\n*   **You can't locate or shut off your main water supply:** This is critical! If you can't stop the flow of water, you need immediate help to prevent extensive damage. Don't waste time searching endlessly; call us.\n*   **The burst pipe is in an inaccessible or hidden location:** Pipes in walls, ceilings, or under floors require specialized equipment and expertise to locate, expose, and repair without causing further damage.\n*   **The water pressure is still high after a temporary patch:** This indicates that the underlying issue of why the pipe burst hasn't been resolved, and a re-burst is highly likely. You need a proper diagnosis and repair.\n*   **You're dealing with a frozen pipe that has burst:** Thawing and repairing frozen, burst pipes is tricky and dangerous if not done correctly. Professionals know how to safely address these issues. In Goodyear, Surprise, or anywhere across the West Valley, our team is ready with practical solutions and quality workmanship to tackle any burst pipe emergency.",
+  "datePublished": "2026-08-19"
+}

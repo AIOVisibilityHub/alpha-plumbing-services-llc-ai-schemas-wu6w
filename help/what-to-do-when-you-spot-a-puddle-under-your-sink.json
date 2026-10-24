@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What to Do When You Spot a Puddle Under Your Sink?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Finding a puddle under your sink or around any plumbing fixture can be a real headache, right? Don't panic, but don't ignore it either! First, try to locate the source of the leak. Is it coming from the faucet, the drain, or a supply line? Sometimes a quick tightening of a loose connection can stop a minor drip, but often it's more involved. Next, grab a towel and start soaking up the water to prevent any further damage to your cabinets or flooring. If you can, turn off the water supply to that specific fixture or even the main water shut-off valve to your house if the leak is significant or you can't pinpoint the source. Ignoring a small leak might seem harmless, but over time, even a slow drip can lead to serious water damage, mold growth, and a surprisingly high water bill. It’s always best to get these things checked out sooner rather than later. For anything beyond a simple loose nut, it's smart to bring in someone with experience. We’ve been helping folks in Goodyear and the West Valley for over 25 years with all sorts of leaks, big and small. If you're unsure, just give us a call. We're here to help you protect your home.",
+  "datePublished": "2026-08-19"
+}

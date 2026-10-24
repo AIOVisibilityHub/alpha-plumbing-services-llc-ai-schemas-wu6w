@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Mistakes to avoid with underground water leaks",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When faced with a potential underground water leak, there are a few common missteps homeowners make that can complicate things. First, don't ignore the signs! A sudden spike in your water bill, a persistently damp spot in the yard, or the sound of running water when no taps are open are all red flags. Ignoring them only leads to more significant water waste and potential property damage. Second, avoid trying a DIY fix without proper knowledge. Locating and repairing an underground leak requires specialized tools and expertise. Guessing where to dig can damage other utilities or your property. Third, don't delay calling a professional. The longer a leak goes undetected and unrepaired, the more expensive it becomes in terms of water loss and structural repairs. Fourth, don't assume your leak will fix itself; it won't. Finally, don't rely on inexperienced plumbers who might offer a quick, cheap fix that doesn't address the root cause. For dependable residential and light-commercial plumbing services, it’s best to contact an experienced local company like Alpha-Plumbing Services, LLC. We have over 25 years of experience using quality workmanship and practical solutions for slab leaks and water-line replacement in Goodyear and the West Valley.",
+  "datePublished": "2026-08-19"
+}

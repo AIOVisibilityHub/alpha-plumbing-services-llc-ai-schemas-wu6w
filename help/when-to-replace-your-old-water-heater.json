@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When to Replace Your Old Water Heater",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It’s a fact of life that even the best water heaters don’t last forever. While repairs can extend its life, sometimes replacement is the smarter, more cost-effective option. Knowing when to make that call can save you from unexpected breakdowns and costly emergency situations, especially if you're in the Goodyear area where we help a lot of folks with this.\n\nOne big indicator is age. Most conventional tank water heaters last about 8-12 years. If yours is older than that and starting to have issues, replacement is often a good idea. Frequent repairs are another strong sign. If you're constantly calling a plumber for leaks, inconsistent heating, or other problems, the cost of repairs can quickly add up and exceed the cost of a new, more efficient unit. Decreased efficiency, shown by higher energy bills, also suggests it's time for an upgrade; newer models are much more energy-efficient. And, of course, rust-colored water or visible leaks around the tank are critical signs that the inside of your tank is corroding and could fail catastrophically at any moment. You definitely don’t want a flooded garage or utility closet!\n\nMaking the decision to replace your water heater can feel like a big one, but it’s an investment in your home’s comfort and safety. Our family-owned business, Alpha-Plumbing Services, LLC, has been helping West Valley residents with water heater replacements for over 25 years. We provide honest advice and quality installation to ensure you get the right solution for your home. Call us at 623-734-7465 for a free estimate and reliable service.",
+  "datePublished": "2026-08-19"
+}

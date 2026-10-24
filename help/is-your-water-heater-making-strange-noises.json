@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Is Your Water Heater Making Strange Noises?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Ever noticed your water heater rumbling, popping, or even hissing like a grumpy dragon? Those unusual noises aren't just quirky; they're often your water heater trying to tell you something's wrong. Ignoring these sounds can lead to bigger problems, including inefficiency and even premature unit failure.\n\nThe most common culprit for these sounds is sediment buildup at the bottom of the tank. Over time, minerals from your water supply settle, forming a layer that gets superheated and then pops and cracks as it breaks free. This reduces the tank's efficiency and can eventually damage the heating elements. A high-pitched whining or humming sound might indicate a problem with the heating elements themselves, possibly due to scale buildup. If you hear a banging or hammering, it could be 'water hammer' caused by sudden changes in water pressure, which affects the pipes connected to your heater. Lastly, a gurgling sound often points to issues with the pressure relief valve or even air in the lines, which can sometimes be a sign of something more serious.\n\nWhile some noise is normal, persistent or loud noises are a clear signal that your water heater needs attention. Don't wait until it's too late and you're stuck with a cold shower. Our skilled team at Alpha-Plumbing Services has the expertise to diagnose these noises and perform the necessary repairs or maintenance. Contact us today at 623-734-7465 for reliable water heater service in the West Valley.",
+  "datePublished": "2026-08-19"
+}

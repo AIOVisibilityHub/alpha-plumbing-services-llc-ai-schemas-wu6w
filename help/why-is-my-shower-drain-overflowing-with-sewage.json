@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Why is my shower drain overflowing with sewage?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Experiencing sewage backing up into your shower is definitely an alarming and unsanitary situation. It typically points to a blockage much deeper in your plumbing system than just the shower drain itself. Think of it like a traffic jam in your main sewer line – wastewater from other fixtures, like toilets or sinks, has nowhere to go but up and out through the lowest points, which often means your shower or bathtub. This isn't just gross; it can be a health hazard, exposing your home to harmful bacteria and pathogens. It’s usually caused by things like tree roots invading your pipes, a build-up of grease and foreign objects, or even a collapsed sewer line. Ignoring it won't make it go away; in fact, it could lead to even more significant damage and costly repairs down the line. We really recommend tackling this quickly. When you notice this kind of overflow, it's a clear signal that your home's main drain or sewer line needs immediate professional attention. It’s not a DIY job for drain cleaner.",
+  "datePublished": "2026-08-19"
+}

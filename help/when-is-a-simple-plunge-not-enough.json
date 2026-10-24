@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When Is a Simple Plunge Not Enough?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's super common to grab the plunger when you notice a slow drain, and honestly, sometimes that's all it takes! But if you're plunging often, or if the water just isn't moving at all, it's probably time to call in the pros. We're talking about situations where the clog is just too stubborn or too deep for your trusty plunger. You might notice multiple fixtures backing up – maybe the toilet gurgles when you run the shower, or water pools around your feet while you're washing dishes. These are big clues that the issue isn't just a small hairball in one trap. If you're dealing with foul odors coming from your drains, that's another strong indicator that something more significant is going on in your main sewer line. Chemical drain cleaners are usually a no-go for these situations, as they can sometimes make things worse or even damage your pipes. For persistent or widespread clogs, especially those affecting your main drain or sewer line, professional equipment like hydro-jetting or augers are usually needed to clear things out safely and effectively. Don't risk a bigger mess or pipe damage; give us a shout at Alpha-Plumbing Services, LLC if your plunger isn't cutting it. We serve Goodyear, Buckeye, and the entire West Valley, and we've got the experience to get your drains flowing freely again.",
+  "datePublished": "2026-08-19"
+}

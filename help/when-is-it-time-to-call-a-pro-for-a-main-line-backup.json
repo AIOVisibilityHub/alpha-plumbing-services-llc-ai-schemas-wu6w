@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When Is It Time to Call a Pro for a Main Line Backup?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Dealing with a main line backup can feel overwhelming, but knowing when to call a professional plumbing service like Alpha-Plumbing Services can save you from a bigger mess. You might be wondering if it's something you can handle, or if it's a more serious issue. Look out for these key indicators. If you notice multiple drains in your home are backing up or draining very slowly, especially toilets and showers, it’s a strong sign the problem is in your main line, not just an isolated fixture. Another tell-tale sign is water coming up through drains, particularly the shower or tub, when you flush a toilet or run water in a sink. Unpleasant sewage odors wafting from your drains or even outside near your sewer cleanout can also point to a main line issue. Finally, if you hear gurgling sounds from your toilets or drains when they’re not in use, or when water is draining from another part of the house, that’s another strong indication of a blockage in the main line. These aren't minor issues you want to ignore. For any significant main line problems in Goodyear, Peoria, or throughout the West Valley, our family-owned team brings over 25 years of hands-on experience to get your plumbing back in working order.",
+  "datePublished": "2026-08-19"
+}

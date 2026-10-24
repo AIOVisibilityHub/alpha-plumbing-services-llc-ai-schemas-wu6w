@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When Your Whole House Has Low Water Pressure",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Experiencing low water pressure throughout your entire home can be a real drag, turning simple tasks like showering or washing dishes into a chore. It's more than just an annoyance; it can often signal a deeper issue within your plumbing system that needs attention. For over 25 years, we’ve been helping folks in Goodyear and the surrounding areas get their water pressure back to normal.\n\nWhen low pressure hits every faucet, it points to a main supply problem rather than just a localized fixture issue. One of the first things we look at is your home's main water shut-off valve. If it’s not fully open, it restricts water flow to your whole house. Another common culprit is a faulty pressure regulator, especially in older homes, which can fail and significantly reduce the incoming water pressure. Sediment buildup in your main water line or even an issue with your municipal water supply can also be factors, though the latter is less common. For hot water specifically, a water heater that’s seen better days, with internal sediment or a failing dip tube, can be the cause.\n\nDon't delay getting a professional to take a look. Ignoring whole-house low water pressure can lead to other complications, including undetected leaks that waste water and cause property damage. Our team at Alpha-Plumbing Services has the expertise to quickly identify the source of the problem, whether it's a simple valve adjustment, a pressure regulator replacement, or a more involved solution like a water re-pipe. We're committed to quality work and practical solutions for your home. We'll make sure your water pressure is just right again.",
+  "datePublished": "2026-08-19"
+}

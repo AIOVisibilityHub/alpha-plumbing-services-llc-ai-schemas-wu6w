@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What to Do When Your Water Bill Spikes Suddenly?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "A sudden jump in your water bill can be a real head-scratcher, and often, it's a sign that something's not quite right with your plumbing system. Don't just shrug it off! It could be a hidden broken water line, and those can cause a lot more trouble than just an expensive bill. We’ve seen it many times in Goodyear and across the West Valley – what starts as a small leak can turn into significant damage if not addressed quickly. Ignoring these signs is one of the biggest mistakes you can make. The longer a leak goes undetected, the more water is wasted, and the greater the risk of structural damage to your home or business. It’s also crucial not to try and fix a major water line break yourself unless you're a seasoned pro; you could easily make the problem worse or even create a safety hazard. Instead, turn off your main water supply if you suspect a serious leak to prevent further damage, and then reach out to a professional. Identifying the exact source of a broken water line takes experience and the right tools. A quick, accurate diagnosis can save you a lot of stress and expense down the road. If you're seeing unexpected bill increases, it's definitely time to give the experts a call at Alpha-Plumbing Services. We offer free estimates and have over 25 years of experience locating and repairing these issues efficiently. Let us help you protect your home and your wallet.",
+  "datePublished": "2026-08-19"
+}

@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Mistakes to Avoid When Dealing with a Cracked Sewer Pipe",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When you're dealing with a cracked sewer pipe, it’s easy to feel overwhelmed, but making the right choices early on can save you a lot of hassle and expense. One common mistake is assuming it’s just a simple clog. Many homeowners try repeated DIY drain cleaning, which can actually worsen a small crack or cause more damage, especially with harsh chemicals. Another pitfall is ignoring subtle signs like unusual green patches in your yard or persistent foul odors. These aren't just minor annoyances; they're often strong indicators of a leak that needs immediate professional attention. Delaying action only gives the crack more time to expand and cause more significant issues, like soil erosion around your foundation or extensive water damage. Trying to fix a sewer pipe yourself without the right expertise or equipment is also a big mistake. Sewer repair is a specialized job, and improper patching or repairs can lead to recurring problems or even complete pipe failure. You could also expose yourself to hazardous waste. Lastly, don't settle for a temporary fix if a permanent solution is needed. A band-aid approach might seem cheaper upfront, but it often leads to more costly repairs down the road. Instead, seek out a professional plumber who can accurately diagnose the problem with tools like camera inspections and offer a lasting repair. Our Alpha-Plumbing Services team has over 25 years of hands-on experience, providing honest communication and quality workmanship for cracked sewer pipes throughout Goodyear and the West Valley. We're committed to practical solutions that truly protect your home.",
+  "datePublished": "2026-08-19"
+}

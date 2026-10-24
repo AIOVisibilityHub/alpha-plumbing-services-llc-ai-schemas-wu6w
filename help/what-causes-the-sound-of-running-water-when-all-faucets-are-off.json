@@ -1,0 +1,84 @@
+{
+  "name": "What causes the sound of running water when all faucets are off?",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "That persistent sound of running water when everything in your house is supposed to be off can be quite unnerving. It's a common sign that you might have a hidden plumbing issue that needs attention. The most frequent cause is a continuously running toilet – the fill valve might be stuck, or the flapper isn't sealing properly, allowing water to slowly seep into the bowl, which then triggers the tank to refill. Other possibilities include a silent drip from a faucet that's not quite off, or a leak in your water heater’s pressure relief valve. More serious causes, which are often harder to detect on your own, involve leaks within the pipes themselves. This could be a pinhole leak in a pipe behind a wall, under a cabinet, or even a slab leak beneath your home’s foundation. These hidden leaks aren't just annoying; they can lead to significant water damage, mold, and a skyrocketing water bill. If you've checked the easy stuff like your toilets and faucets and the sound is still there, it's definitely time to get a professional plumber involved. Alpha-Plumbing Services, LLC serves Goodyear and the surrounding West Valley areas, and we're equipped to find and fix those elusive leaks, protecting your home from further damage.",
+      "@type": "HowToStep",
+      "position": 1
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "description": "What causes the sound of running water when all faucets are off?"
+}

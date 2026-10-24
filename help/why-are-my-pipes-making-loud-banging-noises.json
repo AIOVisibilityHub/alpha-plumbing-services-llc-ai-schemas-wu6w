@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Why are my pipes making loud banging noises?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Those banging or knocking sounds coming from your pipes can be really startling, and they're definitely not something to ignore! This noisy phenomenon is often called 'water hammer,' and it usually happens when water flowing through pipes suddenly changes direction or stops. For instance, when you quickly turn off a faucet, the sudden stop of water can create a pressure wave that slams into pipe walls, making that distinct banging sound. It could also be due to loose pipes that aren't properly secured, allowing them to vibrate and hit against framing or other pipes. Air in the plumbing system, especially after a repair or if your water pressure is too high, can also contribute to the noise. One common mistake is thinking it's just 'old house noise' and not a real problem; ignoring water hammer can actually lead to pipe damage over time, including loosening joints or even bursting pipes. Another error is trying to fix it without understanding the root cause, which can lead to ineffective solutions. Don't just try to muffle the sound with insulation; you need to address the underlying issue. If the banging is consistent, loud, or accompanied by other plumbing issues, or if you're not comfortable diagnosing it yourself, it's a clear sign to call a professional. We can properly diagnose water hammer and offer solutions to protect your plumbing system.",
+  "datePublished": "2026-08-19"
+}

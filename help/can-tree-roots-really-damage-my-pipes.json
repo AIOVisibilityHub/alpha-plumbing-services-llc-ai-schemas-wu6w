@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Can Tree Roots Really Damage My Pipes?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Oh, absolutely! Tree roots aren't just a nuisance; they can cause some pretty significant damage to your sewer lines if left unchecked. A common mistake folks make is underestimating just how powerful these roots are. They don't just sit there once they're in; they grow! As they expand within your pipes, they can exert immense pressure, leading to cracks, dislodged pipe sections, or even complete pipe collapse. Another mistake is assuming that a minor slow drain or occasional gurgle isn't related to roots. Often, these are early warning signs that roots are starting to obstruct flow, and ignoring them allows the problem to escalate. Don't fall into the trap of using harsh chemical drain cleaners either. While they might offer a temporary fix by burning through some organic matter, they won't eliminate the actual roots and can actually harm your pipes or the environment. It's also a mistake to try to dig up and repair the pipes yourself without knowing exactly where the damage is. You could end up causing more harm than good, or hitting other utility lines. Finally, waiting until you have a complete sewage backup to address the issue is a big mistake. By then, the damage is usually extensive and much more costly to repair. Regular inspections and professional interventions are really the way to go. If you suspect tree roots are causing trouble, get in touch with Alpha-Plumbing Services. We've got the expertise and tools to properly identify and address root intrusions, protecting your home’s plumbing from serious harm.",
+  "datePublished": "2026-08-19"
+}

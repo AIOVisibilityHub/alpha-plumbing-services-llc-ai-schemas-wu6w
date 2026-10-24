@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Is It Time for a New Water Heater?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Nobody wants to deal with a broken water heater, especially not a freezing cold shower on a Monday morning! Knowing when it's time to replace your unit can save you from unexpected emergencies and a lot of discomfort. It's not always about a complete failure; sometimes, the signs are more subtle, pointing to declining efficiency or an impending breakdown. Let’s look at what to watch for.\n\nFirst up, consider the age of your water heater. As a general rule, if your unit is 10 years old or more, it’s probably nearing the end of its life. While some might last longer, older models are less energy-efficient and more prone to issues, making them more expensive to operate and maintain. We’ve got over 25 years of experience handling these situations, so we know what to look for.\n\nNext, listen for strange noises. If your water heater is making popping, rumbling, or banging sounds, it’s often a sign of sediment buildup inside the tank. This sediment hardens over time, reducing efficiency and putting stress on the tank, which can lead to leaks. While sometimes fixable with flushing, often it’s a precursor to needing a replacement, especially if the tank is older.\n\nAlso, keep an eye out for any leaks or rust. Even a small puddle around the base of your water heater can indicate a failing tank. Rust-colored water coming from your hot water tap is another red flag, suggesting corrosion inside the tank itself. Leaks mean the tank’s integrity is compromised, and replacement is typically the only safe and effective solution.\n\nFinally, if you're consistently running out of hot water, or if your energy bills have inexplicably spiked, your water heater might be struggling to keep up or operating inefficiently. These aren't just inconveniences; they're costing you money every month. While repairs are sometimes an option, for older, inefficient units, a new, more efficient model can often pay for itself in energy savings over time. Alpha-Plumbing Services offers free estimates for water heater replacement or upgrades, and we guarantee proper installation up to international plumbing code.\n\nDon't wait for a complete breakdown. If you're noticing any of these signs, it's wise to get a professional opinion. Contact Alpha-Plumbing Services, LLC at 623-734-7465 for expert water heater replacement services.",
+  "datePublished": "2026-08-19"
+}

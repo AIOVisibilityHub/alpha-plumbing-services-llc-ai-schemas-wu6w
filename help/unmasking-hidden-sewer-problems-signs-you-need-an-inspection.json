@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Unmasking Hidden Sewer Problems: Signs You Need an Inspection",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It’s easy to overlook your home’s sewer system until something goes wrong, but certain clues can tell you it’s time for a closer look with a sewer camera inspection. Being proactive can seriously save you from bigger, messier headaches. One key indicator is if you're experiencing frequent or multiple drain clogs. If it's not just one sink, but toilets, showers, and other drains are all backing up, that usually points to a problem in the main sewer line. Persistent foul odors wafting from your drains or even your yard are another strong sign that sewage isn't moving as it should, possibly due to a blockage or leak. You might also notice unusually lush, green patches in your lawn or areas that are consistently soggy – these could indicate a leaking sewer pipe fertilizing the ground. Sounds like gurgling from your toilet when you run the sink or shower can also signal a ventilation issue or a partial blockage. And if you're buying an older home, a pre-purchase sewer inspection is just smart practice to avoid inheriting costly problems. Don't let these subtle signs turn into a major emergency. Reach out to Alpha-Plumbing Services, LLC to schedule a sewer camera inspection and get to the bottom of things before they get out of hand.",
+  "datePublished": "2026-08-19"
+}

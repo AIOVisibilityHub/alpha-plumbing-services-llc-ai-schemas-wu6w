@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Why is sewage coming up in my bathtub?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Finding sewage backing up into your bathtub is never a good sign and typically points to a pretty serious plumbing problem. When you see wastewater or, even worse, sewage, rising into your tub, it usually means there’s a significant blockage in your main sewer line. All the drains in your home eventually lead to this one main line. If that line gets clogged, water and waste have nowhere to go but back up through the lowest points in your system, and often, that’s your bathtub or shower. Common culprits for these blockages include tree roots growing into the pipes, a significant buildup of grease, hair, and other debris, or even a damaged or collapsed sewer pipe. This isn't just messy; it's a real health concern due to the harmful bacteria present in sewage. It’s also a problem that won’t resolve itself and will likely worsen if not addressed promptly. Dealing with a sewage backup requires more than just a plunger; it demands a professional diagnosis and specialized equipment to clear the main line effectively. Ignoring it can lead to extensive water damage and more complicated, expensive repairs later on.",
+  "datePublished": "2026-08-19"
+}

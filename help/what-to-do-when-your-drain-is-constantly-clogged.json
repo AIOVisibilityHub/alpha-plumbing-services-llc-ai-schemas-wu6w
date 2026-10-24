@@ -1,0 +1,84 @@
+{
+  "name": "What to Do When Your Drain is Constantly Clogged",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "Dealing with a constantly clogged drain can be really frustrating, whether it’s in your kitchen sink, shower, or even your main sewer line. It’s not just an inconvenience; persistent clogs can indicate a bigger underlying problem. For those small, everyday clogs, a good plunger or a natural drain cleaner (baking soda and vinegar work wonders!) can sometimes do the trick. However, if you're regularly reaching for the chemical drain cleaners or the issue keeps coming back, it's a clear sign you need professional help. Those chemicals can actually damage your pipes over time, making things worse! We use specialized drain cleaning, camera, and locating equipment to pinpoint exactly what's causing the blockage, whether it's grease buildup, tree roots, or something else entirely. Trying to force out a stubborn clog without the right tools can lead to pipe damage or even a burst pipe, which is a much bigger and more expensive problem. When in doubt, it’s always best to have a seasoned plumber take a look and get to the root of the issue for good.",
+      "@type": "HowToStep",
+      "position": 1
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "description": "What to Do When Your Drain is Constantly Clogged"
+}

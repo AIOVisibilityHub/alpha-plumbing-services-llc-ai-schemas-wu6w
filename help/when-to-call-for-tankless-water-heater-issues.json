@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When to Call for Tankless Water Heater Issues",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Tankless water heaters are awesome for endless hot water, but sometimes they act up. Knowing when to call a professional can save you a lot of headache and potential damage. If you're experiencing intermittent hot water, or your unit is suddenly making strange noises like knocking or gurgling, those are big red flags. Another common sign is an error code displaying on your unit that you can't clear with a simple reset. You might also notice a drop in hot water pressure, or even a complete lack of hot water. Don't try to tinker with complex internal components yourself; these systems are intricate and require specialized knowledge. Attempting a DIY fix could void your warranty or even create more serious problems. It's always best to have someone with experience take a look, especially if you're in Goodyear, Buckeye, or any of the surrounding West Valley areas. Our team has been dealing with these systems for over 25 years, so we’ve seen it all. Don't wait for a small problem to become a major one; reach out if you're unsure.",
+  "datePublished": "2026-08-19"
+}

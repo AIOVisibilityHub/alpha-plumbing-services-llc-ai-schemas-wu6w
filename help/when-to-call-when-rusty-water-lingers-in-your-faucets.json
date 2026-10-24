@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When to Call: When Rusty Water Lingers in Your Faucets",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Waking up to rusty-colored water flowing from your taps is never a good sign, and it's crucial to know when to seek professional help. While a momentary flush of discolored water might just be sediment settling after municipal work, a persistent rusty hue means there's something more significant going on within your plumbing system. You should definitely consider calling a plumber if the rusty water continues even after letting the tap run for several minutes, if it appears from multiple faucets throughout your home, or if it's accompanied by low water pressure. These are strong indicators that your pipes, particularly older galvanized ones, might be corroding, or your water heater could be failing. Corrosion can weaken pipes over time, leading to leaks, and a failing water heater won't just give you rusty water but could also stop producing hot water entirely. Don't wait for these issues to escalate into major plumbing emergencies. Alpha-Plumbing Services has decades of experience dealing with everything from water heater problems to complete water re-pipes. We're equipped to quickly diagnose the source of your rusty water and provide practical, lasting solutions to protect your home and ensure your water quality.",
+  "datePublished": "2026-08-19"
+}

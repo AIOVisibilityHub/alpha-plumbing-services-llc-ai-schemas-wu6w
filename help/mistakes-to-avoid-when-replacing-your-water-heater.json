@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Mistakes to Avoid When Replacing Your Water Heater",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Replacing a water heater might seem like a straightforward task, but there are several common mistakes that can lead to headaches and even safety hazards. First, never try to tackle the job yourself without the proper experience; messing with gas lines, electrical connections, or heavy tanks can be dangerous. Second, don’t just buy the cheapest unit you find; an undersized or inefficient water heater will cost you more in the long run. Third, forgetting to check local codes is a big no-no; improper installation can lead to fines or safety risks. Fourth, neglecting to drain the old tank properly can make removal much harder and messier than it needs to be. Lastly, assuming all connections are standard can lead to compatibility issues; plumbing systems vary! A professional plumber understands these nuances. We ensure proper sizing, safe installation, and compliance with all plumbing codes, including gas line installation with inspection if needed. Getting it right the first time means hot water when you need it and peace of mind.",
+  "datePublished": "2026-08-19"
+}

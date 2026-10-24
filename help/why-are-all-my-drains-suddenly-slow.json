@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Why Are All My Drains Suddenly Slow?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Experiencing slow drains throughout your entire house can be super frustrating, right? It's not just an isolated clog anymore; it feels like your whole plumbing system is dragging its feet. Usually, when all your drains start moving sluggishly, it points to a bigger issue than a simple hairball. It's often a sign that there's a problem further down your main sewer line. This could be anything from a serious clog caused by grease, tree roots invading the pipes, or even a pipe that's collapsed or broken. Ignoring it won't make it better; in fact, it could lead to backups, which are definitely messes you want to avoid.\n\nFirst, consider what's been going down your drains lately. Have you been pouring grease down the kitchen sink? Or perhaps flushing things you shouldn't? These habits can build up over time. Second, think about your main sewer line cleanout. Do you know where it is? If you feel comfortable, you can check it for standing water, but be cautious, as raw sewage isn't something you want to deal with yourself. Third, if you have an older home, your pipes might just be getting old and corroding, reducing the internal diameter and catching debris more easily. Fourth, sometimes heavy rain can saturate the ground, putting pressure on older, weaker pipes. The key here is not to let it escalate to a full-blown backup.\n\nWhile some minor clogs can be tackled with a plunger, a systemic slow drain issue across your whole house really calls for a professional look. We’ve got the right tools, like video inspection cameras, to pinpoint exactly what’s going on without guessing. Don't hesitate to give us a call at 623-734-7465 if you're in Goodyear, Buckeye, or any of the other areas we serve, like Glendale or Phoenix. We're here to help you get things flowing smoothly again.",
+  "datePublished": "2026-08-19"
+}

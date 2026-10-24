@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "How a Drain Camera Inspection Can Save You Money",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It might seem counterintuitive to spend money on an inspection when you're already dealing with a plumbing problem, but a drain camera inspection can actually be a huge money-saver in the long run. Think of it as getting a super accurate diagnosis before starting any treatment. Instead of guessing where a blockage or damage might be and having to dig up your yard or tear into walls unnecessarily, our high-tech cameras go right into your pipes. This lets us see exactly what's going on – whether it's tree roots, a collapsed pipe, or a build-up of grease and debris. Once we pinpoint the exact location and nature of the problem, we can recommend the most precise and efficient repair. This targeted approach means less time spent on the job, less disruption to your property, and ultimately, a lower cost for you. It also helps prevent future issues by identifying potential weaknesses in your system before they escalate into costly emergencies. So, if you're facing persistent drain problems and want to ensure you're getting the most effective repair without breaking the bank, consider a professional drain camera inspection. Alpha-Plumbing Services offers these detailed inspections to residents and businesses throughout Goodyear and the West Valley.",
+  "datePublished": "2026-08-19"
+}

@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Is It Time for a New Water Heater Installation?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Deciding whether to repair or replace your water heater can be a tricky call, but knowing when a new installation is truly the best path forward can save you from ongoing headaches and unexpected costs. A primary indicator is the age of your current unit. If your water heater is over 10-12 years old, especially a traditional tank model, it's likely nearing the end of its functional life. Even if repairs are possible, their cost-effectiveness diminishes with age, and you'll likely face more issues soon after. Persistent leaks, particularly from the tank itself, are almost always a sign that a new installation is necessary. Tank leaks usually mean the internal lining has failed, which isn't typically repairable. Another strong sign is frequent breakdowns or repairs. If you're constantly calling a plumber to fix the same issue, or if the repair costs are adding up to a significant portion of a new unit's price, replacement becomes the smarter financial choice. Also, if you're noticing rust-colored water, loud banging noises from the tank, or a significant decrease in hot water availability or temperature, these are all indicators that your water heater is struggling. While repairs can offer a temporary fix, a new installation often provides greater efficiency, reliability, and peace of mind. Our team at Alpha-Plumbing Services, with our 25+ years of experience, can help you assess your current unit and guide you through the best installation options for your home in Goodyear, Avondale, or anywhere in the West Valley.",
+  "datePublished": "2026-08-19"
+}

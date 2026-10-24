@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When Should You Get a Drain Camera Inspection?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Ever wonder what’s really going on inside your pipes? Sometimes, persistent drain issues aren’t just a simple clog you can fix with a plunger. That's when a professional drain camera inspection really shines. It’s a super helpful tool for pinpointing exactly what’s causing the trouble, without any guesswork or unnecessary digging. We're talking about things like mysterious recurring clogs, slow drains that just won't clear, or even weird gurgling sounds coming from your plumbing fixtures. If you've got older pipes, say from a home built decades ago, an inspection can also help check their overall health and spot potential problems before they turn into emergencies. Tree roots, cracked pipes, or even corrosion can all be hiding in your drain lines, leading to big headaches down the road if left unchecked. Knowing the exact issue means we can offer the most effective and least invasive solution. Don't wait for a small problem to become a major plumbing disaster; sometimes a quick peek inside your pipes can save you a lot of time, money, and stress in the long run. If you're experiencing any of these persistent issues in your Goodyear or West Valley home, give Alpha-Plumbing Services a call to schedule a drain camera inspection.",
+  "datePublished": "2026-08-19"
+}

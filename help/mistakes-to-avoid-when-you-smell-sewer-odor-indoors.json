@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Mistakes to Avoid When You Smell Sewer Odor Indoors",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Detecting a sewer odor in your house is a warning sign that shouldn’t be taken lightly. It typically means sewer gas is escaping your drainage system, and that can indicate various plumbing issues. Here are some common mistakes to steer clear of:\n\n1.  **Ignoring It or Masking the Smell:** Thinking the smell will just disappear, or trying to cover it up with air fresheners, is a big mistake. Sewer odors usually indicate an underlying problem like a dry trap, a cracked pipe, or a blocked vent. Ignoring it can lead to health concerns and bigger plumbing issues down the line.\n\n2.  **Pouring Harsh Chemicals Down Drains:** While you might think you're clearing a potential blockage causing the smell, chemical drain cleaners can be ineffective for sewer gas issues and may even damage your pipes, creating more leaks or cracks. It’s better to understand the root cause.\n\n3.  **Attempting Complex DIY Repairs:** Identifying and fixing the source of sewer gas often requires expertise to inspect vent pipes, P-traps, or even the main sewer line. Without the right tools or knowledge, you could worsen the problem or cause water damage. Alpha-Plumbing Services specializes in drain cleaning, camera, and locating services, which are essential for properly diagnosing sewer issues. With more than 25 years of experience, we can quickly and accurately identify the source of the odor and provide a lasting solution for homes in Goodyear and the West Valley. Get in touch with us to ensure a safe and odor-free home.",
+  "datePublished": "2026-08-19"
+}

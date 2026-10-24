@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When Should I Call a Plumber for Sewer Gas?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Knowing when to call in the pros for a sewer gas smell can save you a lot of headache and potential health risks. If you've got a persistent sewer gas odor that just won't quit, even after you've run water down all your drains to fill P-traps, that's a pretty strong signal. Another big one is if the smell comes and goes, especially after using a specific fixture like a toilet or washing machine; this could indicate a vent pipe issue or a partial clog. You should also reach out if you notice multiple drains in your home are slow, or if you hear gurgling noises from them, as these can be signs of a deeper sewer line problem allowing gases to escape. Don't wait if the smell is accompanied by signs of moisture or leaks around plumbing fixtures, or if you actually see sewage backing up anywhere. These are critical indicators of a compromised system that needs immediate attention. Basically, if you've done the basic troubleshooting and the smell lingers, or if you suspect anything more than a dried-out trap, it’s definitely time to get an experienced plumber on the job. Our team at Alpha-Plumbing Services has been handling these types of issues for over 25 years in Goodyear and the surrounding West Valley communities, and we can quickly and accurately diagnose and fix whatever's causing the problem.",
+  "datePublished": "2026-08-19"
+}

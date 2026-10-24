@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Why Does My House Smell Like Sewer Gas?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "That unmistakable rotten egg smell or general sewage odor wafting through your home is definitely unpleasant, and it's a clear sign something's not right with your plumbing. Often, it's as simple as a dried-out P-trap in a seldom-used drain, like in a guest bathroom or laundry room. The P-trap is designed to hold a bit of water, creating a seal that blocks sewer gases from entering your living space. If it dries out, that seal is broken, and in comes the stink. Another common culprit is a loose or damaged toilet. The wax ring underneath might be compromised, allowing gases to escape around the base. It could also be a blocked or broken vent pipe, which prevents your plumbing system from equalizing air pressure and lets gases build up. Sometimes, more serious issues like a cracked sewer line or a major clog can be the cause, which definitely needs professional attention. If you've tried running water down drains and checking toilets and the smell persists, don't hesitate to reach out to us at Alpha-Plumbing Services. We’re well-versed in diagnosing and fixing these stinky situations across Goodyear and the West Valley, so you can get back to breathing easy.",
+  "datePublished": "2026-08-19"
+}

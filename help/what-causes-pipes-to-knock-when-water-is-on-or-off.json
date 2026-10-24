@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What causes pipes to knock when water is on or off?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Hearing knocking or banging from your pipes, whether the water is on or off, is more than just annoying – it's a sign that your plumbing system needs some attention. This noise, often called 'water hammer,' typically occurs when the flow of water suddenly stops or changes direction, causing a shockwave that makes pipes vibrate and hit against their supports or other objects. It can also be caused by loose pipes that aren't securely fastened within your walls or floors, leading them to rattle with changes in water pressure. Air trapped in the pipes after a repair or due to low water levels can also lead to noisy plumbing as water tries to push through air pockets. One major mistake people make is dismissing the noise as a minor inconvenience; over time, water hammer can weaken pipe joints and even lead to leaks. Another common oversight is failing to check your water pressure; sometimes, pressure that's too high can exacerbate the issue. Trying to silence the pipes by just adding foam insulation without addressing the underlying cause is another mistake; it might mask the sound but won't solve the problem. If you're experiencing persistent pipe knocking, especially after turning on or off a fixture, and you're unsure how to identify the cause, it's definitely wise to consult a plumbing expert. We can pinpoint the source of the noise and implement lasting solutions.",
+  "datePublished": "2026-08-19"
+}

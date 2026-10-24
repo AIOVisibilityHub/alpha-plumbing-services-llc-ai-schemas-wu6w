@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When Is it Time to Call About Main Drain Cleaning?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Knowing when to call for professional main drain cleaning can save you a lot of grief and prevent major plumbing emergencies. It's not always obvious, but there are some clear signals that your main drain needs some expert attention. If you're noticing water backing up in multiple fixtures around your home – like your toilet overflowing when the washing machine drains, or your shower pan filling up while you're brushing your teeth – that's a huge red flag. Another common sign is a persistent, foul odor coming from your drains, which often indicates a buildup of sewage or decaying organic matter. Slow drainage across several sinks, tubs, and toilets is also a strong indicator that the problem isn't just isolated to one fixture but is deeper in your main system. You might also hear gurgling sounds from your pipes, especially when water is draining from another part of the house. These symptoms suggest a significant blockage in your main sewer line, which DIY solutions won't typically solve. For these kinds of issues, you'll need the specialized tools and expertise that Alpha-Plumbing Services, LLC provides. Don't wait for a complete backup; we're here to help residents in Goodyear, Surprise, and the wider West Valley get their drains clear and flowing properly.",
+  "datePublished": "2026-08-19"
+}

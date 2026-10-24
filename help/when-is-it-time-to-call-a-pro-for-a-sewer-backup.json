@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When is it Time to Call a Pro for a Sewer Backup?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "A sewer backup can be a real headache, and honestly, a bit gross. Sometimes it's a minor clog you can handle yourself, but how do you know when it's time to call in Alpha-Plumbing Services? There are definitely some tell-tale signs. If you notice multiple drains in your home are slow or backed up simultaneously, like your toilet, shower, and sink all acting up at once, that's a big red flag. Another signal is foul odors coming from your drains or even your yard; this suggests sewage might be pooling where it shouldn't be. Gurgling sounds from your pipes, especially when you flush a toilet or run water elsewhere, also point to a deeper issue. And of course, visible sewage coming up through drains or into your basement is an immediate emergency that needs professional attention. Don't delay on these; sewer problems can lead to serious water damage and health risks. For any of these persistent issues in Goodyear, Buckeye, or anywhere in the West Valley, it's best to reach out to Alpha-Plumbing Services right away. We've got the tools and more than 25 years of experience to diagnose and fix the problem quickly.",
+  "datePublished": "2026-08-19"
+}

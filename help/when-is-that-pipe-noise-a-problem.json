@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When is that Pipe Noise a Problem?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Hearing strange noises from your pipes can be unsettling, right? It's not always a huge emergency, but it's definitely something you shouldn't just ignore. Those groans, whistles, or banging sounds are often your plumbing system trying to tell you something's up, and catching it early can save you a lot of headache (and money!) down the line. Sometimes it's just air in the lines, which is pretty easy to fix, but other times it can signal more serious issues like loose pipes, high water pressure, or even worn-out components within your water heater or fixtures. If you've tried basic troubleshooting like flushing lines or adjusting water pressure regulators and the noise keeps coming back, or if it's getting louder or more frequent, that's a pretty clear sign it's time to get a professional eye on it. Early detection of things like failing water heater elements or pressure imbalances can prevent bigger system failures. Don't wait until a small issue turns into a major repair, especially with the complex systems in many homes. If the sounds are persistent, getting worse, or accompanied by other issues like leaks or changes in water flow, it's definitely time to call in an expert. Alpha-Plumbing Services, LLC is here to help diagnose and resolve those mysterious pipe noises in Goodyear and across the West Valley.",
+  "datePublished": "2026-08-19"
+}

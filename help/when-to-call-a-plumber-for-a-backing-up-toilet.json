@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When to Call a Plumber for a Backing Up Toilet",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Seeing your toilet back up into your tub is a pretty clear signal that something serious is happening with your home’s plumbing, and it’s usually time to call in the pros. Here are the signs it's definitely time to get an expert involved:\n\n*   **Water in Tub or Shower:** If flushing your toilet causes water or waste to bubble up or drain slowly from your tub or shower, you've likely got a main sewer line clog. This isn't something a plunger can fix.\n*   **Multiple Fixtures Affected:** When more than one drain in your house (like a toilet, sink, and shower) starts acting up at the same time, draining slowly, or backing up, it's a strong indicator of a systemic issue in your main sewer line.\n*   **Gurgling Drains:** Hearing gurgling sounds from drains other than the one you just used, especially from toilets or showers when a sink is draining, means air is trapped due to a blockage.\n*   **Foul Odors:** A persistent sewage smell accompanying a backup means waste isn't moving freely and could be a sign of a blockage or even a broken sewer line.\n\nThese situations point to problems that require professional drain cleaning, camera inspection, and potentially sewer repair services. Alpha-Plumbing Services has over 25 years of hands-on experience, and we specialize in drain cleaning and sewer issues. We’ve got the right tools and expertise to properly diagnose and fix main line clogs throughout Goodyear and the West Valley, ensuring your plumbing system is flowing as it should.",
+  "datePublished": "2026-08-19"
+}

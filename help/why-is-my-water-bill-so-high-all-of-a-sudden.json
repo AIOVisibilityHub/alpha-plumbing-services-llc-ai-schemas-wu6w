@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Why is my water bill so high all of a sudden?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's definitely unsettling to open your utility bill and see a number much higher than you expected, especially when your water usage habits haven't changed. A sudden spike in your water bill is often a big red flag for a hidden plumbing issue. Many times, it's a silent leak somewhere in your system, maybe under a slab or behind a wall, that's steadily draining water and increasing your charges without you even realizing it. Even a small, continuous drip can waste thousands of gallons over a billing cycle. You might also want to check your toilet for a phantom flush or a constantly running fill valve – it’s a common culprit. If you've ruled out obvious issues like a leaky faucet or a constantly running toilet, it's really time to consider calling in a pro. Alpha-Plumbing Services, LLC has over 25 years of experience tracking down these elusive problems throughout Goodyear and the West Valley. We can accurately diagnose the source of the water waste, whether it’s a hidden pipe leak, a faulty irrigation system, or a water heater issue, and provide practical solutions to get your usage and your bill back to normal. Don't let a mystery high bill continue to cost you money.",
+  "datePublished": "2026-08-19"
+}

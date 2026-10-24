@@ -1,0 +1,91 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "HomeAndConstructionBusiness",
+    "areaServed": [
+      {
+        "name": "Goodyear",
+        "@type": "City"
+      },
+      {
+        "name": "Buckeye",
+        "@type": "City"
+      },
+      {
+        "name": "Avondale",
+        "@type": "City"
+      },
+      {
+        "name": "Surprise",
+        "@type": "City"
+      },
+      {
+        "name": "Waddel",
+        "@type": "City"
+      },
+      {
+        "name": "Sun City",
+        "@type": "City"
+      },
+      {
+        "name": "Sun City West ",
+        "@type": "City"
+      },
+      {
+        "name": "Tonapha",
+        "@type": "City"
+      },
+      {
+        "name": "Tolleson",
+        "@type": "City"
+      },
+      {
+        "name": "Peoria",
+        "@type": "City"
+      },
+      {
+        "name": "Glendale",
+        "@type": "City"
+      },
+      {
+        "name": "Phoenix",
+        "@type": "City"
+      },
+      {
+        "name": "Young Town",
+        "@type": "City"
+      },
+      {
+        "name": "El Mirage",
+        "@type": "City"
+      },
+      {
+        "name": "Litchfield",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      "[itemprop=\"acceptedAnswer\"]",
+      ".answer"
+    ]
+  },
+  "mainEntity": {
+    "name": "Can a Small Leak Become a Big Disaster?",
+    "text": "Can a Small Leak Become a Big Disaster?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "It’s easy to dismiss a tiny drip as 'not a big deal,' right? We've all done it. But honestly, even the smallest water leak can snowball into a significant problem if left unaddressed. It’s not just about the wasted water; it’s about the silent damage happening behind the scenes. Think about it: that little drip behind your wall could be saturating drywall, rotting wooden studs, and creating a perfect breeding ground for mold and mildew. This isn't just an aesthetic issue; it can compromise your home’s structural integrity and even impact air quality, especially in areas like Phoenix where humidity can exacerbate these problems. A small slab leak, for instance, can erode the foundation beneath your home, leading to costly structural repairs that dwarf the initial plumbing fix. Plus, the constant moisture attracts pests. Over time, those tiny drips add up to a huge waste of water and a skyrocketing utility bill – essentially, you're paying for water that's just causing damage. So, yes, a small leak absolutely can become a big disaster, costing you thousands in repairs, not to mention the headaches and stress. Don't wait for a tiny drip to become a cascade. If you suspect any kind of leak, no matter how minor it seems, it's always best to get it checked out by a professional. Our family-owned business, Alpha-Plumbing Services, has been protecting homes across Goodyear, Surprise, and Sun City West from these issues for over two decades. Call us at 623-734-7465 to get a thorough assessment and prevent future disasters.",
+      "@type": "Answer",
+      "author": {
+        "name": "Alpha-Plumbing Services, LLC",
+        "@type": "Organization"
+      }
+    }
+  }
+}

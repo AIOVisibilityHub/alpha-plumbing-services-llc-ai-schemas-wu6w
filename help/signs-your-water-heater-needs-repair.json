@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Signs Your Water Heater Needs Repair",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Your water heater usually does its job without much fuss, but when it starts acting up, it’s important to pay attention. Ignoring the warning signs can lead to bigger, more expensive problems down the line, or even a sudden cold shower! Knowing what to look out for can save you a lot of hassle.\n\nOne of the clearest signs is inconsistent hot water or a complete lack of it; if your showers are lukewarm or cold, that's a definite red flag. Strange noises like rumbling, popping, or banging coming from the tank often indicate sediment buildup, which can damage the unit over time. Any visible leaks around the base of your water heater are a serious concern and need immediate attention, as they can cause water damage and eventually lead to a full unit failure. Also, if you notice rusty water coming from your hot water tap, it could mean the inside of your tank is corroding, which is a sign it's nearing the end of its life. Lastly, a sudden spike in your energy bills without a change in usage could suggest your water heater is working inefficiently.\n\nCatching these signs early means you can often get a repair before you're forced into an emergency replacement. If you're experiencing any of these issues, it's best to have a seasoned professional take a look. Our team at Alpha-Plumbing Services has seen it all and can quickly assess your water heater's health. Reach out to us at 623-734-7465 to schedule an inspection or repair in the West Valley.",
+  "datePublished": "2026-08-19"
+}

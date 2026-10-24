@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What are the Signs of a Hidden Water Leak?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Hidden water leaks can be tricky to spot, but catching them early is super important to prevent major headaches down the road. Keep an eye out for these tell-tale signs that scream 'broken water line ahead!' First off, if your water bill suddenly skyrockets without any change in usage, that's a huge red flag. It means water is going somewhere it shouldn't be. Another big indicator is a persistent damp or musty smell, especially if you can't pinpoint the source. That odor often signals mold and mildew growth from a hidden leak. You might also notice unexplained wet spots or discoloration on your walls, ceilings, or floors, which definitely points to a leak behind the scenes. Low water pressure throughout your home or business can also be a symptom of a broken water line, as water is escaping before it gets to your fixtures. Lastly, pay attention to any unexplained puddles in your yard or lush, overgrown patches of grass when the rest of your lawn is dry. These could mean your underground water line has sprung a leak. If you notice any of these signs, don't wait! Give the team at Alpha-Plumbing Services a call right away at 623-734-7465. We’ve got over 25 years of experience finding and fixing broken water lines across Goodyear and the West Valley, ensuring your home is protected.",
+  "datePublished": "2026-08-19"
+}

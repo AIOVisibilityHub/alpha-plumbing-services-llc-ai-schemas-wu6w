@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What to do when you suspect an underground water leak?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Suspecting an underground water leak can be unsettling, but knowing the right steps can prevent further damage and stress. First off, don't panic! Start by checking your water meter. If it's constantly spinning even when all water fixtures are off in your home, you likely have a leak somewhere. Next, observe your outdoor areas. Look for unusually green patches of grass, soft or soggy spots in your yard, or areas where the pavement looks discolored or sunken. These are all common indicators. Don't try to dig around blindly; you could hit other utility lines or make the problem worse. Avoid delaying action, as even a small leak can lead to significant water waste, foundation damage, or even attract pests. It's also a mistake to assume it will fix itself. Underground leaks almost always require professional intervention. The best course of action is to contact an experienced plumbing service, like Alpha-Plumbing Services, LLC. We've got over 25 years of experience locating and repairing these kinds of leaks using specialized equipment, ensuring a precise and efficient solution for homes and businesses in Goodyear and the surrounding West Valley.",
+  "datePublished": "2026-08-19"
+}

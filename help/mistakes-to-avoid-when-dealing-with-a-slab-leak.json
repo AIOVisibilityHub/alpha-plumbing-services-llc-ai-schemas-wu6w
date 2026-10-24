@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Mistakes to Avoid When Dealing with a Slab Leak",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Dealing with a slab leak can be a real headache, and it's easy to make a few missteps that could worsen the situation or cost you more in the long run. First, don't ignore the signs hoping it will go away. A small leak can quickly become a major problem, leading to extensive water damage, mold growth, and even foundation issues. Another common mistake is trying a DIY fix without the right tools or expertise. Slab leaks are complex because they're hidden under concrete, making amateur repairs often ineffective and potentially destructive. Third, don't delay calling a professional; the longer you wait, the more damage can occur to your home's structure and contents. Fourth, be wary of quick-fix solutions that don't properly locate and repair the source of the leak; a proper repair involves careful diagnosis. Lastly, don't assume every plumber is equipped to handle slab leaks. It takes specialized experience and equipment to accurately pinpoint and repair these types of leaks. Alpha-Plumbing Services, LLC specializes in these exact issues, and with our 25+ years of hands-on experience, we provide dependable residential and light-commercial plumbing services in Goodyear and across the West Valley, ensuring a proper, lasting repair.",
+  "datePublished": "2026-08-19"
+}

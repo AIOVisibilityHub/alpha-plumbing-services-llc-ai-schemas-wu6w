@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When Should I Suspect a Sewer Line Break?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It can be tough to know if you've got a sewer line break, but there are some pretty clear signs that it's time to call in the experts. Ignoring these signals can lead to bigger, more expensive problems down the road, so it’s always best to act fast. First off, keep an eye out for multiple clogged drains or toilets that frequently back up. If plunging isn't doing the trick, or the problem keeps coming back, your sewer line might be the culprit. Another big indicator is a persistent, foul sewer odor, either inside your home or in your yard. That smell isn't just unpleasant; it's a warning sign of a leak or rupture. You might also notice unusually green or lush patches of grass in your yard, often coupled with soggy areas, even when it hasn't rained. These are signs that wastewater is seeping into the soil, acting like fertilizer. Indentations or sinkholes in your lawn can also signal a collapsing sewer line. Finally, if you hear gurgling sounds coming from your toilets or drains when you're not even using them, that's another red flag. When you spot any of these issues, especially in combination, it’s definitely time to get professional help. At Alpha-Plumbing Services, LLC, we have the experience and equipment to accurately locate the problem and get it fixed properly. We serve the entire West Valley, including areas like Peoria and Glendale, so give us a call if you're concerned.",
+  "datePublished": "2026-08-19"
+}

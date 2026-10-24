@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Mistakes to Avoid When Your Water Bill Spikes",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When your water bill suddenly skyrockets, it's easy to panic or jump to conclusions. However, there are a few common mistakes folks make that can actually prolong the issue or even make it worse. Firstly, don't ignore it, hoping it will resolve itself. Leaks rarely fix themselves and can lead to extensive damage and even higher bills. Secondly, avoid trying complex DIY fixes if you're not sure about the source of the problem. You might inadvertently cause more damage or miss the real culprit, like a deeper pipe issue. Thirdly, don't assume the utility company made a mistake without doing your own basic checks first; while errors happen, leaks are more common. Fourth, neglecting to check outdoor plumbing like irrigation systems or pool equipment. These can often be huge water hogs. Finally, don't delay calling a professional if you can't find an obvious cause. Alpha-Plumbing Services, LLC has the experience and equipment to quickly diagnose and repair hidden leaks, whether it's a slab leak, a main water line issue, or something else entirely. Getting a professional assessment quickly can save you a lot of money and stress in the long run.",
+  "datePublished": "2026-08-19"
+}

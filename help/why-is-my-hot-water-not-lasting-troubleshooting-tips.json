@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Why is My Hot Water Not Lasting? Troubleshooting Tips",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Running out of hot water too quickly is super frustrating, especially when you're mid-shower! It's a really common complaint, and there are a few usual suspects behind this issue. First, your water heater might simply be too small for your household's demands. If your family has grown or you've added new appliances that use a lot of hot water, your current tank might not keep up. Another frequent culprit is sediment buildup at the bottom of the tank. Over time, minerals in the water settle, reducing the tank's capacity and heating efficiency. This causes the heating elements to work harder and less effectively. A faulty heating element (for electric water heaters) or a pilot light issue (for gas units) can also prevent your water heater from heating water to its full capacity or at all. Lastly, a broken dip tube, which directs cold water to the bottom of the tank for heating, can cause cold water to mix with hot water at the top, making it seem like you're running out faster. While some of these might seem like DIY fixes, issues like electrical components or gas lines are best left to professionals. A quick check of your hot water habits and a call to Alpha-Plumbing Services, LLC can help diagnose the exact problem and get your hot showers back on track.",
+  "datePublished": "2026-08-19"
+}

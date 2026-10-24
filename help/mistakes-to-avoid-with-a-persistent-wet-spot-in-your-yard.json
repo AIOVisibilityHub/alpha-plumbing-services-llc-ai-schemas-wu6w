@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Mistakes to Avoid with a Persistent Wet Spot in Your Yard",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Discovering a wet spot in your yard can be concerning, and it's easy to jump to conclusions or try a quick fix. However, there are some common mistakes people make when dealing with these soggy patches that can complicate things or lead to bigger issues down the road. Knowing what to avoid can save you time, money, and a lot of headaches.\n\nOne big mistake is simply ignoring it, hoping it will dry up on its own. A persistent wet spot, especially without recent rain, is almost always a sign of an underground leak – either from your water main, sewer line, or irrigation system. Delaying investigation can lead to increased water bills, significant water damage to your property, or even structural issues if the leak is near your foundation. Another common misstep is trying to dig blindly to find the leak. Without specialized leak detection equipment, you could end up damaging other utility lines, wasting time, and making a much bigger mess than necessary. It’s like searching for a needle in a haystack, but with more potential for disaster. \n\nA third mistake is assuming it's just an irrigation issue without thoroughly checking your main water meter. Even if your sprinklers are off, a continuous flow on your meter (when no water is being used inside) points to a main water line leak, not just a sprinkler head. People often forget to check for odors; ignoring a sewage smell emanating from the wet spot means you're overlooking a serious sewer line break, which is a health hazard and needs immediate professional attention. Finally, some homeowners attempt makeshift repairs without proper plumbing knowledge or tools. Patching a serious leak with temporary solutions rarely holds and can lead to more catastrophic failures later on.\n\nWhen you're dealing with a mystery wet spot, it's best to get an expert opinion. Alpha-Plumbing Services, LLC has the experience and equipment to accurately locate and repair underground leaks, serving areas like Tolleson, Sun City, and Litchfield. Avoid these common mistakes and protect your property by calling us at 623-734-7465 for professional assistance.",
+  "datePublished": "2026-08-19"
+}

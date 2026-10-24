@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When Your Drains Just Won't Clear: What to Do",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's super frustrating when your drains just won't cooperate, right? You've tried the plunger, maybe even some store-bought chemicals, but that stubborn clog is still there. Before you start pulling your hair out, let's talk about why some blockages are trickier than others and when it's smart to call in the pros. Sometimes, what seems like a simple drain issue is actually a symptom of a much bigger problem in your sewer line, and that's where a sewer camera inspection really shines.\n\nFirst off, resist the urge to keep pouring harsh chemicals down the drain. While they might offer a temporary fix, they can actually damage your pipes over time, leading to more expensive problems down the road. Instead, if a basic plunger isn't cutting it, it’s a good sign that the clog might be deeper or more substantial than you think.\n\nSecondly, pay attention to repeated clogs or multiple slow drains. If your kitchen sink, shower, and toilet are all acting up around the same time, it's a huge red flag that the issue isn't isolated to one fixture but is likely in your main sewer line. This is where a professional sewer camera inspection becomes invaluable; we can literally see what's going on inside your pipes.\n\nThird, watch out for foul odors coming from your drains or gurgling noises when you flush a toilet or run water. These aren't just annoying; they often point to blockages that are impeding the flow of water and waste, creating gases that back up into your home. A camera can pinpoint tree roots, collapsed pipes, or significant buildup.\n\nFinally, if you've recently moved into an older home, or if it’s been a while since you’ve had your plumbing checked, a proactive sewer camera inspection can be a lifesaver. It helps identify potential problems before they turn into costly emergencies, giving you peace of mind about the health of your home’s plumbing system. We specialize in drain cleaning, camera, and locating services, and with over 25 years of experience, Alpha-Plumbing Services has you covered.\n\nIf you're facing persistent drain issues or suspect a deeper problem, don't hesitate. Give Alpha-Plumbing Services, LLC a call at 623-734-7465 to schedule a sewer camera inspection.",
+  "datePublished": "2026-08-19"
+}
