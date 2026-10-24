@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "How to Avoid Common Plumbing Mishaps",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Nobody wants a plumbing disaster, and thankfully, many common issues can be avoided with a little foresight. First, don't treat your drains like a trash can; grease, coffee grounds, and harsh chemicals are major culprits for clogs. Use drain screens and dispose of waste properly. Second, be mindful of what goes down your toilet—only flush human waste and toilet paper to prevent embarrassing backups. Third, don't ignore small leaks; a tiny drip can become a big flood and lead to costly water damage if left unchecked. Fourth, understand your home's main water shut-off valve so you can quickly turn off the water in an emergency. Finally, don't attempt complex repairs if you're unsure; a DIY gone wrong can create a much bigger and more expensive problem than the original issue. For anything beyond basic fixes in Goodyear and the West Valley, Alpha-Plumbing Services, LLC has the experience to help you avoid these common pitfalls.",
+  "datePublished": "2026-08-19"
+}

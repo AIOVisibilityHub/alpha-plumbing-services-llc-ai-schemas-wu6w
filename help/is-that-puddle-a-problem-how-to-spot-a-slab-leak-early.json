@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Is That Puddle a Problem? How to Spot a Slab Leak Early",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Finding a mysterious puddle, a warm spot on your floor, or hearing the constant sound of running water when no one's using it can be pretty alarming. These aren't just minor inconveniences; they could be signs of a slab leak, which is essentially a leak in the water pipes located under your home's concrete foundation. Catching these early is super important to prevent bigger, more expensive damage down the road. Keep an eye out for unexpected spikes in your water bill, as that's a classic giveaway. Also, look for cracks in your foundation or walls, discolored flooring, or even mildew smells, which indicate constant moisture. Don't try to ignore these red flags because what starts as a small drip can quickly escalate into a serious problem that compromises your home's structure. If you're noticing any of these symptoms in Goodyear, Buckeye, or any of the surrounding West Valley areas, it's really best to have a professional plumber with experience in slab leak detection take a look. They have the right tools and expertise to find the source of the leak and recommend the best repair, whether it's an isolated spot repair or something more involved. Don't wait until the damage is extensive; addressing it promptly can save you a lot of headache and money.",
+  "datePublished": "2026-08-19"
+}

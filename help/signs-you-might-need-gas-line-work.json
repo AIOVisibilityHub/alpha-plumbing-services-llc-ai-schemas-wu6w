@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Signs You Might Need Gas Line Work",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Gas lines are typically out of sight, out of mind, until something feels a little off. But paying attention to subtle clues can prevent a small issue from becoming a big problem. One of the most obvious signs you might need gas line work is the smell of rotten eggs. That distinctive odor is an additive to natural gas specifically designed to alert you to a leak – don't ignore it! Another indicator could be an unexplained increase in your gas bill without a corresponding increase in usage; this might suggest a leak somewhere in the system. You might also notice a hissing sound near a gas appliance or meter, which points to gas escaping. Beyond leaks, if your gas appliances aren't working as efficiently as they used to, or if you're experiencing inconsistent heating, it could indicate a problem with the gas supply or line pressure. Any visible damage to gas pipes, like corrosion or dents, is also a serious red flag. These are all signs that you should contact a professional immediately, as gas issues are not DIY projects. If you suspect a problem, call Alpha-Plumbing Services, LLC right away to have it safely inspected.",
+  "datePublished": "2026-08-19"
+}

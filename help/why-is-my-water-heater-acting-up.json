@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Why Is My Water Heater Acting Up?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's super frustrating when your water heater starts giving you trouble, right? You rely on it every day for showers, dishes, and laundry, so when things go awry, it's a big deal. You might notice some tell-tale signs that it's time to pay attention. For instance, if you're suddenly running out of hot water much faster than usual, or if the water just isn't getting as hot as it used to, that's a clear signal. Another common issue is weird noises coming from the tank—like rumbling, popping, or whistling. These can indicate sediment buildup. And, of course, any visible leaks around the base of your water heater are a definite red flag. Sometimes you might even notice discolored or rusty water, which often means corrosion inside the tank. Ignoring these signs can lead to bigger, more expensive problems down the line, or even a complete system failure. If you're experiencing any of these issues, especially leaks or strange noises, it’s really best to call in a professional. Alpha-Plumbing Services, LLC has over 25 years of experience handling these kinds of problems in the West Valley. We can help diagnose the issue and get your hot water flowing reliably again. Don't wait until you're stuck with cold showers!",
+  "datePublished": "2026-08-19"
+}

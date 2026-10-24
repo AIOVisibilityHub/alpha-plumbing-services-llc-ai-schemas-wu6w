@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When Is a Sewer Camera Inspection Really Necessary?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Sewer camera inspections might sound a bit high-tech, but they're incredibly useful for pinpointing exactly what's going on inside your sewer lines without any guesswork. You definitely want to consider one if you're experiencing recurring drain clogs that just don't go away, especially if multiple drains in your home are affected simultaneously. Another big reason is if you're smelling sewage odors inside your home or in your yard; this can indicate a crack or break in the line. If you're buying an older home, a pre-purchase sewer inspection is a smart move to avoid inheriting someone else's expensive problems. Also, if you've got mature trees on your property, a camera inspection can check for tree root intrusion before it causes major damage. It's also critical if you've already had a repair and want to ensure the problem is fully resolved. Our team at Alpha-Plumbing Services uses these cameras to get a crystal-clear view, helping us diagnose problems accurately and recommend the most effective, lasting solutions for homes and businesses across the West Valley.",
+  "datePublished": "2026-08-19"
+}

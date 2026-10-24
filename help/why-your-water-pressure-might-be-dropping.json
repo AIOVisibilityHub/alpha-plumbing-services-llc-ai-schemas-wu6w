@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Why Your Water Pressure Might Be Dropping",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Experiencing a sudden or gradual drop in water pressure can be super frustrating, right? It's not just an inconvenience; it often signals a deeper issue in your plumbing system. One common culprit, especially in older homes here in Goodyear and the West Valley, is corroding pipes. Over time, mineral deposits build up inside your water lines, narrowing the pathway for water and reducing flow. Sometimes, these pipes can even develop small leaks, which further compromises your pressure. If you've noticed a significant change, like weak shower streams or appliances taking forever to fill, it's definitely time to get it checked out. Ignoring it won't make it better; in fact, it could lead to more significant problems down the road. Our team, with over 25 years of experience, sees this all the time. We can come out, assess the situation, and let you know if a single line water re-pipe or a more extensive solution is needed to get things flowing smoothly again. Don't let low pressure disrupt your daily routine; give Alpha-Plumbing Services a call to figure out what's really going on.",
+  "datePublished": "2026-08-19"
+}

@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When is it Time to Replace Your Shower?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Showers are workhorses in our homes, but like anything else, they don't last forever. So, how do you know when it's time to stop patching things up and consider a full shower replacement? A clear sign is persistent leaks that just won't quit, even after multiple repairs. These leaks can lead to water damage in your walls, floors, and even cause mold growth, which is a major health concern. Another big indicator is visible damage like extensive cracking, deep chips, or significant discoloration that makes your shower look perpetually dirty. If your shower enclosure or tiles are perpetually growing mildew or mold despite regular cleaning, it might be due to failing grout or poor ventilation, making replacement a healthier choice. Functionality issues, such as constantly fluctuating water temperatures or low water pressure, can sometimes point to deeper plumbing problems that might be best addressed during a replacement. Lastly, if your shower is just plain old and doesn't meet your current needs for accessibility or modern aesthetics, a replacement can dramatically improve your bathroom's look and value. Our team at Alpha-Plumbing Services specializes in shower replacement, offering expert advice and quality workmanship for homeowners across Goodyear, Peoria, Glendale, and the entire West Valley. If you're tired of your current shower woes, let's talk about an upgrade! Contact us today at 623-734-7465.",
+  "datePublished": "2026-08-19"
+}

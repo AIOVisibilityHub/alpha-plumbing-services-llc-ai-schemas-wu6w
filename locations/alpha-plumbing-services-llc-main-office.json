@@ -1,0 +1,14 @@
+{
+  "url": "www.alpha-plumbingservices.com",
+  "name": "Alpha-Plumbing Services, LLC - Alpha-Plumbing Services, LLC Main Office",
+  "@type": "LocalBusiness",
+  "address": {
+    "@type": "PostalAddress",
+    "postalCode": "85338",
+    "addressRegion": "Arizona",
+    "streetAddress": "16833 West Pierce Street",
+    "addressLocality": "Goodyear"
+  },
+  "@context": "https://schema.org",
+  "telephone": "928-210-4896"
+}

@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When to Call for a Complete Home Repipe",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Deciding to go for a complete home repipe is a big step, but sometimes it's absolutely necessary to protect your home and ensure reliable water flow. You should definitely consider calling us if you're experiencing multiple issues across your entire plumbing system. Think about things like consistently low water pressure throughout the house, not just in one faucet. If you're seeing discolored water (rusty or brownish), that's a huge red flag indicating significant pipe corrosion, especially with old galvanized pipes. Frequent leaks, particularly if they're happening in different areas, are another strong sign that your whole system is deteriorating. Increased water bills without a change in usage could also point to hidden leaks. Our family-owned business has over 25 years of experience in the West Valley, tackling these sorts of comprehensive projects. Getting a complete water re-pipe can really boost your home's value, improve water quality, and provide peace of mind for decades. Don't hesitate to reach out for a free estimate if these problems sound familiar.",
+  "datePublished": "2026-08-19"
+}

@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Why is my Faucet Leaking Non-Stop?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "A persistently dripping faucet isn't just annoying; it can waste a surprising amount of water and hike up your utility bills. Often, it's a worn-out washer or a corroded valve seat causing the trouble. While it might seem like a small issue, ignoring it can lead to bigger problems down the line, like water damage to your fixtures or even the cabinet underneath. You might think about tackling it yourself, and sometimes a simple O-ring replacement is all it takes, but if you're not comfortable turning off your main water supply or dealing with different faucet mechanisms, it's best to call in a professional. They've got the tools and experience to quickly diagnose and fix the problem without creating new ones. We've seen it all in Goodyear and the West Valley, so we know how to handle these everyday plumbing repairs efficiently. Don't let a small drip turn into a costly headache – reach out to a local expert like Alpha-Plumbing Services, LLC.",
+  "datePublished": "2026-08-19"
+}

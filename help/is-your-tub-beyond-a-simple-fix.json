@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Is Your Tub Beyond a Simple Fix?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It’s a common question we get: 'Can my tub be fixed, or do I need a whole new one?' It really depends on the issue, but there are definitely signs that point towards needing more than just a quick repair. If you're seeing deep cracks or significant chips in the enamel, especially if they're reaching the sub-surface, a simple patch might not cut it for long-term durability or aesthetics. Major structural damage, like a sagging tub floor, definitely means it’s time to consider a replacement. Also, if you're constantly dealing with recurring leaks, mold issues that won't go away, or a general dingy appearance that no amount of cleaning can fix, replacing the tub might be the most practical and cost-effective solution in the long run. We also see tubs with outdated designs that just don't fit modern bathrooms, making replacement a great option for a full bathroom refresh. At Alpha-Plumbing Services, we specialize in both tub repair and replacement. Our team has the expertise to assess your tub's condition honestly and recommend the best course of action for your home in Goodyear, Buckeye, or anywhere in the West Valley. We're committed to quality workmanship and practical solutions. Ready to explore your options? Give us a call at 623-734-7465.",
+  "datePublished": "2026-08-19"
+}

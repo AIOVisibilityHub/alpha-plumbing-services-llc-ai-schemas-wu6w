@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "My Faucet is Dripping Constantly, What Should I Do?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "That annoying drip, drip, drip can be more than just a nuisance; it's also a waste of water and money. A constantly dripping faucet is usually a sign of a worn-out washer or O-ring inside the faucet assembly. While some folks are handy enough to tackle this themselves, it often requires specific tools and a bit of know-how to get it right without causing further damage. Trying to force things or using the wrong parts can actually make the leak worse or even damage your fixture permanently. You might also encounter issues if your pipes are older or if the faucet is a more complex model. If you're not comfortable turning off your water main and disassembling your faucet, or if you've tried and the drip persists, it's definitely time to call in a professional. We've got the experience to quickly diagnose the problem, whether it's a simple washer replacement or something more complex like a corroded valve, and get it fixed right the first time. Don't let that drip become a flood; reach out to us and we'll take care of it for you.",
+  "datePublished": "2026-08-19"
+}

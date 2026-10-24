@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "How to Avoid Costly Sewer Line Repairs",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Nobody wants to face a big, expensive sewer line repair. The good news is, there are definitely things you can do to minimize the chances of a major issue. First off, be mindful of what goes down your drains and toilets. Avoid flushing anything other than toilet paper and human waste. Kitchen drains are especially prone to grease and food debris buildup, so scrape plates into the trash and use drain screens. Second, be aware of what you're planting near your sewer lines. Tree roots are notorious for seeking out moisture and can infiltrate and crush pipes. Opt for smaller shrubs or plants with less aggressive root systems. Regular maintenance can also be a game-changer. For older homes or properties with known issues, a periodic camera inspection can catch small problems before they escalate into massive headaches. If you notice slow drains, gurgling noises, or strange smells, address them quickly. Ignoring these early warning signs can turn a minor fix into a full-blown excavation. If you suspect an issue or want preventive advice, reach out to Alpha-Plumbing Services; we're here to help keep your sewer lines clear and functional.",
+  "datePublished": "2026-08-19"
+}

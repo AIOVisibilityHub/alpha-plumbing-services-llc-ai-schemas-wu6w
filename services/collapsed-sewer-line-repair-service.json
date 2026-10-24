@@ -1,0 +1,81 @@
+{
+  "url": "www.alpha-plumbingservices.com",
+  "name": "collapsed sewer line repair",
+  "@type": "HomeAndConstructionBusiness",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Goodyear"
+  },
+  "@context": "https://schema.org",
+  "provider": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "HomeAndConstructionBusiness",
+    "telephone": "623-734-7465"
+  },
+  "telephone": "623-734-7465",
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "description": "Alpha-Plumbing Services, LLC provides collapsed sewer line repair in Goodyear, Buckeye, Avondale. lpha-Plumbing Services, LLC is a family-owned and operated plumbing company based in Goodyear, Arizona. With more than 25 years of hands-on experience, we provide dependable residential and light-commercial plumbing services throughout Goodyear and the West Valley. Our team handles everything from everyday plumbing repairs, drain cleaning, water-heater replacement, fixture repairs, and sewer issues to slab leaks, water-line replacement, whole-home repiping, gas-line installation, remodel plumbing, and new-construction plumbing. We are committed to honest communication, quality workmanship, and practical solutions that help customers protect their homes and businesses. Arizona ROC #345448.",
+  "serviceType": "collapsed sewer line repair"
+}

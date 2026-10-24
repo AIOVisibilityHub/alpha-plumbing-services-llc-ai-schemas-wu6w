@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Is Your Bathtub Showing its Age?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "We all know that feeling when something in our home just isn't quite right, and sometimes, it's your bathtub trying to tell you it's time for a change. It's not always a dramatic leak or a huge crack; often, it's a gradual decline that signals the need for a tub replacement. For example, if you've got persistent staining that no amount of scrubbing can conquer, that's a big clue. Those yellowed or discolored areas can make your whole bathroom feel dirty, even when it's spotless. Another clear sign is surface damage like chips, cracks, or a rough, abrasive texture. Not only are these unsightly, but they can also harbor bacteria and make cleaning a nightmare. And let's not forget about outdated aesthetics; if your tub screams '1970s avocado green' and you're aiming for a modern spa-like retreat, then replacement is probably on your mind. Sometimes, it's just about wanting a better, more functional space that suits your family's needs. If any of these sound familiar, it's a good idea to consider an upgrade. Thinking about a fresh look? Let's chat about options; connect with Alpha-Plumbing Services, LLC today.",
+  "datePublished": "2026-08-19"
+}

@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When Should You Consider a New Bathtub?",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's easy to overlook your bathtub until a problem crops up, but sometimes the signs are subtle that it's time for an upgrade. Beyond obvious cracks or leaks, there are several indicators that your tub might be ready for retirement. Are you noticing stubborn stains that no amount of scrubbing can remove, making your bathroom feel less than pristine? Or perhaps the surface has become rough and porous, which can be both uncomfortable and a breeding ground for mildew. If your tub is an older model, it might also be showing structural wear, leading to creaking or instability. Don't forget about functionality, either; if your current tub doesn't fit your lifestyle anymore, perhaps you're dreaming of a walk-in shower or a deeper soaking tub. And of course, if you're undertaking a bathroom remodel, a new tub is often a key component to tie the whole design together. Deciding when to replace your tub can boost your home's appeal and your daily comfort. If you're seeing any of these issues, it might be time to talk to a pro. Ready to explore your options? Reach out to Alpha-Plumbing Services, LLC today for a consultation.",
+  "datePublished": "2026-08-19"
+}

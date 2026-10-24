@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "How to Avoid Tub Repair Headaches",
+  "publisher": {
+    "url": "www.alpha-plumbingservices.com",
+    "name": "Alpha-Plumbing Services, LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Goodyear",
+      "@type": "City"
+    },
+    {
+      "name": "Buckeye",
+      "@type": "City"
+    },
+    {
+      "name": "Avondale",
+      "@type": "City"
+    },
+    {
+      "name": "Surprise",
+      "@type": "City"
+    },
+    {
+      "name": "Waddel",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City West ",
+      "@type": "City"
+    },
+    {
+      "name": "Tonapha",
+      "@type": "City"
+    },
+    {
+      "name": "Tolleson",
+      "@type": "City"
+    },
+    {
+      "name": "Peoria",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Young Town",
+      "@type": "City"
+    },
+    {
+      "name": "El Mirage",
+      "@type": "City"
+    },
+    {
+      "name": "Litchfield",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Nobody wants a broken tub, right? They're essential for daily life, and dealing with repairs can be a real headache. But there are definitely some common pitfalls folks fall into that can make a bad situation even worse. Here are a few mistakes to steer clear of if you're trying to tackle tub issues: \n\n1. **Ignoring small leaks:** That tiny drip? It's not going to fix itself. Ignoring it allows water to cause damage and leaks to grow, leading to bigger, costlier repairs. \n2. **Using harsh chemicals:** Aggressive drain cleaners can actually corrode your pipes and damage your tub's finish over time. \n3. **DIYing complex repairs:** While changing a showerhead is easy, major drain blockages or persistent leaks often require specialized tools and expertise to properly diagnose and fix without causing more harm. \n4. **Delaying professional help:** When you’re in over your head, waiting to call a pro often means the problem escalates. \n5. **Not inspecting regularly:** A quick look around your tub for cracks or signs of wear can catch problems early. \n\nFor anything beyond a simple unclog, Alpha-Plumbing Services is here to help. We’ve got over 25 years of experience handling all sorts of tub repairs across Goodyear and the West Valley, ensuring quality workmanship. Don't let a small issue turn into a major project; give us a call at 623-734-7465.",
+  "datePublished": "2026-08-19"
+}
